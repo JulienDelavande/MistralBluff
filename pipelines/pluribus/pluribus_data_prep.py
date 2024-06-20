@@ -7,12 +7,15 @@ from format_hand_into_context_response import format_hand_into_context_response
 from pathlib import Path
 import json
 
+version = 1
+history = "no_history"
 
 DATA_PATH_ABS_PLURIBUS = "data/poker-hand-histories/data/pluribus/"
-PATH_DUMB_JSON = "data/pluribus_data_prepared__v1_no_history.json"
+PATH_DUMB_JSON = f"data/data_prepared/pluribus__v{version}_{history}.json"
 
 data_path_pluribus = Path(__file__).resolve().parents[2] / DATA_PATH_ABS_PLURIBUS
 data_path_pluribus = Path(__file__).resolve().parents[2] / DATA_PATH_ABS_PLURIBUS
+
 
 def pipeline_data_prep_pluribus(no_history=True, player_name='Pluribus'):
     list_context_answers = []
@@ -27,6 +30,7 @@ def pipeline_data_prep_pluribus(no_history=True, player_name='Pluribus'):
                 list_context_answers.append(format_hand_into_context_response(hand_stop_on_action_list[i], rest_of_action_list[i], player_idx))
 
     return list_context_answers
+
 
 if __name__ == "__main__":
     #dumb json
