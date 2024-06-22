@@ -1,3 +1,11 @@
+def is_float(s):
+    try:
+        float(s)
+        return True
+    except ValueError:
+        return False
+    
+
 def parse_hand(hand_path):
     hand = {}
     with open(hand_path, 'r') as f:
@@ -17,8 +25,8 @@ def parse_hand(hand_path):
             # List
             elif value.startswith('['):
                 value = value[1:-1].split(', ')
-                if value[0].isdigit():
-                    value = [int(v) for v in value]
+                if is_float(value[0]):
+                    value = [float(v) for v in value]
             
             hand[key] = value
             
