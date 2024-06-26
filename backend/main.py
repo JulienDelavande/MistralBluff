@@ -22,6 +22,16 @@ def predict(hand_input: PokerGame):
     print(hand_input)
     try:
         result = llm_infer(hand_input, SETTINGS)
-        return {"response mistral": result}
+        return {"response": result}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@app.post("/predict_test")
+def predict(hand_input: PokerGame):
+    print(hand_input)
+    try:
+        result = hand_input
+        return {"response": result}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+

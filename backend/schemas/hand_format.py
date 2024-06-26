@@ -9,7 +9,7 @@ class DealedCards(BaseModel):
 class Actions(BaseModel):
     players: List[str]
     actions: List[str]
-    value: List[Optional[int]]
+    value: List[Optional[float]]
 
 class GameActions(BaseModel):
     pre_flop: Actions
@@ -25,7 +25,7 @@ class PokerGame(BaseModel):
     big_blind: float
     min_bet: float
     players: List[str]
-    starting_stacks: List[int]
+    starting_stacks: List[float]
     players_seats: List[int]
     button_seat: int
     player_small_blind: str
