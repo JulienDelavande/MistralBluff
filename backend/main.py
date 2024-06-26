@@ -1,13 +1,16 @@
 from fastapi import FastAPI
 from fastapi.exceptions import HTTPException
-#from services.inference import llm_infer
 from schemas.hand_format import PokerGame
+from dotenv import load_dotenv
+from services.inference import llm_infer
+import os
 
 app = FastAPI()
 
+load_dotenv()
 SETTINGS = {
-    "model_path": "/home/avakili/finetuning/output/outpok1/final_output",
-    "format" : "poker_dataset_v1",
+    "mistral_api_key": os.getenv("MISTRAL_API_KEY"),
+    'mistral_job_id': os.getenv("MISTRAL_JOB_ID"),
 }
 
 @app.get("/")
@@ -18,8 +21,7 @@ def read_root():
 def predict(hand_input: PokerGame):
     print(hand_input)
     try:
-        #result = llm_infer(hand_input, SETTINGS)
-        result = hand_input
-        return {"result": result}
+        result = llm_infer(hand_input, SETTINGS)
+        return {"response mistral": result}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

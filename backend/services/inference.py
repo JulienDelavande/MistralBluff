@@ -1,62 +1,28 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
-import os
-
-import torch
-
-from pipelines.poker_dataset.format_dataset_to_struct import format_dataset_to_struct
 from pipelines.poker_dataset.struct_to_format_llm import struct_to_format_llm
-
-# Définir l'appareil (GPU ou CPU)
-os.environ["CUDA_VISIBLE_DEVICES"] = "2nvtop"
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-# Variables globales pour le modèle et le tokenizer
-model = None
-tokenizer = None
-
-def load_model(settings):
-    global model, tokenizer
-    model_path = settings["model_path"]
-    model = AutoModelForCausalLM.from_pretrained(model_path).to(device)
-    tokenizer = AutoTokenizer.from_pretrained(model_path)
-
-def get_model():
-    global model, tokenizer
-    if model is None or tokenizer is None:
-        load_model()
-    return model, tokenizer
+from mistralai.client import MistralClient
+from mistralai.models.chat_completion import ChatMessage
 
 def llm_infer(hand_input, settings):
     """
-    Perform inference with LLM model
+    Perform inference with Mistral API
     """
-    global model, tokenizer
-    model, tokenizer = get_model()
-    
-    format = settings["format"]
 
-    # Format input to match model requirements
+    mistral_api_key = settings["mistral_api_key"]
+    mistral_job_id = settings["mistral_job_id"]
+
+    client = MistralClient(api_key=mistral_api_key)
+
+    # Format input to match API requirements
     hand_struct = hand_input
     hand_format = struct_to_format_llm(hand_struct)
 
-    # Tokenize input
-    input_ids = tokenizer.encode(hand_format, return_tensors="pt").to(device)
+    job = client.jobs.retrieve(mistral_job_id)
 
-    # Generate text
-    max_length = 1000
-    num_return_sequences = 1
-    output = model.generate(
-        input_ids,
-        max_length=max_length,
-        num_return_sequences=num_return_sequences,
-        temperature=0.7,
-        top_k=50,
-        top_p=0.95,
-        do_sample=True,
-        pad_token_id=tokenizer.eos_token_id,
+    chat_response = client.chat(
+        model=job.fine_tuned_model,
+        messages=[ChatMessage(role="user", content=hand_format)],
     )
 
-    # Decode output
-    output_text = tokenizer.decode(output[0], skip_special_tokens=True)
+    return chat_response.messages[0].content
 
-    return output_text
+
