@@ -7,26 +7,15 @@ def llm_infer(hand_input, settings):
     Perform inference with Mistral API
     """
 
-    mistral_api_key = settings["mistral_api_key"]
-    mistral_job_id = settings["mistral_job_id"]
+    job = settings["job"]
+    client = settings["client"]
 
-    client = MistralClient(api_key=mistral_api_key)
 
     # Format input to match API requirements
     hand_struct = hand_input.dict()
-    print("hello")
-    player = hand_struct["player"]
-    print(f"Player: {player}")
-    
-    try :
-        hand_format = struct_to_format_llm(hand_struct)
-    except Exception as e:
-        print(e)
-        return str(e)
-    print(f"Hand format: {hand_format}")
+    hand_format = struct_to_format_llm(hand_struct)
 
-    job = client.jobs.retrieve(mistral_job_id)
-    print(f"Job: {job}")
+    print(f"Hand format: {hand_format}")
 
     chat_response = client.chat(
         model=job.fine_tuned_model,
@@ -34,6 +23,6 @@ def llm_infer(hand_input, settings):
     )
     print(f"Chat response: {chat_response}")
 
-    return chat_response.messages[0].content
+    return chat_response.choices[0].message.content, hand_format
 
 

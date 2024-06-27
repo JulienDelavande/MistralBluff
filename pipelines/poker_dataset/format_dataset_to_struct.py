@@ -139,18 +139,73 @@ def format_dataset_to_struct(hand_txt, player_name='IlxxxlI'):
 
 
 if __name__ == "__main__":
-    PATH_DATA = Path(__file__).resolve().parents[2] / "data" / "poker_dataset" / "Export Holdem Manager 2.0 12292016131233.txt"
-    print(PATH_DATA)
-    hand = []
-    
-    with open(PATH_DATA, 'r') as f:
-        hands_txt = f.read()
-        hands_txt_list = hands_txt.split("\n\n")
-        print(f"last file: {hands_txt_list[-1]}")
-        for i in range(len(hands_txt_list) -1):
-            if "PokerStars" in hands_txt_list[i]:
-                continue
-            hand.append(format_dataset_to_struct(hands_txt_list[i]))
+    non_struct_hand = """Game started at: 2016/9/4 1:51:48
+Game ID: 718931171 2/4 (PRR) Monopod (Short) - 2 (Hold'em)
+Seat 7 is the button
+Seat 1: BIGRAISE (174.47).
+Seat 3: cracypoker (231.55).
+Seat 5: bjv1105 (522.98).
+Seat 6: IlxxxlI (80).
+Seat 7: WalterBlack (125).
+Seat 8: TheFront7 (265.95).
+Player TheFront7 has small blind (2)
+Player BIGRAISE has big blind (4)
+Player TheFront7 received a card.
+Player TheFront7 received a card.
+Player BIGRAISE received a card.
+Player BIGRAISE received a card.
+Player cracypoker received a card.
+Player cracypoker received a card.
+Player bjv1105 received a card.
+Player bjv1105 received a card.
+Player IlxxxlI received card: [6c]
+Player IlxxxlI received card: [8h]
+Player WalterBlack received a card.
+Player WalterBlack received a card.
+Player cracypoker folds
+Player bjv1105 folds
+Player IlxxxlI folds
+Player WalterBlack calls (4)
+Player TheFront7 folds
+Player BIGRAISE checks
+*** FLOP ***: [10s Ac Ad]
+Player BIGRAISE checks
+Player WalterBlack bets (4)
+Player BIGRAISE calls (4)
+*** TURN ***: [10s Ac Ad] [4s]
+Player BIGRAISE checks
+Player WalterBlack bets (4)
+Player BIGRAISE calls (4)
+*** RIVER ***: [10s Ac Ad 4s] [2c]
+Player BIGRAISE checks
+Player WalterBlack checks
+------ Summary ------
+Pot: 25.75. Rake 0.17. JP fee 0.08
+Board: [10s Ac Ad 4s 2c]
+*Player BIGRAISE shows: Three Of Kind of As [As 3h]. Bets: 12. Collects: 25.75. Wins: 13.75.
+Player cracypoker does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player bjv1105 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player IlxxxlI does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player WalterBlack shows: Two pairs. As and 9s [9h 9s]. Bets: 12. Collects: 0. Loses: 12.
+Player TheFront7 does not show cards.Bets: 2. Collects: 0. Loses: 2.
+Game ended at: 2016/9/4 1:53:2"""
 
-    print(hand)
+    hand_format = format_dataset_to_struct(non_struct_hand)
+
+    print(hand_format)
+
+    # PATH_DATA = Path(__file__).resolve().parents[2] / "data" / "poker_dataset" / "Export Holdem Manager 2.0 12292016131233.txt"
+    # print(PATH_DATA)
+    # hand = []
+    
+    # with open(PATH_DATA, 'r') as f:
+    #     hands_txt = f.read()
+    #     hands_txt_list = hands_txt.split("\n\n")
+    #     print(f"last file: {hands_txt_list[-1]}")
+    #     for i in range(len(hands_txt_list) -1):
+    #         if "PokerStars" in hands_txt_list[i]:
+    #             continue
+    #         hand.append(format_dataset_to_struct(hands_txt_list[i]))
+
+    # print(hand)
         

@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 load_dotenv()
 BACKEND_URL = os.getenv("BACKEND_URL")
 
-
 # Definition of default parameters
 blinds_options = ["Big Blind", "Small Blind", "None"]
 
@@ -65,7 +64,7 @@ with st.sidebar.form("Cartes du joueur"):
 
 if submit_button_player:
     try:
-        player_card = [cards_hand_input.split(", ")]
+        player_card = cards_hand_input.split(", ")
         st.session_state.update(player_card=player_card)
         st.write("Hand cards updated")
     except Exception as e:
@@ -117,11 +116,12 @@ actions = st.session_state["actions"]  # Use session state to store actions
 
 # Title
 st.title("Enregistrement des actions des joueurs")
-preflop_cb_col, postflop_cb_col, postturn_cb_col, postriver_cb_col = st.columns(4)
+preflop_cb_col, postflop_cb_col, postturn_cb_col, postriver_cb_col, current_street = st.columns(5)
 pre_flop_cb = preflop_cb_col.checkbox("pre_flop")
 post_flop_cb = postflop_cb_col.checkbox("post_flop")
 post_turn_cb = postturn_cb_col.checkbox("post_turn")
 post_river_cb = postriver_cb_col.checkbox("post_river")
+current_street = current_street.selectbox("Current street", ["pre_flop", "flop", "turn", "river"])
 turn_cb_list = [pre_flop_cb, post_flop_cb, post_turn_cb, post_river_cb]
 
 dfs = {'pre_flop' : pd.DataFrame({
@@ -197,7 +197,7 @@ for cb_value, street in zip(turn_cb_list, actions.keys()):
             }
             st.session_state.update(actions=new_actions)
 
-if st.button("display actions"):
+if st.sidebar.button("display actions terminal"):
     print(f"actions = {actions}\n")
 
 
@@ -218,6 +218,7 @@ data = {
     "player": player,
     "cards_player": st.session_state["player_card"],
     "dealed_cards": st.session_state["dealt_cards"],
+    "current_street": current_street,
     "actions": st.session_state["actions"],
     "winners": [],
     "finishing_stacks": [],
@@ -226,17 +227,24 @@ data = {
 
 st.title("Poker Game Submission")
 
-if st.button("Submit Game"):
+col_submit, col_display_json = st.columns(2)
+
+
+if "response" not in st.session_state:
+    st.session_state["response"] = ""
+if col_submit.button("Submit Game"):
     response = requests.post(f"{BACKEND_URL}/predict/", json=data)
-    st.write(response.json())
+    st.session_state["response"] = response.json()
+
+col_submit.write(st.session_state["response"])
                                             
 
 ### Generate prompt
-if st.button("Generate Json file"):
+if col_display_json.checkbox("Display Json file"):
     # Affichage du JSON dans Streamlit
-    st.json(data)
+    col_display_json.json(data)
 
-reset_button = st.button("Reset Game")
+reset_button = st.sidebar.button("Reset Game")
 
 if reset_button:
     # Reset session state variables
