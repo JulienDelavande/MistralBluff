@@ -1,6 +1,7 @@
 
 **/poker-hand-histories/
 data/data_prepared/*.json
+*.jsonl
 
 
 
@@ -12,6 +13,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.csv
 
 # Distribution / packaging
 .Python
@@ -130,6 +132,7 @@ celerybeat.pid
 
 # Environments
 .env
+
 .venv
 env/
 venv/
