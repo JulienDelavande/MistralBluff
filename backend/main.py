@@ -4,14 +4,23 @@ from schemas.hand_format import PokerGame
 from dotenv import load_dotenv
 from services.inference import llm_infer
 import os
+from mistralai.client import MistralClient
 
 app = FastAPI()
 
 load_dotenv()
+mistral_api_key = os.getenv("MISTRAL_API_KEY")
+mistral_job_id = os.getenv("MISTRAL_JOB_ID")
+
+client = MistralClient(api_key=mistral_api_key)
+job = client.jobs.retrieve(mistral_job_id)
+
 SETTINGS = {
-    "mistral_api_key": os.getenv("MISTRAL_API_KEY"),
-    'mistral_job_id': os.getenv("MISTRAL_JOB_ID"),
+    "client": client,
+    "job": job
 }
+
+
 
 @app.get("/")
 def read_root():
@@ -30,8 +39,10 @@ def predict(hand_input: PokerGame):
 def predict(hand_input: PokerGame):
     print(hand_input)
     try:
-        result = hand_input
-        return {"response": result}
+        result, hand_format_llm = hand_input
+        return {"response": result,
+                "input": hand_format_llm}
     except Exception as e:
+        print(e)
         raise HTTPException(status_code=500, detail=str(e))
 
