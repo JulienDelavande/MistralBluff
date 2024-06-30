@@ -24,6 +24,11 @@ First, ensure you have the necessary dependencies installed:
 pip install -r requirements.txt
 ```
 
+Create a .env file at the root with these variables:
+MISTRAL_API_KEY=<your_mistral_api_key>
+MISTRAL_JOB_ID=<finetuned_model_id>
+URL_BACKEND=<url_of_the_backend>
+
 ## Project Structure
 
 The project is organized into the following directories:
