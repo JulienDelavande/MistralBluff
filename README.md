@@ -25,9 +25,8 @@ pip install -r requirements.txt
 ```
 
 Create a .env file at the root with these variables:
-MISTRAL_API_KEY=<your_mistral_api_key>
-MISTRAL_JOB_ID=<finetuned_model_id>
-URL_BACKEND=<url_of_the_backend>
+MISTRAL_API_KEY=<your_mistral_api_key> MISTRAL_JOB_ID='2cad6ef8-34b8-4e20-9431-db9ccccb0f1d' 
+BACKEND_URL="http://127.0.0.1:8000"
 
 ## Project Structure
 
