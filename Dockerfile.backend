@@ -1,0 +1,16 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+COPY /backend .
+COPY /pipelines ./pipelines
+COPY setup.py .
+
+RUN pip install -r requirements.txt
+RUN pip install .
+
+EXPOSE 8051
+
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8051"]
+
+# uvicorn main:app --port 8051

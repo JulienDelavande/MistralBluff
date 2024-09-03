@@ -2,9 +2,8 @@ import streamlit as st
 import pandas as pd
 import requests
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
+
 BACKEND_URL = os.getenv("BACKEND_URL")
 
 # Definition of default parameters
