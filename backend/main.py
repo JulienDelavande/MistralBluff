@@ -1,26 +1,25 @@
 from fastapi import FastAPI
 from fastapi.exceptions import HTTPException
 from schemas.hand_format import PokerGame
-from dotenv import load_dotenv
 from services.inference import llm_infer
 import os
-from mistralai.client import MistralClient
+from mistralai import Mistral
 
-app = FastAPI()
-
-load_dotenv()
 mistral_api_key = os.getenv("MISTRAL_API_KEY")
 mistral_job_id = os.getenv("MISTRAL_JOB_ID")
 
-client = MistralClient(api_key=mistral_api_key)
-job = client.jobs.retrieve(mistral_job_id)
+app = FastAPI()
+
+print(f"API key is: {mistral_api_key}")
+print(f"Job ID is: {mistral_job_id}")
+
+client = Mistral(api_key=mistral_api_key)
+job = client.fine_tuning.jobs.get(job_id = mistral_job_id)
 
 SETTINGS = {
     "client": client,
     "job": job
 }
-
-
 
 @app.get("/")
 def read_root():
