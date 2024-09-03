@@ -1,0 +1,25 @@
+services:
+  frontend:
+    build:
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "8050:8050"
+    env_file:
+      - .env
+    networks:
+      - mistral-bluff-network
+
+  backend:
+    build:
+      dockerfile: Dockerfile.backend
+    ports:
+      - "8051:8051"
+    env_file:
+      - .env
+    networks:
+      - mistral-bluff-network
+    #command: tail -f /dev/null
+
+networks:
+  mistral-bluff-network:
+    driver: bridge
