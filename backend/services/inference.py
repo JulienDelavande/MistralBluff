@@ -1,6 +1,4 @@
 from pipelines.poker_dataset.struct_to_format_llm import struct_to_format_llm
-from mistralai.client import MistralClient
-from mistralai.models.chat_completion import ChatMessage
 
 def llm_infer(hand_input, settings):
     """
@@ -17,10 +15,16 @@ def llm_infer(hand_input, settings):
 
     print(f"Hand format: {hand_format}")
 
-    chat_response = client.chat(
+    chat_response = client.chat.complete(
         model=job.fine_tuned_model,
-        messages=[ChatMessage(role="user", content=hand_format)],
+        messages = [
+        {
+            "role": "user",
+            "content":hand_format,
+        },
+    ]
     )
+
     print(f"Chat response: {chat_response}")
 
     return chat_response.choices[0].message.content, hand_format
