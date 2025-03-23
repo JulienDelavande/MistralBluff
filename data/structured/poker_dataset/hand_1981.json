@@ -1,0 +1,143 @@
+{
+    "date": "2016/11/28 19:28:19",
+    "game_id": "786361848",
+    "variant": "PRR",
+    "table_name": "Garuda-3",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "6betThreat",
+        "in_ur_i",
+        "legenda99",
+        "flyzlcomb07",
+        "allaebalaamballa",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        32.69,
+        78.37,
+        108.07,
+        103.13,
+        20.0,
+        20.0
+    ],
+    "player_small_blind": "flyzlcomb07",
+    "small_blind": 0.25,
+    "player_big_blind": "allaebalaamballa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "6c",
+            "Qh"
+        ],
+        "turn": [
+            "Jh"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "6betThreat",
+                "in_ur_i",
+                "legenda99",
+                "flyzlcomb07",
+                "allaebalaamballa"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "flyzlcomb07",
+                "in_ur_i",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.66,
+                1.66
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "flyzlcomb07",
+                "in_ur_i"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "flyzlcomb07",
+                "in_ur_i"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.32,
+                4.32
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "9s Qs",
+        null,
+        "3c 3d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        32.69,
+        85.58,
+        108.07,
+        95.64999999999999,
+        19.5,
+        20.0
+    ]
+}

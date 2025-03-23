@@ -1,0 +1,111 @@
+{
+    "date": "2016/11/29 8:27:59",
+    "game_id": "786748409",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "PANDAisEVIL",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3
+    ],
+    "starting_stacks": [
+        295.31,
+        80.0
+    ],
+    "player_small_blind": "PANDAisEVIL",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "3s",
+            "Ac"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PANDAisEVIL",
+                "IlxxxlI",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                10.15,
+                7.15
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.93,
+                7.93
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                32.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null
+    ],
+    "finishing_stack": [
+        275.23,
+        99.58
+    ]
+}

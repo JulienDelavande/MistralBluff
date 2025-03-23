@@ -1,0 +1,139 @@
+{
+    "date": "2016/11/29 13:19:29",
+    "game_id": "786974310",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "WeakAndWeary",
+        "foreseen",
+        "IlxxxlI",
+        "Beep_Beep"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        50.0,
+        159.76,
+        20.0,
+        68.98
+    ],
+    "player_small_blind": "Beep_Beep",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "Ks",
+            "8d"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "foreseen",
+                "IlxxxlI",
+                "Beep_Beep",
+                "WeakAndWeary",
+                "IlxxxlI",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.25,
+                1.25,
+                1.25,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Beep_Beep",
+                "WeakAndWeary",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Beep_Beep",
+                "WeakAndWeary",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Beep_Beep",
+                "WeakAndWeary",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ah Qh",
+        null,
+        "5c 7c",
+        null
+    ],
+    "finishing_stack": [
+        53.24,
+        159.76,
+        18.25,
+        67.23
+    ]
+}

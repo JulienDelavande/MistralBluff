@@ -1,0 +1,158 @@
+{
+    "date": "2016/11/29 15:11:25",
+    "game_id": "787022860",
+    "variant": "PRR",
+    "table_name": "Gorgons-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "Maria_Pia",
+        "foreseen",
+        "aleks0v",
+        "Beep_Beep",
+        "LawMaker20"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        20.0,
+        56.98,
+        50.0,
+        71.0,
+        23.33
+    ],
+    "player_small_blind": "Maria_Pia",
+    "small_blind": 0.25,
+    "player_big_blind": "foreseen",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "4s",
+            "8c"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aleks0v",
+                "Beep_Beep",
+                "LawMaker20",
+                "IlxxxlI",
+                "Maria_Pia",
+                "foreseen"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Maria_Pia",
+                "foreseen",
+                "LawMaker20",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Maria_Pia",
+                "foreseen",
+                "LawMaker20",
+                "Maria_Pia",
+                "foreseen",
+                "LawMaker20"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.14,
+                null,
+                7.85,
+                5.71
+            ]
+        },
+        "post-river": {
+            "players": [
+                "foreseen",
+                "LawMaker20"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.59,
+                9.59
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "2h 3s",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.0,
+        18.5,
+        75.46,
+        50.0,
+        71.0,
+        4.389999999999997
+    ]
+}

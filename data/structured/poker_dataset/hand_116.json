@@ -1,0 +1,141 @@
+{
+    "date": "2016/11/29 15:3:52",
+    "game_id": "787020250",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "jjeannin1",
+        "trader063",
+        "Parcker",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        38.02,
+        33.12,
+        84.2,
+        81.82
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "jjeannin1",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "Jd",
+            "Kd"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "trader063",
+                "Parcker",
+                "Jui Kuen",
+                "IlxxxlI",
+                "jjeannin1"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jjeannin1",
+                "trader063"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "jjeannin1",
+                "trader063",
+                "jjeannin1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.79,
+                0.79
+            ]
+        },
+        "post-river": {
+            "players": [
+                "jjeannin1",
+                "trader063",
+                "jjeannin1",
+                "trader063"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.79,
+                3.58,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        19.75,
+        41.03,
+        30.04,
+        84.2,
+        81.82
+    ]
+}

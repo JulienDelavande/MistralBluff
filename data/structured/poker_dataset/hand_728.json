@@ -1,0 +1,127 @@
+{
+    "date": "2016/11/29 13:9:41",
+    "game_id": "786968612",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "WeakAndWeary",
+        "MadLifeGrinder",
+        "LloydXmas",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        127.16,
+        100.0,
+        131.37,
+        49.53
+    ],
+    "player_small_blind": "LloydXmas",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "Ad",
+            "7d"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "MadLifeGrinder",
+                "LloydXmas",
+                "IlxxxlI",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                9.5,
+                null,
+                7.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "LloydXmas",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.98,
+                9.98
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "LloydXmas",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                19.48,
+                19.48
+            ]
+        },
+        "post-river": {
+            "players": [
+                "LloydXmas",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                91.91,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        127.16,
+        60.54,
+        169.82999999999998,
+        48.53
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "date": "2016/11/29 11:30:30",
+    "game_id": "786900627",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "Maria_Pia",
+        "IlxxxlI",
+        "beachrog",
+        "annaroyer",
+        "imperceptible",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        11.52,
+        35.06,
+        10.0,
+        19.3,
+        41.84
+    ],
+    "player_small_blind": "beachrog",
+    "small_blind": 0.25,
+    "player_big_blind": "annaroyer",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "Js",
+            "7s"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "imperceptible",
+                "Parcker",
+                "Maria_Pia",
+                "IlxxxlI",
+                "beachrog",
+                "annaroyer",
+                "Maria_Pia",
+                "beachrog"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.05,
+                null,
+                0.8,
+                1.1,
+                0.55,
+                0.55
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "beachrog",
+                "annaroyer",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "beachrog",
+                "annaroyer",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                3.04,
+                3.04,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "beachrog",
+                "annaroyer"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.89,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        18.4,
+        11.52,
+        40.760000000000005,
+        5.36,
+        19.3,
+        41.84
+    ]
+}

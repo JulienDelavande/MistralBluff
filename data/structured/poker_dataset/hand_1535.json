@@ -1,0 +1,143 @@
+{
+    "date": "2016/11/29 7:39:49",
+    "game_id": "786708069",
+    "variant": "PRR",
+    "table_name": "Lakhey",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "wethco",
+        "plin777",
+        "BigBlat",
+        "dbrinker",
+        "coldkilla",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        149.67,
+        95.35,
+        104.87,
+        282.85,
+        116.6,
+        80.0
+    ],
+    "player_small_blind": "BigBlat",
+    "small_blind": 1.0,
+    "player_big_blind": "dbrinker",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "4c",
+            "9h"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "coldkilla",
+                "IlxxxlI",
+                "wethco",
+                "plin777",
+                "BigBlat",
+                "dbrinker"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                null,
+                4.0,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "coldkilla",
+                "wethco",
+                "coldkilla"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.48,
+                3.48
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "coldkilla",
+                "wethco"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.53,
+                8.53
+            ]
+        },
+        "post-river": {
+            "players": [
+                "coldkilla",
+                "wethco"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10d 9d",
+        null,
+        null,
+        null,
+        "Jc Kh",
+        null
+    ],
+    "finishing_stack": [
+        166.93,
+        95.35,
+        103.87,
+        280.85,
+        100.58999999999999,
+        80.0
+    ]
+}

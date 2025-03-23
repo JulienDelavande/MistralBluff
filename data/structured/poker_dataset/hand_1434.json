@@ -1,0 +1,127 @@
+{
+    "date": "2016/11/29 8:5:7",
+    "game_id": "786727329",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 1,
+    "players": [
+        "thethinmanlb",
+        "St3p04ka",
+        "IlxxxlI",
+        "Qrenor",
+        "badboy85"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        78.97,
+        64.19,
+        24.5,
+        73.1,
+        102.78
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "9s",
+            "6d"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Qrenor",
+                "badboy85",
+                "thethinmanlb",
+                "St3p04ka",
+                "IlxxxlI",
+                "thethinmanlb"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                8.5,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "St3p04ka",
+                "thethinmanlb"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.83,
+                7.83
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "St3p04ka",
+                "thethinmanlb",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                62.14,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        95.07,
+        47.36,
+        23.5,
+        73.1,
+        102.78
+    ]
+}

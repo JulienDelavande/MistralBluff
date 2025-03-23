@@ -1,0 +1,141 @@
+{
+    "date": "2016/11/29 14:44:26",
+    "game_id": "787013185",
+    "variant": "PRR",
+    "table_name": "Lakhey-2",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "uncle_argyle",
+        "IlxxxlI",
+        "gust",
+        "joonjoonjoon",
+        "VegetablesArentYummy",
+        "JoeRockwell"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        137.87,
+        80.0,
+        87.91,
+        209.25,
+        407.34,
+        338.47
+    ],
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
+    "player_big_blind": "JoeRockwell",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "9s",
+            "8d"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "uncle_argyle",
+                "IlxxxlI",
+                "gust",
+                "joonjoonjoon",
+                "VegetablesArentYummy",
+                "JoeRockwell"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                5.3,
+                null,
+                5.3,
+                null,
+                null,
+                3.3
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JoeRockwell",
+                "uncle_argyle",
+                "gust",
+                "JoeRockwell",
+                "uncle_argyle"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                10.7,
+                null,
+                10.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "uncle_argyle",
+                "gust",
+                "uncle_argyle"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                24.26,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        121.87,
+        80.0,
+        108.3,
+        209.25,
+        406.34,
+        333.17
+    ]
+}

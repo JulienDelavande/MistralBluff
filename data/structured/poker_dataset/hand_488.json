@@ -1,0 +1,111 @@
+{
+    "date": "2016/11/29 14:14:42",
+    "game_id": "787000545",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Sephiroth1",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        5
+    ],
+    "starting_stacks": [
+        103.61,
+        40.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Sephiroth1",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "5s",
+            "Qs"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Sephiroth1"
+            ],
+            "actions": [
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Sephiroth1",
+                "IlxxxlI",
+                "Sephiroth1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Sephiroth1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Sephiroth1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "3s 9h",
+        "2d Jd"
+    ],
+    "finishing_stack": [
+        105.41,
+        38.0
+    ]
+}

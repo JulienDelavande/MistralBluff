@@ -1,0 +1,143 @@
+{
+    "date": "2016/11/29 13:13:10",
+    "game_id": "786970673",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "foreseen",
+        "IlxxxlI",
+        "Beep_Beep",
+        "yigbn1",
+        "xROCKETMANx"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        161.51,
+        20.0,
+        50.0,
+        63.92,
+        56.01
+    ],
+    "player_small_blind": "foreseen",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "4h",
+            "7d"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Beep_Beep",
+                "yigbn1",
+                "xROCKETMANx",
+                "WeakAndWeary",
+                "foreseen",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "foreseen",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "foreseen",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "foreseen",
+                "IlxxxlI",
+                "foreseen"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        160.51,
+        20.9,
+        50.0,
+        63.92,
+        56.01
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/11/29 12:48:45",
+    "game_id": "786957354",
+    "variant": "PRR",
+    "table_name": "Kraken-8",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "MadLifeGrinder",
+        "IlxxxlI",
+        "lordboroda",
+        "rook_",
+        "LloydXmas",
+        "quant_theo"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        59.17,
+        112.6,
+        143.46,
+        100.0,
+        100.0
+    ],
+    "player_small_blind": "LloydXmas",
+    "small_blind": 0.5,
+    "player_big_blind": "quant_theo",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "7h",
+            "9c"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "IlxxxlI",
+                "lordboroda",
+                "rook_",
+                "LloydXmas",
+                "quant_theo",
+                "rook_"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                null,
+                3.0,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "quant_theo",
+                "rook_"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                5.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "quant_theo",
+                "rook_",
+                "quant_theo"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        59.17,
+        112.6,
+        152.04000000000002,
+        99.5,
+        91.0
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/11/29 11:41:0",
+    "game_id": "786908815",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "Maria_Pia",
+        "IlxxxlI",
+        "beachrog",
+        "MEDSat420ish",
+        "imperceptible",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.49,
+        10.0,
+        25.71,
+        24.25,
+        34.05,
+        39.09
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.25,
+    "player_big_blind": "Maria_Pia",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "2c",
+            "9h"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "beachrog",
+                "MEDSat420ish",
+                "imperceptible",
+                "Parcker",
+                "Maria_Pia",
+                "beachrog"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                null,
+                null,
+                5.75,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Parcker",
+                "beachrog"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.96,
+                3.96
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Parcker",
+                "beachrog",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.93,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        22.99,
+        10.0,
+        35.15,
+        24.25,
+        34.05,
+        29.130000000000003
+    ]
+}

@@ -1,11 +1,18 @@
-import os
+import json
 from pathlib import Path
 
 def format_dataset_to_struct(hand_txt, player_name='IlxxxlI'):
+    
+    # remove line with 'wait' or 'is timed out'
     hand_txt = hand_txt.split("\n")
+    line_with_wait = [line for line in hand_txt if 'wait' in line]
+    people_to_remove = [line.split("Player ")[1].split(" wait")[0] for line in line_with_wait]
+    
+    hand_txt = [line for line in hand_txt if 'wait' not in line and 'is timed out' not in line and 'mucks cards' not in line and 'posts' not in line and 'straddle' not in line]
+    for people in people_to_remove:
+        hand_txt = [line for line in hand_txt if people not in line]
     hand = {}
 
-    print(hand_txt[1])
     hand['date'] = hand_txt[0].split(": ")[1]
     hand['game_id'] = hand_txt[1].split(": ")[1].split(" ")[0]
     hand['variant'] = hand_txt[1].split("(")[1].split(")")[0]
@@ -22,6 +29,9 @@ def format_dataset_to_struct(hand_txt, player_name='IlxxxlI'):
         if hand_txt[line].split(" ")[0] != "Seat":
             break
         player = hand_txt[line].split(": ")[1].split(" (")[0]
+        if player in people_to_remove:
+            line += 1
+            continue
         seat_nb = int(hand_txt[line].split("Seat ")[1].split(":")[0])
         stack = float(hand_txt[line].split("(")[1].split(")")[0])
         hand['players'].append(player)
@@ -41,7 +51,6 @@ def format_dataset_to_struct(hand_txt, player_name='IlxxxlI'):
             break
         line += 1
     hand['player_big_blind'] = hand_txt[line].split("Player ")[1].split(" has")[0]
-    print(hand_txt[line])
     hand['big_blind'] = float(hand_txt[line].split("(")[1].split(")")[0])
 
     hand['player'] = player_name
@@ -78,7 +87,7 @@ def format_dataset_to_struct(hand_txt, player_name='IlxxxlI'):
         elif "Player" not in hand_txt[line]:
             break
         else:
-            mapping_actions = {"bets": "cbr", "raises": "cbr", "checks": "cc", "folds": "f", "calls": "cc"}
+            mapping_actions = {"bets": "BET", "raises": "RAISE", "checks": "CHECK", "folds": "FOLD", "calls": "CALL", "allin": "ALLIN", "caps": "RAISE"}
             action = None
             # split on action
             for action_ in mapping_actions.keys():
@@ -116,8 +125,6 @@ def format_dataset_to_struct(hand_txt, player_name='IlxxxlI'):
                     player = hand_txt[line].split("Player ")[1].split(keys)[0]
                     break
                 player = hand_txt[line].split("Player ")[1].split(" ")[0]
-
-            #print(player)
             bets = hand_txt[line].split("Bets: ")[1].split(" ")[0]
             bets = bets[:-1] if bets[-1] == '.' else bets
             bets = float(bets)
@@ -194,18 +201,21 @@ Game ended at: 2016/9/4 1:53:2"""
 
     print(hand_format)
 
-    # PATH_DATA = Path(__file__).resolve().parents[2] / "data" / "poker_dataset" / "Export Holdem Manager 2.0 12292016131233.txt"
-    # print(PATH_DATA)
-    # hand = []
+    PATH_DATA = Path(__file__).resolve().parents[2] / "data" / "raw" / "poker_dataset" / "Export Holdem Manager 2.0 12292016131233.txt"
+    PATH_DATA_OUT = Path(__file__).resolve().parents[2] / "data" / "structured" / "poker_dataset" 
+    hand = []
     
-    # with open(PATH_DATA, 'r') as f:
-    #     hands_txt = f.read()
-    #     hands_txt_list = hands_txt.split("\n\n")
-    #     print(f"last file: {hands_txt_list[-1]}")
-    #     for i in range(len(hands_txt_list) -1):
-    #         if "PokerStars" in hands_txt_list[i]:
-    #             continue
+    with open(PATH_DATA, 'r') as f:
+        hands_txt = f.read()
+        hands_txt_list = hands_txt.split("\n\n")
+        print(f"last file: {hands_txt_list[-1]}")
+        for i in range(len(hands_txt_list) -1):
+            if "PokerStars" in hands_txt_list[i]:
+                continue
+            with open(PATH_DATA_OUT / f"hand_{i}.json", 'w') as f:
+                hand = format_dataset_to_struct(hands_txt_list[i])
+                json.dump(hand, f, indent=4)
     #         hand.append(format_dataset_to_struct(hands_txt_list[i]))
 
-    # print(hand)
+    
         

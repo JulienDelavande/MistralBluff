@@ -1,0 +1,155 @@
+{
+    "date": "2016/11/29 13:45:40",
+    "game_id": "786988248",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "flyshark01",
+        "xROCKETMANx",
+        "IlxxxlI",
+        "fishinwithbobbo",
+        "Beep_Beep",
+        "foreseen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        86.45,
+        41.07,
+        20.45,
+        21.36,
+        95.64,
+        56.2
+    ],
+    "player_small_blind": "foreseen",
+    "small_blind": 0.25,
+    "player_big_blind": "flyshark01",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "2d",
+            "7c"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "xROCKETMANx",
+                "IlxxxlI",
+                "fishinwithbobbo",
+                "Beep_Beep",
+                "foreseen",
+                "flyshark01",
+                "fishinwithbobbo",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.5,
+                6.75,
+                null,
+                5.5,
+                5.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "foreseen",
+                "fishinwithbobbo",
+                "Beep_Beep",
+                "foreseen",
+                "fishinwithbobbo"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                7.0,
+                7.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "foreseen",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "foreseen",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                42.2,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        85.95,
+        41.07,
+        20.45,
+        14.36,
+        81.64,
+        75.93
+    ]
+}

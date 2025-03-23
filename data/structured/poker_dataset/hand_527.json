@@ -1,0 +1,152 @@
+{
+    "date": "2016/11/29 13:52:28",
+    "game_id": "786991509",
+    "variant": "PRR",
+    "table_name": "Kraken-20",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "MadLifeGrinder",
+        "AironVega",
+        "WeakAndWeary",
+        "bunnyfox2t",
+        "quant_theo"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        123.45,
+        100.0,
+        115.88,
+        100.0,
+        102.36
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "MadLifeGrinder",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "7h",
+            "Kh"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AironVega",
+                "WeakAndWeary",
+                "bunnyfox2t",
+                "quant_theo",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "quant_theo"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.0,
+                4.5,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "quant_theo",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.0,
+                6.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "quant_theo",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.0,
+                10.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "quant_theo",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                19.0,
+                19.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10h As",
+        null,
+        null,
+        null,
+        null,
+        "7c 2d"
+    ],
+    "finishing_stack": [
+        0.0,
+        122.45,
+        100.0,
+        115.88,
+        100.0,
+        140.36
+    ]
+}

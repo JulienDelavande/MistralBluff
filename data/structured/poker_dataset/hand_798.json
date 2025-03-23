@@ -1,0 +1,165 @@
+{
+    "date": "2016/11/29 13:0:18",
+    "game_id": "786963286",
+    "variant": "PRR",
+    "table_name": "Garuda-4",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "wrongcolorchip",
+        "IlxxxlI",
+        "kid4life",
+        "MortalLock",
+        "GagaPoker",
+        "Spagetti1",
+        "Hakuna_Matata777",
+        "constant revelation"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        155.58,
+        25.02,
+        111.08,
+        50.25,
+        50.0,
+        22.5,
+        93.92,
+        21.42
+    ],
+    "player_small_blind": "MortalLock",
+    "small_blind": 0.25,
+    "player_big_blind": "GagaPoker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "Jd",
+            "3c"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Spagetti1",
+                "Hakuna_Matata777",
+                "constant revelation",
+                "wrongcolorchip",
+                "IlxxxlI",
+                "kid4life",
+                "MortalLock",
+                "GagaPoker"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GagaPoker",
+                "Spagetti1",
+                "IlxxxlI",
+                "GagaPoker",
+                "Spagetti1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Spagetti1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Spagetti1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "8s 8d",
+        null,
+        null,
+        null,
+        "Ah Jh",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        155.58,
+        19.02,
+        111.08,
+        50.0,
+        48.5,
+        29.57,
+        93.92,
+        21.42
+    ]
+}

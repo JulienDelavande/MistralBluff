@@ -1,0 +1,182 @@
+{
+    "date": "2016/11/21 11:37:3",
+    "game_id": "780989555",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Short",
+    "button_seat": 8,
+    "players": [
+        "haroldbb",
+        "sr86",
+        "IlxxxlI",
+        "hotshothotgg",
+        "Brucelegend",
+        "parmele",
+        "ChrisNola",
+        "Parcker",
+        "FirstClan"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        28.42,
+        27.75,
+        21.66,
+        17.59,
+        24.92,
+        28.7,
+        51.18,
+        26.5,
+        25.0
+    ],
+    "player_small_blind": "FirstClan",
+    "small_blind": 0.25,
+    "player_big_blind": "haroldbb",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "2s",
+            "Kc"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "sr86",
+                "IlxxxlI",
+                "hotshothotgg",
+                "Brucelegend",
+                "parmele",
+                "ChrisNola",
+                "Parcker",
+                "FirstClan",
+                "haroldbb"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.5,
+                0.5,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FirstClan",
+                "haroldbb",
+                "parmele",
+                "ChrisNola",
+                "FirstClan",
+                "haroldbb",
+                "parmele"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.5,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FirstClan",
+                "ChrisNola",
+                "FirstClan"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FirstClan",
+                "ChrisNola"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.33,
+                6.33
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Js Qd"
+    ],
+    "finishing_stack": [
+        27.92,
+        27.75,
+        21.66,
+        17.59,
+        24.92,
+        28.2,
+        40.35,
+        26.5,
+        35.7
+    ]
+}

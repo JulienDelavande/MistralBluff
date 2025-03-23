@@ -1,0 +1,130 @@
+{
+    "date": "2016/11/28 19:48:39",
+    "game_id": "786365821",
+    "variant": "PRR",
+    "table_name": "Garuda-3",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "6betThreat",
+        "legenda99",
+        "allaebalaamballa",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        24.31,
+        102.98,
+        48.1,
+        29.35
+    ],
+    "player_small_blind": "allaebalaamballa",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "4s",
+            "Js"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "6betThreat",
+                "legenda99",
+                "allaebalaamballa",
+                "IlxxxlI",
+                "6betThreat"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                4.25,
+                null,
+                3.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "allaebalaamballa",
+                "6betThreat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "allaebalaamballa",
+                "6betThreat",
+                "allaebalaamballa"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.0,
+                9.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "allaebalaamballa",
+                "6betThreat"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                11.75,
+                10.81
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ks 9s",
+        null,
+        "Qc As",
+        null
+    ],
+    "finishing_stack": [
+        0.0,
+        102.98,
+        70.91,
+        28.85
+    ]
+}

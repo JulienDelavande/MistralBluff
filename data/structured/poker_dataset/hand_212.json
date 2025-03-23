@@ -1,0 +1,132 @@
+{
+    "date": "2016/11/29 14:48:35",
+    "game_id": "787014855",
+    "variant": "PRR",
+    "table_name": "Lakhey",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "IbetUmuck",
+        "PANDAisEVIL",
+        "AironVega"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        231.5,
+        81.55,
+        858.25,
+        206.0,
+        204.55
+    ],
+    "player_small_blind": "IbetUmuck",
+    "small_blind": 1.0,
+    "player_big_blind": "PANDAisEVIL",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "5c",
+            "Ks"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AironVega",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "IbetUmuck",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                6.0,
+                null,
+                null,
+                5.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IbetUmuck",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IbetUmuck",
+                "AironVega"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.65,
+                6.65
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IbetUmuck",
+                "AironVega"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                19.46,
+                19.46
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "3h 4h",
+        null,
+        "10d 8d"
+    ],
+    "finishing_stack": [
+        231.5,
+        81.55,
+        826.14,
+        204.0,
+        235.66
+    ]
+}

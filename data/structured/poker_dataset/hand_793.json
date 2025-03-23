@@ -1,0 +1,149 @@
+{
+    "date": "2016/11/29 13:1:34",
+    "game_id": "786963917",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "MadLifeGrinder",
+        "JoeRockwell",
+        "LloydXmas",
+        "Hakuna_Matata777",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        126.96,
+        120.76,
+        23.12,
+        130.87,
+        100.0,
+        48.53
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "8s",
+            "6d"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "JoeRockwell",
+                "LloydXmas",
+                "Hakuna_Matata777",
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                2.5,
+                2.5,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "JoeRockwell",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.12,
+                4.12
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "JoeRockwell",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                7.0,
+                7.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MadLifeGrinder",
+                "JoeRockwell",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.5,
+                9.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "6h 5h",
+        "Jd Jh",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        125.96,
+        97.64,
+        45.36,
+        130.87,
+        100.0,
+        48.03
+    ]
+}

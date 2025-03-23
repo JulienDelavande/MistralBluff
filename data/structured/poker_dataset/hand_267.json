@@ -1,0 +1,138 @@
+{
+    "date": "2016/11/29 14:40:44",
+    "game_id": "787011633",
+    "variant": "PRR",
+    "table_name": "Lakhey-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "gust",
+        "VegetablesArentYummy",
+        "DonCesarGrinder",
+        "mjj475"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        80.0,
+        80.0,
+        433.41,
+        766.16,
+        466.32
+    ],
+    "player_small_blind": "gust",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "Qc",
+            "6s"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DonCesarGrinder",
+                "mjj475",
+                "IlxxxlI",
+                "gust",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                2.0,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "gust",
+                "VegetablesArentYummy",
+                "mjj475"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.85,
+                null,
+                2.85
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "gust",
+                "mjj475"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                6.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "gust",
+                "mjj475",
+                "gust"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                15.01,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        80.0,
+        69.15,
+        431.41,
+        766.16,
+        477.98999999999995
+    ]
+}

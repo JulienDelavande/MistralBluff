@@ -1,0 +1,164 @@
+{
+    "date": "2016/11/29 14:54:31",
+    "game_id": "787017134",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "StephCurry",
+        "PANDAisEVIL",
+        "AironVega",
+        "IlxxxlI",
+        "pineapplesand",
+        "dankmann",
+        "ElvenEyes",
+        "gust",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        100.0,
+        106.14,
+        100.0,
+        40.0,
+        99.16,
+        110.36,
+        101.5,
+        50.0,
+        260.19
+    ],
+    "player_small_blind": "dankmann",
+    "small_blind": 0.5,
+    "player_big_blind": "ElvenEyes",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "Kh",
+            "3c"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gust",
+                "VegetablesArentYummy",
+                "StephCurry",
+                "PANDAisEVIL",
+                "AironVega",
+                "IlxxxlI",
+                "pineapplesand",
+                "dankmann",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                2.0,
+                1.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dankmann",
+                "pineapplesand",
+                "dankmann",
+                "pineapplesand"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.37,
+                9.48,
+                7.11
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dankmann",
+                "pineapplesand",
+                "dankmann"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                16.0,
+                87.68,
+                71.68
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "10h 6h",
+        "Qd Kd",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        106.14,
+        100.0,
+        40.0,
+        0.0,
+        207.51999999999998,
+        100.5,
+        50.0,
+        260.19
+    ]
+}
