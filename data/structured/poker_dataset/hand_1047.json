@@ -1,0 +1,133 @@
+{
+    "date": "2016/11/29 11:35:6",
+    "game_id": "786904294",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "beachrog",
+        "Maria_Pia",
+        "imperceptible"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        29.45,
+        35.48,
+        26.79,
+        17.85
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "beachrog",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "3s",
+            "4h"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Maria_Pia",
+                "imperceptible",
+                "IlxxxlI",
+                "beachrog",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.05,
+                null,
+                2.45,
+                null,
+                1.65
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Maria_Pia",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Maria_Pia",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.8,
+                9.8
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qh Ad",
+        null,
+        "As 8s",
+        null
+    ],
+    "finishing_stack": [
+        28.939999999999998,
+        34.98,
+        26.28,
+        17.85
+    ]
+}

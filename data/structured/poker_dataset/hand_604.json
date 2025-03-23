@@ -1,0 +1,141 @@
+{
+    "date": "2016/11/29 13:39:0",
+    "game_id": "786984973",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "Ball Crusher",
+        "Jui Kuen",
+        "PokerBrat1127",
+        "IlxxxlI",
+        "anabeliangrape"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        122.79,
+        30.33,
+        10.2,
+        10.0,
+        28.39
+    ],
+    "player_small_blind": "anabeliangrape",
+    "small_blind": 0.25,
+    "player_big_blind": "Ball Crusher",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "Kc",
+            "10s"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jui Kuen",
+                "PokerBrat1127",
+                "IlxxxlI",
+                "anabeliangrape",
+                "Ball Crusher"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "anabeliangrape",
+                "Ball Crusher",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "anabeliangrape",
+                "Ball Crusher",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                1.42,
+                1.42,
+                1.42
+            ]
+        },
+        "post-river": {
+            "players": [
+                "anabeliangrape",
+                "Ball Crusher",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                4.16,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        119.87,
+        30.33,
+        10.2,
+        7.08,
+        33.8
+    ]
+}

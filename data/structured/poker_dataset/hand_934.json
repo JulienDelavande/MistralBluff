@@ -1,0 +1,144 @@
+{
+    "date": "2016/11/29 12:26:48",
+    "game_id": "786942325",
+    "variant": "PRR",
+    "table_name": "Gorgons-2",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Maria_Pia",
+        "IlxxxlI",
+        "flyshark01",
+        "Jui Kuen",
+        "foreseen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        20.0,
+        86.02,
+        50.75,
+        50.24
+    ],
+    "player_small_blind": "foreseen",
+    "small_blind": 0.25,
+    "player_big_blind": "Maria_Pia",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "As",
+            "Qd"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "flyshark01",
+                "Jui Kuen",
+                "foreseen",
+                "Maria_Pia",
+                "foreseen"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.25,
+                1.0,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "foreseen",
+                "Maria_Pia",
+                "foreseen"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "foreseen",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "foreseen",
+                "Maria_Pia",
+                "foreseen",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.5,
+                47.24,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        13.5,
+        20.0,
+        86.02,
+        50.75,
+        56.09
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "date": "2016/11/29 11:27:21",
+    "game_id": "786898192",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "Maria_Pia",
+        "IlxxxlI",
+        "beachrog",
+        "imperceptible",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.75,
+        10.0,
+        43.56,
+        8.5,
+        43.54
+    ],
+    "player_small_blind": "Maria_Pia",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "As",
+            "2d"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "beachrog",
+                "imperceptible",
+                "Parcker",
+                "Maria_Pia",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.2,
+                null,
+                0.7
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Parcker"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10h Js",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.5,
+        11.770000000000001,
+        43.56,
+        8.5,
+        41.839999999999996
+    ]
+}

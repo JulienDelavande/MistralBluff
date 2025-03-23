@@ -1,0 +1,140 @@
+{
+    "date": "2016/11/28 20:47:27",
+    "game_id": "786378146",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "BirdieKing",
+        "GreinSeint",
+        "in_ur_i",
+        "JoJoLoring",
+        "meandkids",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        43.88,
+        19.79,
+        44.5,
+        57.28,
+        47.0,
+        22.46
+    ],
+    "player_small_blind": "in_ur_i",
+    "small_blind": 0.25,
+    "player_big_blind": "JoJoLoring",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "2s",
+            "4s"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "meandkids",
+                "IlxxxlI",
+                "BirdieKing",
+                "GreinSeint",
+                "in_ur_i",
+                "JoJoLoring"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JoJoLoring",
+                "GreinSeint"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "JoJoLoring",
+                "GreinSeint"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "JoJoLoring",
+                "GreinSeint"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.49,
+                2.49
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "9s Kh",
+        null,
+        "6c 9h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        43.88,
+        24.52,
+        44.25,
+        52.29,
+        47.0,
+        22.46
+    ]
+}

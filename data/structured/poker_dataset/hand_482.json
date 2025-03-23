@@ -1,0 +1,135 @@
+{
+    "date": "2016/11/29 14:15:35",
+    "game_id": "787000900",
+    "variant": "PRR",
+    "table_name": "Lakhey",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "IbetUmuck",
+        "DonCesarGrinder",
+        "MadLifeGrinder"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        239.3,
+        84.55,
+        884.4,
+        240.39,
+        218.48
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "Kh",
+            "Jc"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "IbetUmuck",
+                "DonCesarGrinder",
+                "MadLifeGrinder",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                5.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.7,
+                5.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                16.0,
+                16.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MadLifeGrinder",
+                "VegetablesArentYummy",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                40.08,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        264.23,
+        84.55,
+        884.4,
+        240.39,
+        190.78
+    ]
+}

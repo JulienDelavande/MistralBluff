@@ -1,0 +1,132 @@
+{
+    "date": "2016/11/29 14:33:19",
+    "game_id": "787008526",
+    "variant": "PRR",
+    "table_name": "Kraken-16",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "MadLifeGrinder",
+        "Sephiroth1",
+        "Beep_Beep",
+        "IlxxxlI",
+        "gust"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        103.35,
+        156.1,
+        124.04,
+        48.9,
+        40.0
+    ],
+    "player_small_blind": "Beep_Beep",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "9d",
+            "Ks"
+        ],
+        "turn": [
+            "Jh"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gust",
+                "MadLifeGrinder",
+                "Sephiroth1",
+                "Beep_Beep",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Sephiroth1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Sephiroth1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Sephiroth1"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.09,
+                3.09
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ah 9c",
+        null
+    ],
+    "finishing_stack": [
+        103.35,
+        150.01,
+        123.54,
+        54.86,
+        40.0
+    ]
+}

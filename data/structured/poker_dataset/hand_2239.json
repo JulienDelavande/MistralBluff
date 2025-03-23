@@ -1,0 +1,149 @@
+{
+    "date": "2016/11/28 18:2:21",
+    "game_id": "786345799",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "eu4ria",
+        "JoJoLoring",
+        "BoTPuMHeDichBro",
+        "pokanaktus",
+        "pingpong420",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        60.62,
+        53.37,
+        60.93,
+        49.25,
+        20.25
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "eu4ria",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "Ac",
+            "6c"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "JoJoLoring",
+                "BoTPuMHeDichBro",
+                "pokanaktus",
+                "pingpong420",
+                "IlxxxlI",
+                "eu4ria",
+                "JoJoLoring"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                null,
+                1.5,
+                1.25,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "eu4ria",
+                "JoJoLoring",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.5,
+                null,
+                3.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "eu4ria"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "eu4ria"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Qd Qs"
+    ],
+    "finishing_stack": [
+        44.75,
+        58.87,
+        53.37,
+        60.93,
+        49.25,
+        26.64
+    ]
+}

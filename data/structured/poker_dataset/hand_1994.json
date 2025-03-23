@@ -1,0 +1,135 @@
+{
+    "date": "2016/11/28 19:19:2",
+    "game_id": "786359865",
+    "variant": "PRR",
+    "table_name": "Lakhey",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "JJaromir",
+        "dscshift",
+        "IlxxxlI",
+        "Are you with me",
+        "38979"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        221.77,
+        44.98,
+        80.0,
+        94.58,
+        200.0
+    ],
+    "player_small_blind": "dscshift",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "8c",
+            "Kd"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Are you with me",
+                "38979",
+                "JJaromir",
+                "dscshift",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dscshift",
+                "IlxxxlI",
+                "dscshift"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dscshift",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                6.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dscshift",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "8h 4h",
+        "5d Kh",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        221.77,
+        34.98,
+        89.0,
+        94.58,
+        200.0
+    ]
+}

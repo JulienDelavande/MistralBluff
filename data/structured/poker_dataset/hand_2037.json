@@ -1,0 +1,105 @@
+{
+    "date": "2016/11/28 18:57:41",
+    "game_id": "786356294",
+    "variant": "PRR",
+    "table_name": "Lakhey-10",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Popka1337",
+        "IlxxxlI",
+        "JJaromir"
+    ],
+    "players_seats": [
+        1,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        71.5,
+        87.9,
+        495.5
+    ],
+    "player_small_blind": "JJaromir",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "4c",
+            "4s"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "JJaromir",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JJaromir",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "JJaromir",
+                "IlxxxlI",
+                "JJaromir"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                14.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        71.5,
+        93.30000000000001,
+        489.5
+    ]
+}

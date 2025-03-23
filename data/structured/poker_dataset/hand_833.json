@@ -1,0 +1,146 @@
+{
+    "date": "2016/11/29 12:54:36",
+    "game_id": "786960931",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "WeakAndWeary",
+        "LloydXmas",
+        "GagaPoker",
+        "Beep_Beep",
+        "MadLifeGrinder",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        112.55,
+        105.0,
+        100.0,
+        102.7,
+        100.0,
+        40.0
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "Kd",
+            "8s"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "LloydXmas",
+                "GagaPoker",
+                "Beep_Beep",
+                "MadLifeGrinder",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Beep_Beep",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Beep_Beep",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.0,
+                11.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Qs 7s",
+        null,
+        "10s Ad"
+    ],
+    "finishing_stack": [
+        112.55,
+        105.0,
+        100.0,
+        84.7,
+        99.5,
+        56.68
+    ]
+}

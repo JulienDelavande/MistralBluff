@@ -1,0 +1,132 @@
+{
+    "date": "2016/11/29 14:49:11",
+    "game_id": "787015077",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "cuervo_",
+        "IlxxxlI",
+        "jjeannin1",
+        "trader063",
+        "Parcker",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.81,
+        20.0,
+        36.08,
+        34.04,
+        62.47,
+        77.75
+    ],
+    "player_small_blind": "jjeannin1",
+    "small_blind": 0.25,
+    "player_big_blind": "trader063",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "4d",
+            "2d"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Parcker",
+                "Jui Kuen",
+                "cuervo_",
+                "IlxxxlI",
+                "jjeannin1",
+                "trader063"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "trader063",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "trader063",
+                "Parcker",
+                "trader063"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.32,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        13.81,
+        20.0,
+        35.83,
+        32.54,
+        64.06,
+        77.75
+    ]
+}

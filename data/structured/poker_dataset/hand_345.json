@@ -1,0 +1,124 @@
+{
+    "date": "2016/11/29 14:30:56",
+    "game_id": "787007471",
+    "variant": "PRR",
+    "table_name": "Kraken-16",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "MadLifeGrinder",
+        "Sephiroth1",
+        "Beep_Beep",
+        "IlxxxlI",
+        "gust"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        104.35,
+        157.32,
+        119.01,
+        48.9,
+        40.0
+    ],
+    "player_small_blind": "gust",
+    "small_blind": 0.5,
+    "player_big_blind": "MadLifeGrinder",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "5s",
+            "Qs"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Sephiroth1",
+                "Beep_Beep",
+                "IlxxxlI",
+                "gust",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "Sephiroth1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "Sephiroth1",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        102.35,
+        159.6,
+        119.01,
+        48.9,
+        39.5
+    ]
+}

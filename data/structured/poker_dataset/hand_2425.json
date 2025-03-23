@@ -1,0 +1,152 @@
+{
+    "date": "2016/11/19 23:54:11",
+    "game_id": "779476850",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "jviana",
+        "naprimer",
+        "Log_in",
+        "IlxxxlI",
+        "MANTISGUYV10",
+        "pineapplesand"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        39.95,
+        53.38,
+        13.86,
+        20.0,
+        140.86,
+        20.0
+    ],
+    "player_small_blind": "pineapplesand",
+    "small_blind": 0.25,
+    "player_big_blind": "jviana",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Kd",
+            "6c"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "naprimer",
+                "Log_in",
+                "IlxxxlI",
+                "MANTISGUYV10",
+                "pineapplesand",
+                "jviana"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jviana",
+                "naprimer",
+                "MANTISGUYV10",
+                "jviana",
+                "naprimer"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.32,
+                2.32,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "jviana",
+                "MANTISGUYV10",
+                "jviana"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.63,
+                5.63
+            ]
+        },
+        "post-river": {
+            "players": [
+                "jviana",
+                "MANTISGUYV10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ac Qd",
+        null,
+        null,
+        null,
+        "4h 5h",
+        null
+    ],
+    "finishing_stack": [
+        49.2,
+        52.38,
+        13.86,
+        20.0,
+        131.91000000000003,
+        19.75
+    ]
+}

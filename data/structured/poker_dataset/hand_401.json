@@ -1,0 +1,143 @@
+{
+    "date": "2016/11/29 14:23:51",
+    "game_id": "787004361",
+    "variant": "PRR",
+    "table_name": "Gorgons-15",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "WeakAndWeary",
+        "IampokerKidd",
+        "imger8",
+        "IlxxxlI",
+        "foreseen",
+        "BiGFck"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        53.08,
+        106.51,
+        43.0,
+        22.25,
+        52.7,
+        10.75
+    ],
+    "player_small_blind": "imger8",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "Ks",
+            "4d"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "foreseen",
+                "BiGFck",
+                "WeakAndWeary",
+                "IampokerKidd",
+                "imger8",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                null,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "imger8",
+                "BiGFck"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "imger8",
+                "BiGFck"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "imger8",
+                "BiGFck",
+                "imger8"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.06,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        53.08,
+        106.51,
+        40.0,
+        21.75,
+        52.7,
+        13.93
+    ]
+}

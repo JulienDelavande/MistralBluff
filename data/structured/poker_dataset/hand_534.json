@@ -1,0 +1,143 @@
+{
+    "date": "2016/11/29 13:50:42",
+    "game_id": "786990662",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "CrimZnole",
+        "bunnyfox2t",
+        "IlxxxlI",
+        "AironVega",
+        "flyshark01",
+        "Doubletwentyone"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        142.48,
+        101.5,
+        40.0,
+        109.64,
+        107.21,
+        102.52
+    ],
+    "player_small_blind": "Doubletwentyone",
+    "small_blind": 0.5,
+    "player_big_blind": "CrimZnole",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "8s",
+            "2s"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bunnyfox2t",
+                "IlxxxlI",
+                "AironVega",
+                "flyshark01",
+                "Doubletwentyone",
+                "CrimZnole"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CrimZnole",
+                "AironVega",
+                "CrimZnole"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.73,
+                1.73
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CrimZnole",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CrimZnole",
+                "AironVega"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.2,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        146.77,
+        101.5,
+        40.0,
+        105.41,
+        107.21,
+        102.02
+    ]
+}

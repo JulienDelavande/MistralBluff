@@ -1,0 +1,141 @@
+{
+    "date": "2016/11/21 10:40:55",
+    "game_id": "780942558",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "sr86",
+        "IlxxxlI",
+        "WICHONSKI",
+        "ChrisNola",
+        "iflopznuts"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        31.53,
+        10.0,
+        28.36,
+        36.2,
+        51.66
+    ],
+    "player_small_blind": "ChrisNola",
+    "small_blind": 0.25,
+    "player_big_blind": "iflopznuts",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "4s",
+            "6s"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "sr86",
+                "IlxxxlI",
+                "WICHONSKI",
+                "ChrisNola",
+                "iflopznuts"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ChrisNola",
+                "WICHONSKI",
+                "ChrisNola"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ChrisNola",
+                "WICHONSKI",
+                "ChrisNola"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.99,
+                5.99
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ChrisNola",
+                "WICHONSKI",
+                "ChrisNola"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                9.69,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        31.53,
+        10.0,
+        36.92999999999999,
+        27.21,
+        51.16
+    ]
+}

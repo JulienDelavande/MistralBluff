@@ -1,0 +1,97 @@
+{
+    "date": "2016/11/29 14:46:23",
+    "game_id": "787013966",
+    "variant": "PRR",
+    "table_name": "Lakhey-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "AironVega"
+    ],
+    "players_seats": [
+        1,
+        6
+    ],
+    "starting_stacks": [
+        80.0,
+        201.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "AironVega",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "8s",
+            "Jh"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "AironVega"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AironVega",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                14.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null
+    ],
+    "finishing_stack": [
+        75.0,
+        205.5
+    ]
+}

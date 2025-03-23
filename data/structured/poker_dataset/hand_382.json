@@ -1,0 +1,132 @@
+{
+    "date": "2016/11/29 14:26:35",
+    "game_id": "787005539",
+    "variant": "PRR",
+    "table_name": "Kraken-23",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "gust",
+        "LloydXmas",
+        "Sephiroth1",
+        "ElvenEyes",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.4,
+        46.0,
+        130.29,
+        100.0,
+        121.03,
+        43.9
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Ac",
+            "5d"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gust",
+                "LloydXmas",
+                "Sephiroth1",
+                "ElvenEyes",
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "ElvenEyes",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        97.4,
+        46.0,
+        130.29,
+        100.0,
+        124.21000000000001,
+        43.4
+    ]
+}
