@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/26 13:24:28",
+    "game_id": "806350709",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "lablador1010",
+        "pumppppps",
+        "HapKoTuk",
+        "IlxxxlI",
+        "Artemone",
+        "dtnfk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        22.72,
+        27.97,
+        27.59,
+        38.47,
+        19.35
+    ],
+    "player_small_blind": "pumppppps",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "10h",
+            "7s"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Artemone",
+                "dtnfk",
+                "lablador1010",
+                "pumppppps",
+                "HapKoTuk",
+                "dtnfk"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.9,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "pumppppps",
+                "dtnfk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "pumppppps",
+                "dtnfk",
+                "pumppppps"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.34,
+                1.34
+            ]
+        },
+        "post-river": {
+            "players": [
+                "pumppppps",
+                "dtnfk",
+                "pumppppps",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.19,
+                4.8,
+                2.61
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kh As",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        30.29,
+        27.72,
+        27.59,
+        38.47,
+        11.21
+    ]
+}

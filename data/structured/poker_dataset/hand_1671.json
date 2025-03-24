@@ -1,92 +1,82 @@
 {
-    "date": "2016/11/28 20:23:39",
-    "game_id": "786373225",
+    "date": "2016/9/18 7:53:34",
+    "game_id": "730202062",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 4,
     "players": [
-        "caballeroXXX",
-        "DonkReaper",
-        "in_ur_i",
-        "Cinch23",
-        "IlxxxlI"
+        "VegetablesArentYummy",
+        "Pimpika",
+        "IlxxxlI",
+        "Spew Diamond Phillips",
+        "gosu36484",
+        "Antimonysayz",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        9
     ],
     "starting_stacks": [
-        64.69,
-        73.62,
-        48.75,
-        19.81,
-        20.0
+        101.5,
+        71.7,
+        40.0,
+        127.45,
+        55.4,
+        75.53,
+        241.08
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "caballeroXXX",
-    "big_blind": 0.5,
+    "player_small_blind": "gosu36484",
+    "small_blind": 0.5,
+    "player_big_blind": "Antimonysayz",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
         "10d",
-        "Ks"
+        "5h"
     ],
     "dealed_cards": {
-        "flop": [
-            "Qh",
-            "4d",
-            "9h"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "DonkReaper",
-                "in_ur_i",
-                "Cinch23",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
                 "IlxxxlI",
-                "caballeroXXX"
+                "Spew Diamond Phillips",
+                "gosu36484"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.5,
-                null,
-                null,
-                1.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "caballeroXXX",
-                "in_ur_i",
-                "caballeroXXX",
-                "in_ur_i"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "RAISE",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                1.54,
-                6.16,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -104,13 +94,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        67.67,
-        73.62,
-        45.71,
-        19.81,
-        19.75
+        101.5,
+        71.7,
+        40.0,
+        127.45,
+        54.9,
+        76.03,
+        241.08
     ]
 }

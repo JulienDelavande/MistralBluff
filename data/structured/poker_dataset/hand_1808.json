@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 19:57:49",
-    "game_id": "786367416",
+    "date": "2016/9/18 8:12:4",
+    "game_id": "730213098",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "short",
-    "button_seat": 5,
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 1,
     "players": [
-        "Cinch23",
-        "38979",
-        "Bhodisattva",
-        "TranscendencE",
         "IlxxxlI",
-        "meandkids"
+        "0nlyDaNuts",
+        "VegetablesArentYummy",
+        "gosu36484",
+        "Pimpika",
+        "BlitzWaut",
+        "Immortal.",
+        "dartx",
+        "Chicubs2016"
     ],
     "players_seats": [
         1,
@@ -19,96 +22,81 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        64.3,
-        55.89,
-        29.18,
-        78.1,
-        26.02,
-        49.0
+        84.52,
+        122.82,
+        108.12,
+        37.78,
+        57.34,
+        114.45,
+        107.96,
+        108.83,
+        84.96
     ],
-    "player_small_blind": "meandkids",
+    "player_small_blind": "0nlyDaNuts",
     "small_blind": 0.5,
-    "player_big_blind": "Cinch23",
+    "player_big_blind": "VegetablesArentYummy",
     "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3c",
-        "6h"
+        "Ad",
+        "5h"
     ],
     "dealed_cards": {
-        "flop": [
-            "4s",
-            "9d",
-            "5h"
-        ],
-        "turn": [
-            "10c"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "38979",
-                "Bhodisattva",
-                "TranscendencE",
+                "gosu36484",
+                "Pimpika",
+                "BlitzWaut",
+                "Immortal.",
+                "dartx",
+                "Chicubs2016",
                 "IlxxxlI",
-                "meandkids",
-                "Cinch23"
+                "0nlyDaNuts",
+                "VegetablesArentYummy"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                2.0,
-                null,
-                null,
-                null,
-                1.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "Cinch23",
-                "Bhodisattva",
-                "Cinch23",
-                "Bhodisattva"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                2.0,
-                7.0,
-                5.0
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Cinch23",
-                "Bhodisattva"
-            ],
-            "actions": [
-                "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                9.0,
+                null,
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -122,14 +110,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        72.88,
-        55.89,
-        20.18,
-        78.1,
-        26.02,
-        48.5
+        84.52,
+        122.32,
+        107.12,
+        37.78,
+        57.34,
+        114.45,
+        109.46,
+        108.83,
+        84.96
     ]
 }

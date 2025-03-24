@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 18:11:56",
+    "game_id": "793454598",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IampokerKidd",
+        "boosaz",
+        "IlxxxlI",
+        "Moryak999",
+        "Qatro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        32.85,
+        25.0,
+        10.35,
+        29.83,
+        25.93
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Moryak999",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "Jh",
+            "5h"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Qatro",
+                "IampokerKidd",
+                "boosaz",
+                "IlxxxlI",
+                "Moryak999"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Moryak999",
+                "Qatro"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Moryak999",
+                "Qatro"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Moryak999",
+                "Qatro",
+                "Moryak999"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Jd 9s",
+        "As 6h"
+    ],
+    "finishing_stack": [
+        32.85,
+        25.0,
+        10.25,
+        30.38,
+        25.43
+    ]
+}

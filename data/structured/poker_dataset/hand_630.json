@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 13:23:32",
-    "game_id": "786976618",
+    "date": "2016/9/5 12:55:4",
+    "game_id": "720273220",
     "variant": "PRR",
-    "table_name": "Lakhey-2",
-    "type_game": "Hold'em",
+    "table_name": "Medusa",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "KingGuciGuci",
+        "SheppyPOO!!",
         "IlxxxlI",
-        "gust",
-        "SCking",
-        "VegetablesArentYummy",
-        "Pimpika"
+        "whitnez33",
+        "ShtrafBat",
+        "RapaNui",
+        "St3p04ka"
     ],
     "players_seats": [
         1,
@@ -22,80 +22,69 @@
         6
     ],
     "starting_stacks": [
-        200.0,
+        234.15,
         80.0,
-        106.96,
-        576.65,
+        470.67,
+        102.0,
         200.0,
-        179.3
+        117.53
     ],
-    "player_small_blind": "gust",
-    "small_blind": 1.0,
-    "player_big_blind": "SCking",
-    "big_blind": 2.0,
+    "player_small_blind": "whitnez33",
+    "small_blind": 2.0,
+    "player_big_blind": "ShtrafBat",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7h",
-        "Ks"
+        "8c",
+        "3h"
     ],
     "dealed_cards": {
         "flop": [
-            "9c",
-            "Qd",
-            "6c"
+            "10c",
+            "5s",
+            "8h"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "Js"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "VegetablesArentYummy",
-                "Pimpika",
-                "KingGuciGuci",
+                "RapaNui",
+                "St3p04ka",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "gust",
-                "SCking"
+                "whitnez33",
+                "ShtrafBat",
+                "whitnez33"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
                 "FOLD",
-                "CALL",
+                "FOLD",
+                "RAISE",
+                "ALLIN",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
-                4.4,
                 null,
-                3.4,
-                2.4
+                null,
+                6.0,
+                98.0,
+                94.0
             ]
         },
         "post-flop": {
-            "players": [
-                "gust",
-                "SCking",
-                "KingGuciGuci",
-                "gust",
-                "SCking"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "BET",
-                "FOLD",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                null,
-                6.9,
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -111,17 +100,17 @@
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
+        "6s 6d",
+        "Qd Kh",
         null,
         null
     ],
     "finishing_stack": [
-        208.14,
+        234.15,
         80.0,
-        102.55999999999999,
-        572.25,
+        570.6700000000001,
+        0.0,
         200.0,
-        179.3
+        117.53
     ]
 }

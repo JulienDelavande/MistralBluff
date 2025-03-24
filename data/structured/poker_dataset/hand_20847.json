@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 9:32:4",
+    "game_id": "793909564",
+    "variant": "PRR",
+    "table_name": "Kraken-3",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "critical Eros",
+        "MadLifeGrinder",
+        "VegetablesArentYummy",
+        "g-vine"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        138.76,
+        184.52,
+        119.0,
+        332.05
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "10h",
+            "Ks"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "g-vine",
+                "IlxxxlI",
+                "critical Eros",
+                "MadLifeGrinder",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                null,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "g-vine"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "VegetablesArentYummy",
+                "g-vine"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.98,
+                3.98
+            ]
+        },
+        "post-river": {
+            "players": [
+                "VegetablesArentYummy",
+                "g-vine"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                10.02,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.0,
+        138.76,
+        184.02,
+        125.31,
+        325.57
+    ]
+}

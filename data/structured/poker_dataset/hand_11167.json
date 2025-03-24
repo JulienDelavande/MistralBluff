@@ -1,0 +1,157 @@
+{
+    "date": "2016/12/24 23:41:24",
+    "game_id": "805274219",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "shim123",
+        "Log_in",
+        "IlxxxlI",
+        "JetRex",
+        "MrCat",
+        "Blakemoneous",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        64.95,
+        22.24,
+        48.88,
+        42.82,
+        50.0,
+        56.25,
+        69.7
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "JetRex",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "3d",
+            "10c"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MrCat",
+                "Blakemoneous",
+                "so_it_goes",
+                "shim123",
+                "Log_in",
+                "IlxxxlI",
+                "JetRex"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                1.5,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Blakemoneous",
+                "shim123",
+                "Log_in"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Blakemoneous",
+                "shim123",
+                "Log_in",
+                "Blakemoneous"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.32,
+                null,
+                3.32
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Blakemoneous",
+                "shim123"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10h Qs",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        71.43,
+        20.74,
+        48.63,
+        42.32,
+        50.0,
+        51.43,
+        69.7
+    ]
+}

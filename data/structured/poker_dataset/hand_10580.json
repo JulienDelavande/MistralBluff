@@ -1,0 +1,114 @@
+{
+    "date": "2016/12/25 13:31:36",
+    "game_id": "805694106",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "Ice Bank Mice Elf",
+        "Casinator",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        65.48,
+        35.99,
+        31.51
+    ],
+    "player_small_blind": "Ice Bank Mice Elf",
+    "small_blind": 0.25,
+    "player_big_blind": "Casinator",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "2c",
+            "6s"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ice Bank Mice Elf",
+                "Casinator"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "Casinator",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "Casinator",
+                "Ice Bank Mice Elf",
+                "Casinator"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                9.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        70.66,
+        30.240000000000002,
+        31.51
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/9 8:49:11",
+    "game_id": "793871691",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "MadLifeGrinder",
+        "g-vine",
+        "VegetablesArentYummy",
+        "Stimpmeter",
+        "IlxxxlI",
+        "binkblankboo"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        108.7,
+        127.48,
+        115.37,
+        100.0,
+        93.5,
+        70.22
+    ],
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 0.5,
+    "player_big_blind": "Stimpmeter",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "3s",
+            "Qd"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "binkblankboo",
+                "MadLifeGrinder",
+                "g-vine",
+                "VegetablesArentYummy",
+                "Stimpmeter"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "Stimpmeter",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                7.6,
+                5.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "VegetablesArentYummy",
+                "Stimpmeter",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                13.42,
+                13.42
+            ]
+        },
+        "post-river": {
+            "players": [
+                "VegetablesArentYummy",
+                "Stimpmeter"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10s Qc",
+        "Jc 4c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        108.7,
+        127.48,
+        136.99,
+        75.98,
+        93.5,
+        70.22
+    ]
+}

@@ -1,104 +1,124 @@
 {
-    "date": "2016/11/29 9:29:40",
-    "game_id": "786802559",
+    "date": "2016/9/13 13:38:34",
+    "game_id": "726615401",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "akbrow",
+        "jcirone29",
+        "SheppyPOO!!",
         "IlxxxlI",
-        "Ice Bank Mice Elf",
-        "Log_in",
-        "Midnight0489",
-        "XxDominationxX",
-        "coldkilla",
-        "gunnfarm",
-        "OmEGaKuSh"
+        "xx_HaZ",
+        "miscusee"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9
+        5
     ],
     "starting_stacks": [
-        21.25,
-        20.0,
-        91.1,
-        19.0,
-        50.32,
-        96.68,
-        64.77,
-        42.5,
-        55.7
+        489.79,
+        200.0,
+        93.3,
+        241.68,
+        251.05
     ],
-    "player_small_blind": "XxDominationxX",
-    "small_blind": 0.25,
-    "player_big_blind": "coldkilla",
-    "big_blind": 0.5,
+    "player_small_blind": "xx_HaZ",
+    "small_blind": 2.0,
+    "player_big_blind": "miscusee",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ah",
-        "8d"
+        "8h",
+        "5c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "9c",
+            "Qs",
+            "5h"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "4s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "gunnfarm",
-                "OmEGaKuSh",
-                "akbrow",
+                "jcirone29",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "Ice Bank Mice Elf",
-                "Log_in",
-                "Midnight0489",
-                "XxDominationxX"
+                "xx_HaZ",
+                "miscusee"
             ],
             "actions": [
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "miscusee",
+                "jcirone29",
+                "miscusee"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
             ],
             "values": [
                 null,
-                null,
-                null,
-                null,
-                null,
-                null,
+                9.68,
+                9.68
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "miscusee",
+                "jcirone29"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "miscusee",
+                "jcirone29",
+                "miscusee"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                52.0,
+                156.0,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -106,21 +126,13 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        21.25,
-        20.0,
-        91.1,
-        19.0,
-        50.32,
-        96.43,
-        65.02,
-        42.5,
-        55.7
+        560.07,
+        200.0,
+        93.3,
+        239.68,
+        181.37
     ]
 }

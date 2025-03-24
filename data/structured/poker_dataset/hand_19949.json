@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/9 13:51:58",
+    "game_id": "794086765",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "rossco2000",
+        "hoocher",
+        "Heksebrygg",
+        "Mr.AllIn1992",
+        "IlxxxlI",
+        "mdw72"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        6.34,
+        55.19,
+        58.79,
+        61.33,
+        20.0,
+        30.66
+    ],
+    "player_small_blind": "Mr.AllIn1992",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "Kh",
+            "8c"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mdw72",
+                "rossco2000",
+                "hoocher",
+                "Heksebrygg",
+                "Mr.AllIn1992",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Mr.AllIn1992",
+                "IlxxxlI",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.42,
+                1.42,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Mr.AllIn1992",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Mr.AllIn1992",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.7,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        6.34,
+        55.19,
+        57.79,
+        64.46,
+        17.58,
+        30.66
+    ]
+}

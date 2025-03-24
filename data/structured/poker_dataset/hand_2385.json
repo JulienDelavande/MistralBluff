@@ -1,131 +1,91 @@
 {
-    "date": "2016/11/21 10:57:45",
-    "game_id": "780957176",
+    "date": "2016/9/18 9:49:22",
+    "game_id": "730266364",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Medusa",
     "type_game": "Short",
     "button_seat": 4,
     "players": [
-        "haroldbb",
-        "sr86",
-        "IlxxxlI",
-        "WICHONSKI",
-        "Brucelegend",
-        "parmele",
-        "ChrisNola",
-        "iflopznuts",
-        "FirstClan"
+        "Bazuko",
+        "VegetablesArentYummy",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        30.67,
-        25.42,
-        12.67,
-        42.08,
-        30.22,
-        18.0,
-        45.09,
-        58.9,
-        25.0
+        161.1,
+        380.69,
+        277.02,
+        209.75,
+        105.7
     ],
-    "player_small_blind": "Brucelegend",
-    "small_blind": 0.25,
-    "player_big_blind": "parmele",
-    "big_blind": 0.5,
+    "player_small_blind": "hangiie",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "As",
-        "Kh"
+        "3c",
+        "3s"
     ],
     "dealed_cards": {
         "flop": [
-            "7d",
-            "10s",
-            "Qc"
+            "Kh",
+            "Kc",
+            "Kd"
         ],
-        "turn": [
-            "9s"
-        ],
-        "river": [
-            "2h"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "ChrisNola",
-                "iflopznuts",
-                "FirstClan",
-                "haroldbb",
-                "sr86",
+                "Bazuko",
+                "VegetablesArentYummy",
+                "Pureprofit4",
+                "hangiie",
                 "IlxxxlI",
-                "WICHONSKI",
-                "Brucelegend",
-                "parmele",
-                "ChrisNola"
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "CALL",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL",
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
-                0.5,
+                null,
+                10.0,
+                28.0,
                 null,
                 null,
-                null,
-                null,
-                1.5,
-                1.5,
-                null,
-                null,
-                1.0
+                18.0
             ]
         },
         "post-flop": {
             "players": [
-                "ChrisNola",
-                "IlxxxlI",
-                "WICHONSKI",
-                "ChrisNola",
-                "IlxxxlI",
-                "WICHONSKI",
-                "ChrisNola"
+                "VegetablesArentYummy",
+                "Pureprofit4",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "CHECK",
-                "CHECK",
                 "BET",
-                "CALL",
-                "ALLIN",
-                "FOLD",
-                "CALL"
+                "FOLD"
             ],
             "values": [
                 null,
-                null,
-                2.33,
-                2.33,
-                11.17,
-                null,
-                8.84
+                24.0,
+                null
             ]
         },
         "post-turn": {
@@ -142,23 +102,15 @@
     "card_shown_by_players": [
         null,
         null,
-        "As Kh",
         null,
-        null,
-        null,
-        "9h Jh",
         null,
         null
     ],
     "finishing_stack": [
-        30.67,
-        25.42,
-        0.0,
-        38.25,
-        29.97,
-        17.5,
-        60.85,
-        58.9,
-        25.0
+        161.1,
+        352.69,
+        310.41999999999996,
+        207.75,
+        101.7
     ]
 }

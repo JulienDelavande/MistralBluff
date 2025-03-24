@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 17:27:4",
+    "game_id": "793445728",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IampokerKidd",
+        "boosaz",
+        "IlxxxlI",
+        "renoreno",
+        "Br4dy12",
+        "Aaron.o_O"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        38.32,
+        26.29,
+        12.08,
+        25.0,
+        25.27,
+        30.62
+    ],
+    "player_small_blind": "Aaron.o_O",
+    "small_blind": 0.1,
+    "player_big_blind": "IampokerKidd",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "Qc",
+            "8s"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "boosaz",
+                "IlxxxlI",
+                "renoreno",
+                "Br4dy12",
+                "Aaron.o_O",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Aaron.o_O",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Aaron.o_O",
+                "IampokerKidd",
+                "Aaron.o_O"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.66,
+                1.66
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Aaron.o_O",
+                "IampokerKidd",
+                "Aaron.o_O"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                6.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        41.39,
+        26.29,
+        12.08,
+        25.0,
+        25.27,
+        27.21
+    ]
+}

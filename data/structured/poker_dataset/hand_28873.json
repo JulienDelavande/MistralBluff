@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/7 9:50:29",
+    "game_id": "792520326",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "liusanity",
+        "Rabb1tH0le",
+        "xin1575",
+        "IlxxxlI",
+        "ABMTLQC",
+        "tszis"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        67.17,
+        45.79,
+        10.0,
+        43.36,
+        33.28
+    ],
+    "player_small_blind": "tszis",
+    "small_blind": 0.1,
+    "player_big_blind": "liusanity",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "5h",
+            "Ad"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "2s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Rabb1tH0le",
+                "xin1575",
+                "IlxxxlI",
+                "ABMTLQC",
+                "tszis",
+                "liusanity"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "tszis",
+                "liusanity"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.71,
+                0.71
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "tszis",
+                "liusanity"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.85,
+                1.85
+            ]
+        },
+        "post-river": {
+            "players": [
+                "tszis",
+                "liusanity",
+                "tszis"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.98,
+        67.17,
+        45.79,
+        10.0,
+        43.36,
+        29.970000000000002
+    ]
+}

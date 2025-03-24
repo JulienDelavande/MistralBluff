@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 19:50:23",
-    "game_id": "786366138",
+    "date": "2016/9/18 8:21:26",
+    "game_id": "730219086",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
     "button_seat": 4,
     "players": [
+        "A",
         "IlxxxlI",
-        "38979",
-        "BBDub27",
-        "Wollverin",
-        "meandkids",
-        "gfclbv"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "utormico",
+        "Cellar door",
+        "FishinChips",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
@@ -19,122 +21,154 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        9
     ],
     "starting_stacks": [
-        40.0,
-        225.72,
-        102.0,
-        100.0,
-        122.48,
-        158.0
+        351.77,
+        99.21,
+        113.11,
+        200.0,
+        132.58,
+        200.0,
+        105.41,
+        336.15
     ],
-    "player_small_blind": "meandkids",
+    "player_small_blind": "utormico",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "FishinChips",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "Qc"
+        "10d",
+        "5c"
     ],
     "dealed_cards": {
         "flop": [
-            "Qd",
-            "Kc",
-            "8c"
+            "Ah",
+            "6h",
+            "2d"
         ],
         "turn": [
-            "Ac"
+            "4s"
         ],
         "river": [
-            "3s"
+            "9h"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "38979",
-                "BBDub27",
-                "Wollverin",
-                "meandkids",
-                "IlxxxlI"
+                "KeepKalm",
+                "A",
+                "IlxxxlI",
+                "Pimpika",
+                "VegetablesArentYummy",
+                "utormico",
+                "FishinChips"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
                 "CALL"
             ],
             "values": [
+                6.0,
                 null,
                 null,
-                4.0,
                 null,
-                2.0
+                6.0,
+                5.0,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "Wollverin",
-                "IlxxxlI"
+                "utormico",
+                "FishinChips",
+                "KeepKalm",
+                "VegetablesArentYummy",
+                "utormico",
+                "FishinChips",
+                "KeepKalm"
             ],
             "actions": [
                 "CHECK",
+                "CHECK",
+                "CHECK",
                 "BET",
-                "CALL"
+                "CALL",
+                "CALL",
+                "FOLD"
             ],
             "values": [
                 null,
-                6.0,
-                6.0
+                null,
+                null,
+                8.6,
+                8.6,
+                8.6,
+                null
             ]
         },
         "post-turn": {
             "players": [
-                "IlxxxlI",
-                "Wollverin"
+                "utormico",
+                "FishinChips",
+                "VegetablesArentYummy"
             ],
             "actions": [
+                "CHECK",
                 "CHECK",
                 "CHECK"
             ],
             "values": [
+                null,
                 null,
                 null
             ]
         },
         "post-river": {
             "players": [
-                "IlxxxlI",
-                "Wollverin"
+                "utormico",
+                "FishinChips",
+                "VegetablesArentYummy"
             ],
             "actions": [
+                "CHECK",
                 "CHECK",
                 "CHECK"
             ],
             "values": [
+                null,
                 null,
                 null
             ]
         }
     },
     "card_shown_by_players": [
-        "10h Qc",
         null,
         null,
-        "7h Ks",
+        null,
+        "Ad Jh",
+        null,
+        null,
         null,
         null
     ],
     "finishing_stack": [
-        30.0,
-        225.72,
-        102.0,
-        109.95,
-        121.48,
-        158.0
+        351.77,
+        99.21,
+        113.11,
+        232.71,
+        117.98000000000002,
+        200.0,
+        90.81,
+        330.15
     ]
 }

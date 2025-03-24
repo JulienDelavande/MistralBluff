@@ -1,20 +1,17 @@
 {
-    "date": "2016/11/29 14:51:29",
-    "game_id": "787015947",
+    "date": "2016/9/4 10:5:4",
+    "game_id": "719285580",
     "variant": "PRR",
-    "table_name": "Karkadann",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "StephCurry",
-        "PANDAisEVIL",
-        "AironVega",
+        "ShtrafBat",
         "IlxxxlI",
-        "pineapplesand",
-        "dankmann",
-        "ElvenEyes",
-        "gust",
-        "VegetablesArentYummy"
+        "letsgooooo",
+        "Pureprofit4",
+        "SheppyPOO!!",
+        "bet2000"
     ],
     "players_seats": [
         1,
@@ -22,81 +19,85 @@
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        100.0,
-        102.46,
-        100.0,
-        40.0,
-        99.16,
-        111.36,
-        101.5,
-        50.0,
-        262.69
+        88.04,
+        130.17,
+        97.9,
+        564.36,
+        200.0,
+        560.02
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "pineapplesand",
-    "big_blind": 1.0,
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "bet2000",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5s",
-        "Qd"
+        "6d",
+        "5c"
     ],
     "dealed_cards": {
         "flop": [
-            "8c",
-            "9h",
-            "4d"
+            "Qc",
+            "Ah",
+            "4c"
         ],
-        "turn": [],
+        "turn": [
+            "3d"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "dankmann",
-                "ElvenEyes",
-                "gust",
-                "VegetablesArentYummy",
-                "StephCurry",
-                "PANDAisEVIL",
-                "AironVega",
+                "ShtrafBat",
                 "IlxxxlI",
-                "pineapplesand"
+                "letsgooooo",
+                "Pureprofit4",
+                "SheppyPOO!!",
+                "bet2000"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "CALL"
             ],
             "values": [
+                8.0,
                 null,
                 null,
                 null,
-                2.5,
                 null,
-                2.5,
-                null,
-                null,
-                null
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "VegetablesArentYummy",
-                "PANDAisEVIL",
-                "VegetablesArentYummy"
+                "bet2000",
+                "ShtrafBat",
+                "bet2000"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.92,
+                8.92
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bet2000",
+                "ShtrafBat",
+                "bet2000"
             ],
             "actions": [
                 "CHECK",
@@ -105,14 +106,9 @@
             ],
             "values": [
                 null,
-                3.83,
+                23.66,
                 null
             ]
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-river": {
             "players": [],
@@ -126,20 +122,14 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        100.0,
-        106.13999999999999,
-        100.0,
-        39.5,
-        98.16,
-        111.36,
-        101.5,
-        50.0,
-        260.19
+        106.61000000000001,
+        130.17,
+        97.9,
+        564.36,
+        198.0,
+        543.1
     ]
 }

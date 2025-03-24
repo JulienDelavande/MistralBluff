@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/23 23:47:52",
+    "game_id": "804589066",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "NdRunner",
+        "OlegGazmanoy",
+        "Sonic3Dblast",
+        "IlxxxlI",
+        "BoScHiNg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.61,
+        37.15,
+        25.0,
+        25.0,
+        13.09
+    ],
+    "player_small_blind": "BoScHiNg",
+    "small_blind": 0.1,
+    "player_big_blind": "NdRunner",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "4h",
+            "4d"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "OlegGazmanoy",
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "BoScHiNg",
+                "NdRunner"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "NdRunner",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "NdRunner",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "NdRunner",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.01,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        28.38,
+        36.4,
+        25.0,
+        25.0,
+        12.99
+    ]
+}

@@ -1,81 +1,111 @@
 {
-    "date": "2016/11/29 12:6:57",
-    "game_id": "786927106",
+    "date": "2016/9/6 1:5:31",
+    "game_id": "720663261",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "kidpokerak",
+        "PANDAisEVIL",
+        "RMCG01",
+        "Gronkowski69",
         "IlxxxlI",
-        "foreseen",
-        "QDevilQ",
-        "imperceptible"
+        "cuzyagood",
+        "Leatherass9"
     ],
     "players_seats": [
         1,
         2,
-        3,
-        4,
-        5
+        5,
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        108.8,
-        27.5,
-        70.92,
-        100.86,
-        15.86
+        212.25,
+        168.0,
+        206.0,
+        86.0,
+        463.16,
+        325.0
     ],
-    "player_small_blind": "foreseen",
-    "small_blind": 0.25,
-    "player_big_blind": "QDevilQ",
-    "big_blind": 0.5,
+    "player_small_blind": "cuzyagood",
+    "small_blind": 2.0,
+    "player_big_blind": "Leatherass9",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ah",
-        "5c"
+        "6c",
+        "Jd"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "2c",
+            "Ad",
+            "Ah"
+        ],
+        "turn": [
+            "Jc"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "imperceptible",
-                "kidpokerak",
+                "PANDAisEVIL",
+                "RMCG01",
+                "Gronkowski69",
                 "IlxxxlI",
-                "foreseen",
-                "QDevilQ",
-                "kidpokerak"
+                "cuzyagood",
+                "Leatherass9"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                8.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Leatherass9",
+                "Gronkowski69"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Leatherass9",
+                "Gronkowski69",
+                "Leatherass9"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                1.5,
-                null,
-                null,
-                5.0,
+                12.0,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-river": {
             "players": [],
@@ -88,13 +118,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        107.3,
-        27.5,
-        70.67,
-        102.61,
-        15.86
+        212.25,
+        168.0,
+        215.85,
+        86.0,
+        461.16,
+        317.0
     ]
 }

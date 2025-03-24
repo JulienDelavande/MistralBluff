@@ -1,0 +1,119 @@
+{
+    "date": "2016/12/27 16:35:3",
+    "game_id": "807107723",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "heraklinos89",
+        "IlxxxlI",
+        "DHD"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4
+    ],
+    "starting_stacks": [
+        25.0,
+        53.85,
+        98.73
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "DHD",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "9s",
+            "Qh"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI",
+                "DHD",
+                "heraklinos89"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.25,
+                3.9,
+                null,
+                2.9
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "heraklinos89"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "heraklinos89"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "heraklinos89"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "As Js",
+        null
+    ],
+    "finishing_stack": [
+        18.35,
+        60.31,
+        98.23
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/2 17:4:50",
+    "game_id": "789357499",
+    "variant": "PRR",
+    "table_name": "Kraken-15",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Ksowas",
+        "IlxxxlI",
+        "HomoPokerus",
+        "VegetablesArentYummy",
+        "plzTRYharder"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        146.39,
+        40.5,
+        187.13,
+        230.03,
+        107.16
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "HomoPokerus",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "5c",
+            "8c"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "plzTRYharder",
+                "Ksowas",
+                "IlxxxlI",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HomoPokerus",
+                "Ksowas"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HomoPokerus",
+                "Ksowas"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HomoPokerus",
+                "Ksowas"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.99,
+                4.99
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ah 4c",
+        null,
+        "5s Jh",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        155.85999999999999,
+        40.0,
+        177.14,
+        230.03,
+        107.16
+    ]
+}

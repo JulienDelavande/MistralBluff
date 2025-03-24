@@ -1,132 +1,92 @@
 {
-    "date": "2016/11/28 17:58:47",
-    "game_id": "786345150",
+    "date": "2016/9/18 9:10:48",
+    "game_id": "730247444",
     "variant": "PRR",
-    "table_name": "Kraken-16",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "Hakuna_Matata777",
-        "SenNoSen",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "plin777",
-        "CrimZnole"
+        "38979",
+        "gosu36484"
     ],
     "players_seats": [
         1,
         2,
-        4,
-        5,
+        3,
         6
     ],
     "starting_stacks": [
-        130.81,
-        101.13,
-        40.9,
-        49.54,
-        94.16
+        100.0,
+        43.0,
+        271.45,
+        168.0
     ],
-    "player_small_blind": "plin777",
-    "small_blind": 0.5,
-    "player_big_blind": "CrimZnole",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "38979",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "Qh"
+        "9s",
+        "9d"
     ],
     "dealed_cards": {
-        "flop": [
-            "7c",
-            "3h",
-            "6d"
-        ],
-        "turn": [
-            "10s"
-        ],
-        "river": [
-            "4s"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Hakuna_Matata777",
-                "SenNoSen",
+                "gosu36484",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "plin777",
-                "CrimZnole"
+                "38979",
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "FOLD",
                 "FOLD",
                 "RAISE",
+                "ALLIN",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                2.0,
-                null,
-                1.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "CrimZnole",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "CrimZnole",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                1.7,
-                1.7
-            ]
-        },
-        "post-river": {
-            "players": [
-                "CrimZnole",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
                 "FOLD"
             ],
             "values": [
-                6.2,
+                null,
+                5.0,
+                42.0,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        130.81,
-        101.13,
-        37.199999999999996,
-        49.04,
-        97.97
+        95.0,
+        50.0,
+        269.45,
+        168.0
     ]
 }

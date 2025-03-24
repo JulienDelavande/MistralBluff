@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/8 20:37:47",
+    "game_id": "793483110",
+    "variant": "PRR",
+    "table_name": "Gorgons-13",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "WeakAndWeary",
+        "odel_nadel",
+        "IgLa",
+        "Bokmal",
+        "IlxxxlI",
+        "Oral-Bet"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        66.22,
+        79.83,
+        49.89,
+        50.75,
+        25.69,
+        20.0
+    ],
+    "player_small_blind": "IgLa",
+    "small_blind": 0.25,
+    "player_big_blind": "Bokmal",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "4d",
+            "8h"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Oral-Bet",
+                "WeakAndWeary",
+                "odel_nadel",
+                "IgLa",
+                "Bokmal"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.75,
+                null,
+                null,
+                1.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "odel_nadel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.95,
+                2.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "odel_nadel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.5,
+                8.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "odel_nadel"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                12.49,
+                12.49
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ah Qd",
+        null,
+        null,
+        "Ks Qs",
+        null
+    ],
+    "finishing_stack": [
+        66.22,
+        103.67,
+        49.64,
+        50.25,
+        0.0,
+        20.0
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/4 13:18:38",
+    "game_id": "790636239",
+    "variant": "PRR",
+    "table_name": "Garuda-3",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "RedeemMe",
+        "MortalLock",
+        "Antimonysayz",
+        "Spagetti1",
+        "houdini3"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        20.0,
+        16.74,
+        63.69,
+        26.07,
+        30.13,
+        140.81
+    ],
+    "player_small_blind": "MortalLock",
+    "small_blind": 0.25,
+    "player_big_blind": "Antimonysayz",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "9c",
+            "9d"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Spagetti1",
+                "houdini3",
+                "IlxxxlI",
+                "RedeemMe",
+                "MortalLock",
+                "Antimonysayz"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                1.25,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Antimonysayz",
+                "IlxxxlI",
+                "RedeemMe",
+                "Antimonysayz",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.9,
+                null,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "RedeemMe",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.94,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        16.85,
+        21.0,
+        63.44,
+        24.82,
+        30.13,
+        140.81
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 11:28:58",
+    "game_id": "794005767",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "Bluffing Every Hand",
+        "Heksebrygg",
+        "IlxxxlI",
+        "Polar1z1ng"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        65.33,
+        51.35,
+        50.0,
+        22.24,
+        75.55
+    ],
+    "player_small_blind": "Bluffing Every Hand",
+    "small_blind": 0.25,
+    "player_big_blind": "Heksebrygg",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "3c",
+            "Ad"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Polar1z1ng",
+                "WeakAndWeary",
+                "Bluffing Every Hand",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Bluffing Every Hand",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Bluffing Every Hand",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.5,
+                3.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Bluffing Every Hand",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qc 6c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        65.33,
+        58.1,
+        42.5,
+        22.24,
+        75.55
+    ]
+}

@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 20:5:50",
-    "game_id": "786369179",
+    "date": "2016/9/18 8:4:57",
+    "game_id": "730208489",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
     "button_seat": 3,
     "players": [
         "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "Are you with me",
-        "Wollverin",
-        "dscshift"
+        "0nlyDaNuts",
+        "VegetablesArentYummy",
+        "gosu36484",
+        "Pimpika",
+        "BlitzWaut",
+        "Immortal.",
+        "dartx",
+        "Chicubs2016"
     ],
     "players_seats": [
         1,
@@ -19,67 +22,98 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.0,
-        175.14,
-        106.79,
-        70.0,
-        114.24,
-        112.8
+        86.02,
+        108.09,
+        108.12,
+        36.0,
+        49.09,
+        123.54,
+        100.0,
+        112.84,
+        34.46
     ],
-    "player_small_blind": "Are you with me",
-    "small_blind": 1.0,
-    "player_big_blind": "Wollverin",
-    "big_blind": 2.0,
+    "player_small_blind": "gosu36484",
+    "small_blind": 0.5,
+    "player_big_blind": "Pimpika",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "4c"
+        "7s",
+        "2h"
     ],
     "dealed_cards": {
         "flop": [
-            "7d",
-            "Kc",
-            "7s"
+            "3h",
+            "5s",
+            "8h"
         ],
         "turn": [
-            "9d"
+            "Jc"
         ],
-        "river": []
+        "river": [
+            "Kc"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "dscshift",
+                "BlitzWaut",
+                "Immortal.",
+                "dartx",
+                "Chicubs2016",
                 "IlxxxlI",
-                "38979",
-                "sheenius81",
-                "Are you with me",
-                "Wollverin"
+                "0nlyDaNuts",
+                "VegetablesArentYummy",
+                "gosu36484",
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
+                "FOLD",
                 "CALL",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
-                6.0,
-                6.0,
+                null,
+                1.0,
+                null,
+                null,
+                null,
                 null,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "38979",
-                "sheenius81"
+                "Pimpika",
+                "Chicubs2016"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.58,
+                1.58
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Pimpika",
+                "Chicubs2016"
             ],
             "actions": [
                 "CHECK",
@@ -90,24 +124,19 @@
                 null
             ]
         },
-        "post-turn": {
+        "post-river": {
             "players": [
-                "38979",
-                "sheenius81"
+                "Pimpika",
+                "Chicubs2016"
             ],
             "actions": [
                 "BET",
                 "FOLD"
             ],
             "values": [
-                10.0,
+                3.58,
                 null
             ]
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
@@ -116,14 +145,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.0,
-        183.39,
-        100.79,
-        69.0,
-        112.24,
-        112.8
+        86.02,
+        108.09,
+        108.12,
+        35.5,
+        51.89000000000001,
+        123.54,
+        100.0,
+        112.84,
+        31.880000000000003
     ]
 }

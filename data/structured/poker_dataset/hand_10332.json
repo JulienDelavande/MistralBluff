@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/25 14:2:0",
+    "game_id": "805706961",
+    "variant": "PRR",
+    "table_name": "Ettin-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Spagetti1",
+        "Ratbastrd",
+        "IlxxxlI",
+        "viva el ocho",
+        "MrTamPham",
+        "Parcker",
+        "chrisc1515"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        51.59,
+        46.0,
+        34.21,
+        25.07,
+        25.67,
+        25.0,
+        40.14
+    ],
+    "player_small_blind": "MrTamPham",
+    "small_blind": 0.1,
+    "player_big_blind": "Parcker",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "2s",
+            "8s"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "chrisc1515",
+                "Spagetti1",
+                "Ratbastrd",
+                "IlxxxlI",
+                "viva el ocho",
+                "MrTamPham",
+                "Parcker"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                0.5,
+                null,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Parcker",
+                "chrisc1515",
+                "Ratbastrd",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Parcker",
+                "chrisc1515",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        51.59,
+        45.5,
+        34.21,
+        25.07,
+        25.57,
+        23.5,
+        42.06
+    ]
+}

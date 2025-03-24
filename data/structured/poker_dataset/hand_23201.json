@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 20:6:13",
+    "game_id": "793476929",
+    "variant": "PRR",
+    "table_name": "Gorgons-3",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "lonleyronin",
+        "odel_nadel",
+        "IgLa",
+        "WeakAndWeary",
+        "busi",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        64.62,
+        67.11,
+        58.07,
+        27.88,
+        20.0
+    ],
+    "player_small_blind": "lonleyronin",
+    "small_blind": 0.25,
+    "player_big_blind": "odel_nadel",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "5h",
+            "7d"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "WeakAndWeary",
+                "busi",
+                "IlxxxlI",
+                "lonleyronin",
+                "odel_nadel",
+                "IgLa"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.25,
+                null,
+                2.0,
+                null,
+                1.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lonleyronin",
+                "busi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "lonleyronin",
+                "busi",
+                "lonleyronin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        48.0,
+        64.12,
+        65.86,
+        58.07,
+        31.349999999999998,
+        20.0
+    ]
+}

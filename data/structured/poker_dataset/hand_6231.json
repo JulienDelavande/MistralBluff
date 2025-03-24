@@ -1,0 +1,152 @@
+{
+    "date": "2016/10/12 23:38:53",
+    "game_id": "749132388",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Orondi",
+        "Gronkowski69",
+        "rojoryderr1",
+        "running naked",
+        "Gargantuatua",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        217.44,
+        112.38,
+        39.0,
+        95.63,
+        128.09,
+        100.0
+    ],
+    "player_small_blind": "rojoryderr1",
+    "small_blind": 0.5,
+    "player_big_blind": "running naked",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "2s",
+            "6d"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Gargantuatua",
+                "IlxxxlI",
+                "Orondi",
+                "Gronkowski69",
+                "rojoryderr1",
+                "running naked"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "rojoryderr1",
+                "running naked",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "rojoryderr1",
+                "running naked",
+                "Orondi",
+                "rojoryderr1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                6.0,
+                6.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "running naked",
+                "Orondi",
+                "running naked"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        228.39,
+        112.38,
+        36.0,
+        86.63,
+        128.09,
+        100.0
+    ]
+}

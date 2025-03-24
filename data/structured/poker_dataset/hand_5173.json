@@ -1,0 +1,130 @@
+{
+    "date": "2016/10/6 10:18:16",
+    "game_id": "744142897",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "PitBullKermy",
+        "UrSoDumb",
+        "IlxxxlI",
+        "LuckyBoy1980"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        72.26,
+        118.3,
+        150.78,
+        191.86
+    ],
+    "player_small_blind": "PitBullKermy",
+    "small_blind": 1.0,
+    "player_big_blind": "UrSoDumb",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "Ah",
+            "2d"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "LuckyBoy1980",
+                "PitBullKermy",
+                "UrSoDumb"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "UrSoDumb",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "UrSoDumb",
+                "IlxxxlI",
+                "UrSoDumb"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.7,
+                5.7
+            ]
+        },
+        "post-river": {
+            "players": [
+                "UrSoDumb",
+                "IlxxxlI",
+                "UrSoDumb"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.69,
+                9.69
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ad 5s",
+        "5c Ac",
+        null
+    ],
+    "finishing_stack": [
+        71.26,
+        117.81,
+        150.29,
+        191.86
+    ]
+}

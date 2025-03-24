@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/19 21:58:32",
+    "game_id": "801742462",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "AceSeven",
+        "LUCERtola38",
+        "IlxxxlI",
+        "s7amen",
+        "ChritterBug",
+        "DavidAsher"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.4,
+        28.63,
+        25.0,
+        35.78,
+        30.18,
+        14.68
+    ],
+    "player_small_blind": "AceSeven",
+    "small_blind": 0.1,
+    "player_big_blind": "LUCERtola38",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "Qc",
+            "2h"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "s7amen",
+                "ChritterBug",
+                "DavidAsher",
+                "AceSeven",
+                "LUCERtola38",
+                "DavidAsher",
+                "AceSeven"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.25,
+                0.15,
+                0.75,
+                0.75,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AceSeven",
+                "LUCERtola38",
+                "DavidAsher"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.9,
+                1.9,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AceSeven",
+                "LUCERtola38",
+                "AceSeven"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                3.23,
+                6.46,
+                3.23
+            ]
+        },
+        "post-river": {
+            "players": [
+                "AceSeven",
+                "LUCERtola38",
+                "AceSeven"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                19.27,
+                11.04
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "9h As",
+        "Qd Ah",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        0.0,
+        47.94,
+        25.0,
+        35.78,
+        30.18,
+        13.68
+    ]
+}

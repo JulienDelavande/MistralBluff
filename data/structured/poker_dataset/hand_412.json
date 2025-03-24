@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 14:22:47",
-    "game_id": "787003900",
+    "date": "2016/9/5 12:4:10",
+    "game_id": "720258732",
     "variant": "PRR",
-    "table_name": "Gorgons-15",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 3,
     "players": [
-        "WeakAndWeary",
-        "IampokerKidd",
-        "imger8",
+        "RapaNui",
+        "St3p04ka",
+        "GranatoBetano",
         "IlxxxlI",
-        "foreseen",
-        "BiGFck"
+        "Sailor1704",
+        "markthegreat100",
+        "ShtrafBat",
+        "follower1",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
@@ -19,49 +22,67 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        51.7,
-        107.51,
-        43.5,
-        22.25,
-        52.7,
-        10.75
+        455.36,
+        120.0,
+        189.0,
+        140.59,
+        1242.06,
+        224.45,
+        137.3,
+        320.65,
+        225.0
     ],
-    "player_small_blind": "IampokerKidd",
-    "small_blind": 0.25,
-    "player_big_blind": "imger8",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 3.0,
+    "player_big_blind": "Sailor1704",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "7d"
+        "Qs",
+        "4h"
     ],
     "dealed_cards": {
         "flop": [
-            "6d",
-            "3d",
-            "8c"
+            "As",
+            "8s",
+            "8d"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "3h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "markthegreat100",
+                "ShtrafBat",
+                "follower1",
+                "TheManiac89",
+                "RapaNui",
+                "St3p04ka",
+                "GranatoBetano",
                 "IlxxxlI",
-                "foreseen",
-                "BiGFck",
-                "WeakAndWeary",
-                "IampokerKidd",
-                "imger8"
+                "Sailor1704",
+                "TheManiac89"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "CALL",
+                "FOLD",
                 "RAISE",
+                "FOLD",
+                "FOLD",
                 "CALL",
                 "FOLD"
             ],
@@ -69,16 +90,48 @@
                 null,
                 null,
                 null,
-                1.0,
-                0.75,
+                6.0,
+                null,
+                24.0,
+                null,
+                null,
+                18.0,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "IampokerKidd",
-                "WeakAndWeary",
-                "IampokerKidd"
+                "Sailor1704",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Sailor1704",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Sailor1704",
+                "St3p04ka",
+                "Sailor1704"
             ],
             "actions": [
                 "CHECK",
@@ -87,19 +140,9 @@
             ],
             "values": [
                 null,
-                1.79,
+                28.22,
                 null
             ]
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
@@ -108,14 +151,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        53.080000000000005,
-        106.51,
-        43.0,
-        22.25,
-        52.7,
-        10.75
+        455.36,
+        152.45,
+        189.0,
+        137.59,
+        1218.06,
+        224.45,
+        137.3,
+        320.65,
+        219.0
     ]
 }

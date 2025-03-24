@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/22 15:44:10",
+    "game_id": "733464272",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Anastasia31",
+        "TuxoH",
+        "T0ny Adams",
+        "TATKO",
+        "1Thesecretone"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        166.0,
+        510.96,
+        403.8,
+        540.21,
+        421.0,
+        171.6
+    ],
+    "player_small_blind": "TATKO",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "8c",
+            "3d"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Anastasia31",
+                "TuxoH",
+                "T0ny Adams",
+                "TATKO",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "TuxoH",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.92,
+                8.92
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "TuxoH",
+                "IlxxxlI",
+                "TuxoH"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                24.0,
+                149.08,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        208.12,
+        510.96,
+        362.88,
+        540.21,
+        419.0,
+        171.6
+    ]
+}

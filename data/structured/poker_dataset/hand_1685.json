@@ -1,53 +1,94 @@
 {
-    "date": "2016/11/28 20:19:20",
-    "game_id": "786372354",
+    "date": "2016/9/18 7:56:50",
+    "game_id": "730203913",
     "variant": "PRR",
     "table_name": "Lakhey",
     "type_game": "Short",
-    "button_seat": 2,
+    "button_seat": 4,
     "players": [
+        "GreinSeint",
         "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "Are you with me",
-        "Wollverin"
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "Cellar door",
+        "wjb024"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6
     ],
     "starting_stacks": [
-        49.8,
-        248.69,
-        190.7,
-        71.35,
-        100.0
+        196.85,
+        43.0,
+        100.0,
+        138.7,
+        100.0,
+        82.0
     ],
-    "player_small_blind": "sheenius81",
+    "player_small_blind": "Cellar door",
     "small_blind": 1.0,
-    "player_big_blind": "Wollverin",
+    "player_big_blind": "wjb024",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10d",
-        "Jc"
+        "Jh",
+        "2h"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "2c",
+            "6d",
+            "3s"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "GreinSeint",
                 "IlxxxlI",
-                "38979",
-                "sheenius81"
+                "VegetablesArentYummy",
+                "KeepKalm",
+                "Cellar door",
+                "wjb024"
             ],
             "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                null,
+                null,
+                5.0,
+                4.0,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Cellar door",
+                "wjb024",
+                "GreinSeint",
+                "KeepKalm",
+                "Cellar door",
+                "wjb024",
+                "GreinSeint"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "BET",
                 "FOLD",
                 "FOLD",
                 "FOLD"
@@ -55,13 +96,12 @@
             "values": [
                 null,
                 null,
+                null,
+                9.5,
+                null,
+                null,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-turn": {
             "players": [],
@@ -79,13 +119,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        49.8,
-        248.69,
-        189.7,
-        71.35,
-        101.0
+        191.85,
+        43.0,
+        100.0,
+        152.7,
+        95.0,
+        77.0
     ]
 }

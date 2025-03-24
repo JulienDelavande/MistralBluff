@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/25 13:20:52",
+    "game_id": "805689194",
+    "variant": "PRR",
+    "table_name": "Ettin-6",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Spagetti1",
+        "Ratbastrd",
+        "IlxxxlI",
+        "Taang",
+        "Burn1Down_AA",
+        "TheBigALofVA"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        24.04,
+        29.11,
+        25.27,
+        53.63,
+        29.32,
+        42.79
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Taang",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "8c",
+            "Jc"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Burn1Down_AA",
+                "TheBigALofVA",
+                "Spagetti1",
+                "Ratbastrd",
+                "IlxxxlI",
+                "Taang",
+                "Burn1Down_AA",
+                "TheBigALofVA"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                2.75,
+                null,
+                4.75,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "TheBigALofVA",
+                "Ratbastrd",
+                "TheBigALofVA"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.71,
+                6.71
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "TheBigALofVA",
+                "Ratbastrd",
+                "TheBigALofVA"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                17.65,
+                17.65
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qh Qd",
+        null,
+        null,
+        null,
+        "10h 10c"
+    ],
+    "finishing_stack": [
+        24.04,
+        56.36,
+        25.169999999999998,
+        53.38,
+        28.57,
+        13.68
+    ]
+}

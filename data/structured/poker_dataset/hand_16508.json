@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/22 20:34:51",
+    "game_id": "803756532",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "HapKoTuk",
+        "SkaHot",
+        "IlxxxlI",
+        "Cef539",
+        "Spears1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        68.77,
+        30.17,
+        18.68,
+        30.5
+    ],
+    "player_small_blind": "Cef539",
+    "small_blind": 0.1,
+    "player_big_blind": "Spears1",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "10d",
+            "3c"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "SkaHot",
+                "IlxxxlI",
+                "Cef539",
+                "Spears1"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.62,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Spears1",
+                "SkaHot"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.85,
+                0.85
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Spears1",
+                "SkaHot",
+                "Spears1"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.75,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Spears1",
+                "SkaHot",
+                "Spears1"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                3.11,
+                12.0,
+                8.89
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10h Qd",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        82.57,
+        30.17,
+        18.58,
+        15.28
+    ]
+}

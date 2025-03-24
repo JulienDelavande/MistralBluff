@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/10 8:43:49",
+    "game_id": "794522360",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "vash54",
+        "LazyFish",
+        "St3p04ka",
+        "riggerhodes"
+    ],
+    "players_seats": [
+        3,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        68.65,
+        198.75,
+        113.27,
+        201.04,
+        47.25
+    ],
+    "player_small_blind": "vash54",
+    "small_blind": 1.0,
+    "player_big_blind": "LazyFish",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "3d",
+            "Ac"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "St3p04ka",
+                "riggerhodes",
+                "IlxxxlI",
+                "vash54",
+                "LazyFish",
+                "vash54"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                5.0,
+                16.0,
+                12.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "vash54",
+                "LazyFish"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "vash54",
+                "LazyFish"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                10.0,
+                10.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "vash54",
+                "LazyFish"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Jc Js",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        68.65,
+        223.95,
+        85.27,
+        201.04,
+        47.25
+    ]
+}

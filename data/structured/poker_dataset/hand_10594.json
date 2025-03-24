@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/25 13:29:56",
+    "game_id": "805693358",
+    "variant": "PRR",
+    "table_name": "Ettin-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Spagetti1",
+        "Ratbastrd",
+        "IlxxxlI",
+        "TheBigALofVA"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        9
+    ],
+    "starting_stacks": [
+        23.26,
+        49.38,
+        25.0,
+        58.41
+    ],
+    "player_small_blind": "Ratbastrd",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "As",
+            "3d"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TheBigALofVA",
+                "Spagetti1",
+                "Ratbastrd",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ratbastrd",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.63,
+                0.63
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ratbastrd",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.07,
+                1.07
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ratbastrd",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.09,
+                2.09
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ah Qc",
+        "7s 5s",
+        null
+    ],
+    "finishing_stack": [
+        23.26,
+        45.09,
+        28.87,
+        58.41
+    ]
+}

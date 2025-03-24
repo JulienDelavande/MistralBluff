@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 18:55:26",
-    "game_id": "786356021",
+    "date": "2016/9/18 8:42:40",
+    "game_id": "730232017",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Karkadann",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 1,
     "players": [
-        "SenNoSen",
-        "eu4ria",
         "IlxxxlI",
-        "Goomashroom",
-        "legenda99",
-        "wethco"
+        "0nlyDaNuts",
+        "VegetablesArentYummy",
+        "gosu36484",
+        "Pimpika",
+        "BlitzWaut",
+        "01001111",
+        "Frisconar"
     ],
     "players_seats": [
         1,
@@ -19,93 +21,76 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        9
     ],
     "starting_stacks": [
-        57.03,
-        234.83,
-        20.0,
-        104.45,
-        50.0,
-        67.13
+        54.2,
+        130.2,
+        202.87,
+        37.75,
+        56.68,
+        108.95,
+        101.38,
+        37.0
     ],
-    "player_small_blind": "legenda99",
-    "small_blind": 0.25,
-    "player_big_blind": "wethco",
-    "big_blind": 0.5,
+    "player_small_blind": "0nlyDaNuts",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "5h"
+        "Jc",
+        "9d"
     ],
     "dealed_cards": {
-        "flop": [
-            "Jh",
-            "Jd",
-            "Kh"
-        ],
-        "turn": [
-            "2c"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "SenNoSen",
-                "eu4ria",
+                "gosu36484",
+                "Pimpika",
+                "BlitzWaut",
+                "01001111",
+                "Frisconar",
                 "IlxxxlI",
-                "Goomashroom",
-                "legenda99",
-                "wethco"
+                "0nlyDaNuts",
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                1.13,
-                null,
-                0.63
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "wethco",
-                "Goomashroom"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "wethco",
-                "Goomashroom",
-                "wethco"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                1.75,
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -119,14 +104,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        57.03,
-        234.83,
-        20.0,
-        105.71000000000001,
-        49.75,
-        66.0
+        54.2,
+        129.7,
+        201.87,
+        37.75,
+        56.68,
+        110.45,
+        101.38,
+        37.0
     ]
 }

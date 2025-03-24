@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/8 17:42:26",
+    "game_id": "793448676",
+    "variant": "PRR",
+    "table_name": "Gorgons-21",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "IlxxxlI",
+        "Bokmal",
+        "Azaladog",
+        "Jui Kuen",
+        "DopeDope"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        178.21,
+        21.25,
+        50.0,
+        50.61,
+        50.75,
+        48.1
+    ],
+    "player_small_blind": "DopeDope",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "8s",
+            "10c"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Bokmal",
+                "Azaladog",
+                "Jui Kuen",
+                "DopeDope",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.5,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DopeDope",
+                "WeakAndWeary",
+                "Azaladog",
+                "Jui Kuen",
+                "DopeDope",
+                "WeakAndWeary",
+                "Azaladog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Azaladog",
+                "Jui Kuen",
+                "Azaladog"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                6.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        176.71,
+        21.25,
+        50.0,
+        46.11,
+        57.65,
+        46.6
+    ]
+}

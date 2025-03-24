@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/22 22:2:1",
+    "game_id": "803796035",
+    "variant": "PRR",
+    "table_name": "Ettin-6",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "tywhoyou",
+        "uberlin",
+        "IlxxxlI",
+        "MeromAd",
+        "booya25",
+        "majomx",
+        "notyourpot"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        32.12,
+        24.68,
+        29.32,
+        12.01,
+        24.65,
+        30.2,
+        37.5
+    ],
+    "player_small_blind": "notyourpot",
+    "small_blind": 0.1,
+    "player_big_blind": "tywhoyou",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "6s",
+            "7d"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "uberlin",
+                "IlxxxlI",
+                "MeromAd",
+                "booya25",
+                "majomx",
+                "notyourpot",
+                "tywhoyou"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "notyourpot",
+                "tywhoyou",
+                "MeromAd",
+                "notyourpot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "tywhoyou",
+                "MeromAd"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.04,
+        24.68,
+        29.32,
+        11.26,
+        24.65,
+        30.2,
+        37.25
+    ]
+}

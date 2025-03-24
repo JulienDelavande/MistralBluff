@@ -1,127 +1,86 @@
 {
-    "date": "2016/11/29 8:43:0",
-    "game_id": "786762153",
+    "date": "2016/9/17 14:51:58",
+    "game_id": "729607035",
     "variant": "PRR",
-    "table_name": "Gorgons-7",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "Madmonkeygan",
-        "Heksebrygg",
-        "virtualbox",
-        "IlxxxlI"
+        "38979",
+        "IlxxxlI",
+        "Fuck-P-Stars",
+        "elpasoafera"
     ],
     "players_seats": [
-        1,
         2,
+        3,
         4,
-        6
+        5
     ],
     "starting_stacks": [
-        58.04,
-        53.56,
-        56.12,
-        20.0
+        111.4,
+        78.0,
+        161.2,
+        44.0
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "Heksebrygg",
-    "big_blind": 0.5,
+    "small_blind": 1.0,
+    "player_big_blind": "Fuck-P-Stars",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9c",
-        "4h"
+        "4s",
+        "Jd"
     ],
     "dealed_cards": {
-        "flop": [
-            "As",
-            "9d",
-            "8d"
-        ],
-        "turn": [
-            "6s"
-        ],
-        "river": [
-            "7h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "virtualbox",
-                "IlxxxlI",
-                "Heksebrygg"
+                "elpasoafera",
+                "38979",
+                "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                1.0,
-                null,
-                0.5
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "Heksebrygg",
-                "virtualbox",
-                "Heksebrygg"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
+                "FOLD",
+                "FOLD"
             ],
             "values": [
                 null,
-                1.07,
-                1.07
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Heksebrygg",
-                "virtualbox",
-                "Heksebrygg"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                4.18,
-                4.18
-            ]
-        },
-        "post-river": {
-            "players": [
-                "Heksebrygg",
-                "virtualbox"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
                 null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "8c Ad",
+        null,
         null
     ],
     "finishing_stack": [
-        58.04,
-        47.31,
-        61.989999999999995,
-        19.75
+        111.4,
+        77.0,
+        162.2,
+        44.0
     ]
 }

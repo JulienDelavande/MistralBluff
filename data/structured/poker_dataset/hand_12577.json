@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/24 21:12:28",
+    "game_id": "805225524",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "gipper PK",
+        "booya25",
+        "IlxxxlI",
+        "BobbyJones1936",
+        "runsdeeply"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        36.8,
+        25.0,
+        49.9,
+        11.41,
+        20.68
+    ],
+    "player_small_blind": "BobbyJones1936",
+    "small_blind": 0.1,
+    "player_big_blind": "runsdeeply",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "3d",
+            "10d"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gipper PK",
+                "booya25",
+                "IlxxxlI",
+                "BobbyJones1936",
+                "runsdeeply"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BobbyJones1936",
+                "runsdeeply",
+                "booya25",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.6,
+                null,
+                null,
+                0.6
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BobbyJones1936",
+                "IlxxxlI",
+                "BobbyJones1936"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.6,
+                6.15,
+                5.55
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qs Ks",
+        "10c Jc",
+        null
+    ],
+    "finishing_stack": [
+        36.8,
+        24.25,
+        42.4,
+        19.59,
+        19.93
+    ]
+}

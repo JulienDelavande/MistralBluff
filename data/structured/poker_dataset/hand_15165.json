@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/23 8:35:15",
+    "game_id": "804215683",
+    "variant": "PRR",
+    "table_name": "Ettin-3",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "ZabieramZielone",
+        "viva el ocho",
+        "IlxxxlI",
+        "labnola",
+        "Flipassassin",
+        "Ksander"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        25.0,
+        25.0,
+        25.9,
+        10.0,
+        23.7,
+        31.49
+    ],
+    "player_small_blind": "ZabieramZielone",
+    "small_blind": 0.1,
+    "player_big_blind": "viva el ocho",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "Jd",
+            "9s"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "labnola",
+                "Flipassassin",
+                "Ksander",
+                "ZabieramZielone",
+                "viva el ocho"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "viva el ocho",
+                "Flipassassin",
+                "Ksander",
+                "viva el ocho",
+                "Flipassassin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.75,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "viva el ocho",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "viva el ocho",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qs Js",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.9,
+        27.16,
+        25.9,
+        10.0,
+        22.95,
+        29.99
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 21:11:45",
+    "game_id": "793490990",
+    "variant": "PRR",
+    "table_name": "Ekek-11",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "NdRunner",
+        "IlxxxlI",
+        "ForcedToPortray",
+        "ChaosNil",
+        "CallMePAPA"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        24.75,
+        10.0,
+        56.46,
+        39.05,
+        23.88
+    ],
+    "player_small_blind": "NdRunner",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "4h",
+            "10h"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ForcedToPortray",
+                "ChaosNil",
+                "CallMePAPA",
+                "NdRunner",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "NdRunner",
+                "IlxxxlI",
+                "CallMePAPA",
+                "NdRunner",
+                "IlxxxlI",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.47,
+                null,
+                2.25,
+                1.78
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                7.25,
+                7.25
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "4s 2s",
+        null,
+        null,
+        "10c 5c"
+    ],
+    "finishing_stack": [
+        24.25,
+        19.48,
+        56.46,
+        39.05,
+        13.879999999999999
+    ]
+}

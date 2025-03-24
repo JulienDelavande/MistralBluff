@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/2 12:4:30",
+    "game_id": "789233596",
+    "variant": "PRR",
+    "table_name": "Lakhey-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "PANDAisEVIL",
+        "LazyFish",
+        "Jerek1022",
+        "AironVega",
+        "IlxxxlI",
+        "Gronkowski69"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        256.74,
+        370.38,
+        54.82,
+        200.0,
+        80.0,
+        200.85
+    ],
+    "player_small_blind": "Jerek1022",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "3d",
+            "9s"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Gronkowski69",
+                "PANDAisEVIL",
+                "LazyFish",
+                "Jerek1022",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                4.0,
+                3.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jerek1022",
+                "LazyFish"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jerek1022",
+                "LazyFish",
+                "Jerek1022"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                6.33,
+                18.0,
+                11.67
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Jerek1022",
+                "LazyFish"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "3h 3s",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        256.74,
+        392.08,
+        32.82,
+        200.0,
+        78.0,
+        200.85
+    ]
+}

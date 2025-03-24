@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/24 21:54:7",
+    "game_id": "805237108",
+    "variant": "PRR",
+    "table_name": "Ettin-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "tartlain",
+        "TheKingBigD",
+        "AcesHigh14",
+        "mugiwara_boy",
+        "IlxxxlI",
+        "Aacedugan",
+        "Falcons99"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        30.9,
+        61.52,
+        11.78,
+        41.36,
+        25.0,
+        10.0,
+        7.05
+    ],
+    "player_small_blind": "AcesHigh14",
+    "small_blind": 0.1,
+    "player_big_blind": "mugiwara_boy",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "2s",
+            "6c"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Aacedugan",
+                "Falcons99",
+                "tartlain",
+                "TheKingBigD",
+                "AcesHigh14",
+                "mugiwara_boy",
+                "Falcons99"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                1.5,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Falcons99",
+                "tartlain",
+                "TheKingBigD"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Falcons99",
+                "tartlain",
+                "TheKingBigD",
+                "Falcons99",
+                "tartlain"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.3,
+                null,
+                5.55,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.099999999999998,
+        60.02,
+        11.68,
+        41.11,
+        25.0,
+        10.0,
+        12.23
+    ]
+}

@@ -1,45 +1,54 @@
 {
-    "date": "2016/11/28 19:55:50",
-    "game_id": "786367078",
+    "date": "2016/9/18 8:14:34",
+    "game_id": "730214723",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 6,
     "players": [
-        "caballeroXXX",
-        "38979",
-        "meandkids",
-        "Goomashroom",
-        "IlxxxlI"
+        "A",
+        "IlxxxlI",
+        "Pimpika",
+        "VegetablesArentYummy",
+        "utormico",
+        "Cellar door",
+        "FishinChips",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        6
+        5,
+        6,
+        7,
+        9
     ],
     "starting_stacks": [
-        64.35,
-        50.0,
-        79.85,
-        109.67,
-        20.0
+        358.77,
+        109.21,
+        84.36,
+        200.0,
+        142.58,
+        200.0,
+        131.41,
+        303.15
     ],
-    "player_small_blind": "meandkids",
-    "small_blind": 0.25,
-    "player_big_blind": "Goomashroom",
-    "big_blind": 0.5,
+    "player_small_blind": "FishinChips",
+    "small_blind": 1.0,
+    "player_big_blind": "KeepKalm",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "7c"
+        "10c",
+        "9h"
     ],
     "dealed_cards": {
         "flop": [
-            "8c",
+            "6c",
             "3h",
-            "Kh"
+            "6s"
         ],
         "turn": [],
         "river": []
@@ -47,32 +56,47 @@
     "actions": {
         "pre-flop": {
             "players": [
+                "A",
                 "IlxxxlI",
-                "caballeroXXX",
-                "38979",
-                "meandkids",
-                "Goomashroom"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "utormico",
+                "Cellar door",
+                "FishinChips",
+                "KeepKalm",
+                "Cellar door",
+                "FishinChips"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
                 "CALL",
-                "CHECK"
+                "RAISE",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                0.25,
-                null
+                null,
+                null,
+                4.0,
+                3.0,
+                16.0,
+                null,
+                14.0
             ]
         },
         "post-flop": {
             "players": [
-                "meandkids",
-                "Goomashroom",
-                "meandkids"
+                "FishinChips",
+                "KeepKalm",
+                "FishinChips"
             ],
             "actions": [
                 "CHECK",
@@ -81,7 +105,7 @@
             ],
             "values": [
                 null,
-                0.75,
+                12.0,
                 null
             ]
         },
@@ -101,13 +125,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        64.35,
-        50.0,
-        79.35,
-        110.12,
-        20.0
+        358.77,
+        109.21,
+        84.36,
+        200.0,
+        142.58,
+        196.0,
+        113.41,
+        323.15
     ]
 }

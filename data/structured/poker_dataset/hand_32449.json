@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/6 0:38:38",
+    "game_id": "791608184",
+    "variant": "PRR",
+    "table_name": "Kraken-12",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Azaladog",
+        "IlxxxlI",
+        "me gustan las cartas",
+        "MadLifeGrinder",
+        "GagaPoker"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        106.26,
+        52.05,
+        60.06,
+        105.77,
+        137.52
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "me gustan las cartas",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "2d",
+            "10d"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "GagaPoker",
+                "Azaladog",
+                "IlxxxlI",
+                "me gustan las cartas"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                2.5,
+                2.5,
+                2.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "GagaPoker",
+                "Azaladog",
+                "MadLifeGrinder",
+                "GagaPoker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                4.27,
+                4.27,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "Azaladog",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.33,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        116.16000000000001,
+        51.55,
+        59.06,
+        99.0,
+        135.02
+    ]
+}

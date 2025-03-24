@@ -1,86 +1,79 @@
 {
-    "date": "2016/11/28 20:0:37",
-    "game_id": "786367918",
+    "date": "2016/9/18 8:9:18",
+    "game_id": "730211310",
     "variant": "PRR",
     "table_name": "Lakhey",
     "type_game": "Short",
-    "button_seat": 5,
+    "button_seat": 2,
     "players": [
-        "IlxxxlI",
         "38979",
-        "sheenius81",
-        "Wollverin",
-        "dscshift"
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "Cellar door",
+        "wjb024"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
         6
     ],
     "starting_stacks": [
-        40.0,
-        201.43,
-        105.17,
+        104.0,
+        42.1,
+        101.0,
+        171.62,
         100.0,
-        100.0
+        72.85
     ],
-    "player_small_blind": "dscshift",
+    "player_small_blind": "VegetablesArentYummy",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "KeepKalm",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3s",
-        "7h"
+        "9c",
+        "Qh"
     ],
     "dealed_cards": {
-        "flop": [
-            "6d",
-            "7d",
-            "5h"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "Cellar door",
+                "wjb024",
                 "38979",
-                "sheenius81",
-                "Wollverin",
-                "dscshift",
-                "IlxxxlI"
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "KeepKalm"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
+                null,
+                null,
                 4.0,
                 null,
-                3.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "dscshift",
-                "sheenius81"
-            ],
-            "actions": [
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                10.0,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -98,13 +91,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        38.0,
-        201.43,
-        101.17,
+        104.0,
+        45.1,
         100.0,
-        105.5
+        169.62,
+        100.0,
+        72.85
     ]
 }

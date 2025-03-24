@@ -1,39 +1,45 @@
 {
-    "date": "2016/11/29 14:16:58",
-    "game_id": "787001465",
+    "date": "2016/9/5 12:18:8",
+    "game_id": "720262985",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 6,
     "players": [
-        "WeakAndWeary",
-        "MadLifeGrinder",
-        "Sephiroth1",
+        "RapaNui",
+        "St3p04ka",
+        "GranatoBetano",
         "IlxxxlI",
-        "ElvenEyes"
+        "markthegreat100",
+        "follower1",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        6
+        6,
+        8,
+        9
     ],
     "starting_stacks": [
-        181.36,
-        100.0,
-        146.63,
-        40.0,
-        113.61
+        419.31,
+        224.2,
+        271.63,
+        135.87,
+        251.45,
+        300.0,
+        210.0
     ],
-    "player_small_blind": "Sephiroth1",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "follower1",
+    "small_blind": 3.0,
+    "player_big_blind": "TheManiac89",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
         "5c",
-        "6h"
+        "4c"
     ],
     "dealed_cards": {
         "flop": [],
@@ -43,21 +49,30 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "ElvenEyes",
-                "WeakAndWeary",
-                "MadLifeGrinder",
-                "Sephiroth1"
+                "RapaNui",
+                "St3p04ka",
+                "GranatoBetano",
+                "IlxxxlI",
+                "markthegreat100",
+                "follower1",
+                "TheManiac89"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
                 null,
+                null,
+                null,
+                12.0,
                 null
             ]
         },
@@ -82,13 +97,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        181.36,
-        100.0,
-        146.13,
-        40.5,
-        113.61
+        419.31,
+        224.2,
+        271.63,
+        135.87,
+        251.45,
+        306.0,
+        204.0
     ]
 }

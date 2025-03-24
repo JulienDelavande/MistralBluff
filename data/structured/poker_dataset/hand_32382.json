@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/6 7:40:52",
+    "game_id": "791843657",
+    "variant": "PRR",
+    "table_name": "Ekek-5",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Flushdogg",
+        "luanjunyi",
+        "papa mole",
+        "IlxxxlI",
+        "jayg320",
+        "OlegGazmanoy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.46,
+        23.3,
+        13.41,
+        13.15,
+        31.82,
+        25.0
+    ],
+    "player_small_blind": "jayg320",
+    "small_blind": 0.1,
+    "player_big_blind": "OlegGazmanoy",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "4s",
+            "Ad"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Flushdogg",
+                "luanjunyi",
+                "papa mole",
+                "IlxxxlI",
+                "jayg320",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jayg320",
+                "OlegGazmanoy",
+                "papa mole"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.48,
+                null,
+                0.48
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "jayg320",
+                "papa mole"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "jayg320",
+                "papa mole",
+                "jayg320"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.46,
+        23.3,
+        14.309999999999999,
+        13.15,
+        31.09,
+        24.75
+    ]
+}

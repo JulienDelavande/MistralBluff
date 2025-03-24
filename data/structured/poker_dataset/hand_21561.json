@@ -1,0 +1,145 @@
+{
+    "date": "2016/12/9 8:24:35",
+    "game_id": "793846968",
+    "variant": "PRR",
+    "table_name": "Ettin-4",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "Ksander",
+        "Maria_Pia",
+        "mcguns45",
+        "Tzra1",
+        "IlxxxlI",
+        "viva el ocho",
+        "Aacedugan"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        25.6,
+        10.0,
+        34.6,
+        7.69,
+        26.35,
+        25.0,
+        10.0
+    ],
+    "player_small_blind": "Ksander",
+    "small_blind": 0.1,
+    "player_big_blind": "Maria_Pia",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "2s",
+            "Kd"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mcguns45",
+                "Tzra1",
+                "IlxxxlI",
+                "viva el ocho",
+                "Aacedugan",
+                "Ksander",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.25,
+                null,
+                null,
+                1.25,
+                null,
+                1.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksander",
+                "mcguns45",
+                "viva el ocho",
+                "Ksander",
+                "mcguns45",
+                "viva el ocho",
+                "mcguns45"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                2.5,
+                null,
+                7.5,
+                21.25,
+                15.0
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Kc Ks",
+        null,
+        null,
+        "2d 2c",
+        null
+    ],
+    "finishing_stack": [
+        24.35,
+        9.75,
+        58.53,
+        7.69,
+        26.35,
+        0.0,
+        10.0
+    ]
+}

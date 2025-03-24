@@ -1,0 +1,124 @@
+{
+    "date": "2016/10/13 10:23:0",
+    "game_id": "749614211",
+    "variant": "PRR",
+    "table_name": "Gorgons-9",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Namu0124",
+        "Radenmyer24",
+        "IlxxxlI",
+        "ali23imsirovic",
+        "EQUITYisnotEV"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.0,
+        27.52,
+        68.86,
+        52.06,
+        77.12
+    ],
+    "player_small_blind": "ali23imsirovic",
+    "small_blind": 0.25,
+    "player_big_blind": "EQUITYisnotEV",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "9s",
+            "9c"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Namu0124",
+                "Radenmyer24",
+                "IlxxxlI",
+                "ali23imsirovic",
+                "EQUITYisnotEV",
+                "Radenmyer24"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                5.0,
+                null,
+                3.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ali23imsirovic",
+                "Radenmyer24"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.22,
+                5.22
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ali23imsirovic",
+                "Radenmyer24"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                41.59,
+                17.05
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ad 9d",
+        null,
+        "10s Ks",
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        52.77,
+        68.86,
+        24.540000000000003,
+        76.62
+    ]
+}

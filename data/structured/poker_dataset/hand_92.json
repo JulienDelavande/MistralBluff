@@ -1,16 +1,16 @@
 {
-    "date": "2016/11/29 15:9:39",
-    "game_id": "787022259",
+    "date": "2016/9/4 9:45:49",
+    "game_id": "719276837",
     "variant": "PRR",
-    "table_name": "Kraken-20",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "AironVega",
-        "ali23imsirovic",
-        "WeakAndWeary",
+        "St3p04ka",
+        "VegetablesArentYummy",
+        "VanishingFlames",
         "IlxxxlI",
-        "aleks0v"
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
@@ -20,54 +20,70 @@
         6
     ],
     "starting_stacks": [
-        101.23,
-        141.16,
-        106.49,
-        40.0,
+        43.0,
+        103.0,
+        151.13,
+        48.35,
         100.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "aleks0v",
-    "big_blind": 1.0,
+    "player_small_blind": "ConstanceHarm",
+    "small_blind": 1.0,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2d",
-        "5h"
+        "As",
+        "7s"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "6d",
+            "10s",
+            "8h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "AironVega",
-                "ali23imsirovic",
-                "WeakAndWeary",
+                "VegetablesArentYummy",
+                "VanishingFlames",
                 "IlxxxlI",
-                "aleks0v"
+                "ConstanceHarm",
+                "St3p04ka"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                2.0,
+                4.0,
                 null,
-                null
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "St3p04ka",
+                "IlxxxlI",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -88,10 +104,10 @@
         null
     ],
     "finishing_stack": [
-        101.23,
-        141.16,
-        107.99,
-        39.5,
+        39.0,
+        103.0,
+        151.13,
+        52.900000000000006,
         99.0
     ]
 }

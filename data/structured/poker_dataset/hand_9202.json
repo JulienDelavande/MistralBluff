@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/25 22:27:15",
+    "game_id": "805815814",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "wwww111",
+        "Limp_IN",
+        "warrior1023",
+        "IlxxxlI",
+        "tmoney84",
+        "beastmode81"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.51,
+        15.16,
+        23.74,
+        17.51,
+        12.39,
+        5.96
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "tmoney84",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "8s",
+            "Kc"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "beastmode81",
+                "wwww111",
+                "Limp_IN",
+                "warrior1023",
+                "IlxxxlI",
+                "tmoney84"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.25,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "tmoney84",
+                "warrior1023",
+                "tmoney84"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.38,
+                0.38
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "tmoney84",
+                "warrior1023"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.65,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.51,
+        15.16,
+        23.11,
+        17.41,
+        13.06,
+        5.96
+    ]
+}

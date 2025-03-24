@@ -1,0 +1,131 @@
+{
+    "date": "2016/12/7 10:40:34",
+    "game_id": "792552795",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "muchachon",
+        "IlxxxlI",
+        "MAK517",
+        "imJonny",
+        "fourplay",
+        "maxxxim"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        5.0,
+        8.67,
+        19.22,
+        14.5,
+        10.25,
+        39.93
+    ],
+    "player_small_blind": "fourplay",
+    "small_blind": 0.1,
+    "player_big_blind": "maxxxim",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "Jc",
+            "7c"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "muchachon",
+                "IlxxxlI",
+                "MAK517",
+                "imJonny",
+                "fourplay",
+                "maxxxim"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "maxxxim",
+                "muchachon",
+                "maxxxim",
+                "muchachon",
+                "maxxxim"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                2.5,
+                3.0,
+                1.75
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Kh Kd",
+        null,
+        null,
+        null,
+        null,
+        "Ac 6c"
+    ],
+    "finishing_stack": [
+        9.6,
+        8.67,
+        19.22,
+        14.5,
+        10.15,
+        34.93
+    ]
+}

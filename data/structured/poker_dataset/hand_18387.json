@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/9 23:24:13",
+    "game_id": "794209186",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "cmgreene93",
+        "IlxxxlI",
+        "JuJu3putt",
+        "busi",
+        "WomboComboAA"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        27.58,
+        22.86,
+        41.22,
+        56.18,
+        50.13
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "JuJu3putt",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "Ad",
+            "Ah"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "busi",
+                "WomboComboAA",
+                "cmgreene93",
+                "IlxxxlI",
+                "JuJu3putt",
+                "busi"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                1.85,
+                null,
+                1.6
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "busi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "busi"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.14,
+                6.14
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "busi"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                4.26,
+                4.26
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ac 10d",
+        null,
+        "Qc 2c",
+        null
+    ],
+    "finishing_stack": [
+        27.58,
+        7.859999999999999,
+        40.72,
+        70.16,
+        50.13
+    ]
+}

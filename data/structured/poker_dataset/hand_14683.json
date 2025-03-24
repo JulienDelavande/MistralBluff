@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/23 12:37:37",
+    "game_id": "804391152",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "BiGFck",
+        "IlxxxlI",
+        "itsmejdg",
+        "Parcker",
+        "Zzzzzzz10"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        6.21,
+        29.33,
+        15.4,
+        16.25,
+        14.25
+    ],
+    "player_small_blind": "Zzzzzzz10",
+    "small_blind": 0.1,
+    "player_big_blind": "BiGFck",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "4d",
+            "As"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "itsmejdg",
+                "Parcker",
+                "Zzzzzzz10",
+                "BiGFck",
+                "itsmejdg"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                2.27,
+                null,
+                null,
+                1.52
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "itsmejdg",
+                "Parcker",
+                "itsmejdg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.32,
+                2.32
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "itsmejdg",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "itsmejdg",
+                "Parcker"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                10.81,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        5.96,
+        29.33,
+        19.87,
+        11.66,
+        14.15
+    ]
+}

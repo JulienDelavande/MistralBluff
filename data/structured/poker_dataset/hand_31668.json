@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 8:49:29",
+    "game_id": "791898442",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Ynaito",
+        "virtualbox",
+        "Irene13",
+        "Cradd0ck"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.2,
+        25.0,
+        25.0,
+        41.29,
+        39.36
+    ],
+    "player_small_blind": "Irene13",
+    "small_blind": 0.1,
+    "player_big_blind": "Cradd0ck",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "10d",
+            "3d"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ynaito",
+                "virtualbox",
+                "Irene13",
+                "Cradd0ck"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Cradd0ck",
+                "virtualbox"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Cradd0ck",
+                "virtualbox"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Cradd0ck",
+                "virtualbox",
+                "Cradd0ck"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.79,
+                0.79
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "6h Ac",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.2,
+        25.0,
+        26.26,
+        41.19,
+        38.07
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/24 10:36:24",
+    "game_id": "804990696",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Polar1z1ng",
+        "threekingsriver",
+        "IlxxxlI",
+        "Mikeygogogo",
+        "carnesmt"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        54.31,
+        94.4,
+        50.75,
+        125.31,
+        18.5
+    ],
+    "player_small_blind": "Polar1z1ng",
+    "small_blind": 0.25,
+    "player_big_blind": "threekingsriver",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "10h",
+            "Qs"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Mikeygogogo",
+                "carnesmt",
+                "Polar1z1ng",
+                "threekingsriver"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "threekingsriver",
+                "carnesmt",
+                "threekingsriver"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.89,
+                0.89
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "threekingsriver",
+                "carnesmt",
+                "threekingsriver"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.16,
+                2.16
+            ]
+        },
+        "post-river": {
+            "players": [
+                "threekingsriver",
+                "carnesmt"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "8s 10c",
+        null,
+        null,
+        "Jd As"
+    ],
+    "finishing_stack": [
+        54.06,
+        97.84,
+        50.75,
+        125.31,
+        14.95
+    ]
+}

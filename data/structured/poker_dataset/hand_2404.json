@@ -1,139 +1,105 @@
 {
-    "date": "2016/11/21 10:47:28",
-    "game_id": "780948660",
+    "date": "2016/9/18 9:55:12",
+    "game_id": "730269113",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 7,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "Haid Dasalami",
-        "BBDub27",
-        "pineapplesand",
-        "PoePoe28",
+        "Cellar door",
         "IlxxxlI",
-        "Daggens",
-        "Mestre83"
+        "Origins",
+        "xXCONMANXx",
+        "aquamarin",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
         5,
-        6,
-        7,
-        9
+        6
     ],
     "starting_stacks": [
-        48.5,
-        84.85,
-        22.2,
-        6.66,
-        24.49,
-        56.52,
-        37.72
+        100.0,
+        89.24,
+        207.01,
+        136.15,
+        227.36,
+        106.0
     ],
-    "player_small_blind": "Mestre83",
-    "small_blind": 0.25,
-    "player_big_blind": "Haid Dasalami",
-    "big_blind": 0.5,
+    "player_small_blind": "Origins",
+    "small_blind": 1.0,
+    "player_big_blind": "xXCONMANXx",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2s",
-        "8d"
+        "Ks",
+        "Kh"
     ],
     "dealed_cards": {
         "flop": [
-            "10d",
-            "3c",
-            "Qs"
+            "4c",
+            "Qs",
+            "9s"
         ],
-        "turn": [
-            "5d"
-        ],
-        "river": [
-            "3s"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "BBDub27",
-                "pineapplesand",
-                "PoePoe28",
+                "aquamarin",
+                "VegetablesArentYummy",
+                "Cellar door",
                 "IlxxxlI",
-                "Daggens",
-                "Mestre83",
-                "Haid Dasalami"
+                "Origins",
+                "xXCONMANXx"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "CALL",
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "CALL",
-                "CHECK"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                0.5,
                 null,
+                4.0,
                 null,
-                0.25,
-                null
+                2.0
             ]
         },
         "post-flop": {
             "players": [
-                "Mestre83",
-                "Haid Dasalami",
-                "PoePoe28"
+                "xXCONMANXx",
+                "IlxxxlI",
+                "xXCONMANXx"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
+                "BET",
+                "RAISE",
+                "FOLD"
             ],
             "values": [
-                null,
-                null,
+                2.85,
+                8.0,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "Mestre83",
-                "Haid Dasalami",
-                "PoePoe28"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "Mestre83",
-                "Haid Dasalami",
-                "PoePoe28"
-            ],
-            "actions": [
-                "BET",
-                "FOLD",
-                "FOLD"
-            ],
-            "values": [
-                1.5,
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -142,16 +108,14 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        48.0,
-        84.85,
-        22.2,
-        6.16,
-        24.49,
-        56.52,
-        38.65
+        100.0,
+        96.36,
+        206.01,
+        129.3,
+        227.36,
+        106.0
     ]
 }

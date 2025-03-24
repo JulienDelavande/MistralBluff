@@ -1,0 +1,160 @@
+{
+    "date": "2016/12/7 19:4:6",
+    "game_id": "792772220",
+    "variant": "PRR",
+    "table_name": "Ettin-4",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "mistersmiles",
+        "silvereye",
+        "Tazz_Rocks",
+        "Bryndad",
+        "ramirocalieron",
+        "IlxxxlI",
+        "number7withacoke"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        30.81,
+        24.99,
+        16.13,
+        8.87,
+        11.79,
+        10.37,
+        11.42
+    ],
+    "player_small_blind": "mistersmiles",
+    "small_blind": 0.1,
+    "player_big_blind": "silvereye",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "Kd",
+            "7h"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Tazz_Rocks",
+                "Bryndad",
+                "ramirocalieron",
+                "IlxxxlI",
+                "number7withacoke",
+                "mistersmiles",
+                "silvereye",
+                "mistersmiles"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.5,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "mistersmiles",
+                "silvereye",
+                "mistersmiles",
+                "silvereye"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                1.0,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mistersmiles",
+                "silvereye"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "mistersmiles",
+                "silvereye",
+                "mistersmiles"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.2,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        29.06,
+        26.57,
+        16.13,
+        8.87,
+        11.79,
+        10.37,
+        11.42
+    ]
+}

@@ -1,92 +1,73 @@
 {
-    "date": "2016/11/29 13:8:32",
-    "game_id": "786967918",
+    "date": "2016/9/6 0:20:26",
+    "game_id": "720625883",
     "variant": "PRR",
-    "table_name": "Gorgons-19",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "MirrorZrorriM",
+        "DaKingOfNewYork",
         "IlxxxlI",
-        "constant revelation",
-        "FLDnLIVE2FLDagn",
-        "QDevilQ"
+        "Leatherass9",
+        "Im Don King",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        61.65,
-        20.0,
-        44.4,
-        60.89,
-        57.47
+        19.17,
+        42.0,
+        211.76,
+        100.0,
+        179.23
     ],
-    "player_small_blind": "MirrorZrorriM",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "Im Don King",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
         "3d",
-        "5s"
+        "Ad"
     ],
     "dealed_cards": {
-        "flop": [
-            "Qd",
-            "5h",
-            "Ac"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "constant revelation",
-                "FLDnLIVE2FLDagn",
-                "QDevilQ",
-                "MirrorZrorriM",
+                "DaKingOfNewYork",
                 "IlxxxlI",
-                "constant revelation"
+                "Leatherass9",
+                "Im Don King",
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                1.5,
-                null,
-                5.0,
-                null,
-                null,
-                3.5
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "constant revelation",
-                "QDevilQ",
-                "constant revelation"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                3.4,
+                4.0,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -107,10 +88,10 @@
         null
     ],
     "finishing_stack": [
-        61.4,
-        19.5,
-        39.4,
-        60.89,
-        62.69
+        19.17,
+        45.0,
+        211.76,
+        99.0,
+        177.23
     ]
 }

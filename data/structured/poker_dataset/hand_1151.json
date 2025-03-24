@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 9:20:26",
-    "game_id": "786794228",
+    "date": "2016/9/14 11:2:26",
+    "game_id": "727325683",
     "variant": "PRR",
-    "table_name": "Gorgons-7",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "528 Hertz",
-        "Heksebrygg",
-        "Dirty4skin",
-        "FaceMelt",
-        "Tilt-A-Whirl",
-        "IlxxxlI"
+        "norcalho",
+        "IlxxxlI",
+        "AK Played",
+        "UrSoDumb",
+        "gust",
+        "Lewallin"
     ],
     "players_seats": [
         1,
@@ -22,81 +22,134 @@
         6
     ],
     "starting_stacks": [
-        50.0,
-        53.02,
-        55.72,
-        65.48,
-        56.13,
-        23.09
+        41.5,
+        40.9,
+        58.66,
+        180.82,
+        112.25,
+        40.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "528 Hertz",
-    "big_blind": 0.5,
+    "player_small_blind": "UrSoDumb",
+    "small_blind": 1.0,
+    "player_big_blind": "gust",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6c",
-        "3h"
+        "Qc",
+        "10h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "5d",
+            "5s",
+            "2d"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "Ad"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Heksebrygg",
-                "Dirty4skin",
-                "FaceMelt",
-                "Tilt-A-Whirl",
-                "IlxxxlI"
+                "Lewallin",
+                "norcalho",
+                "IlxxxlI",
+                "AK Played",
+                "UrSoDumb",
+                "gust",
+                "Lewallin"
             ],
             "actions": [
+                "CHECK",
+                "FOLD",
+                "RAISE",
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                4.0,
+                4.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Lewallin",
+                "IlxxxlI",
+                "AK Played",
+                "Lewallin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.75,
+                4.75,
+                4.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Lewallin",
+                "IlxxxlI",
+                "AK Played"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Lewallin",
+                "IlxxxlI",
+                "AK Played"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
+        "Qc 10h",
         null,
         null,
         null,
-        null,
-        null
+        "4s 3d"
     ],
     "finishing_stack": [
-        50.25,
-        53.02,
-        55.72,
-        65.48,
-        56.13,
-        22.84
+        41.5,
+        32.15,
+        49.91,
+        179.82,
+        110.25,
+        59.04
     ]
 }

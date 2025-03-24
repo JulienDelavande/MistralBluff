@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/2 11:53:27",
+    "game_id": "789227502",
+    "variant": "PRR",
+    "table_name": "Kraken-18",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "hodisuda",
+        "Ksowas",
+        "St3p04ka",
+        "IlxxxlI",
+        "jazzybeee",
+        "AironVega"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        254.82,
+        105.78,
+        40.0,
+        43.1,
+        51.85,
+        101.0
+    ],
+    "player_small_blind": "jazzybeee",
+    "small_blind": 0.5,
+    "player_big_blind": "AironVega",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "6c",
+            "Js"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hodisuda",
+                "Ksowas",
+                "St3p04ka",
+                "IlxxxlI",
+                "jazzybeee",
+                "AironVega",
+                "St3p04ka"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.1,
+                null,
+                3.5,
+                null,
+                1.9
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jazzybeee",
+                "St3p04ka"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "jazzybeee",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "jazzybeee",
+                "St3p04ka"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                12.0,
+                12.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Ac Ad",
+        null
+    ],
+    "finishing_stack": [
+        254.82,
+        105.78,
+        22.0,
+        43.1,
+        69.0,
+        100.0
+    ]
+}

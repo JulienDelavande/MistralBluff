@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 7:22:21",
+    "game_id": "793092316",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "LazyFish",
+        "rorakin",
+        "IlxxxlI",
+        "MadLifeGrinder",
+        "speechboy71",
+        "Eddk4"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        111.75,
+        52.42,
+        153.28,
+        159.14,
+        38.5
+    ],
+    "player_small_blind": "Eddk4",
+    "small_blind": 0.5,
+    "player_big_blind": "LazyFish",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "2h",
+            "6h"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "rorakin",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "speechboy71",
+                "Eddk4",
+                "LazyFish"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Eddk4",
+                "LazyFish",
+                "Eddk4"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                2.37,
+                6.5,
+                4.13
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Eddk4",
+                "LazyFish",
+                "Eddk4"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                13.0,
+                13.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Eddk4",
+                "LazyFish"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "2s 2c",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        119.8,
+        111.75,
+        52.42,
+        153.28,
+        159.14,
+        16.5
+    ]
+}

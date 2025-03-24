@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/6 13:37:13",
+    "game_id": "792097125",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "AironVega",
+        "IlxxxlI",
+        "xlxCoCoxlx",
+        "GautamaBuddha",
+        "GT-R37",
+        "gust"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.98,
+        43.0,
+        26.01,
+        110.16,
+        122.47,
+        45.3
+    ],
+    "player_small_blind": "gust",
+    "small_blind": 0.5,
+    "player_big_blind": "AironVega",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "Ad",
+            "10h"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "xlxCoCoxlx",
+                "GautamaBuddha",
+                "GT-R37",
+                "gust",
+                "AironVega",
+                "xlxCoCoxlx"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                2.5,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "xlxCoCoxlx",
+                "GT-R37",
+                "xlxCoCoxlx"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                4.86,
+                3.86
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "xlxCoCoxlx",
+                "GT-R37",
+                "xlxCoCoxlx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                7.7,
+                7.7
+            ]
+        },
+        "post-river": {
+            "players": [
+                "xlxCoCoxlx",
+                "GT-R37",
+                "xlxCoCoxlx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                20.02,
+                10.95
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qd 10c",
+        null,
+        "Ah 8h",
+        null
+    ],
+    "finishing_stack": [
+        99.98,
+        43.0,
+        0.0,
+        110.16,
+        147.31,
+        44.8
+    ]
+}

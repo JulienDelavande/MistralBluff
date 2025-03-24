@@ -1,79 +1,89 @@
 {
-    "date": "2016/11/29 13:0:48",
-    "game_id": "786963501",
+    "date": "2016/9/6 0:32:59",
+    "game_id": "720636881",
     "variant": "PRR",
     "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "bfish602",
-        "KingGuciGuci",
-        "IbetUmuck",
-        "IlxxxlI",
-        "MadLifeGrinder",
-        "LazyFish"
+        "Ksowas",
+        "DTownDieselZZ",
+        "The_Toast",
+        "oddsonfav",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        210.0,
-        211.99,
-        713.88,
-        89.67,
-        200.0,
-        262.7
+        172.07,
+        99.13,
+        100.0,
+        72.95,
+        105.89
     ],
-    "player_small_blind": "LazyFish",
+    "player_small_blind": "oddsonfav",
     "small_blind": 1.0,
-    "player_big_blind": "bfish602",
+    "player_big_blind": "IlxxxlI",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6s",
-        "Ks"
+        "Jd",
+        "Kh"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "4c",
+            "8d",
+            "Ah"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "KingGuciGuci",
-                "IbetUmuck",
+                "Ksowas",
+                "DTownDieselZZ",
+                "The_Toast",
+                "oddsonfav",
                 "IlxxxlI",
-                "MadLifeGrinder",
-                "LazyFish",
-                "bfish602"
+                "DTownDieselZZ"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
+                2.0,
                 null,
                 null,
-                null,
-                4.0,
-                null
+                2.0,
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "DTownDieselZZ"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.27,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -91,15 +101,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        208.0,
-        211.99,
-        713.88,
-        89.67,
-        200.0,
-        264.7
+        172.07,
+        95.13,
+        100.0,
+        71.95,
+        110.44
     ]
 }

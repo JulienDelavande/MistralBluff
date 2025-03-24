@@ -1,0 +1,119 @@
+{
+    "date": "2016/12/9 13:58:23",
+    "game_id": "794089189",
+    "variant": "PRR",
+    "table_name": "Kraken-8",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "HomoPokerus"
+    ],
+    "players_seats": [
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        125.86,
+        101.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "3d",
+            "Jd"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HomoPokerus",
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                3.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                9.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ks Qd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        57.0,
+        124.86,
+        84.5
+    ]
+}

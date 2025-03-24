@@ -1,97 +1,141 @@
 {
-    "date": "2016/11/29 11:35:2",
-    "game_id": "786904226",
+    "date": "2016/9/12 12:14:13",
+    "game_id": "725846563",
     "variant": "PRR",
-    "table_name": "Gorgons-13",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
+        "ImUsingYourWifi",
+        "uncle_argyle",
         "IlxxxlI",
-        "Maria_Pia",
-        "Xobkcul",
-        "528 Hertz",
-        "foreseen"
+        "Anastasia31",
+        "plin777"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
-        5
+        5,
+        6
     ],
     "starting_stacks": [
-        21.52,
-        23.99,
-        55.29,
-        86.63,
-        84.7
+        93.02,
+        1061.99,
+        84.0,
+        278.59,
+        126.3
     ],
-    "player_small_blind": "foreseen",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "plin777",
+    "small_blind": 2.0,
+    "player_big_blind": "ImUsingYourWifi",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4s",
-        "Kd"
+        "4c",
+        "8c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "7c",
+            "9d",
+            "Kd"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Qh"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Maria_Pia",
-                "Xobkcul",
-                "528 Hertz",
-                "foreseen",
-                "IlxxxlI"
+                "uncle_argyle",
+                "IlxxxlI",
+                "Anastasia31",
+                "plin777",
+                "ImUsingYourWifi"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD"
+                "CALL",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                1.75,
+                8.0,
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "plin777",
+                "ImUsingYourWifi",
+                "Anastasia31"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "plin777",
+                "ImUsingYourWifi",
+                "Anastasia31",
+                "plin777"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                14.9,
+                14.9,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "ImUsingYourWifi",
+                "Anastasia31"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
+        "6h Jc",
         null,
         null,
-        null,
-        null,
+        "5s 5d",
         null
     ],
     "finishing_stack": [
-        21.02,
-        23.99,
-        55.29,
-        87.38,
-        84.45
+        70.12,
+        1061.99,
+        84.0,
+        308.98999999999995,
+        118.3
     ]
 }

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/9 14:45:13",
+    "game_id": "794108630",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "Masterfrosty",
+        "iDawg",
+        "Tilt-A-Whirl",
+        "IlxxxlI",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        93.51,
+        17.0,
+        59.09,
+        56.17,
+        22.73,
+        50.62
+    ],
+    "player_small_blind": "Jui Kuen",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "3d",
+            "8d"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Masterfrosty",
+                "iDawg",
+                "Tilt-A-Whirl",
+                "IlxxxlI",
+                "Jui Kuen",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "Tilt-A-Whirl",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.54,
+                1.54
+            ]
+        },
+        "post-river": {
+            "players": [
+                "WeakAndWeary",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10c 9c",
+        null,
+        null,
+        "7h 7d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        96.49,
+        17.0,
+        59.09,
+        53.13,
+        22.73,
+        50.37
+    ]
+}

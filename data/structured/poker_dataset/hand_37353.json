@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/3 11:28:25",
+    "game_id": "789881681",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Gordaken",
+        "IlxxxlI",
+        "eu4ria",
+        "Polar1z1ng",
+        "aleks0v",
+        "rudyru"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.41,
+        38.72,
+        136.57,
+        67.17,
+        50.0,
+        30.43
+    ],
+    "player_small_blind": "Gordaken",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "9h",
+            "Ks"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "eu4ria",
+                "Polar1z1ng",
+                "aleks0v",
+                "rudyru",
+                "Gordaken",
+                "IlxxxlI",
+                "rudyru"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                2.25,
+                2.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Gordaken",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Gordaken",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                5.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Gordaken",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                17.91,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        36.91,
+        29.22,
+        136.57,
+        67.17,
+        50.0,
+        29.43
+    ]
+}

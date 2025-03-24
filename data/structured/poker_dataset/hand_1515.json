@@ -1,89 +1,126 @@
 {
-    "date": "2016/11/29 7:46:46",
-    "game_id": "786713759",
+    "date": "2016/9/18 7:29:16",
+    "game_id": "730185825",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Cap",
-    "button_seat": 5,
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 9,
     "players": [
-        "wethco",
-        "BigBlat",
-        "dbrinker",
-        "coldkilla",
-        "IlxxxlI"
+        "IlxxxlI",
+        "0nlyDaNuts",
+        "Gargantuatua",
+        "or3o1990",
+        "Pimpika",
+        "BlitzWaut",
+        "KillinOMG",
+        "dartx",
+        "Chicubs2016"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        165.63,
-        173.77,
-        276.85,
-        35.98,
-        80.0
+        40.0,
+        91.0,
+        104.62,
+        195.31,
+        62.26,
+        101.5,
+        52.22,
+        69.49,
+        83.73
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "wethco",
-    "big_blind": 2.0,
+    "small_blind": 0.5,
+    "player_big_blind": "0nlyDaNuts",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qs",
-        "Js"
+        "4h",
+        "Jh"
     ],
     "dealed_cards": {
         "flop": [
-            "8d",
             "8h",
-            "Jh"
+            "10h",
+            "10c"
         ],
         "turn": [
-            "7d"
+            "3s"
         ],
-        "river": [
-            "Jd"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "BigBlat",
-                "dbrinker",
-                "coldkilla",
+                "Gargantuatua",
+                "or3o1990",
+                "Pimpika",
+                "BlitzWaut",
+                "KillinOMG",
+                "dartx",
+                "Chicubs2016",
                 "IlxxxlI",
-                "wethco",
-                "BigBlat"
+                "0nlyDaNuts"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "ALLIN",
-                "FOLD",
-                "FOLD",
                 "CALL"
             ],
             "values": [
-                4.0,
-                null,
-                35.98,
                 null,
                 null,
-                31.98
+                null,
+                null,
+                null,
+                null,
+                null,
+                1.5,
+                1.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "0nlyDaNuts"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "0nlyDaNuts"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.47,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -93,16 +130,24 @@
     },
     "card_shown_by_players": [
         null,
-        "Ah 10c",
         null,
-        "8s As",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        163.63,
-        137.79000000000002,
-        276.85,
-        71.96,
-        79.0
+        43.510000000000005,
+        87.1,
+        104.62,
+        195.31,
+        62.26,
+        101.5,
+        52.22,
+        69.49,
+        83.73
     ]
 }

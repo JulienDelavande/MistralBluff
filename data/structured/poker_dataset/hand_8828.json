@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/25 23:23:40",
+    "game_id": "805833239",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "warrior1023",
+        "Indigol",
+        "IlxxxlI",
+        "komar182",
+        "MAGNIT"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        48.85,
+        70.24,
+        27.42,
+        46.61,
+        25.7
+    ],
+    "player_small_blind": "komar182",
+    "small_blind": 0.1,
+    "player_big_blind": "MAGNIT",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "5d",
+            "Ac"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "warrior1023",
+                "Indigol",
+                "IlxxxlI",
+                "komar182",
+                "MAGNIT"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "komar182",
+                "MAGNIT"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "komar182",
+                "MAGNIT",
+                "komar182"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "komar182",
+                "MAGNIT",
+                "komar182"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        48.85,
+        70.24,
+        27.42,
+        44.61,
+        27.5
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 11:28:47",
+    "game_id": "788536819",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "blcoyle",
+        "Qrenor",
+        "IlxxxlI",
+        "rook_",
+        "TheRealTaco"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        101.5,
+        260.56,
+        46.1,
+        125.76,
+        200.82
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "rook_",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "7c",
+            "6d"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TheRealTaco",
+                "blcoyle",
+                "Qrenor",
+                "IlxxxlI",
+                "rook_",
+                "blcoyle"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                9.0,
+                null,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "blcoyle",
+                "Qrenor"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "blcoyle",
+                "Qrenor"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                9.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "blcoyle",
+                "Qrenor"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                17.81,
+                17.81
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ac Qc",
+        "Js Ks",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        65.69,
+        294.87,
+        45.6,
+        124.76,
+        200.82
+    ]
+}

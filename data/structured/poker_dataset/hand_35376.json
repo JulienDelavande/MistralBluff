@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/5 8:47:22",
+    "game_id": "791239412",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "voxio",
+        "gust",
+        "MadLifeGrinder",
+        "dvo22",
+        "BigBlat",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        99.0,
+        40.0,
+        100.0,
+        138.69,
+        61.54,
+        52.7
+    ],
+    "player_small_blind": "voxio",
+    "small_blind": 0.5,
+    "player_big_blind": "gust",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "8s",
+            "2h"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "dvo22",
+                "BigBlat",
+                "IlxxxlI",
+                "voxio",
+                "gust"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "voxio",
+                "gust"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "voxio",
+                "gust"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "voxio",
+                "gust"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        108.0,
+        30.0,
+        100.0,
+        138.69,
+        61.54,
+        52.7
+    ]
+}

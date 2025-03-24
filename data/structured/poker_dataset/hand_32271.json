@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/6 7:55:32",
+    "game_id": "791855045",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "beastmode81",
+        "Zzzzzzz10",
+        "contender86",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        26.79,
+        25.33,
+        24.75,
+        10.0
+    ],
+    "player_small_blind": "contender86",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "Jc",
+            "4c"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "beastmode81",
+                "Zzzzzzz10",
+                "contender86",
+                "IlxxxlI",
+                "beastmode81"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                1.15,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "contender86",
+                "beastmode81"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.75,
+                1.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "contender86",
+                "beastmode81",
+                "contender86"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.97,
+                2.97
+            ]
+        },
+        "post-river": {
+            "players": [
+                "contender86",
+                "beastmode81"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "7d 7s",
+        null,
+        "9h Ac",
+        null
+    ],
+    "finishing_stack": [
+        20.82,
+        25.33,
+        30.37,
+        9.75
+    ]
+}

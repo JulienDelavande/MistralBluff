@@ -1,0 +1,161 @@
+{
+    "date": "2016/12/23 8:16:17",
+    "game_id": "804198120",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "SwoogieSlayer",
+        "IlxxxlI",
+        "DicksOutForHarambe",
+        "hobbslima",
+        "eatMYaszzz",
+        "Sonic3Dblast"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.65,
+        25.0,
+        26.58,
+        18.36,
+        25.45,
+        27.49
+    ],
+    "player_small_blind": "hobbslima",
+    "small_blind": 0.1,
+    "player_big_blind": "eatMYaszzz",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "Ac",
+            "8s"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "SwoogieSlayer",
+                "IlxxxlI",
+                "DicksOutForHarambe",
+                "hobbslima",
+                "eatMYaszzz"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                0.75,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "hobbslima",
+                "eatMYaszzz",
+                "Sonic3Dblast",
+                "DicksOutForHarambe"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "hobbslima",
+                "eatMYaszzz",
+                "Sonic3Dblast",
+                "DicksOutForHarambe",
+                "hobbslima",
+                "eatMYaszzz"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.19,
+                null,
+                2.19,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "hobbslima",
+                "Sonic3Dblast",
+                "hobbslima"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.15,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.65,
+        25.0,
+        25.83,
+        15.42,
+        24.7,
+        31.569999999999997
+    ]
+}

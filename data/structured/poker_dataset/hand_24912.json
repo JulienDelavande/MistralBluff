@@ -1,0 +1,154 @@
+{
+    "date": "2016/12/8 11:16:20",
+    "game_id": "793293741",
+    "variant": "PRR",
+    "table_name": "Ettin-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "TheRealSlimShadyy",
+        "jemarshall",
+        "12monkeys",
+        "IlxxxlI",
+        "drewwid",
+        "KingK381",
+        "BigH54"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        25.0,
+        10.3,
+        10.2,
+        11.36,
+        25.57,
+        23.76,
+        41.13
+    ],
+    "player_small_blind": "12monkeys",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "5h",
+            "As"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "drewwid",
+                "KingK381",
+                "BigH54",
+                "TheRealSlimShadyy",
+                "jemarshall",
+                "12monkeys",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null,
+                0.25,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "KingK381",
+                "jemarshall"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.25,
+                0.25,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "KingK381"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "KingK381",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.88,
+                2.64,
+                1.76
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "5s 3d",
+        null,
+        "4c 4h",
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        10.05,
+        10.1,
+        7.969999999999999,
+        25.57,
+        27.150000000000002,
+        41.13
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/4 22:51:25",
+    "game_id": "790790749",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "odel_nadel",
+        "skiipi",
+        "IlxxxlI",
+        "Mr.Excel",
+        "FTHater"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        49.5,
+        11.75,
+        83.93,
+        61.57
+    ],
+    "player_small_blind": "FTHater",
+    "small_blind": 0.25,
+    "player_big_blind": "odel_nadel",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "3h",
+            "8s"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "skiipi",
+                "IlxxxlI",
+                "Mr.Excel",
+                "FTHater",
+                "odel_nadel"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "odel_nadel",
+                "Mr.Excel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.75,
+                1.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "odel_nadel",
+                "Mr.Excel"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "odel_nadel",
+                "Mr.Excel"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.94,
+        49.5,
+        11.75,
+        80.93,
+        61.32
+    ]
+}

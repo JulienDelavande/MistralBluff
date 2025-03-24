@@ -1,89 +1,133 @@
 {
-    "date": "2016/11/29 14:41:45",
-    "game_id": "787012060",
+    "date": "2016/9/4 10:21:34",
+    "game_id": "719293182",
     "variant": "PRR",
-    "table_name": "Kraken-16",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "aleks0v",
-        "AironVega",
-        "Sephiroth1",
-        "ali23imsirovic",
+        "ConstanceHarm",
+        "SheppyPOO!!",
+        "Silverchicken",
+        "Einstein727",
         "IlxxxlI",
-        "gust"
+        "VegetablesArentYummy",
+        "bet2000"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
-        5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        102.28,
-        100.0,
-        149.79,
-        101.5,
-        86.83,
-        41.28
+        200.0,
+        381.11,
+        238.14,
+        213.7,
+        80.0,
+        200.0,
+        485.67
     ],
-    "player_small_blind": "gust",
-    "small_blind": 0.5,
-    "player_big_blind": "aleks0v",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2d",
-        "7d"
+        "7c",
+        "2h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Ah",
+            "5d",
+            "10s"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "6h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "AironVega",
-                "Sephiroth1",
-                "ali23imsirovic",
+                "bet2000",
+                "ConstanceHarm",
+                "SheppyPOO!!",
+                "Silverchicken",
+                "Einstein727",
                 "IlxxxlI",
-                "gust",
-                "aleks0v"
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                2.0,
                 null,
                 null,
+                null,
+                12.0,
+                null,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "Einstein727",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                17.16,
+                17.16
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "VegetablesArentYummy",
+                "Einstein727"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "VegetablesArentYummy",
+                "Einstein727"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                29.86,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -92,14 +136,16 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        101.28,
-        100.0,
-        151.29,
-        101.5,
-        86.83,
-        40.78
+        200.0,
+        381.11,
+        238.14,
+        184.54,
+        78.0,
+        230.56,
+        485.67
     ]
 }

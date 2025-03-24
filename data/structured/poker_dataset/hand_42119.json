@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/2 9:41:27",
+    "game_id": "789130531",
+    "variant": "PRR",
+    "table_name": "Kraken-16",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "St3p04ka",
+        "Orondi",
+        "ficklefuddle",
+        "IlxxxlI",
+        "foldemfoley",
+        "GautamaBuddha"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        52.74,
+        311.95,
+        100.0,
+        77.0,
+        49.92,
+        110.6
+    ],
+    "player_small_blind": "foldemfoley",
+    "small_blind": 0.5,
+    "player_big_blind": "GautamaBuddha",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "3d",
+            "Qh"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "St3p04ka",
+                "Orondi",
+                "ficklefuddle",
+                "IlxxxlI",
+                "foldemfoley",
+                "GautamaBuddha",
+                "St3p04ka"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                2.1,
+                null,
+                null,
+                null,
+                null,
+                6.0,
+                4.9
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GautamaBuddha",
+                "St3p04ka"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.5,
+                6.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "GautamaBuddha",
+                "St3p04ka"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                12.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        39.24,
+        311.95,
+        100.0,
+        77.0,
+        49.42,
+        123.22999999999999
+    ]
+}

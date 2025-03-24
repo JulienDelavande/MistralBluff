@@ -1,0 +1,119 @@
+{
+    "date": "2016/12/24 10:51:31",
+    "game_id": "805002874",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "Parcker",
+        "LUCERtola38",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.14,
+        21.51,
+        13.12
+    ],
+    "player_small_blind": "LUCERtola38",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "6s",
+            "As"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Parcker",
+                "LUCERtola38",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.6,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "LUCERtola38",
+                "Parcker",
+                "LUCERtola38"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.69,
+                0.69
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "LUCERtola38",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "LUCERtola38",
+                "Parcker"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.34,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.850000000000001,
+        22.910000000000004,
+        12.87
+    ]
+}

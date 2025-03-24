@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/2 16:47:23",
+    "game_id": "789353503",
+    "variant": "PRR",
+    "table_name": "Gorgons-3",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "1000_na_nl25_aga",
+        "RichCheckmaker",
+        "DonkReaper",
+        "IlxxxlI",
+        "hoocher"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.5,
+        50.0,
+        58.37,
+        20.0,
+        70.54
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "hoocher",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "9h",
+            "Qh"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "1000_na_nl25_aga",
+                "RichCheckmaker",
+                "DonkReaper",
+                "IlxxxlI",
+                "hoocher"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "hoocher",
+                "DonkReaper",
+                "hoocher",
+                "DonkReaper",
+                "hoocher"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.06,
+                8.0,
+                23.76,
+                17.82
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "hoocher",
+                "DonkReaper",
+                "hoocher"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                31.05,
+                31.05
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qd Ac",
+        null,
+        "Jh Kh"
+    ],
+    "finishing_stack": [
+        50.5,
+        50.0,
+        113.99,
+        19.75,
+        12.170000000000009
+    ]
+}

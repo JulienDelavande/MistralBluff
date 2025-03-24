@@ -1,159 +1,130 @@
 {
-    "date": "2016/11/29 9:9:46",
-    "game_id": "786784371",
+    "date": "2016/9/17 10:7:44",
+    "game_id": "729526503",
     "variant": "PRR",
-    "table_name": "Garuda-2",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 4,
     "players": [
-        "Tilt-A-Whirl",
-        "apoo11",
-        "imperceptible",
-        "Ice Bank Mice Elf",
-        "tutofu84",
-        "IlxxxlI",
-        "coldkilla",
-        "kid4life"
+        "pokerhawk333",
+        "graphicup",
+        "gust",
+        "IlxxxlI"
     ],
     "players_seats": [
-        1,
-        2,
         3,
         4,
         5,
-        6,
-        7,
-        9
+        6
     ],
     "starting_stacks": [
-        50.85,
-        31.74,
-        20.0,
-        102.25,
-        89.66,
-        23.57,
-        14.5,
-        65.38
+        22.6,
+        161.0,
+        96.55,
+        40.0
     ],
-    "player_small_blind": "tutofu84",
-    "small_blind": 0.25,
+    "player_small_blind": "gust",
+    "small_blind": 1.0,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4d",
-        "2s"
+        "5s",
+        "Ad"
     ],
     "dealed_cards": {
         "flop": [
-            "3h",
-            "8c",
-            "Jd"
+            "7d",
+            "Ah",
+            "9d"
         ],
         "turn": [
-            "9s"
+            "Ac"
         ],
         "river": [
-            "Qd"
+            "Kc"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "coldkilla",
-                "kid4life",
-                "Tilt-A-Whirl",
-                "apoo11",
-                "imperceptible",
-                "Ice Bank Mice Elf",
-                "tutofu84",
-                "IlxxxlI",
-                "coldkilla"
+                "pokerhawk333",
+                "graphicup",
+                "gust",
+                "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "CALL"
             ],
             "values": [
-                1.0,
-                null,
                 null,
                 null,
                 3.0,
-                null,
-                null,
-                null,
                 2.0
             ]
         },
         "post-flop": {
             "players": [
-                "coldkilla",
-                "imperceptible"
+                "gust",
+                "IlxxxlI"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null
+                3.8,
+                3.8
             ]
         },
         "post-turn": {
             "players": [
-                "coldkilla",
-                "imperceptible"
+                "gust",
+                "IlxxxlI",
+                "gust"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
                 null,
-                null
+                6.0,
+                6.0
             ]
         },
         "post-river": {
             "players": [
-                "coldkilla",
-                "imperceptible"
+                "gust",
+                "IlxxxlI",
+                "gust"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "ALLIN",
+                "CALL"
             ],
             "values": [
                 null,
-                null
+                26.2,
+                26.2
             ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "Qs Ac",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Ks Qs",
+        "5s Ad"
     ],
     "finishing_stack": [
-        50.85,
-        31.74,
-        23.42,
-        102.25,
-        89.41,
-        23.07,
-        11.5,
-        65.38
+        22.6,
+        161.0,
+        56.55,
+        78.0
     ]
 }

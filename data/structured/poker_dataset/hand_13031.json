@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/24 10:44:24",
+    "game_id": "804997067",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Flushdogg",
+        "Polar1z1ng",
+        "Mikeygogogo",
+        "Mattcheck954",
+        "IlxxxlI",
+        "QDevilQ"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        51.77,
+        65.25,
+        65.19,
+        79.34,
+        50.0,
+        50.0
+    ],
+    "player_small_blind": "QDevilQ",
+    "small_blind": 0.25,
+    "player_big_blind": "Flushdogg",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "4d",
+            "2s"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Polar1z1ng",
+                "Mikeygogogo",
+                "Mattcheck954",
+                "IlxxxlI",
+                "QDevilQ",
+                "Flushdogg"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.15,
+                null,
+                0.65
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Flushdogg",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Flushdogg",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.21,
+                1.21
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Flushdogg",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.36,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        54.14,
+        65.25,
+        65.19,
+        79.34,
+        47.64,
+        49.75
+    ]
+}

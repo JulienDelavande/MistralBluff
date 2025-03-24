@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/4 22:31:12",
+    "game_id": "790784819",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "odel_nadel",
+        "skiipi",
+        "IlxxxlI",
+        "doceans",
+        "Mr.Excel",
+        "FTHater"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.04,
+        31.87,
+        10.0,
+        24.15,
+        66.63,
+        74.5
+    ],
+    "player_small_blind": "skiipi",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "As",
+            "4c"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "doceans",
+                "Mr.Excel",
+                "FTHater",
+                "odel_nadel",
+                "skiipi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                null,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "skiipi",
+                "Mr.Excel",
+                "skiipi"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.58,
+                1.58
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "skiipi",
+                "Mr.Excel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.69,
+                2.69
+            ]
+        },
+        "post-river": {
+            "players": [
+                "skiipi",
+                "Mr.Excel"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "6h 3h",
+        null,
+        null,
+        "Kd Jh",
+        null
+    ],
+    "finishing_stack": [
+        25.04,
+        26.6,
+        9.5,
+        24.15,
+        71.85,
+        74.5
+    ]
+}

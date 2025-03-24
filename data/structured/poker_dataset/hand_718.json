@@ -1,78 +1,90 @@
 {
-    "date": "2016/11/29 13:10:56",
-    "game_id": "786969355",
+    "date": "2016/9/6 0:16:52",
+    "game_id": "720622578",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 6,
     "players": [
-        "Abundance4All",
-        "xROCKETMANx",
-        "IlxxxlI",
-        "GagaPoker",
-        "foreseen"
+        "Oldhandsir",
+        "Maria26years",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        89.57,
-        56.21,
-        20.0,
-        70.21,
-        68.72
+        131.03,
+        192.0,
+        88.15
     ],
-    "player_small_blind": "Abundance4All",
-    "small_blind": 0.25,
-    "player_big_blind": "xROCKETMANx",
-    "big_blind": 0.5,
+    "player_small_blind": "Oldhandsir",
+    "small_blind": 1.0,
+    "player_big_blind": "Maria26years",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "7s"
+        "2c",
+        "6s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "Jd",
+            "3h",
+            "Kh"
+        ],
+        "turn": [
+            "Ac"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "GagaPoker",
-                "foreseen",
-                "Abundance4All",
-                "xROCKETMANx"
+                "Oldhandsir",
+                "Maria26years"
             ],
             "actions": [
                 "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                1.0,
-                null,
-                null,
-                null
+                5.0,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Oldhandsir",
+                "Maria26years"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.6,
+                7.6
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Oldhandsir",
+                "Maria26years"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                17.46,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -83,15 +95,11 @@
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        89.32,
-        55.71,
-        20.0,
-        70.96,
-        68.72
+        143.63,
+        178.4,
+        88.15
     ]
 }

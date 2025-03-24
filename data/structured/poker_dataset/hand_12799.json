@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 11:12:50",
+    "game_id": "805017147",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "Ksander",
+        "Slamit111",
+        "enroute",
+        "dtnfk",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        33.13,
+        36.88,
+        17.38,
+        25.25,
+        12.54,
+        26.11
+    ],
+    "player_small_blind": "Ksander",
+    "small_blind": 0.1,
+    "player_big_blind": "Slamit111",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "7s",
+            "Kd"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "enroute",
+                "dtnfk",
+                "Parcker",
+                "IlxxxlI",
+                "Ksander",
+                "Slamit111"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.62,
+                null,
+                null,
+                null,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksander",
+                "Slamit111",
+                "enroute"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksander",
+                "Slamit111",
+                "enroute"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.25,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.13,
+        38.03000000000001,
+        16.759999999999998,
+        24.63,
+        12.54,
+        26.11
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/19 20:20:52",
+    "game_id": "801723033",
+    "variant": "PRR",
+    "table_name": "Bahamut",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "doctor rick",
+        "UltraFish",
+        "Tolstobrov E",
+        "JohnnyB3692",
+        "IlxxxlI",
+        "Mr.Holmes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        1.41,
+        1.77,
+        0.59,
+        2.36,
+        2.0,
+        0.69
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.01,
+    "player_big_blind": "Mr.Holmes",
+    "big_blind": 0.02,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "2c",
+            "6h"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "doctor rick",
+                "UltraFish",
+                "Tolstobrov E",
+                "JohnnyB3692",
+                "IlxxxlI",
+                "Mr.Holmes"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.04,
+                null,
+                null,
+                0.02
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Mr.Holmes",
+                "Tolstobrov E",
+                "Mr.Holmes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.04,
+                0.04
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Mr.Holmes",
+                "Tolstobrov E",
+                "Mr.Holmes",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.08,
+                0.18,
+                0.1
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Mr.Holmes",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "RAISE",
+                "ALLIN"
+            ],
+            "values": [
+                0.34,
+                0.33
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Kd Ks",
+        null,
+        null,
+        "5s 3h"
+    ],
+    "finishing_stack": [
+        1.41,
+        1.77,
+        1.14,
+        2.36,
+        1.99,
+        0.09999999999999998
+    ]
+}

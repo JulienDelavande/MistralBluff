@@ -1,0 +1,157 @@
+{
+    "date": "2016/12/3 7:50:38",
+    "game_id": "789714526",
+    "variant": "PRR",
+    "table_name": "Garuda-2",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "Mike77799",
+        "IlxxxlI",
+        "so_it_goes",
+        "HoodedHarpoon",
+        "roftbr100k",
+        "Aquaman75",
+        "Neketa999"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        60.1,
+        20.0,
+        55.09,
+        50.0,
+        52.56,
+        46.53,
+        51.35
+    ],
+    "player_small_blind": "Neketa999",
+    "small_blind": 0.25,
+    "player_big_blind": "Mike77799",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "Ks",
+            "3d"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "so_it_goes",
+                "HoodedHarpoon",
+                "roftbr100k",
+                "Aquaman75",
+                "Neketa999",
+                "Mike77799"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Neketa999",
+                "Mike77799",
+                "roftbr100k"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Neketa999",
+                "Mike77799",
+                "roftbr100k",
+                "Neketa999"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Mike77799",
+                "roftbr100k"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.32,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        63.75,
+        20.0,
+        55.09,
+        50.0,
+        49.56,
+        46.53,
+        50.35
+    ]
+}

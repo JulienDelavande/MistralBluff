@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/1 13:29:43",
+    "game_id": "788613221",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "virtualbox",
+        "BHawk12",
+        "mehmehman",
+        "IlxxxlI",
+        "WeakAndWeary"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        48.42,
+        22.7,
+        20.0,
+        66.67
+    ],
+    "player_small_blind": "WeakAndWeary",
+    "small_blind": 0.25,
+    "player_big_blind": "virtualbox",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "9s",
+            "4d"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BHawk12",
+                "mehmehman",
+                "IlxxxlI",
+                "WeakAndWeary",
+                "virtualbox"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "virtualbox",
+                "mehmehman",
+                "IlxxxlI",
+                "WeakAndWeary",
+                "virtualbox",
+                "mehmehman"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.26,
+                null,
+                5.0,
+                null,
+                3.74
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "mehmehman"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                61.17,
+                17.2
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Jd 9d",
+        null,
+        "Ah 9c"
+    ],
+    "finishing_stack": [
+        49.5,
+        48.42,
+        0.0,
+        19.5,
+        88.05
+    ]
+}

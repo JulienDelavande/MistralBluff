@@ -1,0 +1,135 @@
+{
+    "date": "2016/10/10 22:56:15",
+    "game_id": "747662054",
+    "variant": "PRR",
+    "table_name": "Gorgons-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "MarcusD5",
+        "Cleveland23",
+        "LongPoker",
+        "dwkx1Il1rv",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.86,
+        158.97,
+        45.39,
+        51.5,
+        50.0
+    ],
+    "player_small_blind": "Cleveland23",
+    "small_blind": 0.25,
+    "player_big_blind": "LongPoker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "10s",
+            "Jd"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dwkx1Il1rv",
+                "IlxxxlI",
+                "MarcusD5",
+                "Cleveland23",
+                "LongPoker"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Cleveland23",
+                "LongPoker"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Cleveland23",
+                "LongPoker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Cleveland23",
+                "LongPoker",
+                "Cleveland23"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.45,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.86,
+        157.47,
+        46.74,
+        51.5,
+        50.0
+    ]
+}

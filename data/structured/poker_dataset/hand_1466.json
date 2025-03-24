@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 7:57:25",
-    "game_id": "786721802",
+    "date": "2016/9/18 7:20:58",
+    "game_id": "730179830",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "short",
-    "button_seat": 4,
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 1,
     "players": [
-        "thethinmanlb",
-        "St3p04ka",
-        "BigBlat",
         "IlxxxlI",
-        "Qrenor",
-        "badboy85"
+        "0nlyDaNuts",
+        "Gargantuatua",
+        "or3o1990",
+        "Pimpika",
+        "BlitzWaut",
+        "KillinOMG",
+        "dartx",
+        "Chicubs2016"
     ],
     "players_seats": [
         1,
@@ -19,61 +22,98 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        62.76,
-        77.63,
-        48.57,
-        20.0,
-        75.74,
-        105.78
+        40.0,
+        64.57,
+        106.62,
+        183.78,
+        63.76,
+        103.0,
+        52.22,
+        54.87,
+        88.23
     ],
-    "player_small_blind": "Qrenor",
+    "player_small_blind": "0nlyDaNuts",
     "small_blind": 0.5,
-    "player_big_blind": "badboy85",
+    "player_big_blind": "Gargantuatua",
     "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5h",
-        "5s"
+        "4d",
+        "4s"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "5c",
+            "Kc",
+            "5h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "thethinmanlb",
-                "St3p04ka",
-                "BigBlat",
+                "or3o1990",
+                "Pimpika",
+                "BlitzWaut",
+                "KillinOMG",
+                "dartx",
+                "Chicubs2016",
                 "IlxxxlI",
-                "Qrenor",
-                "badboy85"
+                "0nlyDaNuts",
+                "Gargantuatua"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "ALLIN",
                 "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
                 null,
-                20.0,
                 null,
+                null,
+                3.0,
+                3.0,
+                2.5,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "0nlyDaNuts",
+                "Chicubs2016",
+                "IlxxxlI",
+                "0nlyDaNuts",
+                "Chicubs2016"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                4.75,
+                null,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -92,14 +132,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        62.76,
-        77.63,
-        48.57,
-        21.5,
-        75.24,
-        104.78
+        46.5,
+        61.56999999999999,
+        105.62,
+        183.78,
+        63.76,
+        103.0,
+        52.22,
+        54.87,
+        85.23
     ]
 }

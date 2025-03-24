@@ -1,0 +1,151 @@
+{
+    "date": "2016/12/8 11:14:47",
+    "game_id": "793292472",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "drewwid",
+        "TheRealSlimShadyy",
+        "Florida420",
+        "waterboy73",
+        "12monkeys",
+        "PONEDINFACE"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+    ],
+    "starting_stacks": [
+        10.35,
+        39.38,
+        27.75,
+        24.65,
+        11.46,
+        10.0,
+        22.62
+    ],
+    "player_small_blind": "waterboy73",
+    "small_blind": 0.1,
+    "player_big_blind": "12monkeys",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "8h",
+            "Qc"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PONEDINFACE",
+                "IlxxxlI",
+                "drewwid",
+                "TheRealSlimShadyy",
+                "Florida420",
+                "waterboy73",
+                "12monkeys"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "waterboy73",
+                "12monkeys",
+                "waterboy73"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "waterboy73",
+                "12monkeys",
+                "waterboy73",
+                "12monkeys",
+                "waterboy73"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.15,
+                5.85,
+                6.15,
+                2.45
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Qd Qs",
+        "Kc 10c",
+        null
+    ],
+    "finishing_stack": [
+        10.35,
+        39.38,
+        27.75,
+        24.65,
+        20.46,
+        0.0,
+        22.62
+    ]
+}

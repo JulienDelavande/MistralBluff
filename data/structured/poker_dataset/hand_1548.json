@@ -1,81 +1,160 @@
 {
-    "date": "2016/11/29 7:36:3",
-    "game_id": "786705061",
+    "date": "2016/9/18 7:34:41",
+    "game_id": "730189616",
     "variant": "PRR",
-    "table_name": "Longana-3",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 8,
     "players": [
-        "IlxxxlI",
-        "shokerAAss",
-        "TonnaMunz"
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "noFOLDbutton3",
+        "Pimpika",
+        "gosu36484",
+        "FirstClan",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
         3,
+        5,
+        6,
+        8,
         9
     ],
     "starting_stacks": [
-        80.0,
-        249.35,
-        257.43
+        100.0,
+        114.2,
+        168.37,
+        80.01,
+        38.5,
+        147.46,
+        40.0
     ],
-    "player_small_blind": "TonnaMunz",
-    "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jc",
+        "Qd",
         "3s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Ks",
+            "3d",
+            "Jd"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "6c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "shokerAAss",
-                "TonnaMunz",
-                "IlxxxlI"
+                "VegetablesArentYummy",
+                "noFOLDbutton3",
+                "Pimpika",
+                "gosu36484",
+                "FirstClan",
+                "IlxxxlI",
+                "BlitzWaut"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
-                "FOLD"
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
-                5.0,
+                1.0,
+                null,
+                null,
+                1.0,
+                null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BlitzWaut",
+                "noFOLDbutton3",
+                "FirstClan",
+                "BlitzWaut",
+                "noFOLDbutton3"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                8.0,
+                null,
+                6.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "noFOLDbutton3",
+                "FirstClan",
+                "noFOLDbutton3"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.26,
+                9.26
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "noFOLDbutton3",
+                "FirstClan"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
+        "Kc 3c",
         null
     ],
     "finishing_stack": [
-        78.0,
-        249.35,
-        259.43
+        99.0,
+        114.2,
+        150.11,
+        80.01,
+        38.5,
+        165.32000000000002,
+        39.5
     ]
 }

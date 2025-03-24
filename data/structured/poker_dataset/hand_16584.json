@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/22 17:3:50",
+    "game_id": "803709455",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "aleks0v",
+        "IlxxxlI",
+        "GetPaidGetLaid",
+        "DirtyDog98",
+        "caballeroXXX"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        76.29,
+        52.28,
+        50.0,
+        51.28,
+        63.07
+    ],
+    "player_small_blind": "aleks0v",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "8s",
+            "9h"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GetPaidGetLaid",
+                "DirtyDog98",
+                "caballeroXXX",
+                "aleks0v",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "DirtyDog98"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "DirtyDog98"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "DirtyDog98",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        76.04,
+        51.03,
+        50.0,
+        52.65,
+        63.07
+    ]
+}

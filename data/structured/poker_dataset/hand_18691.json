@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/9 21:37:34",
+    "game_id": "794179926",
+    "variant": "PRR",
+    "table_name": "Gorgons-14",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "38979",
+        "IlxxxlI",
+        "odel_nadel",
+        "rsnation10",
+        "SeemsLegit",
+        "IgLa"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        28.32,
+        59.63,
+        53.25,
+        58.77,
+        71.72
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "rsnation10",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "4h",
+            "Qh"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SeemsLegit",
+                "IgLa",
+                "38979",
+                "IlxxxlI",
+                "odel_nadel",
+                "rsnation10"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.5,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "odel_nadel",
+                "rsnation10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "odel_nadel",
+                "rsnation10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "odel_nadel",
+                "rsnation10"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ad 3h",
+        "9d Ah",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        28.32,
+        59.47,
+        53.09,
+        58.77,
+        71.72
+    ]
+}

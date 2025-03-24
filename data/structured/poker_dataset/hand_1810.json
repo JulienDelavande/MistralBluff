@@ -1,86 +1,148 @@
 {
-    "date": "2016/11/28 19:57:24",
-    "game_id": "786367349",
+    "date": "2016/9/18 8:12:26",
+    "game_id": "730213346",
     "variant": "PRR",
-    "table_name": "Lakhey",
+    "table_name": "Monopod",
     "type_game": "Short",
-    "button_seat": 3,
+    "button_seat": 4,
     "players": [
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "brokenlucks",
-        "Wollverin"
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.0,
-        100.0,
-        104.02,
-        94.18,
-        100.0
+        176.67,
+        249.0,
+        332.1,
+        574.98,
+        196.0,
+        200.0,
+        299.65,
+        159.12,
+        196.94
     ],
-    "player_small_blind": "brokenlucks",
-    "small_blind": 1.0,
-    "player_big_blind": "Wollverin",
-    "big_blind": 2.0,
+    "player_small_blind": "flyzlcomb07",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "5d"
+        "4s",
+        "As"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "5c",
+            "10d",
+            "Ks"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "5s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "38979",
-                "sheenius81",
-                "brokenlucks",
-                "Wollverin",
-                "sheenius81"
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt",
+                "flyzlcomb07",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "CALL",
-                "RAISE",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                2.0,
-                11.0,
+                null,
+                null,
+                null,
+                12.0,
+                12.0,
+                null,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "Cellar door",
+                "TryNotToTilt",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                25.1,
+                null,
+                25.1
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "VegetablesArentYummy",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "VegetablesArentYummy",
+                "Cellar door"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                29.11,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -88,13 +150,21 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.0,
-        100.0,
-        102.02,
-        98.18,
-        98.0
+        176.67,
+        249.0,
+        295.0,
+        562.98,
+        194.0,
+        250.25,
+        299.65,
+        159.12,
+        196.94
     ]
 }

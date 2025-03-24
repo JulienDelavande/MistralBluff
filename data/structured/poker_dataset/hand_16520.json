@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/22 20:30:31",
+    "game_id": "803754271",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "HapKoTuk",
+        "SkaHot",
+        "IlxxxlI",
+        "Spears1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        68.96,
+        25.0,
+        28.36
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "4s",
+            "3h"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Spears1",
+                "HapKoTuk",
+                "SkaHot",
+                "IlxxxlI",
+                "Spears1"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                1.75,
+                null,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Spears1",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Spears1",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Spears1",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.0,
+        68.86,
+        24.75,
+        30.5
+    ]
+}

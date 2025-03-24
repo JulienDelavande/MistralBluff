@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/5 22:1:58",
+    "game_id": "791558851",
+    "variant": "PRR",
+    "table_name": "Kraken-3",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Chubrica",
+        "38979",
+        "wallymomouth",
+        "bicccper",
+        "IlxxxlI",
+        "Azaladog"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        106.0,
+        285.2,
+        161.55,
+        82.53,
+        45.76,
+        100.0
+    ],
+    "player_small_blind": "Azaladog",
+    "small_blind": 0.5,
+    "player_big_blind": "Chubrica",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "10d",
+            "2d"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "38979",
+                "wallymomouth",
+                "bicccper",
+                "IlxxxlI",
+                "Azaladog",
+                "Chubrica"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Chubrica",
+                "wallymomouth"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Chubrica",
+                "wallymomouth",
+                "Chubrica"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.06,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        103.0,
+        285.2,
+        164.73000000000002,
+        82.53,
+        45.76,
+        99.5
+    ]
+}

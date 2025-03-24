@@ -1,18 +1,17 @@
 {
-    "date": "2016/11/29 8:13:1",
-    "game_id": "786734555",
+    "date": "2016/9/17 15:47:5",
+    "game_id": "729619624",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
+        "jbaker10031",
+        "38979",
         "IlxxxlI",
-        "loolu",
-        "IamPhamous",
-        "PANDAisEVIL",
-        "Iia007",
-        "Gronkowski69",
-        "shokerAAss"
+        "Fuck-P-Stars",
+        "elpasoafera",
+        "gust"
     ],
     "players_seats": [
         1,
@@ -20,91 +19,134 @@
         3,
         4,
         5,
-        6,
-        9
+        6
     ],
     "starting_stacks": [
-        80.98,
-        225.2,
-        165.57,
-        200.0,
-        264.81,
-        300.25,
-        203.0
+        42.37,
+        101.9,
+        82.92,
+        154.32,
+        52.0,
+        109.21
     ],
-    "player_small_blind": "IamPhamous",
+    "player_small_blind": "Fuck-P-Stars",
     "small_blind": 1.0,
-    "player_big_blind": "PANDAisEVIL",
+    "player_big_blind": "elpasoafera",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qs",
-        "8d"
+        "10d",
+        "9d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "2h",
+            "9s",
+            "10c"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "Kh"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Iia007",
-                "Gronkowski69",
-                "shokerAAss",
+                "gust",
+                "jbaker10031",
+                "38979",
                 "IlxxxlI",
-                "loolu",
-                "IamPhamous"
+                "Fuck-P-Stars",
+                "elpasoafera"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "RAISE",
+                "CALL",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                null,
-                null,
-                null
+                4.0,
+                3.0,
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Fuck-P-Stars",
+                "elpasoafera",
+                "IlxxxlI",
+                "Fuck-P-Stars",
+                "elpasoafera"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                5.7,
+                5.7,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Fuck-P-Stars",
+                "IlxxxlI",
+                "Fuck-P-Stars"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.11,
+                11.11
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Fuck-P-Stars",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
+        "10d 9d",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        80.98,
-        225.2,
-        164.57,
-        201.0,
-        264.81,
-        300.25,
-        203.0
+        42.37,
+        101.9,
+        105.45,
+        133.51,
+        48.0,
+        109.21
     ]
 }

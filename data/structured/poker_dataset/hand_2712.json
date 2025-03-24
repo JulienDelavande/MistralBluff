@@ -1,0 +1,108 @@
+{
+    "date": "2016/9/18 23:56:53",
+    "game_id": "730626234",
+    "variant": "PRR",
+    "table_name": "Medusa-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "gfclbv",
+        "IlxxxlI",
+        "wolfeating"
+    ],
+    "players_seats": [
+        2,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        160.0,
+        165.5,
+        909.76
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "wolfeating",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "Qc",
+            "Ah"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gfclbv",
+                "IlxxxlI",
+                "wolfeating"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "wolfeating"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.3,
+                5.3
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "wolfeating",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                16.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        160.0,
+        156.2,
+        918.9100000000001
+    ]
+}

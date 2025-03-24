@@ -1,101 +1,79 @@
 {
-    "date": "2016/11/28 19:40:50",
-    "game_id": "786364395",
+    "date": "2016/9/18 8:29:56",
+    "game_id": "730224329",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 4,
     "players": [
-        "legenda99",
-        "in_ur_i",
-        "Goomashroom",
-        "lovecola",
         "IlxxxlI",
-        "caballeroXXX"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "FishinChips",
+        "Crabbapple",
+        "KeepKalm"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        100.43,
-        27.22,
-        58.67,
-        50.0,
-        20.0,
-        126.23
+        96.21,
+        110.11,
+        224.71,
+        95.81,
+        145.44,
+        327.36
     ],
-    "player_small_blind": "legenda99",
-    "small_blind": 0.25,
-    "player_big_blind": "in_ur_i",
-    "big_blind": 0.5,
+    "player_small_blind": "FishinChips",
+    "small_blind": 1.0,
+    "player_big_blind": "Crabbapple",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "Ad"
+        "Js",
+        "6c"
     ],
     "dealed_cards": {
-        "flop": [
-            "Kc",
-            "3h",
-            "4s"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
-                "lovecola",
+                "KeepKalm",
                 "IlxxxlI",
-                "caballeroXXX",
-                "legenda99",
-                "in_ur_i"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "FishinChips",
+                "Crabbapple"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "FOLD",
                 "RAISE",
-                "CALL",
-                "CALL",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
-                1.2,
-                1.2,
-                0.95,
+                null,
+                5.0,
+                null,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "legenda99",
-                "IlxxxlI",
-                "caballeroXXX",
-                "legenda99",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD",
-                "RAISE",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                0.5,
-                null,
-                2.5,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -117,11 +95,11 @@
         null
     ],
     "finishing_stack": [
-        103.58,
-        26.72,
-        58.67,
-        50.0,
-        18.3,
-        125.03
+        96.21,
+        110.11,
+        227.71,
+        94.81,
+        143.44,
+        327.36
     ]
 }

@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/8 14:41:21",
+    "game_id": "793404460",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "FatzPanda",
+        "flyshark01",
+        "FirstClan",
+        "GagaPoker",
+        "iDawg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        22.0,
+        21.44,
+        109.18,
+        52.75,
+        54.77,
+        50.0
+    ],
+    "player_small_blind": "FatzPanda",
+    "small_blind": 0.25,
+    "player_big_blind": "flyshark01",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "Kh",
+            "Qd"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FirstClan",
+                "GagaPoker",
+                "iDawg",
+                "IlxxxlI",
+                "FatzPanda",
+                "flyshark01"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.35,
+                1.1,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FatzPanda",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FatzPanda",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.52,
+                1.52
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FatzPanda",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.96,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        19.13,
+        24.5,
+        108.68,
+        52.75,
+        54.77,
+        50.0
+    ]
+}

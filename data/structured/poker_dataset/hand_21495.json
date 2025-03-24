@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/9 8:36:0",
+    "game_id": "793858363",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "critical Eros",
+        "rwnad",
+        "SeemsLegit",
+        "IlxxxlI",
+        "Heksebrygg",
+        "LionHeart76"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        56.88,
+        52.12,
+        68.62,
+        20.0,
+        50.85,
+        138.59
+    ],
+    "player_small_blind": "Heksebrygg",
+    "small_blind": 0.25,
+    "player_big_blind": "LionHeart76",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "4s",
+            "6d"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "critical Eros",
+                "rwnad",
+                "SeemsLegit",
+                "IlxxxlI",
+                "Heksebrygg",
+                "LionHeart76",
+                "rwnad"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                1.5,
+                null,
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "LionHeart76",
+                "rwnad",
+                "SeemsLegit",
+                "LionHeart76",
+                "rwnad"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.26,
+                2.26,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "LionHeart76",
+                "SeemsLegit",
+                "LionHeart76"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.4,
+                4.4
+            ]
+        },
+        "post-river": {
+            "players": [
+                "LionHeart76",
+                "SeemsLegit"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10c Qc",
+        null,
+        null,
+        "Ah Qs"
+    ],
+    "finishing_stack": [
+        56.88,
+        50.62,
+        60.46000000000001,
+        20.0,
+        50.6,
+        147.60000000000002
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/5 21:23:53",
+    "game_id": "791550544",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IgLa",
+        "Oral-Bet",
+        "CRUSHINUSHIP",
+        "IlxxxlI",
+        "odel_nadel"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        56.29,
+        20.0,
+        57.39,
+        23.77,
+        54.57
+    ],
+    "player_small_blind": "IgLa",
+    "small_blind": 0.25,
+    "player_big_blind": "Oral-Bet",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "2s",
+            "8c"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CRUSHINUSHIP",
+                "IlxxxlI",
+                "odel_nadel",
+                "IgLa",
+                "Oral-Bet",
+                "odel_nadel"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Oral-Bet",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Oral-Bet",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Oral-Bet",
+                "odel_nadel",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.04,
+        17.0,
+        57.39,
+        23.77,
+        57.51
+    ]
+}

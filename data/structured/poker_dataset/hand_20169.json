@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/9 13:28:50",
+    "game_id": "794076315",
+    "variant": "PRR",
+    "table_name": "Gorgons-14",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "POSSUM9",
+        "IlxxxlI",
+        "yourcookie",
+        "WeakAndWeary"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        67.95,
+        20.0,
+        50.75,
+        55.12
+    ],
+    "player_small_blind": "WeakAndWeary",
+    "small_blind": 0.25,
+    "player_big_blind": "POSSUM9",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "10h",
+            "8c"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "yourcookie",
+                "WeakAndWeary",
+                "POSSUM9",
+                "yourcookie"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                5.75,
+                null,
+                4.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "yourcookie"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.94,
+                5.94
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "yourcookie"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "WeakAndWeary",
+                "yourcookie"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Kc 10s"
+    ],
+    "finishing_stack": [
+        67.45,
+        20.0,
+        38.81,
+        66.35
+    ]
+}

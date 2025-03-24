@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/24 20:53:5",
+    "game_id": "805221460",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "d4av",
+        "narrowrange",
+        "Indigol",
+        "KUSH_KING",
+        "Katoosi"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        61.32,
+        98.28,
+        82.86,
+        50.0,
+        80.46,
+        20.21
+    ],
+    "player_small_blind": "Katoosi",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "10d",
+            "Jh"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "d4av",
+                "narrowrange",
+                "Indigol",
+                "KUSH_KING",
+                "Katoosi",
+                "IlxxxlI",
+                "narrowrange",
+                "Indigol"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                2.0,
+                null,
+                null,
+                null,
+                6.0,
+                4.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "narrowrange",
+                "Indigol"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.53,
+                6.53
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "narrowrange",
+                "Indigol",
+                "narrowrange"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                36.97,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        60.82,
+        98.28,
+        69.83,
+        62.44,
+        80.46,
+        19.96
+    ]
+}

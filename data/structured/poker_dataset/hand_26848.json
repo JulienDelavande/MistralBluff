@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 20:18:10",
+    "game_id": "792785049",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Bokmal",
+        "IlxxxlI",
+        "odel_nadel",
+        "Oral-Bet",
+        "Mr.Excel"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        53.01,
+        22.25,
+        50.0,
+        52.56,
+        63.11
+    ],
+    "player_small_blind": "Mr.Excel",
+    "small_blind": 0.25,
+    "player_big_blind": "Bokmal",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "Qs",
+            "4s"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "odel_nadel",
+                "Oral-Bet",
+                "Mr.Excel",
+                "Bokmal"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Mr.Excel",
+                "Oral-Bet",
+                "Mr.Excel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Mr.Excel",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Mr.Excel",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Qd 8d"
+    ],
+    "finishing_stack": [
+        52.51,
+        22.25,
+        50.0,
+        49.89,
+        65.99
+    ]
+}

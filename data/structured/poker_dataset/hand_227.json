@@ -1,60 +1,105 @@
 {
-    "date": "2016/11/29 14:46:14",
-    "game_id": "787013902",
+    "date": "2016/9/4 10:10:17",
+    "game_id": "719288030",
     "variant": "PRR",
-    "table_name": "Lakhey-3",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
         "IlxxxlI",
+        "SheppyPOO!!",
         "VegetablesArentYummy",
-        "AironVega"
+        "bet2000",
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
+        2,
         3,
+        4,
         6
     ],
     "starting_stacks": [
-        80.0,
-        438.04,
-        200.0
+        178.0,
+        514.0,
+        206.0,
+        490.07,
+        217.58
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "AironVega",
-    "big_blind": 2.0,
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "bet2000",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9h",
-        "4d"
+        "10d",
+        "Qd"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "5s",
+            "2d",
+            "9d"
+        ],
+        "turn": [
+            "4s"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI"
+                "ConstanceHarm",
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "bet2000"
             ],
             "actions": [
-                "FOLD"
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
             ],
             "values": [
-                null
+                null,
+                8.0,
+                null,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "bet2000",
+                "IlxxxlI",
+                "bet2000",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.95,
+                33.59,
+                27.64
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "bet2000",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                448.48,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -65,11 +110,15 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        79.0,
-        438.04,
-        201.0
+        136.41,
+        512.0,
+        206.0,
+        532.8100000000001,
+        217.58
     ]
 }

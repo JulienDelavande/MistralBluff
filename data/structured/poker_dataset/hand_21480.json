@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/9 8:38:7",
+    "game_id": "793860531",
+    "variant": "PRR",
+    "table_name": "Kraken-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Bokmal",
+        "MadLifeGrinder",
+        "VegetablesArentYummy",
+        "g-vine"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        101.0,
+        164.16,
+        116.7,
+        100.0
+    ],
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 0.5,
+    "player_big_blind": "g-vine",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "10s",
+            "9s"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Bokmal",
+                "MadLifeGrinder",
+                "VegetablesArentYummy",
+                "g-vine"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "g-vine",
+                "MadLifeGrinder",
+                "g-vine",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.48,
+                9.0,
+                5.52
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "g-vine",
+                "MadLifeGrinder",
+                "g-vine",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                15.0,
+                88.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.0,
+        101.0,
+        137.66,
+        116.2,
+        124.33
+    ]
+}

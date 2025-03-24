@@ -1,0 +1,164 @@
+{
+    "date": "2016/12/23 11:35:43",
+    "game_id": "804349556",
+    "variant": "PRR",
+    "table_name": "Gorgons-2",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Rocky92109",
+        "Maria_Pia",
+        "GagaPoker",
+        "virtualbox",
+        "Buttscratcher914",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        32.35,
+        24.64,
+        50.75,
+        50.0,
+        59.8,
+        58.91
+    ],
+    "player_small_blind": "Rocky92109",
+    "small_blind": 0.25,
+    "player_big_blind": "Maria_Pia",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "2h",
+            "3d"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GagaPoker",
+                "virtualbox",
+                "Buttscratcher914",
+                "IlxxxlI",
+                "Rocky92109",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.25,
+                null,
+                1.0,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Rocky92109",
+                "Maria_Pia",
+                "virtualbox",
+                "Buttscratcher914"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Rocky92109",
+                "Maria_Pia",
+                "virtualbox",
+                "Buttscratcher914",
+                "Rocky92109"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.85,
+                2.85,
+                2.85,
+                2.85
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Rocky92109",
+                "Maria_Pia",
+                "virtualbox",
+                "Buttscratcher914",
+                "Rocky92109"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                20.54,
+                null,
+                20.54,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qc 10s",
+        null,
+        null,
+        "Js Kd",
+        null
+    ],
+    "finishing_stack": [
+        28.25,
+        54.61,
+        50.75,
+        45.9,
+        35.16,
+        58.91
+    ]
+}

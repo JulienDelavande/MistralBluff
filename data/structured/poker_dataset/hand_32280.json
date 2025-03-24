@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 7:54:27",
+    "game_id": "791854357",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "bublejam_mn",
+        "Zzzzzzz10",
+        "bob48133",
+        "IlxxxlI",
+        "CarolinaTarheel"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.28,
+        12.5,
+        9.6,
+        5.0,
+        9.64
+    ],
+    "player_small_blind": "bob48133",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "7s",
+            "10s"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CarolinaTarheel",
+                "bublejam_mn",
+                "Zzzzzzz10",
+                "bob48133",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bob48133",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bob48133",
+                "IlxxxlI",
+                "bob48133"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.47,
+                0.47
+            ]
+        },
+        "post-river": {
+            "players": [
+                "bob48133",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "2h Ac",
+        "3c 10c",
+        null
+    ],
+    "finishing_stack": [
+        10.28,
+        12.5,
+        10.7,
+        3.7800000000000002,
+        9.64
+    ]
+}

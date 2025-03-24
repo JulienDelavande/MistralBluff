@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/7 19:2:46",
+    "game_id": "792772010",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "huiloputin",
+        "IlxxxlI",
+        "KUSH_KING",
+        "Irene13",
+        "renoreno",
+        "IampokerKidd"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        10.35,
+        24.75,
+        25.92,
+        39.02,
+        26.45
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "KUSH_KING",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "9c",
+            "5d"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Irene13",
+                "renoreno",
+                "IampokerKidd",
+                "huiloputin",
+                "IlxxxlI",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "KUSH_KING",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.78,
+                0.78
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "KUSH_KING",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.77,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        8.95,
+        26.01,
+        25.92,
+        39.02,
+        26.45
+    ]
+}

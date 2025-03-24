@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/25 13:28:0",
+    "game_id": "805692483",
+    "variant": "PRR",
+    "table_name": "Ettin-6",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Spagetti1",
+        "Ratbastrd",
+        "IlxxxlI",
+        "TheBigALofVA"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        9
+    ],
+    "starting_stacks": [
+        23.61,
+        57.48,
+        25.31,
+        48.89
+    ],
+    "player_small_blind": "TheBigALofVA",
+    "small_blind": 0.1,
+    "player_big_blind": "Spagetti1",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "4d",
+            "8s"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ratbastrd",
+                "IlxxxlI",
+                "TheBigALofVA",
+                "Spagetti1",
+                "Ratbastrd"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                2.0,
+                1.9,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "TheBigALofVA",
+                "Ratbastrd",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "TheBigALofVA",
+                "Ratbastrd",
+                "IlxxxlI",
+                "TheBigALofVA"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.97,
+                6.2,
+                null,
+                3.23
+            ]
+        },
+        "post-river": {
+            "players": [
+                "TheBigALofVA",
+                "Ratbastrd"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.86,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.36,
+        49.28,
+        23.31,
+        58.41
+    ]
+}

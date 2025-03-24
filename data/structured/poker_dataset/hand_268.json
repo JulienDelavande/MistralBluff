@@ -1,102 +1,63 @@
 {
-    "date": "2016/11/29 14:40:36",
-    "game_id": "787011589",
+    "date": "2016/9/4 22:47:11",
+    "game_id": "719615897",
     "variant": "PRR",
     "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "VegetablesArentYummy",
+        "38979",
         "IlxxxlI",
-        "IbetUmuck",
-        "DonCesarGrinder",
-        "LloydXmas"
+        "Leatherass9"
     ],
     "players_seats": [
-        1,
         2,
-        3,
         4,
-        6
+        5
     ],
     "starting_stacks": [
-        227.05,
-        80.0,
-        857.5,
-        262.02,
-        247.48
+        108.0,
+        42.0,
+        165.86
     ],
-    "player_small_blind": "VegetablesArentYummy",
+    "player_small_blind": "Leatherass9",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "38979",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kc",
-        "3c"
+        "6d",
+        "10h"
     ],
     "dealed_cards": {
-        "flop": [
-            "Kd",
-            "Jh",
-            "7s"
-        ],
-        "turn": [
-            "Qd"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IbetUmuck",
-                "DonCesarGrinder",
-                "LloydXmas",
-                "VegetablesArentYummy",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "FOLD",
-                "FOLD",
-                "RAISE",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                4.0,
-                null,
-                2.0
-            ]
-        },
-        "post-flop": {
-            "players": [
                 "IlxxxlI",
-                "LloydXmas"
+                "Leatherass9"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "LloydXmas"
-            ],
-            "actions": [
-                "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                4.7,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -107,15 +68,11 @@
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        226.05,
-        84.55,
-        857.5,
-        262.02,
-        243.48
+        109.0,
+        42.0,
+        164.86
     ]
 }

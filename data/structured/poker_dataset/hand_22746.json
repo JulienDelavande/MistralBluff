@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 21:14:48",
+    "game_id": "793491723",
+    "variant": "PRR",
+    "table_name": "Kraken-5",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Orondi",
+        "38979",
+        "illoke",
+        "IlxxxlI",
+        "BezZzdelnik",
+        "o011180"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        59.58,
+        100.0,
+        103.13,
+        40.0,
+        109.13,
+        59.49
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "BezZzdelnik",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "2c",
+            "10s"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "o011180",
+                "Orondi",
+                "38979",
+                "illoke",
+                "IlxxxlI",
+                "BezZzdelnik"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BezZzdelnik",
+                "o011180",
+                "illoke"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BezZzdelnik",
+                "o011180",
+                "illoke",
+                "BezZzdelnik"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        59.58,
+        100.0,
+        100.13,
+        39.5,
+        106.13,
+        65.52
+    ]
+}

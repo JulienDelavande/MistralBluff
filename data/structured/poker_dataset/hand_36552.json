@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/4 11:46:41",
+    "game_id": "790580194",
+    "variant": "PRR",
+    "table_name": "Karkadann-2",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IamPhamous",
+        "ThxBro",
+        "VegetablesArentYummy",
+        "zboiii",
+        "BluffDoctor",
+        "IlxxxlI",
+        "Azaladog"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        222.68,
+        43.14,
+        100.0,
+        122.46,
+        73.06,
+        40.0,
+        107.43
+    ],
+    "player_small_blind": "BluffDoctor",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "8c",
+            "9h"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Azaladog",
+                "IamPhamous",
+                "ThxBro",
+                "VegetablesArentYummy",
+                "zboiii",
+                "BluffDoctor",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                2.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BluffDoctor",
+                "IamPhamous"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BluffDoctor",
+                "IamPhamous",
+                "BluffDoctor"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                12.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        229.03,
+        43.14,
+        100.0,
+        122.46,
+        67.06,
+        39.0,
+        107.43
+    ]
+}

@@ -1,33 +1,45 @@
 {
-    "date": "2016/11/29 12:41:32",
-    "game_id": "786952731",
+    "date": "2016/9/6 0:53:16",
+    "game_id": "720654107",
     "variant": "PRR",
-    "table_name": "Longana",
+    "table_name": "Monopod",
     "type_game": "Short",
-    "button_seat": 3,
+    "button_seat": 4,
     "players": [
+        "PANDAisEVIL",
+        "RMCG01",
         "VegetablesArentYummy",
-        "89_suited",
-        "IlxxxlI"
+        "IlxxxlI",
+        "cuzyagood",
+        "Leatherass9",
+        "PandaWang"
     ],
     "players_seats": [
-        3,
+        1,
+        2,
         4,
-        5
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        105.5,
-        78.0,
-        40.0
+        228.0,
+        194.0,
+        215.15,
+        80.0,
+        317.96,
+        413.0,
+        240.45
     ],
-    "player_small_blind": "89_suited",
-    "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "cuzyagood",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "Kd"
+        "Ks",
+        "4h"
     ],
     "dealed_cards": {
         "flop": [],
@@ -37,20 +49,26 @@
     "actions": {
         "pre-flop": {
             "players": [
+                "Leatherass9",
+                "PandaWang",
+                "PANDAisEVIL",
+                "RMCG01",
                 "VegetablesArentYummy",
-                "89_suited",
-                "IlxxxlI",
-                "VegetablesArentYummy"
+                "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
-                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
-                4.0,
-                13.0,
+                null,
+                null,
+                null,
+                null,
                 null,
                 null
             ]
@@ -74,11 +92,19 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        101.5,
-        84.0,
-        38.0
+        228.0,
+        194.0,
+        215.15,
+        78.0,
+        319.96,
+        413.0,
+        240.45
     ]
 }

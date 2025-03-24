@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/22 23:28:39",
+    "game_id": "803889698",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "SkaHot",
+        "OlegGazmanoy",
+        "Sonic3Dblast",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        26.56,
+        25.0,
+        33.77,
+        35.17
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "OlegGazmanoy",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "5d",
+            "7h"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "SkaHot",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.58,
+                0.48,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "IlxxxlI",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.44,
+                0.44
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.72,
+        24.75,
+        33.77,
+        34.15
+    ]
+}

@@ -1,81 +1,105 @@
 {
-    "date": "2016/11/28 20:46:29",
-    "game_id": "786377931",
+    "date": "2016/9/18 7:39:3",
+    "game_id": "730192604",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 1,
+    "button_seat": 6,
     "players": [
-        "BirdieKing",
-        "GreinSeint",
-        "in_ur_i",
-        "meandkids",
-        "IlxxxlI"
+        "A",
+        "IlxxxlI",
+        "Pimpika",
+        "drdboy",
+        "utormico",
+        "wishyouhadnot",
+        "BadBeat79",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        43.88,
-        20.04,
-        46.96,
-        47.0,
-        20.0
+        311.22,
+        86.4,
+        85.5,
+        74.5,
+        161.66,
+        178.83,
+        397.68,
+        308.26,
+        207.6
     ],
-    "player_small_blind": "GreinSeint",
-    "small_blind": 0.25,
-    "player_big_blind": "in_ur_i",
-    "big_blind": 0.5,
+    "player_small_blind": "BadBeat79",
+    "small_blind": 1.0,
+    "player_big_blind": "UrSoDumb",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "Qd"
+        "8h",
+        "Kh"
     ],
     "dealed_cards": {
         "flop": [
-            "4c",
-            "Kc",
-            "Qs"
+            "9c",
+            "Jd",
+            "Kd"
         ],
         "turn": [
-            "As"
+            "7s"
         ],
         "river": [
-            "2d"
+            "Qs"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "meandkids",
+                "KeepKalm",
+                "A",
                 "IlxxxlI",
-                "BirdieKing",
-                "GreinSeint",
-                "in_ur_i"
+                "Pimpika",
+                "drdboy",
+                "utormico",
+                "wishyouhadnot",
+                "BadBeat79",
+                "UrSoDumb"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
-                1.2,
                 null,
                 null,
-                0.7
+                null,
+                null,
+                null,
+                null,
+                1.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "in_ur_i",
-                "IlxxxlI"
+                "BadBeat79",
+                "UrSoDumb"
             ],
             "actions": [
                 "CHECK",
@@ -88,22 +112,8 @@
         },
         "post-turn": {
             "players": [
-                "in_ur_i",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                1.26,
-                1.26
-            ]
-        },
-        "post-river": {
-            "players": [
-                "in_ur_i",
-                "IlxxxlI"
+                "BadBeat79",
+                "UrSoDumb"
             ],
             "actions": [
                 "CHECK",
@@ -113,20 +123,42 @@
                 null,
                 null
             ]
+        },
+        "post-river": {
+            "players": [
+                "BadBeat79",
+                "UrSoDumb"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "8h 7h",
         null,
-        "10c Qd"
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        43.88,
-        19.79,
-        44.5,
-        47.0,
-        22.46
+        311.22,
+        86.4,
+        85.5,
+        74.5,
+        161.66,
+        178.83,
+        399.48,
+        306.26,
+        207.6
     ]
 }

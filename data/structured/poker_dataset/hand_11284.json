@@ -1,0 +1,170 @@
+{
+    "date": "2016/12/24 23:29:33",
+    "game_id": "805269198",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "shim123",
+        "betcat",
+        "Night_Owl",
+        "IlxxxlI",
+        "JetRex",
+        "ImUrDonkey",
+        "MrCat",
+        "Blakemoneous",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        57.51,
+        22.85,
+        50.0,
+        56.72,
+        43.96,
+        45.37,
+        50.0,
+        56.24,
+        73.2
+    ],
+    "player_small_blind": "so_it_goes",
+    "small_blind": 0.25,
+    "player_big_blind": "shim123",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "Jd",
+            "Qc"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "betcat",
+                "Night_Owl",
+                "IlxxxlI",
+                "JetRex",
+                "ImUrDonkey",
+                "MrCat",
+                "Blakemoneous",
+                "so_it_goes",
+                "shim123"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                null,
+                null,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shim123",
+                "JetRex",
+                "shim123"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.01,
+                3.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shim123",
+                "JetRex",
+                "shim123"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.82,
+                6.82
+            ]
+        },
+        "post-river": {
+            "players": [
+                "shim123",
+                "JetRex"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kd Qd",
+        null,
+        null,
+        null,
+        "Qh Kc",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        57.28,
+        22.85,
+        50.0,
+        56.72,
+        43.72,
+        45.37,
+        49.5,
+        56.24,
+        72.95
+    ]
+}

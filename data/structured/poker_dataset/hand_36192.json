@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/4 13:0:47",
+    "game_id": "790625779",
+    "variant": "PRR",
+    "table_name": "Garuda-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "RedeemMe",
+        "MortalLock",
+        "Spagetti1",
+        "RunnerLucker"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        20.0,
+        14.25,
+        66.0,
+        14.55,
+        105.85
+    ],
+    "player_small_blind": "Spagetti1",
+    "small_blind": 0.25,
+    "player_big_blind": "RunnerLucker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "10h",
+            "3h"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "RedeemMe",
+                "MortalLock",
+                "Spagetti1",
+                "RunnerLucker"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "RunnerLucker",
+                "RedeemMe"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RunnerLucker",
+                "RedeemMe"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "RunnerLucker",
+                "RedeemMe",
+                "RunnerLucker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "7d 6s",
+        null,
+        null,
+        "8c 6h"
+    ],
+    "finishing_stack": [
+        20.0,
+        14.32,
+        66.0,
+        14.3,
+        105.91999999999999
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 8:22:10",
+    "game_id": "793141076",
+    "variant": "PRR",
+    "table_name": "Ekek-5",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Justooy",
+        "foxgloves",
+        "IOPCHAN",
+        "iKaBiNK",
+        "IlxxxlI",
+        "Karttt5"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        25.0,
+        25.0,
+        45.83,
+        19.34,
+        21.07
+    ],
+    "player_small_blind": "foxgloves",
+    "small_blind": 0.1,
+    "player_big_blind": "IOPCHAN",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "Qc",
+            "Qh"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "iKaBiNK",
+                "IlxxxlI",
+                "Karttt5",
+                "Justooy",
+                "foxgloves",
+                "IOPCHAN",
+                "Karttt5"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                1.0,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Karttt5",
+                "Justooy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Karttt5",
+                "Justooy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.74,
+                0.74
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Karttt5",
+                "Justooy"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.82,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.26,
+        24.9,
+        24.75,
+        45.83,
+        19.34,
+        22.970000000000002
+    ]
+}

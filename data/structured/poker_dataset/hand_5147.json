@@ -1,0 +1,119 @@
+{
+    "date": "2016/9/28 11:47:20",
+    "game_id": "737948157",
+    "variant": "PRR",
+    "table_name": "Lakhey-14",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "xx_HaZ",
+        "Wei2huge",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        218.46,
+        80.0
+    ],
+    "player_small_blind": "Wei2huge",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "8s",
+            "Js"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "xx_HaZ",
+                "Wei2huge",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                3.0,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Wei2huge",
+                "IlxxxlI",
+                "xx_HaZ"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                8.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Wei2huge",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                20.0,
+                20.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Wei2huge",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                50.0,
+                48.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "9c 10d",
+        "Kd 10h"
+    ],
+    "finishing_stack": [
+        196.0,
+        301.46000000000004,
+        0.0
+    ]
+}

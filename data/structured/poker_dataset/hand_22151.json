@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 22:8:12",
+    "game_id": "793505872",
+    "variant": "PRR",
+    "table_name": "Gorgons-13",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "alpatter",
+        "odel_nadel",
+        "IgLa",
+        "HapKoTuk",
+        "Hawkbacker",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        51.99,
+        86.44,
+        70.29,
+        53.18,
+        20.86,
+        20.0
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "6d",
+            "Kh"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "Hawkbacker",
+                "IlxxxlI",
+                "alpatter",
+                "odel_nadel",
+                "IgLa",
+                "alpatter"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.75,
+                5.25,
+                null,
+                3.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "odel_nadel",
+                "alpatter"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.5,
+                5.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "odel_nadel",
+                "alpatter",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.69,
+                10.69
+            ]
+        },
+        "post-river": {
+            "players": [
+                "odel_nadel",
+                "alpatter"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Jh Ah",
+        "As Qc",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.3,
+        106.44,
+        69.79,
+        53.18,
+        20.86,
+        20.0
+    ]
+}

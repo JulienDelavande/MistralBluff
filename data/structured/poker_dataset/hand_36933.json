@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/3 14:13:55",
+    "game_id": "789980304",
+    "variant": "PRR",
+    "table_name": "Ekek-14",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "bludrifter",
+        "IlxxxlI",
+        "David_lay",
+        "Jui Kuen",
+        "giveitback",
+        "CalmDownJustCall"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        16.75,
+        13.35,
+        28.4,
+        28.03,
+        29.87,
+        23.58
+    ],
+    "player_small_blind": "giveitback",
+    "small_blind": 0.1,
+    "player_big_blind": "CalmDownJustCall",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "2h",
+            "10s"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bludrifter",
+                "IlxxxlI",
+                "David_lay",
+                "Jui Kuen",
+                "giveitback",
+                "CalmDownJustCall",
+                "bludrifter",
+                "giveitback"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                null,
+                0.15,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "giveitback",
+                "CalmDownJustCall",
+                "bludrifter",
+                "giveitback"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.25,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        15.5,
+        13.35,
+        28.4,
+        28.03,
+        28.62,
+        25.9
+    ]
+}

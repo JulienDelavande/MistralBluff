@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/2 12:27:25",
+    "game_id": "789250163",
+    "variant": "PRR",
+    "table_name": "Lakhey-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "LazyFish",
+        "Jerek1022",
+        "AironVega",
+        "IlxxxlI",
+        "Gronkowski69"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        445.78,
+        35.36,
+        200.0,
+        80.0,
+        200.0
+    ],
+    "player_small_blind": "LazyFish",
+    "small_blind": 1.0,
+    "player_big_blind": "Jerek1022",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "7h",
+            "8d"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AironVega",
+                "IlxxxlI",
+                "Gronkowski69",
+                "LazyFish",
+                "Jerek1022"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                5.0,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jerek1022",
+                "Gronkowski69"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jerek1022",
+                "Gronkowski69"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.96,
+                6.96
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Jerek1022",
+                "Gronkowski69"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ah 6d",
+        null,
+        null,
+        "As 7s"
+    ],
+    "finishing_stack": [
+        444.78,
+        23.4,
+        200.0,
+        80.0,
+        211.72
+    ]
+}

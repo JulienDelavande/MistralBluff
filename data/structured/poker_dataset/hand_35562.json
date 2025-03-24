@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/5 8:13:54",
+    "game_id": "791206442",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "Immortal.",
+        "so_it_goes",
+        "scoopadoop",
+        "Shred",
+        "mikedealer"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        25.0,
+        59.17,
+        27.79,
+        33.13,
+        18.46
+    ],
+    "player_small_blind": "Immortal.",
+    "small_blind": 0.25,
+    "player_big_blind": "so_it_goes",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "3c",
+            "7h"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "9c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "scoopadoop",
+                "Shred",
+                "mikedealer",
+                "IlxxxlI",
+                "Immortal.",
+                "so_it_goes"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "so_it_goes",
+                "mikedealer"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "so_it_goes",
+                "mikedealer"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "so_it_goes",
+                "mikedealer",
+                "so_it_goes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.92,
+                3.92
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ac 2c"
+    ],
+    "finishing_stack": [
+        10.0,
+        24.75,
+        51.25,
+        27.79,
+        33.13,
+        25.83
+    ]
+}

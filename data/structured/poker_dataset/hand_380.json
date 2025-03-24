@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 14:26:42",
-    "game_id": "787005581",
+    "date": "2016/9/5 11:56:32",
+    "game_id": "720256336",
     "variant": "PRR",
-    "table_name": "Gorgons-15",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 7,
     "players": [
-        "WeakAndWeary",
-        "IampokerKidd",
-        "imger8",
+        "UrSoDumb",
+        "St3p04ka",
         "IlxxxlI",
-        "foreseen",
-        "BiGFck"
+        "AironVega",
+        "gust",
+        "Marketsniper",
+        "jtee95",
+        "pokerpokeronthewall",
+        "lars76"
     ],
     "players_seats": [
         1,
@@ -19,39 +22,56 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        53.08,
-        106.51,
-        40.75,
-        21.5,
-        52.7,
-        13.43
+        265.28,
+        105.72,
+        40.0,
+        277.34,
+        102.0,
+        96.38,
+        100.0,
+        121.7,
+        67.8
     ],
-    "player_small_blind": "BiGFck",
-    "small_blind": 0.25,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 0.5,
+    "player_small_blind": "pokerpokeronthewall",
+    "small_blind": 1.0,
+    "player_big_blind": "lars76",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "7h"
+        "4h",
+        "2d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "10s",
+            "9c",
+            "Qc"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "4d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IampokerKidd",
-                "imger8",
+                "UrSoDumb",
+                "St3p04ka",
                 "IlxxxlI",
-                "foreseen",
-                "BiGFck",
-                "WeakAndWeary"
+                "AironVega",
+                "gust",
+                "Marketsniper",
+                "jtee95",
+                "pokerpokeronthewall",
+                "lars76"
             ],
             "actions": [
                 "FOLD",
@@ -59,34 +79,82 @@
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
-                1.5,
+                6.0,
                 null,
+                null,
+                null,
+                6.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lars76",
+                "St3p04ka",
+                "Marketsniper",
+                "lars76"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.83,
+                11.83,
+                11.83
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "lars76",
+                "St3p04ka",
+                "Marketsniper"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "lars76",
+                "St3p04ka",
+                "Marketsniper"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
+        null,
+        "Ac Qs",
+        null,
         null,
         null,
         null,
@@ -95,11 +163,14 @@
         null
     ],
     "finishing_stack": [
-        52.58,
-        106.51,
-        41.5,
-        21.5,
-        52.7,
-        13.18
+        265.28,
+        139.66,
+        40.0,
+        277.34,
+        102.0,
+        78.55,
+        100.0,
+        120.7,
+        49.97
     ]
 }

@@ -1,0 +1,122 @@
+{
+    "date": "2016/12/27 15:42:58",
+    "game_id": "807095330",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "anokato",
+        "IampokerKidd"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        25.0,
+        60.02,
+        30.95
+    ],
+    "player_small_blind": "anokato",
+    "small_blind": 0.1,
+    "player_big_blind": "IampokerKidd",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "6d",
+            "8d"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "2s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "anokato",
+                "IampokerKidd",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.58,
+                2.15,
+                null,
+                1.67
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "anokato",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.25,
+                3.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "anokato",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "anokato",
+                "IlxxxlI",
+                "anokato"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                7.75,
+                19.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        37.5,
+        46.77,
+        30.7
+    ]
+}

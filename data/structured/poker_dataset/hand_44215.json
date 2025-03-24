@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/1 13:44:26",
+    "game_id": "788620453",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "GautamaBuddha",
+        "AironVega",
+        "flyshark01",
+        "IlxxxlI",
+        "rook_",
+        "CattleCorner"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        113.55,
+        236.2,
+        102.5,
+        55.31,
+        100.0,
+        278.47
+    ],
+    "player_small_blind": "flyshark01",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "10d",
+            "2h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "rook_",
+                "CattleCorner",
+                "GautamaBuddha",
+                "AironVega",
+                "flyshark01",
+                "IlxxxlI",
+                "GautamaBuddha",
+                "AironVega"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                10.0,
+                null,
+                null,
+                22.0,
+                14.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GautamaBuddha",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "GautamaBuddha",
+                "AironVega",
+                "GautamaBuddha"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                15.83,
+                15.83
+            ]
+        },
+        "post-river": {
+            "players": [
+                "GautamaBuddha",
+                "AironVega",
+                "GautamaBuddha"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                195.87,
+                73.22
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ad Kd",
+        "10h 10c",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        0.0,
+        348.25,
+        102.0,
+        54.31,
+        100.0,
+        278.47
+    ]
+}

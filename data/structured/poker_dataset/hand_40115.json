@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/2 15:56:15",
+    "game_id": "789339619",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "Lakshooooo",
+        "IlxxxlI",
+        "Xobkcul",
+        "1000_na_nl25_aga",
+        "zionnoiz"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        81.93,
+        50.75,
+        21.5,
+        56.58,
+        50.0,
+        46.96
+    ],
+    "player_small_blind": "zionnoiz",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "As",
+            "Jh"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Lakshooooo",
+                "IlxxxlI",
+                "Xobkcul",
+                "1000_na_nl25_aga",
+                "zionnoiz",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "zionnoiz",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.26,
+                1.26
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "zionnoiz",
+                "WeakAndWeary",
+                "zionnoiz"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.15,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        83.97,
+        50.75,
+        21.5,
+        56.58,
+        50.0,
+        44.7
+    ]
+}

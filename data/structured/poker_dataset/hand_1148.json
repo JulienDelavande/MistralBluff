@@ -1,88 +1,78 @@
 {
-    "date": "2016/11/29 9:21:1",
-    "game_id": "786794757",
+    "date": "2016/9/14 10:58:51",
+    "game_id": "727324911",
     "variant": "PRR",
-    "table_name": "Longana-4",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "Iia007",
-        "IAmClueless",
-        "PANDAisEVIL",
-        "mr.fargo",
-        "L4zy_FiSh",
+        "norcalho",
         "IlxxxlI",
-        "Gronkowski69",
-        "StephCurry"
+        "AK Played",
+        "UrSoDumb",
+        "gust"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
-        6,
-        8,
-        9
+        5
     ],
     "starting_stacks": [
-        218.92,
-        470.03,
-        384.22,
-        88.0,
-        213.55,
-        83.0,
-        221.1,
-        200.0
+        37.25,
+        49.2,
+        68.46,
+        166.39,
+        80.0
     ],
-    "player_small_blind": "IAmClueless",
+    "player_small_blind": "norcalho",
     "small_blind": 1.0,
-    "player_big_blind": "PANDAisEVIL",
+    "player_big_blind": "IlxxxlI",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3s",
-        "Kh"
+        "Kh",
+        "5h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Jh",
+            "8s",
+            "7s"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "5s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "mr.fargo",
-                "L4zy_FiSh",
+                "AK Played",
+                "UrSoDumb",
+                "gust",
+                "norcalho",
                 "IlxxxlI",
-                "Gronkowski69",
-                "StephCurry",
-                "Iia007",
-                "IAmClueless",
-                "PANDAisEVIL",
-                "StephCurry"
+                "gust"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "RAISE",
+                "ALLIN",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                4.0,
+                36.25,
                 null,
-                null,
-                6.0,
-                18.0,
-                null,
-                null,
-                null
+                33.25
             ]
         },
         "post-flop": {
@@ -102,23 +92,17 @@
         }
     },
     "card_shown_by_players": [
+        "10c Ah",
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "6h 6d"
     ],
     "finishing_stack": [
-        227.92,
-        469.03,
-        382.22,
-        88.0,
-        213.55,
-        83.0,
-        221.1,
-        194.0
+        0.0,
+        47.2,
+        68.46,
+        166.39,
+        116.25
     ]
 }

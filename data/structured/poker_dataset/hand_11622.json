@@ -1,0 +1,128 @@
+{
+    "date": "2016/12/24 22:55:47",
+    "game_id": "805256450",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "skaet_2000",
+        "PokerLver420",
+        "SkaHot",
+        "PersonaGrata2016",
+        "IlxxxlI",
+        "booya25"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        5.33,
+        8.05,
+        20.47,
+        24.84,
+        12.5,
+        20.32
+    ],
+    "player_small_blind": "booya25",
+    "small_blind": 0.1,
+    "player_big_blind": "skaet_2000",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "Qc",
+            "Kc"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PokerLver420",
+                "SkaHot",
+                "PersonaGrata2016",
+                "IlxxxlI",
+                "booya25",
+                "skaet_2000"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "skaet_2000",
+                "PokerLver420",
+                "skaet_2000",
+                "PokerLver420"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.76,
+                4.58,
+                3.82
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Qs Ah",
+        "As Jc",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        0.0,
+        12.950000000000001,
+        20.47,
+        24.84,
+        12.5,
+        20.22
+    ]
+}

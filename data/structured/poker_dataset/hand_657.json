@@ -1,127 +1,114 @@
 {
-    "date": "2016/11/29 13:18:48",
-    "game_id": "786973904",
+    "date": "2016/9/5 13:3:25",
+    "game_id": "720275026",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "Abundance4All",
+        "SheppyPOO!!",
         "IlxxxlI",
-        "GagaPoker",
-        "foreseen"
+        "whitnez33",
+        "ShtrafBat",
+        "RapaNui",
+        "St3p04ka"
     ],
     "players_seats": [
         1,
+        2,
+        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        88.57,
-        20.5,
-        70.96,
-        69.47
+        338.45,
+        80.0,
+        440.47,
+        156.2,
+        200.0,
+        233.6
     ],
-    "player_small_blind": "GagaPoker",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "St3p04ka",
+    "small_blind": 2.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9h",
-        "6s"
+        "6d",
+        "Kh"
     ],
     "dealed_cards": {
-        "flop": [
-            "8h",
-            "5c",
-            "6h"
-        ],
-        "turn": [
-            "7h"
-        ],
-        "river": [
-            "10h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Abundance4All",
                 "IlxxxlI",
-                "GagaPoker",
-                "foreseen"
+                "whitnez33",
+                "ShtrafBat",
+                "RapaNui",
+                "St3p04ka",
+                "SheppyPOO!!",
+                "whitnez33",
+                "RapaNui",
+                "St3p04ka"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
                 "RAISE",
-                "CALL"
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "ALLIN",
+                "FOLD",
+                "ALLIN"
             ],
             "values": [
                 null,
+                8.0,
                 null,
-                1.25,
-                1.0
+                8.0,
+                41.2,
+                null,
+                432.47,
+                null,
+                190.4
             ]
         },
         "post-flop": {
-            "players": [
-                "GagaPoker",
-                "foreseen",
-                "GagaPoker"
-            ],
-            "actions": [
-                "BET",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                0.95,
-                4.35,
-                3.4
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "GagaPoker",
-                "foreseen"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "GagaPoker",
-                "foreseen"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                9.5,
-                9.5
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "Kd Kh",
-        null
+        "Ks Ad",
+        null,
+        null,
+        "10s 10d"
     ],
     "finishing_stack": [
-        88.57,
-        20.5,
-        84.78,
-        54.12
+        334.45,
+        80.0,
+        683.07,
+        156.2,
+        192.0,
+        0.0
     ]
 }

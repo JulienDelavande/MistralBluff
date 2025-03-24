@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/27 7:52:16",
+    "game_id": "737101841",
+    "variant": "PRR",
+    "table_name": "Lakhey-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "AironVega",
+        "shokerAAss",
+        "IlxxxlI",
+        "DetectiveUA",
+        "enron_kenlay"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        373.76,
+        406.05,
+        99.56,
+        309.9,
+        255.75
+    ],
+    "player_small_blind": "AironVega",
+    "small_blind": 1.0,
+    "player_big_blind": "shokerAAss",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "10s",
+            "Qs"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "DetectiveUA",
+                "enron_kenlay",
+                "AironVega",
+                "shokerAAss",
+                "DetectiveUA"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.0,
+                null,
+                19.0,
+                null,
+                15.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "DetectiveUA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                13.3,
+                13.3
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AironVega",
+                "DetectiveUA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "AironVega",
+                "DetectiveUA"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                56.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        406.05999999999995,
+        404.05,
+        99.56,
+        276.59999999999997,
+        255.75
+    ]
+}

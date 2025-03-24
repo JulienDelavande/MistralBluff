@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/26 12:29:43",
+    "game_id": "806321235",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "lablador1010",
+        "pumppppps",
+        "HapKoTuk",
+        "IlxxxlI",
+        "Artemone",
+        "dtnfk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        20.52,
+        25.0,
+        25.0,
+        31.39,
+        13.93
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Artemone",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "7h",
+            "6c"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dtnfk",
+                "lablador1010",
+                "pumppppps",
+                "HapKoTuk",
+                "IlxxxlI",
+                "Artemone"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Artemone",
+                "pumppppps"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Artemone",
+                "pumppppps"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Artemone",
+                "pumppppps",
+                "Artemone"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        20.84,
+        25.0,
+        24.9,
+        31.14,
+        13.93
+    ]
+}

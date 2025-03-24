@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/4 13:28:25",
+    "game_id": "790641547",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "gust",
+        "St3p04ka",
+        "dresden3",
+        "IlxxxlI",
+        "flyshark01"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        41.0,
+        126.12,
+        56.68,
+        42.4,
+        101.0
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "dresden3",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "Jc",
+            "8d"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "flyshark01",
+                "gust",
+                "St3p04ka",
+                "dresden3"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dresden3",
+                "gust",
+                "dresden3"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                2.14,
+                6.0,
+                3.86
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dresden3",
+                "gust"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                7.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.0,
+        125.62,
+        64.36,
+        42.4,
+        101.0
+    ]
+}

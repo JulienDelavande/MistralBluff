@@ -1,70 +1,104 @@
 {
-    "date": "2016/11/29 12:59:40",
-    "game_id": "786963010",
+    "date": "2016/9/6 0:35:8",
+    "game_id": "720638662",
     "variant": "PRR",
-    "table_name": "Kraken-22",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 2,
     "players": [
-        "meandkids",
-        "IlxxxlI",
-        "gust",
-        "MadLifeGrinder",
-        "WeakAndWeary"
+        "BigLou1212",
+        "BIGRAISE",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
         4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        100.0,
-        40.0,
-        40.0,
-        100.0,
-        274.02
+        253.99,
+        180.45,
+        368.31,
+        359.34,
+        593.4,
+        404.7,
+        160.0
     ],
-    "player_small_blind": "WeakAndWeary",
-    "small_blind": 0.5,
-    "player_big_blind": "meandkids",
-    "big_blind": 1.0,
+    "player_small_blind": "HookahBOSS",
+    "small_blind": 2.0,
+    "player_big_blind": "Maria26years",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jh",
-        "8d"
+        "3s",
+        "4c"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Kc",
+            "10c",
+            "2h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "gfclbv",
+                "Leatherass9",
                 "IlxxxlI",
-                "gust",
-                "MadLifeGrinder",
-                "WeakAndWeary"
+                "BigLou1212",
+                "BIGRAISE",
+                "HookahBOSS",
+                "Maria26years",
+                "BigLou1212"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                null
+                4.0,
+                12.4,
+                null,
+                null,
+                8.4
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BigLou1212",
+                "BIGRAISE",
+                "BigLou1212"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                20.33,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -82,13 +116,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        100.5,
-        40.0,
-        40.0,
-        100.0,
-        273.52
+        241.59,
+        198.54999999999998,
+        366.31,
+        355.34,
+        593.4,
+        404.7,
+        160.0
     ]
 }

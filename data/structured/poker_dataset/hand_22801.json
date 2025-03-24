@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/8 21:3:45",
+    "game_id": "793489051",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "WeakAndWeary",
+        "Hawkbacker",
+        "mightydark",
+        "Bokmal",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        54.4,
+        57.62,
+        43.78,
+        68.54,
+        23.72
+    ],
+    "player_small_blind": "WeakAndWeary",
+    "small_blind": 0.25,
+    "player_big_blind": "Hawkbacker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "2s",
+            "As"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mightydark",
+                "Bokmal",
+                "IlxxxlI",
+                "WeakAndWeary",
+                "Hawkbacker",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                3.75,
+                2.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Hawkbacker",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.75,
+                4.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "Hawkbacker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "WeakAndWeary",
+                "Hawkbacker",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        45.4,
+        65.72,
+        43.78,
+        68.54,
+        23.72
+    ]
+}

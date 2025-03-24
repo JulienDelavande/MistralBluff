@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 14:23:5",
-    "game_id": "787004023",
+    "date": "2016/9/5 12:2:58",
+    "game_id": "720258350",
     "variant": "PRR",
-    "table_name": "Kraken-23",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "WeakAndWeary",
-        "gust",
-        "LloydXmas",
-        "Sephiroth1",
-        "ElvenEyes",
-        "IlxxxlI"
+        "GranatoBetano",
+        "St3p04ka",
+        "IlxxxlI",
+        "bigrpk22",
+        "Jimisdumb",
+        "follower1"
     ],
     "players_seats": [
         1,
@@ -22,56 +22,48 @@
         6
     ],
     "starting_stacks": [
-        100.4,
-        46.5,
-        131.79,
-        104.2,
-        115.95,
-        41.5
+        300.0,
+        178.4,
+        120.0,
+        271.05,
+        394.37,
+        406.85
     ],
-    "player_small_blind": "gust",
-    "small_blind": 0.5,
-    "player_big_blind": "LloydXmas",
-    "big_blind": 1.0,
+    "player_small_blind": "bigrpk22",
+    "small_blind": 3.0,
+    "player_big_blind": "Jimisdumb",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kc",
-        "7s"
+        "6c",
+        "Ks"
     ],
     "dealed_cards": {
-        "flop": [
-            "2d",
-            "8h",
-            "10c"
-        ],
-        "turn": [
-            "8d"
-        ],
-        "river": [
-            "6c"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Sephiroth1",
-                "ElvenEyes",
+                "follower1",
+                "GranatoBetano",
+                "St3p04ka",
                 "IlxxxlI",
-                "WeakAndWeary",
-                "gust",
-                "LloydXmas"
+                "bigrpk22",
+                "Jimisdumb"
             ],
             "actions": [
                 "RAISE",
-                "CALL",
+                "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
-                2.0,
-                2.0,
+                15.0,
+                null,
                 null,
                 null,
                 null,
@@ -79,52 +71,19 @@
             ]
         },
         "post-flop": {
-            "players": [
-                "Sephiroth1",
-                "ElvenEyes",
-                "Sephiroth1"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                2.61,
-                2.61
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "Sephiroth1",
-                "ElvenEyes"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "Sephiroth1",
-                "ElvenEyes",
-                "Sephiroth1"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                21.0,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -136,11 +95,11 @@
         null
     ],
     "finishing_stack": [
-        100.4,
-        46.0,
-        130.79,
-        99.59,
-        121.53,
-        41.5
+        300.0,
+        178.4,
+        120.0,
+        268.05,
+        388.37,
+        415.85
     ]
 }

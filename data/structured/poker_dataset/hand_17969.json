@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/10 9:22:41",
+    "game_id": "794556422",
+    "variant": "PRR",
+    "table_name": "Dobhar-chu-28",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "tony2012",
+        "BigDaddy496",
+        "RKelly",
+        "itsfuzzy",
+        "norkid"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        4.0,
+        3.85,
+        11.34,
+        4.34,
+        10.78,
+        10.0
+    ],
+    "player_small_blind": "itsfuzzy",
+    "small_blind": 0.05,
+    "player_big_blind": "norkid",
+    "big_blind": 0.1,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "9h",
+            "10s"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "tony2012",
+                "BigDaddy496",
+                "RKelly",
+                "itsfuzzy",
+                "norkid"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                0.1,
+                null,
+                0.1,
+                null,
+                0.05,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "itsfuzzy",
+                "norkid",
+                "IlxxxlI",
+                "BigDaddy496",
+                "itsfuzzy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.28,
+                0.28,
+                null,
+                0.28
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "itsfuzzy",
+                "norkid",
+                "IlxxxlI",
+                "itsfuzzy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "norkid",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.69,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        2.87,
+        3.85,
+        11.24,
+        4.34,
+        10.399999999999999,
+        11.48
+    ]
+}

@@ -1,64 +1,116 @@
 {
-    "date": "2016/11/29 15:20:41",
-    "game_id": "787026033",
+    "date": "2016/9/4 2:16:45",
+    "game_id": "718950035",
     "variant": "PRR",
-    "table_name": "Kraken-20",
-    "type_game": "Hold'em",
+    "table_name": "Monopod",
+    "type_game": "Short",
     "button_seat": 1,
     "players": [
-        "AironVega",
-        "WeakAndWeary",
+        "BIGRAISE",
+        "tcoll16",
+        "cracypoker",
+        "VegetablesArentYummy",
+        "Oakee",
         "IlxxxlI",
-        "aleks0v"
+        "WalterBlack",
+        "TheFront7",
+        "NoSugarJoe"
     ],
     "players_seats": [
         1,
+        2,
+        3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        121.43,
-        111.17,
-        40.28,
-        100.0
+        120.0,
+        225.62,
+        261.95,
+        200.0,
+        200.0,
+        80.0,
+        459.65,
+        299.2,
+        38.05
     ],
-    "player_small_blind": "WeakAndWeary",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "tcoll16",
+    "small_blind": 2.0,
+    "player_big_blind": "cracypoker",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8h",
-        "7h"
+        "Ah",
+        "3h"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "8s",
+            "Jd",
+            "9c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "aleks0v",
-                "AironVega",
-                "WeakAndWeary"
+                "VegetablesArentYummy",
+                "Oakee",
+                "IlxxxlI",
+                "WalterBlack",
+                "TheFront7",
+                "NoSugarJoe",
+                "BIGRAISE",
+                "tcoll16",
+                "cracypoker",
+                "NoSugarJoe",
+                "tcoll16"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
+                null,
+                null,
+                null,
+                4.0,
+                null,
+                2.0,
+                11.0,
+                11.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "cracypoker",
+                "NoSugarJoe"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                246.95,
+                23.05
+            ]
         },
         "post-turn": {
             "players": [],
@@ -74,13 +126,23 @@
     "card_shown_by_players": [
         null,
         null,
+        "7d 7s",
         null,
-        null
+        null,
+        null,
+        null,
+        null,
+        "9h Qh"
     ],
     "finishing_stack": [
-        121.43,
-        110.67,
-        40.78,
-        100.0
+        120.0,
+        221.62,
+        303.2,
+        200.0,
+        200.0,
+        80.0,
+        459.65,
+        299.2,
+        0.0
     ]
 }

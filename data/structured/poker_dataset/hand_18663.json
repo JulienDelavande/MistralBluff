@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/9 21:41:41",
+    "game_id": "794180906",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "IgLa",
+        "lovecola",
+        "38979",
+        "SeemsLegit",
+        "odel_nadel"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        69.72,
+        56.22,
+        50.0,
+        157.4,
+        57.38
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "2c",
+            "5c"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "lovecola",
+                "38979",
+                "SeemsLegit",
+                "odel_nadel",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "odel_nadel",
+                "IlxxxlI",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "odel_nadel",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "odel_nadel",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10d Qh",
+        null,
+        null,
+        null,
+        null,
+        "Ad 8c"
+    ],
+    "finishing_stack": [
+        17.55,
+        69.72,
+        56.22,
+        50.0,
+        157.4,
+        59.59
+    ]
+}

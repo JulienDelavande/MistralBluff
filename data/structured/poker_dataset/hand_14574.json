@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/23 12:54:11",
+    "game_id": "804401322",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "aqb",
+        "Brucelegend",
+        "IlxxxlI",
+        "Parcker",
+        "dtnfk",
+        "enroute"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        52.06,
+        32.67,
+        25.0,
+        25.19,
+        25.0
+    ],
+    "player_small_blind": "aqb",
+    "small_blind": 0.1,
+    "player_big_blind": "Brucelegend",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "Kd",
+            "Ah"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Parcker",
+                "dtnfk",
+                "enroute",
+                "aqb",
+                "Brucelegend"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Brucelegend",
+                "dtnfk",
+                "Brucelegend"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Brucelegend",
+                "dtnfk",
+                "Brucelegend"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.58,
+                1.58
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Brucelegend",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "As 5d",
+        null,
+        null,
+        "10h Kh",
+        null
+    ],
+    "finishing_stack": [
+        24.9,
+        54.660000000000004,
+        32.67,
+        25.0,
+        22.41,
+        25.0
+    ]
+}

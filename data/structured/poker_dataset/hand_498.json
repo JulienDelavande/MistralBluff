@@ -1,132 +1,127 @@
 {
-    "date": "2016/11/29 14:12:50",
-    "game_id": "786999815",
+    "date": "2016/9/5 12:23:56",
+    "game_id": "720264690",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "VegetablesArentYummy",
+        "bigrpk22",
+        "lars76",
         "IlxxxlI",
-        "IbetUmuck",
-        "DonCesarGrinder",
-        "MadLifeGrinder",
-        "Ka1zeN"
+        "RapaNui"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
-        5,
         6
     ],
     "starting_stacks": [
-        236.3,
-        80.0,
-        881.8,
-        245.39,
-        220.48,
-        205.0
+        170.0,
+        323.98,
+        93.8,
+        209.85
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "IbetUmuck",
-    "big_blind": 2.0,
+    "player_small_blind": "RapaNui",
+    "small_blind": 2.0,
+    "player_big_blind": "bigrpk22",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8d",
-        "9s"
+        "7d",
+        "Qh"
     ],
     "dealed_cards": {
         "flop": [
-            "7d",
-            "5c",
-            "Js"
+            "Kc",
+            "Js",
+            "10s"
         ],
         "turn": [
-            "4h"
+            "6h"
         ],
-        "river": []
+        "river": [
+            "5h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "DonCesarGrinder",
-                "MadLifeGrinder",
-                "Ka1zeN",
-                "VegetablesArentYummy",
+                "lars76",
                 "IlxxxlI",
-                "IbetUmuck"
+                "RapaNui",
+                "bigrpk22"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL",
-                "CHECK"
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                null,
-                null,
-                1.0,
-                null
+                10.0,
+                8.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "IbetUmuck"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                2.0,
-                2.0
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "IbetUmuck",
-                "IlxxxlI"
+                "RapaNui",
+                "bigrpk22",
+                "RapaNui"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                5.7,
+                12.0,
+                12.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RapaNui",
+                "bigrpk22"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
                 null
             ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "RapaNui",
+                "bigrpk22"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                32.0,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        236.3,
-        76.0,
-        885.4,
-        245.39,
-        220.48,
-        205.0
+        146.0,
+        323.98,
+        93.8,
+        233.39999999999998
     ]
 }

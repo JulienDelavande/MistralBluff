@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/24 22:1:31",
+    "game_id": "805238776",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "narrowrange",
+        "Indigol",
+        "caballeroXXX",
+        "Xamroll"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        52.25,
+        55.04,
+        57.73,
+        89.92,
+        56.75
+    ],
+    "player_small_blind": "Xamroll",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "Ac",
+            "5h"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "narrowrange",
+                "Indigol",
+                "caballeroXXX",
+                "Xamroll",
+                "IlxxxlI",
+                "Xamroll"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                4.0,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Xamroll",
+                "IlxxxlI",
+                "Xamroll"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.85,
+                2.85
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Xamroll",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Xamroll",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                20.86,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        44.9,
+        55.04,
+        57.73,
+        89.92,
+        63.37
+    ]
+}

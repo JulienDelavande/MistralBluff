@@ -1,0 +1,163 @@
+{
+    "date": "2016/12/24 23:44:24",
+    "game_id": "805275499",
+    "variant": "PRR",
+    "table_name": "Ettin-5",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Aacedugan",
+        "BigRedMonkey",
+        "IlxxxlI",
+        "AAADRUNKKK",
+        "Slamit111",
+        "Svitch",
+        "Helene91"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        18.65,
+        7.23,
+        29.03,
+        8.09,
+        20.9,
+        26.8,
+        74.56
+    ],
+    "player_small_blind": "Slamit111",
+    "small_blind": 0.1,
+    "player_big_blind": "Svitch",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "8s",
+            "Ac"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Helene91",
+                "Aacedugan",
+                "BigRedMonkey",
+                "IlxxxlI",
+                "AAADRUNKKK",
+                "Slamit111",
+                "Svitch"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.5,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Slamit111",
+                "BigRedMonkey",
+                "AAADRUNKKK"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Slamit111",
+                "BigRedMonkey",
+                "AAADRUNKKK",
+                "Slamit111"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.83,
+                0.83,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BigRedMonkey",
+                "AAADRUNKKK",
+                "BigRedMonkey",
+                "AAADRUNKKK"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                1.62,
+                3.24,
+                4.28,
+                2.66
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kd Qc",
+        null,
+        "7c 9c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        18.65,
+        14.45,
+        29.03,
+        0.8599999999999994,
+        20.4,
+        26.55,
+        74.56
+    ]
+}

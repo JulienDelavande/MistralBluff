@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 8:45:41",
+    "game_id": "791895206",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "ABMTLQC",
+        "Almost Pat",
+        "IlxxxlI",
+        "virtualbox",
+        "KingOfNight",
+        "Madd_Hatter"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        26.2,
+        68.33,
+        10.0,
+        26.28,
+        25.0,
+        28.04
+    ],
+    "player_small_blind": "virtualbox",
+    "small_blind": 0.1,
+    "player_big_blind": "KingOfNight",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "5s",
+            "8d"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Madd_Hatter",
+                "ABMTLQC",
+                "Almost Pat",
+                "IlxxxlI",
+                "virtualbox",
+                "KingOfNight",
+                "Madd_Hatter"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Madd_Hatter",
+                "Almost Pat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Madd_Hatter",
+                "Almost Pat",
+                "Madd_Hatter"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.58,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        26.2,
+        69.34,
+        10.0,
+        26.18,
+        24.75,
+        27.29
+    ]
+}

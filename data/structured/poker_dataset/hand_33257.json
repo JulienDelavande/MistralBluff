@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/5 21:32:48",
+    "game_id": "791552366",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Orondi",
+        "emmettbrow",
+        "Oral-Bet",
+        "Chubrica",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        134.11,
+        99.15,
+        42.25,
+        100.0,
+        46.78
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Orondi",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "8c",
+            "3c"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "emmettbrow",
+                "Oral-Bet",
+                "Chubrica",
+                "IlxxxlI",
+                "Orondi"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Orondi",
+                "Oral-Bet",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.48,
+                3.48
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Orondi",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Orondi",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.92,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        139.97000000000003,
+        99.15,
+        36.269999999999996,
+        100.0,
+        46.28
+    ]
+}

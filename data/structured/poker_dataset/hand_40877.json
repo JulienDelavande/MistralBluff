@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/2 14:9:18",
+    "game_id": "789301801",
+    "variant": "PRR",
+    "table_name": "Kraken-8",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Ksowas",
+        "Markov5",
+        "HomoPokerus",
+        "IlxxxlI",
+        "Mr666"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        112.6,
+        100.0,
+        107.59,
+        40.0,
+        108.94
+    ],
+    "player_small_blind": "Markov5",
+    "small_blind": 0.5,
+    "player_big_blind": "HomoPokerus",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "Jd",
+            "10d"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Mr666",
+                "Ksowas",
+                "Markov5",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Markov5",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Markov5",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.85,
+                2.85
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Markov5",
+                "HomoPokerus",
+                "Markov5"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.7,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        112.6,
+        94.15,
+        112.86000000000001,
+        40.0,
+        108.94
+    ]
+}

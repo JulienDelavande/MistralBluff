@@ -1,64 +1,74 @@
 {
-    "date": "2016/11/29 12:34:47",
-    "game_id": "786948136",
+    "date": "2016/9/6 0:55:27",
+    "game_id": "720655891",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "IlxxxlI",
-        "flyshark01",
-        "Jui Kuen",
-        "foreseen"
+        "cuzyagood",
+        "Leatherass9",
+        "IlxxxlI"
     ],
     "players_seats": [
+        1,
         2,
-        3,
-        4,
-        6
+        4
     ],
     "starting_stacks": [
-        20.89,
-        86.35,
-        51.75,
-        56.84
+        230.6,
+        297.0,
+        152.99
     ],
-    "player_small_blind": "Jui Kuen",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "cuzyagood",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "8d"
+        "5c",
+        "As"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Ac",
+            "2h",
+            "3c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "Leatherass9",
                 "IlxxxlI",
-                "flyshark01",
-                "Jui Kuen"
+                "cuzyagood"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
-                null,
+                2.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "cuzyagood"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -74,13 +84,11 @@
     "card_shown_by_players": [
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        20.89,
-        86.35,
-        51.5,
-        57.09
+        226.6,
+        297.0,
+        156.94
     ]
 }

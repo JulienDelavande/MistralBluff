@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 22:14:18",
+    "game_id": "805242619",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "Novassman",
+        "LuckyAce96",
+        "booya25",
+        "IlxxxlI",
+        "FatzPanda",
+        "shocktheworld"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.95,
+        10.7,
+        28.91,
+        43.25,
+        25.02,
+        31.35
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "FatzPanda",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "Js",
+            "9d"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "shocktheworld",
+                "Novassman",
+                "LuckyAce96",
+                "booya25",
+                "IlxxxlI",
+                "FatzPanda"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FatzPanda",
+                "LuckyAce96"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FatzPanda",
+                "LuckyAce96",
+                "FatzPanda"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.76,
+                1.52,
+                0.76
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FatzPanda",
+                "LuckyAce96"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kc 4s",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.95,
+        12.84,
+        28.91,
+        43.15,
+        22.75,
+        31.35
+    ]
+}

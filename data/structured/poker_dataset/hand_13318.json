@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 10:13:58",
+    "game_id": "804973225",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Quest4dAcAsh",
+        "Slamit111",
+        "huiloputin",
+        "dtnfk",
+        "chintrogdin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        35.72,
+        18.32,
+        33.73,
+        10.2,
+        10.7
+    ],
+    "player_small_blind": "dtnfk",
+    "small_blind": 0.1,
+    "player_big_blind": "chintrogdin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "5s",
+            "As"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Quest4dAcAsh",
+                "Slamit111",
+                "huiloputin",
+                "dtnfk",
+                "chintrogdin"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "chintrogdin",
+                "Slamit111",
+                "huiloputin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "chintrogdin",
+                "Slamit111",
+                "huiloputin"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.01,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        35.72,
+        17.82,
+        33.23,
+        10.1,
+        11.719999999999999
+    ]
+}

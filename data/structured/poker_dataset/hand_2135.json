@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:30:32",
-    "game_id": "786351613",
+    "date": "2016/9/18 8:54:37",
+    "game_id": "730238872",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 5,
     "players": [
-        "SenNoSen",
-        "eu4ria",
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "dscshift",
-        "Hakuna_Matata777",
-        "wethco"
+        "PolitcallyiC2.0",
+        "Frisconar",
+        "Pablo46",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
@@ -19,47 +22,48 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        107.29,
-        235.96,
-        20.0,
-        29.94,
-        53.03,
-        53.28
+        101.5,
+        184.67,
+        40.0,
+        118.72,
+        37.8,
+        100.0,
+        101.5,
+        37.45,
+        240.51
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "dscshift",
-    "big_blind": 0.5,
+    "player_small_blind": "Pablo46",
+    "small_blind": 0.5,
+    "player_big_blind": "FirstClan",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4d",
-        "Qc"
+        "2c",
+        "2h"
     ],
     "dealed_cards": {
-        "flop": [
-            "3h",
-            "10d",
-            "3s"
-        ],
-        "turn": [
-            "8h"
-        ],
-        "river": [
-            "7c"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Hakuna_Matata777",
-                "wethco",
-                "SenNoSen",
-                "eu4ria",
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
                 "IlxxxlI",
-                "dscshift"
+                "PolitcallyiC2.0",
+                "Frisconar",
+                "Pablo46",
+                "FirstClan"
             ],
             "actions": [
                 "FOLD",
@@ -67,77 +71,59 @@
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
                 null,
                 null,
-                1.0,
+                2.5,
                 null,
                 null,
-                0.5
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "dscshift",
-                "SenNoSen",
-                "dscshift"
-            ],
-            "actions": [
-                "BET",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                2.0,
-                6.0,
-                4.0
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "dscshift",
-                "SenNoSen"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
+                null,
+                null,
                 null,
                 null
             ]
         },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
         "post-river": {
-            "players": [
-                "dscshift",
-                "SenNoSen"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                2.5,
-                2.5
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "Ad 8d",
         null,
         null,
-        "6h Qh",
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
     ],
     "finishing_stack": [
-        116.08000000000001,
-        235.96,
-        19.75,
-        20.44,
-        53.03,
-        53.28
+        103.0,
+        184.67,
+        40.0,
+        118.72,
+        37.8,
+        99.5,
+        100.5,
+        37.45,
+        240.51
     ]
 }

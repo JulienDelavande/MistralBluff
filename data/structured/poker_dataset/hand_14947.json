@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/23 11:53:35",
+    "game_id": "804362670",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "Tomorrow...",
+        "IlxxxlI",
+        "chintrogdin",
+        "itsmejdg",
+        "Parcker",
+        "sycamoregolf"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        9.33,
+        16.61,
+        10.64,
+        13.07,
+        15.8,
+        10.62
+    ],
+    "player_small_blind": "chintrogdin",
+    "small_blind": 0.1,
+    "player_big_blind": "itsmejdg",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "Jd",
+            "3c"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Parcker",
+                "sycamoregolf",
+                "Tomorrow...",
+                "IlxxxlI",
+                "chintrogdin",
+                "itsmejdg"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "chintrogdin",
+                "itsmejdg",
+                "sycamoregolf",
+                "Tomorrow..."
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.6,
+                null,
+                0.6,
+                0.6
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "chintrogdin",
+                "sycamoregolf",
+                "Tomorrow...",
+                "chintrogdin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.33,
+                null,
+                1.33
+            ]
+        },
+        "post-river": {
+            "players": [
+                "chintrogdin",
+                "sycamoregolf",
+                "chintrogdin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.73,
+                1.73
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "3s Ks"
+    ],
+    "finishing_stack": [
+        8.48,
+        16.61,
+        6.73,
+        12.82,
+        15.8,
+        15.19
+    ]
+}

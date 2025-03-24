@@ -1,0 +1,139 @@
+{
+    "date": "2016/12/25 14:43:50",
+    "game_id": "805723407",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "drcurdi",
+        "constant revelation",
+        "DancinDolb"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        28.15,
+        30.62,
+        17.08,
+        24.31
+    ],
+    "player_small_blind": "constant revelation",
+    "small_blind": 0.25,
+    "player_big_blind": "DancinDolb",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "Ah",
+            "4h"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "drcurdi",
+                "constant revelation",
+                "DancinDolb"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "constant revelation",
+                "DancinDolb",
+                "drcurdi",
+                "constant revelation",
+                "DancinDolb"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.95,
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "constant revelation",
+                "DancinDolb",
+                "drcurdi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "constant revelation",
+                "DancinDolb",
+                "drcurdi"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                2.78,
+                2.78,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Jd 4d",
+        null
+    ],
+    "finishing_stack": [
+        28.15,
+        28.67,
+        23.189999999999998,
+        19.58
+    ]
+}

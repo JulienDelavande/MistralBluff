@@ -1,0 +1,162 @@
+{
+    "date": "2016/12/2 11:2:3",
+    "game_id": "789191175",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "PANDAisEVIL",
+        "pingtennis",
+        "hodisuda",
+        "GautamaBuddha",
+        "Fetters10",
+        "IlxxxlI",
+        "aleaga",
+        "RunnerLucker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        100.0,
+        57.66,
+        101.0,
+        100.0,
+        91.49,
+        52.93,
+        121.55,
+        123.52
+    ],
+    "player_small_blind": "hodisuda",
+    "small_blind": 0.5,
+    "player_big_blind": "GautamaBuddha",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "8d",
+            "3h"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Fetters10",
+                "IlxxxlI",
+                "aleaga",
+                "RunnerLucker",
+                "PANDAisEVIL",
+                "pingtennis",
+                "hodisuda",
+                "GautamaBuddha",
+                "Fetters10"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                9.0,
+                null,
+                null,
+                null,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Fetters10",
+                "RunnerLucker",
+                "Fetters10"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.0,
+                10.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Fetters10",
+                "RunnerLucker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Fetters10",
+                "RunnerLucker"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                45.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        57.66,
+        100.5,
+        99.0,
+        110.02,
+        52.93,
+        121.55,
+        104.52
+    ]
+}

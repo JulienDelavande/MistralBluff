@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/7 9:53:26",
+    "game_id": "792522987",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "annaroyer",
+        "PhillyPoker19",
+        "Ice Bank Mice Elf",
+        "marcapp"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        10.23,
+        7.39,
+        27.2,
+        42.22,
+        11.86
+    ],
+    "player_small_blind": "PhillyPoker19",
+    "small_blind": 0.1,
+    "player_big_blind": "Ice Bank Mice Elf",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "10h",
+            "Kc"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "marcapp",
+                "IlxxxlI",
+                "annaroyer",
+                "PhillyPoker19",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.62,
+                0.62,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PhillyPoker19",
+                "Ice Bank Mice Elf",
+                "IlxxxlI",
+                "annaroyer",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.77,
+                null,
+                null,
+                1.77
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PhillyPoker19",
+                "Ice Bank Mice Elf",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.86,
+                2.86
+            ]
+        },
+        "post-river": {
+            "players": [
+                "PhillyPoker19",
+                "Ice Bank Mice Elf",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "CHECK",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.610000000000001,
+        6.77,
+        21.95,
+        48.129999999999995,
+        11.86
+    ]
+}

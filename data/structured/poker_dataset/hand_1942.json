@@ -1,101 +1,76 @@
 {
-    "date": "2016/11/28 19:38:33",
-    "game_id": "786363962",
+    "date": "2016/9/18 8:30:49",
+    "game_id": "730224873",
     "variant": "PRR",
-    "table_name": "Garuda-3",
+    "table_name": "Kraken-6",
     "type_game": "Hold'em",
-    "button_seat": 1,
+    "button_seat": 2,
     "players": [
-        "6betThreat",
-        "shureg22",
-        "legenda99",
-        "flyzlcomb07",
-        "allaebalaamballa",
-        "IlxxxlI"
+        "iDawg",
+        "hotandcold=hold",
+        "IlxxxlI",
+        "gosu36484",
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
+        2,
         3,
+        4,
         5,
-        6,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        46.28,
-        50.0,
-        112.63,
-        75.22,
-        39.65,
-        36.25
+        108.84,
+        128.11,
+        45.7,
+        40.0,
+        100.0,
+        136.96
     ],
-    "player_small_blind": "shureg22",
-    "small_blind": 0.25,
-    "player_big_blind": "legenda99",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "gosu36484",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jc",
-        "Kc"
+        "2h",
+        "3c"
     ],
     "dealed_cards": {
-        "flop": [
-            "8d",
-            "Ah",
-            "10h"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "flyzlcomb07",
-                "allaebalaamballa",
-                "IlxxxlI",
-                "6betThreat",
-                "shureg22",
-                "legenda99"
-            ],
-            "actions": [
-                "FOLD",
-                "FOLD",
-                "RAISE",
-                "CALL",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                1.2,
-                1.2,
-                null,
-                0.7
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "legenda99",
-                "IlxxxlI",
-                "6betThreat",
-                "legenda99",
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg",
+                "hotandcold=hold",
                 "IlxxxlI"
             ],
             "actions": [
-                "CHECK",
-                "BET",
-                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                1.0,
-                2.0,
+                null,
+                null,
                 null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -117,11 +92,11 @@
         null
     ],
     "finishing_stack": [
-        49.64,
-        49.75,
-        111.42999999999999,
-        75.22,
-        39.65,
-        34.05
+        108.84,
+        128.11,
+        45.2,
+        40.5,
+        100.0,
+        136.96
     ]
 }

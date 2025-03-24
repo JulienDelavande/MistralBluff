@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/26 12:23:27",
+    "game_id": "806317418",
+    "variant": "PRR",
+    "table_name": "Ekek-19",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "PhuckVariance",
+        "Syanala",
+        "dtnfk",
+        "Parcker",
+        "sr86"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.97,
+        47.95,
+        31.6,
+        10.0,
+        26.36,
+        25.0
+    ],
+    "player_small_blind": "PhuckVariance",
+    "small_blind": 0.1,
+    "player_big_blind": "Syanala",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "Ac",
+            "Ks"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dtnfk",
+                "Parcker",
+                "sr86",
+                "IlxxxlI",
+                "PhuckVariance",
+                "Syanala"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PhuckVariance",
+                "Syanala"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PhuckVariance",
+                "Syanala"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.15,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.97,
+        49.48,
+        29.900000000000002,
+        10.0,
+        26.36,
+        25.0
+    ]
+}

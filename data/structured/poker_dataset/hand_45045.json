@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/1 9:50:33",
+    "game_id": "788458059",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "MadLifeGrinder",
+        "RunnerLucker",
+        "TonnaMunz",
+        "eagle0604",
+        "dankmann"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        80.0,
+        220.27,
+        203.0,
+        293.84,
+        221.77,
+        168.39,
+        284.0
+    ],
+    "player_small_blind": "TonnaMunz",
+    "small_blind": 1.0,
+    "player_big_blind": "eagle0604",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "5h",
+            "4h"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dankmann",
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "MadLifeGrinder",
+                "RunnerLucker",
+                "TonnaMunz",
+                "eagle0604",
+                "dankmann"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                null,
+                null,
+                null,
+                null,
+                21.0,
+                20.0,
+                16.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "TonnaMunz",
+                "eagle0604",
+                "dankmann",
+                "TonnaMunz",
+                "eagle0604"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                30.0,
+                null,
+                30.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "eagle0604",
+                "dankmann",
+                "eagle0604"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                232.0,
+                116.39
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "9c 9d",
+        "Jh Js"
+    ],
+    "finishing_stack": [
+        80.0,
+        220.27,
+        203.0,
+        293.84,
+        199.77,
+        0.0,
+        471.39
+    ]
+}

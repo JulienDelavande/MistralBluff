@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/8 18:21:57",
+    "game_id": "793456565",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IampokerKidd",
+        "boosaz",
+        "Br4dy12",
+        "IlxxxlI",
+        "Moryak999"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        30.53,
+        25.1,
+        25.0,
+        10.0,
+        29.74
+    ],
+    "player_small_blind": "boosaz",
+    "small_blind": 0.1,
+    "player_big_blind": "Br4dy12",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "6c",
+            "5d"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Moryak999",
+                "IampokerKidd",
+                "boosaz",
+                "Br4dy12"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "boosaz",
+                "Br4dy12",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "boosaz",
+                "Br4dy12",
+                "IampokerKidd",
+                "boosaz",
+                "Br4dy12"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.71,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        31.92,
+        24.35,
+        24.25,
+        10.0,
+        29.74
+    ]
+}

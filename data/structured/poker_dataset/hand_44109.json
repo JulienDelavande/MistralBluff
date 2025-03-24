@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/1 13:57:43",
+    "game_id": "788626464",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "MadLifeGrinder",
+        "CattleCorner",
+        "BingBingBopBop",
+        "IlxxxlI",
+        "Goomashroom"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        107.84,
+        154.49,
+        114.53,
+        41.5,
+        113.51
+    ],
+    "player_small_blind": "CattleCorner",
+    "small_blind": 0.5,
+    "player_big_blind": "BingBingBopBop",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "9d",
+            "7h"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Goomashroom",
+                "MadLifeGrinder",
+                "CattleCorner",
+                "BingBingBopBop",
+                "MadLifeGrinder",
+                "CattleCorner"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                2.0,
+                10.0,
+                null,
+                8.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CattleCorner",
+                "BingBingBopBop",
+                "CattleCorner"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                12.0,
+                12.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CattleCorner",
+                "BingBingBopBop",
+                "CattleCorner"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                29.0,
+                29.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CattleCorner",
+                "BingBingBopBop",
+                "CattleCorner"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                62.53,
+                62.53
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ah 3h",
+        "Ad Kc",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        105.34,
+        39.96000000000001,
+        228.56,
+        41.5,
+        113.51
+    ]
+}

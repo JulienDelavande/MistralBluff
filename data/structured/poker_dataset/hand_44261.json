@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/1 13:37:32",
+    "game_id": "788617102",
+    "variant": "PRR",
+    "table_name": "Kraken-8",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "WeakAndWeary",
+        "AironVega",
+        "MadLifeGrinder",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        128.26,
+        100.5,
+        102.73,
+        40.0
+    ],
+    "player_small_blind": "AironVega",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "Kh",
+            "4d"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "AironVega",
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                7.4,
+                null,
+                5.9
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.27,
+                5.27
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AironVega",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "AironVega",
+                "WeakAndWeary",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                40.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        141.07,
+        87.33,
+        102.73,
+        39.0
+    ]
+}

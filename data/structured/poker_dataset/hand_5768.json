@@ -1,0 +1,138 @@
+{
+    "date": "2016/10/12 17:17:24",
+    "game_id": "748936036",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Orondi",
+        "IlxxxlI",
+        "valderama1980",
+        "caus89",
+        "KeepKalm",
+        "aleks0v"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        244.06,
+        100.0,
+        100.0,
+        71.46,
+        100.0,
+        112.83
+    ],
+    "player_small_blind": "caus89",
+    "small_blind": 0.5,
+    "player_big_blind": "KeepKalm",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "Qh",
+            "7s"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aleks0v",
+                "Orondi",
+                "IlxxxlI",
+                "valderama1980",
+                "caus89",
+                "KeepKalm",
+                "aleks0v",
+                "caus89"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                null,
+                2.5,
+                11.0,
+                9.0,
+                9.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "caus89",
+                "KeepKalm",
+                "aleks0v"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                17.1,
+                null,
+                17.1
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "caus89",
+                "aleks0v"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                33.6,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        244.06,
+        100.0,
+        100.0,
+        109.56,
+        88.0,
+        83.72999999999999
+    ]
+}

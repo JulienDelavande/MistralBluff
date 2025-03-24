@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/15 12:58:24",
+    "game_id": "798431258",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "MrWaffles44",
+        "GreinSeint",
+        "CiafuSwarm",
+        "Parcker",
+        "derynimind"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.93,
+        67.4,
+        19.38,
+        24.96,
+        53.79,
+        19.0
+    ],
+    "player_small_blind": "derynimind",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "10s",
+            "2s"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MrWaffles44",
+                "GreinSeint",
+                "CiafuSwarm",
+                "Parcker",
+                "derynimind",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.2,
+                0.95,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "derynimind",
+                "Parcker"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "derynimind",
+                "Parcker"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "derynimind",
+                "Parcker"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.55,
+                1.55
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "7c 10d"
+    ],
+    "finishing_stack": [
+        50.43,
+        67.4,
+        19.38,
+        24.96,
+        50.04,
+        22.85
+    ]
+}

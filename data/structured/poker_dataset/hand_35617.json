@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/5 0:55:52",
+    "game_id": "790843213",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Pvybz",
+        "JloJIKa",
+        "cmizzles",
+        "KWCTHROWER",
+        "WomboComboAA",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        100.73,
+        50.25,
+        27.94,
+        78.99,
+        39.18
+    ],
+    "player_small_blind": "cmizzles",
+    "small_blind": 0.25,
+    "player_big_blind": "KWCTHROWER",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "10s",
+            "10d"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WomboComboAA",
+                "IlxxxlI",
+                "Pvybz",
+                "JloJIKa",
+                "cmizzles",
+                "KWCTHROWER"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "cmizzles",
+                "IlxxxlI",
+                "cmizzles"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.73,
+                1.73
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "cmizzles",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "cmizzles",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                7.8,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        100.73,
+        53.64,
+        27.44,
+        78.99,
+        35.95
+    ]
+}

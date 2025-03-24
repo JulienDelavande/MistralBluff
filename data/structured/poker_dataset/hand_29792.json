@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/7 8:25:25",
+    "game_id": "792444184",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "ABMTLQC",
+        "GiveMeYourMoney9",
+        "Irene13",
+        "t0x1cAce",
+        "IlxxxlI",
+        "FTHater"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        20.72,
+        56.94,
+        30.35,
+        10.66,
+        77.9
+    ],
+    "player_small_blind": "Irene13",
+    "small_blind": 0.1,
+    "player_big_blind": "t0x1cAce",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "Jc",
+            "8d"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "FTHater",
+                "ABMTLQC",
+                "GiveMeYourMoney9",
+                "Irene13",
+                "t0x1cAce"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "t0x1cAce",
+                "FTHater"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "t0x1cAce",
+                "FTHater",
+                "t0x1cAce"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-river": {
+            "players": [
+                "t0x1cAce",
+                "FTHater"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "9c As",
+        null,
+        "Kh Qd"
+    ],
+    "finishing_stack": [
+        25.0,
+        20.72,
+        56.839999999999996,
+        32.03,
+        10.66,
+        76.14
+    ]
+}

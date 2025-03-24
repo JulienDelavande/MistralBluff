@@ -1,94 +1,132 @@
 {
-    "date": "2016/11/28 20:39:20",
-    "game_id": "786376343",
+    "date": "2016/9/18 7:44:18",
+    "game_id": "730196099",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 1,
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
     "players": [
+        "iDawg",
+        "jackson319",
         "IlxxxlI",
-        "gfclbv",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
         2,
-        4,
+        3,
         5,
         6
     ],
     "starting_stacks": [
-        43.53,
-        80.0,
-        160.7,
-        89.44,
-        83.9
+        112.41,
+        100.0,
+        40.12,
+        107.93,
+        135.21
     ],
-    "player_small_blind": "gfclbv",
-    "small_blind": 1.0,
-    "player_big_blind": "Wollverin",
-    "big_blind": 2.0,
+    "player_small_blind": "iDawg",
+    "small_blind": 0.5,
+    "player_big_blind": "jackson319",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jd",
-        "3d"
+        "10h",
+        "6c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "3s",
+            "3h",
+            "6d"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "9s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "meandkids",
-                "Are you with me",
                 "IlxxxlI",
-                "gfclbv"
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg",
+                "jackson319"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
+                2.5,
                 null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jackson319",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "jackson319",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.48,
+                3.48
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "jackson319",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.92,
+                5.92
+            ]
         }
     },
     "card_shown_by_players": [
         null,
-        null,
+        "Qh Kh",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        43.53,
-        79.0,
-        161.7,
-        89.44,
-        83.9
+        111.91,
+        111.19,
+        40.12,
+        96.03,
+        135.21
     ]
 }

@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/24 10:7:9",
+    "game_id": "804968094",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "WomboComboAA",
+        "threekingsriver",
+        "Polar1z1ng",
+        "IlxxxlI",
+        "davetheman"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        99.85,
+        52.86,
+        109.17,
+        53.0,
+        51.27
+    ],
+    "player_small_blind": "WomboComboAA",
+    "small_blind": 0.25,
+    "player_big_blind": "threekingsriver",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "6d",
+            "Jh"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Polar1z1ng",
+                "IlxxxlI",
+                "davetheman",
+                "WomboComboAA",
+                "threekingsriver"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "threekingsriver",
+                "davetheman",
+                "threekingsriver"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.07,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        99.6,
+        51.86,
+        109.17,
+        53.0,
+        52.410000000000004
+    ]
+}

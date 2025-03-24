@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/24 21:35:40",
+    "game_id": "805232008",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "caballeroXXX",
+        "IlxxxlI",
+        "Indigol",
+        "dellindi",
+        "Xamroll"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        56.96,
+        70.49,
+        178.32,
+        48.0,
+        51.05
+    ],
+    "player_small_blind": "dellindi",
+    "small_blind": 0.25,
+    "player_big_blind": "Xamroll",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "5d",
+            "3s"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "caballeroXXX",
+                "IlxxxlI",
+                "Indigol",
+                "dellindi",
+                "Xamroll"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.25,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dellindi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dellindi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dellindi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qs Ad",
+        null,
+        "Ac 3c",
+        null
+    ],
+    "finishing_stack": [
+        56.96,
+        70.57,
+        178.32,
+        48.08,
+        50.55
+    ]
+}

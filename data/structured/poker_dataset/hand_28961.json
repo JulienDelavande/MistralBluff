@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/7 9:44:28",
+    "game_id": "792514917",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "WeakAndWeary",
+        "IgLa",
+        "dragggonfly",
+        "goodygumdrop",
+        "IlxxxlI",
+        "braaaap"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        52.0,
+        73.51,
+        68.14,
+        36.65,
+        20.75,
+        23.21
+    ],
+    "player_small_blind": "dragggonfly",
+    "small_blind": 0.25,
+    "player_big_blind": "goodygumdrop",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "Qh",
+            "3c"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "braaaap",
+                "WeakAndWeary",
+                "IgLa",
+                "dragggonfly",
+                "goodygumdrop"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dragggonfly",
+                "goodygumdrop",
+                "IlxxxlI",
+                "dragggonfly"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                null,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dragggonfly",
+                "goodygumdrop",
+                "dragggonfly"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.32,
+                2.32
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dragggonfly",
+                "goodygumdrop"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "5s 5d",
+        "8c Kc",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.0,
+        73.51,
+        74.28999999999999,
+        31.409999999999997,
+        19.25,
+        23.21
+    ]
+}

@@ -1,83 +1,136 @@
 {
-    "date": "2016/11/28 19:30:42",
-    "game_id": "786362347",
+    "date": "2016/9/18 8:34:58",
+    "game_id": "730227391",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
+    "table_name": "Longana",
     "type_game": "Hold'em",
     "button_seat": 3,
     "players": [
-        "DonkReaper",
-        "legenda99",
-        "Goomashroom",
         "IlxxxlI",
-        "caballeroXXX"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "Torinsurance",
+        "FishinChips",
+        "Crabbapple",
+        "KeepKalm"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        53.67,
-        60.49,
-        86.36,
-        20.0,
-        60.59
+        87.21,
+        99.78,
+        237.91,
+        118.0,
+        94.81,
+        155.64,
+        322.36
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "caballeroXXX",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
+    "player_big_blind": "Torinsurance",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qh",
-        "6h"
+        "8h",
+        "2d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "10c",
+            "7h",
+            "9h"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "10h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "DonkReaper",
-                "legenda99",
-                "Goomashroom",
+                "FishinChips",
+                "Crabbapple",
+                "KeepKalm",
                 "IlxxxlI",
-                "caballeroXXX"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "Torinsurance"
             ],
             "actions": [
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "RAISE",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
+                2.0,
                 null,
                 null,
-                1.13,
+                null,
+                null,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Torinsurance",
+                "FishinChips",
+                "Torinsurance"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Torinsurance",
+                "FishinChips"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Torinsurance",
+                "FishinChips",
+                "Torinsurance"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                22.0,
+                88.81,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -85,13 +138,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        53.67,
-        60.49,
-        87.11,
-        19.75,
-        60.09
+        87.21,
+        99.78,
+        236.91,
+        90.0,
+        120.96000000000001,
+        155.64,
+        322.36
     ]
 }

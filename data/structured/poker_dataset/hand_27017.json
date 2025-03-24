@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/7 19:56:5",
+    "game_id": "792781217",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Irene13",
+        "IlxxxlI",
+        "SkaHot",
+        "huiloputin",
+        "Qatro",
+        "Poteplie"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        29.44,
+        10.03,
+        27.4,
+        34.05,
+        39.08,
+        30.7
+    ],
+    "player_small_blind": "Poteplie",
+    "small_blind": 0.1,
+    "player_big_blind": "Irene13",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "10h",
+            "8c"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "SkaHot",
+                "huiloputin",
+                "Qatro",
+                "Poteplie",
+                "Irene13"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "Qatro"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "Qatro",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.88,
+                0.88
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "Qatro"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "4c 4s",
+        null
+    ],
+    "finishing_stack": [
+        29.19,
+        10.03,
+        25.77,
+        34.05,
+        40.879999999999995,
+        30.599999999999998
+    ]
+}

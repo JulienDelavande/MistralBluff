@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/23 11:17:8",
+    "game_id": "804335819",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "abdollars",
+        "Burger",
+        "xROCKETMANx",
+        "IlxxxlI",
+        "CroMagnons"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        13.69,
+        10.33,
+        11.86,
+        12.5,
+        30.87
+    ],
+    "player_small_blind": "abdollars",
+    "small_blind": 0.1,
+    "player_big_blind": "Burger",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "3s",
+            "Kd"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "xROCKETMANx",
+                "IlxxxlI",
+                "CroMagnons",
+                "abdollars",
+                "Burger",
+                "xROCKETMANx"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                3.0,
+                null,
+                null,
+                2.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "xROCKETMANx",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "xROCKETMANx",
+                "CroMagnons",
+                "xROCKETMANx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                2.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "xROCKETMANx",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qs Ad",
+        null,
+        "Qd Qc"
+    ],
+    "finishing_stack": [
+        13.59,
+        10.08,
+        16.92,
+        12.5,
+        25.62
+    ]
+}

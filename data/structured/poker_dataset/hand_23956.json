@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/8 15:18:56",
+    "game_id": "793416308",
+    "variant": "PRR",
+    "table_name": "Ettin-2",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "IlxxxlI",
+        "viva el ocho",
+        "CallMePAPA",
+        "Ksander",
+        "needmorefppp",
+        "Maria_Pia"
+    ],
+    "players_seats": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        10.0,
+        46.88,
+        10.35,
+        76.68,
+        25.0,
+        11.38
+    ],
+    "player_small_blind": "needmorefppp",
+    "small_blind": 0.1,
+    "player_big_blind": "Maria_Pia",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "Ah",
+            "9d"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "viva el ocho",
+                "CallMePAPA",
+                "Ksander",
+                "needmorefppp",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "needmorefppp",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.47,
+                0.47
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "needmorefppp",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "needmorefppp",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "10h 7h"
+    ],
+    "finishing_stack": [
+        10.0,
+        46.88,
+        10.35,
+        76.68,
+        24.03,
+        12.26
+    ]
+}

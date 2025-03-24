@@ -1,94 +1,114 @@
 {
-    "date": "2016/11/28 20:47:12",
-    "game_id": "786378099",
+    "date": "2016/9/18 7:38:43",
+    "game_id": "730192390",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
     "button_seat": 5,
     "players": [
+        "iDawg",
+        "jackson319",
         "IlxxxlI",
-        "gfclbv",
-        "dscshift",
-        "Wollverin",
-        "meandkids"
+        "Gargantuatua",
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6
     ],
     "starting_stacks": [
-        40.0,
-        107.9,
-        15.01,
-        160.7,
-        67.44
+        121.41,
+        63.24,
+        41.62,
+        129.15,
+        108.43,
+        129.28
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "gfclbv",
-    "big_blind": 2.0,
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "iDawg",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "7d"
+        "3c",
+        "8h"
     ],
     "dealed_cards": {
         "flop": [
-            "6s",
-            "3h",
-            "4s"
+            "10c",
+            "8s",
+            "5d"
         ],
-        "turn": [],
+        "turn": [
+            "4c"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "dscshift",
-                "Wollverin",
-                "meandkids",
+                "jackson319",
                 "IlxxxlI",
-                "gfclbv"
+                "Gargantuatua",
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg"
             ],
             "actions": [
                 "CALL",
                 "FOLD",
                 "FOLD",
-                "CALL",
+                "FOLD",
+                "FOLD",
                 "CHECK"
             ],
             "values": [
-                2.0,
-                null,
-                null,
                 1.0,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "gfclbv",
-                "dscshift"
+                "iDawg",
+                "jackson319",
+                "iDawg"
             ],
             "actions": [
-                "ALLIN",
-                "FOLD",
-                "FOLD"
+                "BET",
+                "RAISE",
+                "CALL"
             ],
             "values": [
-                38.0,
-                null,
-                null
+                2.0,
+                8.0,
+                6.0
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "iDawg",
+                "jackson319",
+                "iDawg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                11.72,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -101,13 +121,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        43.7,
-        105.9,
-        13.01,
-        160.7,
-        67.44
+        112.41,
+        71.82,
+        41.62,
+        129.15,
+        108.43,
+        128.78
     ]
 }

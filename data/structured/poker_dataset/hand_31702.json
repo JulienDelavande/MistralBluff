@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/6 8:46:5",
+    "game_id": "791895532",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "MrHustle",
+        "JohnnyTwoShots",
+        "Irene13",
+        "jacksonrabbit"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        10.35,
+        16.72,
+        27.14,
+        40.21,
+        55.81
+    ],
+    "player_small_blind": "MrHustle",
+    "small_blind": 0.1,
+    "player_big_blind": "JohnnyTwoShots",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "7d",
+            "10h"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Irene13",
+                "jacksonrabbit",
+                "IlxxxlI",
+                "MrHustle",
+                "JohnnyTwoShots"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.58,
+                0.48,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MrHustle",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MrHustle",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MrHustle",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.77,
+        17.48,
+        26.89,
+        40.21,
+        55.81
+    ]
+}

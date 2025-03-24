@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 19:22:3",
-    "game_id": "786360507",
+    "date": "2016/9/18 8:36:36",
+    "game_id": "730228415",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
+    "table_name": "Monopod",
+    "type_game": "Short",
     "button_seat": 5,
     "players": [
-        "JJaromir",
-        "dscshift",
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "Are you with me",
-        "Orondi",
-        "38979"
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
@@ -19,106 +22,111 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        227.77,
-        109.98,
-        101.65,
-        79.58,
+        90.0,
         200.0,
-        200.0
+        283.1,
+        621.15,
+        608.29,
+        287.83,
+        235.97,
+        166.3,
+        174.94
     ],
-    "player_small_blind": "38979",
-    "small_blind": 1.0,
-    "player_big_blind": "JJaromir",
-    "big_blind": 2.0,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "LuckyBoy1980",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6h",
-        "Kd"
+        "Ks",
+        "8s"
     ],
     "dealed_cards": {
         "flop": [
-            "Ah",
-            "8h",
-            "9c"
+            "Ad",
+            "Qh",
+            "Jc"
         ],
-        "turn": [
-            "2s"
-        ],
-        "river": [
-            "6s"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "dscshift",
                 "IlxxxlI",
-                "Are you with me",
-                "Orondi",
-                "38979",
-                "JJaromir"
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt",
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
+                "ABCD123",
+                "liniang",
+                "Cellar door"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "CALL",
+                "CALL",
+                "CALL",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
             ],
             "values": [
                 null,
                 null,
-                5.0,
+                4.0,
+                4.0,
+                4.0,
+                24.0,
                 null,
                 null,
-                3.0
+                null,
+                null,
+                20.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "JJaromir",
-                "Are you with me"
+                "liniang",
+                "TryNotToTilt",
+                "liniang"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "JJaromir",
-                "Are you with me"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                8.0,
-                8.0
-            ]
-        },
-        "post-river": {
-            "players": [
-                "JJaromir",
-                "Are you with me"
-            ],
-            "actions": [
                 "BET",
                 "FOLD"
             ],
             "values": [
-                14.0,
+                null,
+                35.0,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -127,14 +135,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        240.42000000000002,
-        109.98,
-        101.65,
-        66.58,
-        200.0,
-        199.0
+        86.0,
+        176.0,
+        279.1,
+        658.55,
+        608.29,
+        285.83,
+        231.97,
+        166.3,
+        174.94
     ]
 }

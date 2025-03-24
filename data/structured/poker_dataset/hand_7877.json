@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/27 15:54:16",
+    "game_id": "807098460",
+    "variant": "PRR",
+    "table_name": "Ekek-8",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Sonic3Dblast",
+        "anokato",
+        "groshelnik",
+        "fuafmc3481fk"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        26.38,
+        52.71,
+        40.97,
+        25.1,
+        49.69
+    ],
+    "player_small_blind": "groshelnik",
+    "small_blind": 0.1,
+    "player_big_blind": "fuafmc3481fk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "5d",
+            "2c"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Sonic3Dblast",
+                "anokato",
+                "groshelnik",
+                "fuafmc3481fk"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "fuafmc3481fk",
+                "anokato",
+                "fuafmc3481fk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.52,
+                0.52
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "fuafmc3481fk",
+                "anokato"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "fuafmc3481fk",
+                "anokato"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.53,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        26.38,
+        52.71,
+        39.949999999999996,
+        25.0,
+        50.709999999999994
+    ]
+}

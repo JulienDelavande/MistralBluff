@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/27 16:0:15",
+    "game_id": "807099771",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "heraklinos89",
+        "IlxxxlI",
+        "FIVETEN",
+        "DHD",
+        "aquamarin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        46.58,
+        6.94,
+        77.16,
+        58.72
+    ],
+    "player_small_blind": "aquamarin",
+    "small_blind": 0.25,
+    "player_big_blind": "heraklinos89",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "8d",
+            "Ac"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "FIVETEN",
+                "DHD",
+                "aquamarin",
+                "heraklinos89",
+                "FIVETEN"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                2.0,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FIVETEN",
+                "DHD"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FIVETEN",
+                "DHD",
+                "FIVETEN"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                0.5,
+                75.16,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.5,
+        46.58,
+        4.44,
+        80.13,
+        58.47
+    ]
+}

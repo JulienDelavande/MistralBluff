@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 21:17:39",
+    "game_id": "793492480",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Moryak999",
+        "FetusMunch",
+        "Qatro",
+        "SkaHot",
+        "IlxxxlI",
+        "ForcedToPortray"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        28.22,
+        15.98,
+        35.94,
+        54.72,
+        10.0,
+        34.72
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "ForcedToPortray",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "4c",
+            "Kd"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Moryak999",
+                "FetusMunch",
+                "Qatro",
+                "SkaHot",
+                "IlxxxlI",
+                "ForcedToPortray",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                1.65,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "SkaHot",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.5,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Qd Qs",
+        null
+    ],
+    "finishing_stack": [
+        28.22,
+        15.98,
+        35.94,
+        52.47,
+        12.27,
+        34.47
+    ]
+}

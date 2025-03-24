@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/9 23:14:21",
+    "game_id": "794206125",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "caballeroXXX",
+        "odel_nadel",
+        "IlxxxlI",
+        "so_it_goes",
+        "WomboComboAA",
+        "omgnewphone"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.14,
+        30.77,
+        11.5,
+        29.73,
+        70.57,
+        10.17
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "Ad",
+            "2c"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "so_it_goes",
+                "WomboComboAA",
+                "omgnewphone",
+                "caballeroXXX",
+                "odel_nadel",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "odel_nadel",
+                "so_it_goes"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "odel_nadel",
+                "so_it_goes",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "odel_nadel",
+                "so_it_goes"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                7.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.14,
+        34.4,
+        11.0,
+        26.23,
+        70.57,
+        10.17
+    ]
+}

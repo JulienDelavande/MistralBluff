@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/26 13:32:3",
+    "game_id": "806354467",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "lablador1010",
+        "pumppppps",
+        "HapKoTuk",
+        "IlxxxlI",
+        "Artemone",
+        "dtnfk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        38.21,
+        28.22,
+        27.74,
+        25.0,
+        38.12,
+        11.21
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Artemone",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "9h",
+            "4s"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dtnfk",
+                "lablador1010",
+                "pumppppps",
+                "HapKoTuk",
+                "IlxxxlI",
+                "Artemone"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lablador1010",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.88,
+                0.88
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "lablador1010",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "lablador1010",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        41.36,
+        28.22,
+        24.61,
+        24.9,
+        37.87,
+        11.21
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "date": "2016/12/8 14:33:51",
+    "game_id": "793401674",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "snow crash",
+        "solasso",
+        "parmele",
+        "Spagetti1",
+        "CallMePAPA",
+        "vanajr",
+        "Ksander",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        14.94,
+        13.95,
+        14.18,
+        27.1,
+        41.06,
+        8.31,
+        12.5,
+        7.2
+    ],
+    "player_small_blind": "Spagetti1",
+    "small_blind": 0.1,
+    "player_big_blind": "CallMePAPA",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "4d",
+            "6c"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "vanajr",
+                "Ksander",
+                "IlxxxlI",
+                "snow crash",
+                "solasso",
+                "parmele",
+                "Spagetti1",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Spagetti1",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Spagetti1",
+                "CallMePAPA",
+                "Spagetti1",
+                "CallMePAPA",
+                "Spagetti1",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.19,
+                3.5,
+                9.24,
+                22.35,
+                15.42
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "4s 4h",
+        "7c 3c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        14.94,
+        13.95,
+        14.18,
+        51.49,
+        13.96,
+        8.31,
+        12.5,
+        7.2
+    ]
+}

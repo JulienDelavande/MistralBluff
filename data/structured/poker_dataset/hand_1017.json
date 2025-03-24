@@ -1,42 +1,49 @@
 {
-    "date": "2016/11/29 11:42:44",
-    "game_id": "786910158",
+    "date": "2016/9/12 11:56:44",
+    "game_id": "725842715",
     "variant": "PRR",
-    "table_name": "Gorgons-13",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
+        "ImUsingYourWifi",
+        "uncle_argyle",
+        "Leatherass9",
         "IlxxxlI",
-        "Maria_Pia",
-        "xROCKETMANx",
-        "528 Hertz",
-        "foreseen"
+        "Anastasia31",
+        "plin777"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6
     ],
     "starting_stacks": [
-        24.46,
-        22.49,
-        49.25,
-        86.88,
-        83.57
+        516.6,
+        474.11,
+        206.0,
+        80.0,
+        383.19,
+        122.7
     ],
-    "player_small_blind": "528 Hertz",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "uncle_argyle",
+    "small_blind": 2.0,
+    "player_big_blind": "Leatherass9",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4s",
-        "5h"
+        "8d",
+        "2d"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "4s",
+            "10d",
+            "5s"
+        ],
         "turn": [],
         "river": []
     },
@@ -44,27 +51,45 @@
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "Maria_Pia",
-                "xROCKETMANx",
-                "528 Hertz"
+                "Anastasia31",
+                "plin777",
+                "ImUsingYourWifi",
+                "uncle_argyle",
+                "Leatherass9"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                8.0,
                 null,
-                null
+                null,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Leatherass9",
+                "plin777",
+                "Leatherass9"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                11.9,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -82,13 +107,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        24.46,
-        22.49,
-        49.25,
-        86.63,
-        83.82
+        516.6,
+        472.11,
+        198.0,
+        80.0,
+        383.19,
+        132.55
     ]
 }

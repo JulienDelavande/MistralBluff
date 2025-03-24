@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/26 12:43:19",
+    "game_id": "806329282",
+    "variant": "PRR",
+    "table_name": "Ekek-19",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "PhuckVariance",
+        "Ottermode",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        31.32,
+        38.57,
+        21.78,
+        25.35
+    ],
+    "player_small_blind": "Ottermode",
+    "small_blind": 0.1,
+    "player_big_blind": "Parcker",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "6s",
+            "3s"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "PhuckVariance",
+                "Ottermode",
+                "Parcker"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ottermode",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ottermode",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ottermode",
+                "Parcker"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        31.32,
+        38.57,
+        22.01,
+        25.1
+    ]
+}

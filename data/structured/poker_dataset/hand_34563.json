@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/5 10:51:46",
+    "game_id": "791343838",
+    "variant": "PRR",
+    "table_name": "Gorgons-23",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Heksebrygg",
+        "Evilclown",
+        "Xobkcul",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        58.47,
+        20.0,
+        75.32,
+        22.53
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Heksebrygg",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "3d",
+            "9h"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Evilclown",
+                "Xobkcul",
+                "IlxxxlI",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Heksebrygg",
+                "Evilclown",
+                "IlxxxlI",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.5,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Evilclown"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Evilclown"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "5d Ad",
+        null,
+        "6h Ah"
+    ],
+    "finishing_stack": [
+        57.97,
+        20.19,
+        75.32,
+        22.720000000000002
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 21:9:48",
+    "game_id": "793490511",
+    "variant": "PRR",
+    "table_name": "Gorgons-15",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "WeakAndWeary",
+        "realhunter",
+        "Oral-Bet",
+        "IgLa",
+        "IlxxxlI",
+        "Bokmal"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        76.84,
+        51.25,
+        24.62,
+        55.78,
+        20.0,
+        77.55
+    ],
+    "player_small_blind": "IgLa",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "5h",
+            "Kh"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bokmal",
+                "WeakAndWeary",
+                "realhunter",
+                "Oral-Bet",
+                "IgLa",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Oral-Bet",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Jd Qs",
+        null,
+        "6c Ad",
+        null
+    ],
+    "finishing_stack": [
+        76.84,
+        51.25,
+        21.37,
+        55.53,
+        23.17,
+        77.55
+    ]
+}

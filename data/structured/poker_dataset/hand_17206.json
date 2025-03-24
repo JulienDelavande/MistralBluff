@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/15 12:40:41",
+    "game_id": "798421292",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "cliffw3215",
+        "IlxxxlI",
+        "Parcker",
+        "mueef",
+        "FishinChips",
+        "robbstark"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        30.31,
+        84.13,
+        25.0,
+        10.0,
+        48.78,
+        36.97
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.25,
+    "player_big_blind": "mueef",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "7c",
+            "Kd"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FishinChips",
+                "robbstark",
+                "cliffw3215",
+                "IlxxxlI",
+                "Parcker",
+                "mueef"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Parcker",
+                "mueef"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Parcker",
+                "mueef",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.31,
+        84.13,
+        21.6,
+        13.059999999999999,
+        48.78,
+        36.97
+    ]
+}

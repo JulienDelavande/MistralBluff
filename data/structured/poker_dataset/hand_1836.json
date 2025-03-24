@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 19:54:39",
-    "game_id": "786366892",
+    "date": "2016/9/18 8:16:23",
+    "game_id": "730215839",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "short",
-    "button_seat": 1,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 7,
     "players": [
-        "Cinch23",
-        "38979",
-        "Bhodisattva",
-        "TranscendencE",
+        "A",
         "IlxxxlI",
-        "meandkids"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "utormico",
+        "Cellar door",
+        "FishinChips",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
@@ -19,115 +21,87 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        9
     ],
     "starting_stacks": [
-        48.5,
-        68.26,
-        37.48,
-        82.6,
-        20.0,
-        48.5
+        358.77,
+        109.21,
+        84.36,
+        200.0,
+        142.58,
+        200.0,
+        113.41,
+        323.15
     ],
-    "player_small_blind": "38979",
-    "small_blind": 0.5,
-    "player_big_blind": "Bhodisattva",
-    "big_blind": 1.0,
+    "player_small_blind": "KeepKalm",
+    "small_blind": 1.0,
+    "player_big_blind": "A",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4h",
-        "7c"
+        "5d",
+        "4h"
     ],
     "dealed_cards": {
-        "flop": [
-            "9h",
-            "10s",
-            "7s"
-        ],
-        "turn": [
-            "10h"
-        ],
-        "river": [
-            "5d"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "TranscendencE",
                 "IlxxxlI",
-                "meandkids",
-                "Cinch23",
-                "38979",
-                "Bhodisattva"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "utormico",
+                "Cellar door",
+                "FishinChips",
+                "KeepKalm",
+                "A",
+                "utormico",
+                "FishinChips"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
+                "FOLD",
                 "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
                 null,
-                3.0,
-                2.5,
+                4.0,
+                null,
+                4.0,
+                21.0,
+                null,
+                null,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "38979",
-                "Cinch23",
-                "38979"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                4.5,
-                4.5
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "38979",
-                "Cinch23",
-                "38979"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                9.0,
-                9.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "38979",
-                "Cinch23",
-                "38979"
-            ],
-            "actions": [
-                "CHECK",
-                "ALLIN",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                32.0,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -136,14 +110,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        64.3,
-        51.760000000000005,
-        36.48,
-        82.6,
-        20.0,
-        48.5
+        356.77,
+        109.21,
+        84.36,
+        200.0,
+        138.58,
+        200.0,
+        109.41,
+        333.15
     ]
 }

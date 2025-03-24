@@ -1,0 +1,105 @@
+{
+    "date": "2016/12/8 16:28:27",
+    "game_id": "793435126",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "Shamp",
+        "IlxxxlI",
+        "ronirock57"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        20.5,
+        5.0,
+        13.32
+    ],
+    "player_small_blind": "ronirock57",
+    "small_blind": 0.1,
+    "player_big_blind": "Shamp",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "2c",
+            "7h"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "ronirock57",
+                "Shamp"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Shamp",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Shamp",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.79,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.05,
+        4.5,
+        13.22
+    ]
+}

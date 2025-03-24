@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/1 10:15:6",
+    "game_id": "788477272",
+    "variant": "PRR",
+    "table_name": "Lakhey-3",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "abacaxi",
+        "Imstaked",
+        "MadLifeGrinder",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        80.0,
+        247.09,
+        166.6,
+        208.4,
+        200.25
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "abacaxi",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "6h",
+            "8h"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Imstaked",
+                "MadLifeGrinder",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "abacaxi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                4.0,
+                18.0,
+                15.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "abacaxi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                19.0,
+                19.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "abacaxi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                50.0,
+                41.0
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "9d 9c",
+        "Ad 10c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        157.0,
+        167.09,
+        166.6,
+        208.4,
+        200.25
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/7 19:14:57",
+    "game_id": "792773905",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Irene13",
+        "IlxxxlI",
+        "SkaHot",
+        "huiloputin",
+        "Poteplie"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        34.35,
+        10.4,
+        25.0,
+        26.77,
+        25.97
+    ],
+    "player_small_blind": "Irene13",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "2d",
+            "3s"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SkaHot",
+                "huiloputin",
+                "Poteplie",
+                "Irene13",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Irene13",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Irene13",
+                "IlxxxlI",
+                "Irene13"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.6,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.6,
+        11.08,
+        25.0,
+        26.77,
+        25.97
+    ]
+}

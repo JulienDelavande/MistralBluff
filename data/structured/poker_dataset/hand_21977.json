@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/8 23:57:36",
+    "game_id": "793541174",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "orgonox",
+        "HapKoTuk",
+        "IlxxxlI",
+        "GenosseGrasmeister",
+        "Sonic3Dblast",
+        "freshness911"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.09,
+        31.43,
+        10.0,
+        25.0,
+        28.97,
+        34.94
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "Ad",
+            "4s"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GenosseGrasmeister",
+                "Sonic3Dblast",
+                "freshness911",
+                "orgonox",
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GenosseGrasmeister",
+                "freshness911",
+                "GenosseGrasmeister"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.17,
+                1.17
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "GenosseGrasmeister",
+                "freshness911",
+                "GenosseGrasmeister",
+                "freshness911"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.33,
+                3.5,
+                2.17
+            ]
+        },
+        "post-river": {
+            "players": [
+                "GenosseGrasmeister",
+                "freshness911"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                8.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "3h 3c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.09,
+        31.33,
+        9.75,
+        37.42,
+        28.97,
+        21.519999999999996
+    ]
+}

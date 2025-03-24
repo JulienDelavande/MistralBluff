@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/25 13:17:43",
+    "game_id": "805687710",
+    "variant": "PRR",
+    "table_name": "Ettin-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Spagetti1",
+        "Ratbastrd",
+        "IlxxxlI",
+        "Taang",
+        "Burn1Down_AA",
+        "TheBigALofVA"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        24.04,
+        29.46,
+        25.12,
+        52.62,
+        29.02,
+        44.16
+    ],
+    "player_small_blind": "Burn1Down_AA",
+    "small_blind": 0.1,
+    "player_big_blind": "TheBigALofVA",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "As",
+            "8s"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Spagetti1",
+                "Ratbastrd",
+                "IlxxxlI",
+                "Taang",
+                "Burn1Down_AA",
+                "TheBigALofVA"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.62,
+                null,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Burn1Down_AA",
+                "TheBigALofVA",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Burn1Down_AA",
+                "TheBigALofVA",
+                "IlxxxlI",
+                "Burn1Down_AA",
+                "TheBigALofVA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                3.5,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.04,
+        29.46,
+        26.27,
+        52.62,
+        28.4,
+        43.54
+    ]
+}

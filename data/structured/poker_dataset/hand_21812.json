@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/9 0:30:53",
+    "game_id": "793554149",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "El_fotografer",
+        "WomboComboAA",
+        "IgLa",
+        "RasorFish"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        50.5,
+        72.53,
+        54.97,
+        49.25
+    ],
+    "player_small_blind": "El_fotografer",
+    "small_blind": 0.25,
+    "player_big_blind": "WomboComboAA",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "Ks",
+            "10s"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "RasorFish",
+                "IlxxxlI",
+                "El_fotografer",
+                "WomboComboAA"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.5,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "El_fotografer",
+                "WomboComboAA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "El_fotografer",
+                "WomboComboAA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.5,
+                7.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "El_fotografer",
+                "WomboComboAA",
+                "El_fotografer"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                15.5,
+                15.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10d Qs",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.0,
+        23.25,
+        97.06,
+        54.97,
+        49.25
+    ]
+}

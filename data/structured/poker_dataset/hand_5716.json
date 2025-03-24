@@ -1,0 +1,110 @@
+{
+    "date": "2016/10/12 15:7:37",
+    "game_id": "748901930",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Orondi",
+        "IlxxxlI",
+        "Beep_Beep",
+        "MikaDelia",
+        "MeromAd"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        86.48,
+        50.55,
+        56.94,
+        50.75,
+        49.5
+    ],
+    "player_small_blind": "MeromAd",
+    "small_blind": 0.25,
+    "player_big_blind": "Orondi",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "10c",
+            "2h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Beep_Beep",
+                "MikaDelia",
+                "MeromAd",
+                "Orondi"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.95,
+                0.7
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MeromAd",
+                "Orondi"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.1,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        85.28,
+        50.55,
+        56.94,
+        50.75,
+        50.58
+    ]
+}

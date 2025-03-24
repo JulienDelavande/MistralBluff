@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 10:14:24",
+    "game_id": "793242251",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "Prostodursen",
+        "xPoker Jokerx",
+        "DolgoDoom99",
+        "xxRepoManxx",
+        "Big Hadgi",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        11.3,
+        20.0,
+        40.06,
+        28.55,
+        17.11
+    ],
+    "player_small_blind": "Big Hadgi",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "2s",
+            "9h"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Prostodursen",
+                "xPoker Jokerx",
+                "DolgoDoom99",
+                "xxRepoManxx",
+                "Big Hadgi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Big Hadgi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Big Hadgi",
+                "IlxxxlI",
+                "Big Hadgi"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        11.3,
+        20.0,
+        40.06,
+        27.55,
+        18.009999999999998
+    ]
+}

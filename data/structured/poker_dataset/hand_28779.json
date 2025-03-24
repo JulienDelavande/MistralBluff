@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/7 9:58:16",
+    "game_id": "792525780",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Short",
+    "button_seat": 7,
+    "players": [
+        "IlxxxlI",
+        "imightbebluffing",
+        "BiGFck",
+        "NanielDegreanu",
+        "Kr3bsy"
+    ],
+    "players_seats": [
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        5.0,
+        10.22,
+        3.05,
+        15.09,
+        21.91
+    ],
+    "player_small_blind": "Kr3bsy",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "2s",
+            "Qs"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "imightbebluffing",
+                "BiGFck",
+                "NanielDegreanu",
+                "Kr3bsy",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Kr3bsy",
+                "NanielDegreanu"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Kr3bsy",
+                "NanielDegreanu",
+                "Kr3bsy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.11,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        4.75,
+        10.22,
+        3.05,
+        16.009999999999998,
+        21.16
+    ]
+}

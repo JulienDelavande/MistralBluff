@@ -1,61 +1,58 @@
 {
-    "date": "2016/11/28 18:2:58",
-    "game_id": "786345923",
+    "date": "2016/9/18 9:8:7",
+    "game_id": "730246062",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "sucazappa",
-        "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria",
-        "DonkReaper"
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "graphicup",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
         6
     ],
     "starting_stacks": [
-        66.23,
-        20.0,
-        50.0,
-        113.27,
-        88.41
+        86.68,
+        311.87,
+        414.46,
+        198.0,
+        344.5,
+        81.6
     ],
-    "player_small_blind": "eu4ria",
-    "small_blind": 0.25,
-    "player_big_blind": "DonkReaper",
-    "big_blind": 0.5,
+    "player_small_blind": "graphicup",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3s",
-        "2s"
+        "6d",
+        "4c"
     ],
     "dealed_cards": {
-        "flop": [
-            "10h",
-            "8h",
-            "5c"
-        ],
-        "turn": [
-            "7h"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "sucazappa",
+                "winchy21",
+                "VegetablesArentYummy",
+                "flyzlcomb07",
+                "Pureprofit4",
+                "graphicup",
                 "IlxxxlI",
-                "BoTPuMHeDichBro",
-                "eu4ria",
-                "DonkReaper",
-                "eu4ria",
-                "DonkReaper"
+                "Pureprofit4"
             ],
             "actions": [
                 "FOLD",
@@ -63,49 +60,28 @@
                 "FOLD",
                 "RAISE",
                 "RAISE",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                1.25,
-                4.0,
-                9.0,
-                6.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "eu4ria",
-                "DonkReaper"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                13.0,
-                13.0
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "eu4ria",
-                "DonkReaper",
-                "eu4ria"
-            ],
-            "actions": [
-                "CHECK",
-                "ALLIN",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                64.91,
+                null,
+                null,
+                8.0,
+                26.0,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -118,13 +94,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        66.23,
-        20.0,
-        50.0,
-        89.77,
-        109.56
+        86.68,
+        311.87,
+        414.46,
+        190.0,
+        356.5,
+        77.6
     ]
 }

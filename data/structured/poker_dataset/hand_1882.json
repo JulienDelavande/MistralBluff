@@ -1,45 +1,57 @@
 {
-    "date": "2016/11/28 19:49:42",
-    "game_id": "786366010",
+    "date": "2016/9/18 8:22:13",
+    "game_id": "730219539",
     "variant": "PRR",
-    "table_name": "Gorgons-3",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "Goomashroom",
-        "allaebalaamballa",
-        "RetardedGenius",
-        "38979",
-        "IlxxxlI"
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
+        "IlxxxlI",
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        6
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        52.1,
-        26.63,
-        52.29,
-        50.25,
-        24.81
+        196.22,
+        226.1,
+        279.0,
+        562.98,
+        382.47,
+        248.25,
+        303.45,
+        80.0,
+        180.94
     ],
-    "player_small_blind": "38979",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "Cellar door",
+    "small_blind": 2.0,
+    "player_big_blind": "TryNotToTilt",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kc",
-        "5h"
+        "5c",
+        "Jc"
     ],
     "dealed_cards": {
         "flop": [
-            "Ac",
-            "6c",
-            "Jd"
+            "10h",
+            "5s",
+            "As"
         ],
         "turn": [],
         "river": []
@@ -47,32 +59,44 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
-                "allaebalaamballa",
-                "RetardedGenius",
-                "38979",
-                "IlxxxlI"
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
+                "IlxxxlI",
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
                 "RAISE",
-                "CALL",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
+                10.0,
                 null,
-                1.5,
-                1.25,
-                null
+                null,
+                null,
+                null,
+                null,
+                null,
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "38979",
-                "RetardedGenius",
-                "38979"
+                "TryNotToTilt",
+                "VegetablesArentYummy",
+                "TryNotToTilt"
             ],
             "actions": [
                 "CHECK",
@@ -81,7 +105,7 @@
             ],
             "values": [
                 null,
-                1.66,
+                8.9,
                 null
             ]
         },
@@ -101,13 +125,21 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        52.1,
-        26.63,
-        54.12,
-        48.75,
-        24.31
+        196.22,
+        226.1,
+        277.0,
+        552.98,
+        382.47,
+        260.05,
+        303.45,
+        80.0,
+        180.94
     ]
 }

@@ -1,132 +1,127 @@
 {
-    "date": "2016/11/29 8:38:52",
-    "game_id": "786758428",
+    "date": "2016/9/17 14:58:5",
+    "game_id": "729608423",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "Aquaman75",
+        "38979",
         "IlxxxlI",
-        "Ice Bank Mice Elf",
-        "Log_in",
-        "CumBckMuny",
-        "XxDominationxX",
-        "coldkilla",
-        "rounderontilt",
-        "Taxriverman"
+        "Fuck-P-Stars",
+        "elpasoafera"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9
+        5
     ],
     "starting_stacks": [
-        65.28,
-        22.29,
-        63.18,
-        12.25,
-        33.64,
-        70.4,
-        59.91,
-        32.94,
-        52.15
+        106.4,
+        84.02,
+        162.61,
+        47.85
     ],
-    "player_small_blind": "XxDominationxX",
-    "small_blind": 0.25,
-    "player_big_blind": "coldkilla",
-    "big_blind": 0.5,
+    "player_small_blind": "Fuck-P-Stars",
+    "small_blind": 1.0,
+    "player_big_blind": "elpasoafera",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kc",
-        "9d"
+        "7c",
+        "7s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Jd",
+            "2h",
+            "Kc"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "2c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "rounderontilt",
-                "Taxriverman",
-                "Aquaman75",
+                "38979",
                 "IlxxxlI",
-                "Ice Bank Mice Elf",
-                "Log_in",
-                "CumBckMuny",
-                "XxDominationxX",
-                "coldkilla",
-                "Taxriverman"
+                "Fuck-P-Stars",
+                "elpasoafera",
+                "38979"
             ],
             "actions": [
-                "FOLD",
-                "CALL",
-                "FOLD",
-                "FOLD",
+                "RAISE",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                null,
-                0.5,
-                null,
-                null,
-                1.75,
+                6.0,
+                10.0,
                 null,
                 null,
-                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "38979",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "38979",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "38979",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        "10d 10s",
+        "7c 7s",
         null,
         null
     ],
     "finishing_stack": [
-        65.28,
-        22.29,
-        64.43,
-        12.25,
-        33.64,
-        70.15,
-        59.41,
-        32.94,
-        51.65
+        118.25,
+        74.02,
+        161.61,
+        45.85
     ]
 }

@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 14:23:26",
-    "game_id": "787004186",
+    "date": "2016/9/5 12:2:9",
+    "game_id": "720258067",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "WeakAndWeary",
-        "MadLifeGrinder",
-        "Sephiroth1",
+        "GranatoBetano",
+        "St3p04ka",
         "IlxxxlI",
-        "gust",
-        "ElvenEyes"
+        "bigrpk22",
+        "Jimisdumb",
+        "follower1"
     ],
     "players_seats": [
         1,
@@ -22,128 +22,95 @@
         6
     ],
     "starting_stacks": [
-        183.86,
-        100.0,
-        146.13,
-        42.23,
-        40.0,
-        114.61
+        300.0,
+        178.4,
+        131.58,
+        277.05,
+        259.44,
+        406.85
     ],
-    "player_small_blind": "ElvenEyes",
-    "small_blind": 0.5,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 3.0,
+    "player_big_blind": "bigrpk22",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5h",
-        "4d"
+        "Jh",
+        "Ac"
     ],
     "dealed_cards": {
         "flop": [
-            "Qd",
-            "3d",
-            "2s"
+            "3h",
+            "4c",
+            "9h"
         ],
         "turn": [
-            "As"
+            "6d"
         ],
         "river": [
-            "6h"
+            "4d"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "Sephiroth1",
+                "Jimisdumb",
+                "follower1",
+                "GranatoBetano",
+                "St3p04ka",
                 "IlxxxlI",
-                "gust",
-                "ElvenEyes",
-                "WeakAndWeary"
+                "bigrpk22",
+                "Jimisdumb"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "ALLIN",
                 "FOLD",
                 "CALL"
             ],
             "values": [
+                12.0,
                 null,
                 null,
                 null,
-                2.0,
+                128.58,
                 null,
-                1.0
+                119.58
             ]
         },
         "post-flop": {
-            "players": [
-                "WeakAndWeary",
-                "gust",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                2.14,
-                2.14
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "WeakAndWeary",
-                "gust",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                5.56,
-                5.56
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "WeakAndWeary",
-                "gust",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                12.6,
-                12.6
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "Ac 9h",
         null,
         null,
+        "Jh Ac",
         null,
-        "Ks 10c",
+        "Qc Qd",
         null
     ],
     "finishing_stack": [
-        204.41,
-        100.0,
-        146.13,
-        42.23,
-        17.7,
-        114.11
+        300.0,
+        178.4,
+        0.0,
+        271.05,
+        394.37,
+        406.85
     ]
 }

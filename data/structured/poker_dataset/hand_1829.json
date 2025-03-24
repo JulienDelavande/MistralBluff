@@ -1,89 +1,173 @@
 {
-    "date": "2016/11/28 19:55:28",
-    "game_id": "786367025",
+    "date": "2016/9/18 8:15:13",
+    "game_id": "730215155",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 2,
     "players": [
-        "Goomashroom",
-        "lovecola",
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "caballeroXXX"
+        "Spew Diamond Phillips",
+        "gosu36484",
+        "Antimonysayz",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
+        1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        52.37,
-        54.73,
-        20.0,
-        125.46
+        100.0,
+        195.7,
+        40.0,
+        124.88,
+        65.78,
+        84.94,
+        100.0,
+        21.59,
+        239.58
     ],
-    "player_small_blind": "caballeroXXX",
-    "small_blind": 0.25,
-    "player_big_blind": "Goomashroom",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Spew Diamond Phillips",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ad",
-        "Kh"
+        "8s",
+        "9h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "7c",
+            "Ks",
+            "Jd"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "Ah"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "lovecola",
+                "gosu36484",
+                "Antimonysayz",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
                 "IlxxxlI",
-                "caballeroXXX",
-                "Goomashroom"
+                "Spew Diamond Phillips"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
+                "CALL",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
-                1.5,
+                1.0,
                 null,
+                null,
+                null,
+                null,
+                null,
+                0.5,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Spew Diamond Phillips",
+                "Antimonysayz",
+                "IlxxxlI",
+                "Spew Diamond Phillips"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                2.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Spew Diamond Phillips",
+                "Antimonysayz"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Spew Diamond Phillips",
+                "Antimonysayz"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.21,
+                2.21
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
+        "6s Jh",
+        null,
+        "Qd As",
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        51.87,
-        54.73,
-        20.75,
-        125.21
+        100.0,
+        195.7,
+        39.0,
+        119.67,
+        65.78,
+        90.58,
+        100.0,
+        21.59,
+        239.58
     ]
 }

@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/6 8:57:30",
+    "game_id": "791904130",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "shokerAAss",
+        "St3p04ka",
+        "g-vine",
+        "AbovedaR1m",
+        "lito47"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        100.0,
+        55.62,
+        103.0,
+        100.5,
+        43.95
+    ],
+    "player_small_blind": "g-vine",
+    "small_blind": 0.5,
+    "player_big_blind": "lito47",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "7h",
+            "8h"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "shokerAAss",
+                "St3p04ka",
+                "g-vine",
+                "lito47"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "g-vine",
+                "lito47"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.58,
+                1.58
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "g-vine",
+                "lito47",
+                "g-vine"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.88,
+                3.88
+            ]
+        },
+        "post-river": {
+            "players": [
+                "g-vine",
+                "lito47"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "6s 6h"
+    ],
+    "finishing_stack": [
+        40.0,
+        100.0,
+        55.62,
+        95.04,
+        100.5,
+        51.120000000000005
+    ]
+}

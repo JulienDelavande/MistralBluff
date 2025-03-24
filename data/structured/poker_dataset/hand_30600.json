@@ -1,0 +1,119 @@
+{
+    "date": "2016/12/6 16:36:10",
+    "game_id": "792161187",
+    "variant": "PRR",
+    "table_name": "Gorgons-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IgLa",
+        "IampokerKidd",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4
+    ],
+    "starting_stacks": [
+        50.5,
+        50.25,
+        20.26
+    ],
+    "player_small_blind": "IampokerKidd",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "10s",
+            "4h"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "IampokerKidd",
+                "IlxxxlI",
+                "IgLa"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.25,
+                4.0,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IampokerKidd",
+                "IgLa"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.7,
+                5.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IampokerKidd",
+                "IgLa"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                15.0,
+                15.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IampokerKidd",
+                "IgLa"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                25.3,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.55,
+        74.7,
+        19.76
+    ]
+}

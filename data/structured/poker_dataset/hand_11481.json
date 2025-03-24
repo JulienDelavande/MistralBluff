@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/24 23:9:28",
+    "game_id": "805261215",
+    "variant": "PRR",
+    "table_name": "Gorgons-17",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "TZhang",
+        "QDevilQ",
+        "Indigol",
+        "JloJIKa",
+        "IlxxxlI",
+        "dangerspike"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        42.33,
+        50.0,
+        66.49,
+        51.23,
+        44.83,
+        58.76
+    ],
+    "player_small_blind": "TZhang",
+    "small_blind": 0.25,
+    "player_big_blind": "QDevilQ",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "8s",
+            "7d"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Indigol",
+                "JloJIKa",
+                "IlxxxlI",
+                "dangerspike",
+                "TZhang",
+                "QDevilQ",
+                "dangerspike"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                2.25,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "TZhang",
+                "dangerspike"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.48,
+                3.48
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "TZhang",
+                "dangerspike",
+                "TZhang",
+                "dangerspike"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.94,
+                11.82,
+                7.88
+            ]
+        },
+        "post-river": {
+            "players": [
+                "TZhang",
+                "dangerspike"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                24.53,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        58.83,
+        49.5,
+        66.49,
+        51.23,
+        44.83,
+        40.959999999999994
+    ]
+}

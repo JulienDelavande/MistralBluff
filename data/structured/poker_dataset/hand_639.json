@@ -1,85 +1,68 @@
 {
-    "date": "2016/11/29 13:22:11",
-    "game_id": "786975851",
+    "date": "2016/9/5 12:56:47",
+    "game_id": "720273567",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 4,
     "players": [
-        "Abundance4All",
-        "xROCKETMANx",
+        "St3p04ka",
         "IlxxxlI",
-        "GagaPoker",
-        "foreseen"
+        "SheppyPOO!!"
     ],
     "players_seats": [
-        1,
         2,
         4,
-        5,
-        6
+        5
     ],
     "starting_stacks": [
-        87.82,
-        61.22,
-        22.25,
-        84.78,
-        53.87
+        539.67,
+        134.7,
+        601.19
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "GagaPoker",
-    "big_blind": 0.5,
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 3.0,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3d",
-        "Ah"
+        "Ah",
+        "7s"
     ],
     "dealed_cards": {
         "flop": [
-            "Ac",
-            "8d",
-            "7c"
+            "Qh",
+            "Ad",
+            "9h"
         ],
         "turn": [
-            "6h"
+            "2s"
         ],
-        "river": [
-            "Kd"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "foreseen",
-                "Abundance4All",
-                "xROCKETMANx",
                 "IlxxxlI",
-                "GagaPoker",
-                "Abundance4All"
+                "SheppyPOO!!",
+                "St3p04ka"
             ],
             "actions": [
-                "FOLD",
                 "RAISE",
-                "RAISE",
-                "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
+                12.0,
                 null,
-                1.0,
-                3.5,
-                null,
-                null,
-                2.5
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "Abundance4All",
-                "xROCKETMANx",
-                "Abundance4All"
+                "St3p04ka",
+                "IlxxxlI",
+                "St3p04ka"
             ],
             "actions": [
                 "CHECK",
@@ -88,29 +71,15 @@
             ],
             "values": [
                 null,
-                3.68,
-                3.68
+                6.0,
+                6.0
             ]
         },
         "post-turn": {
             "players": [
-                "Abundance4All",
-                "xROCKETMANx"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "Abundance4All",
-                "xROCKETMANx",
-                "Abundance4All"
+                "St3p04ka",
+                "IlxxxlI",
+                "St3p04ka"
             ],
             "actions": [
                 "CHECK",
@@ -119,23 +88,24 @@
             ],
             "values": [
                 null,
-                16.0,
+                19.32,
                 null
             ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        80.63999999999999,
-        68.4,
-        22.0,
-        84.28,
-        53.87
+        521.67,
+        155.35,
+        598.19
     ]
 }

@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/8 14:40:4",
+    "game_id": "793403991",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "PhillipHellmuth",
+        "IlxxxlI",
+        "HapKoTuk",
+        "kkennybz",
+        "anokato"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        61.24,
+        10.8,
+        25.35,
+        9.04,
+        53.07
+    ],
+    "player_small_blind": "PhillipHellmuth",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "9s",
+            "3d"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "kkennybz",
+                "anokato",
+                "PhillipHellmuth",
+                "IlxxxlI",
+                "kkennybz"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                1.25,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "kkennybz",
+                "anokato",
+                "kkennybz",
+                "anokato"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.5,
+                2.5,
+                1.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "kkennybz",
+                "anokato"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                5.04,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        61.14,
+        10.55,
+        25.35,
+        12.98,
+        49.07
+    ]
+}

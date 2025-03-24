@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/15 13:2:47",
+    "game_id": "798433362",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 1,
+    "players": [
+        "Ice Bank Mice Elf",
+        "St3p04ka",
+        "IlxxxlI",
+        "gust",
+        "JustCliknButtons"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        53.33,
+        40.0,
+        50.0,
+        40.0,
+        111.63
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "Kc",
+            "2h"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gust",
+                "JustCliknButtons",
+                "Ice Bank Mice Elf",
+                "St3p04ka",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ice Bank Mice Elf",
+                "IlxxxlI",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.14,
+                6.0,
+                3.86
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                21.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        45.33,
+        39.5,
+        57.68,
+        40.0,
+        111.63
+    ]
+}

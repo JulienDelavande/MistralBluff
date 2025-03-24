@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 19:37:20",
-    "game_id": "786363715",
+    "date": "2016/9/18 8:31:29",
+    "game_id": "730225282",
     "variant": "PRR",
-    "table_name": "Gorgons-3",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 1,
     "players": [
-        "tintinhsl",
-        "allaebalaamballa",
-        "RetardedGenius",
-        "38979",
-        "in_ur_i",
-        "IlxxxlI"
+        "LuckyBoy1980",
+        "BadBeat79",
+        "Cellar door",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "utormico"
     ],
     "players_seats": [
         1,
@@ -19,70 +22,101 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        58.47,
-        29.75,
-        43.5,
-        52.9,
-        53.87,
-        20.0
+        212.05,
+        266.8,
+        200.0,
+        269.65,
+        179.15,
+        250.1,
+        203.4,
+        132.05,
+        110.05
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "tintinhsl",
-    "big_blind": 0.5,
+    "player_small_blind": "BadBeat79",
+    "small_blind": 1.0,
+    "player_big_blind": "Cellar door",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3c",
-        "Kc"
+        "Ks",
+        "Jh"
     ],
     "dealed_cards": {
         "flop": [
-            "5d",
-            "3s",
-            "Qd"
+            "Qh",
+            "10c",
+            "4h"
         ],
         "turn": [
-            "6d"
+            "4c"
         ],
-        "river": []
+        "river": [
+            "8s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "allaebalaamballa",
-                "RetardedGenius",
-                "38979",
-                "in_ur_i",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "tintinhsl",
-                "RetardedGenius"
+                "utormico",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "Cellar door"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "CALL"
+                "CALL",
+                "FOLD"
             ],
             "values": [
                 null,
-                0.5,
-                null,
-                2.0,
                 null,
                 null,
-                1.5
+                null,
+                4.0,
+                null,
+                null,
+                3.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "RetardedGenius",
-                "in_ur_i"
+                "BadBeat79",
+                "IlxxxlI",
+                "BadBeat79"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.75,
+                4.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BadBeat79",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
@@ -93,40 +127,41 @@
                 null
             ]
         },
-        "post-turn": {
+        "post-river": {
             "players": [
-                "RetardedGenius",
-                "in_ur_i"
+                "BadBeat79",
+                "IlxxxlI"
             ],
             "actions": [
-                "BET",
-                "FOLD"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                3.01,
+                null,
                 null
             ]
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
         null,
+        "10h As",
         null,
         null,
         null,
         null,
+        null,
+        "Ks Jh",
         null
     ],
     "finishing_stack": [
-        57.97,
-        29.75,
-        46.019999999999996,
-        52.9,
-        51.87,
-        19.75
+        212.05,
+        276.58000000000004,
+        198.0,
+        269.65,
+        179.15,
+        250.1,
+        203.4,
+        123.30000000000001,
+        110.05
     ]
 }

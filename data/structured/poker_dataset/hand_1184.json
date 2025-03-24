@@ -1,20 +1,17 @@
 {
-    "date": "2016/11/29 9:12:45",
-    "game_id": "786787194",
+    "date": "2016/9/15 11:59:18",
+    "game_id": "728105522",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 7,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "IlxxxlI",
-        "Tilt-A-Whirl",
-        "IamPhamous",
-        "PANDAisEVIL",
-        "Iia007",
-        "StephCurry",
-        "L4zy_FiSh",
-        "mr.fargo",
-        "shokerAAss"
+        "Anastasia31",
+        "miscusee",
+        "TuxoH",
+        "allinoh",
+        "NoCortosPermite",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -22,124 +19,125 @@
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        178.97,
+        211.85,
+        287.4,
         200.0,
-        291.16,
-        216.47,
-        212.24,
-        200.0,
-        202.0,
-        128.51,
-        227.11
+        122.85,
+        335.84,
+        154.4
     ],
-    "player_small_blind": "mr.fargo",
-    "small_blind": 1.0,
-    "player_big_blind": "shokerAAss",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "miscusee",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8h",
-        "7c"
+        "5c",
+        "Qs"
     ],
     "dealed_cards": {
         "flop": [
-            "10c",
-            "10s",
-            "3c"
+            "4c",
+            "8d",
+            "8s"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "5d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "TuxoH",
+                "allinoh",
+                "NoCortosPermite",
                 "IlxxxlI",
-                "Tilt-A-Whirl",
-                "IamPhamous",
-                "PANDAisEVIL",
-                "Iia007",
-                "StephCurry",
-                "L4zy_FiSh",
-                "mr.fargo",
-                "shokerAAss"
+                "miscusee"
             ],
             "actions": [
                 "FOLD",
                 "RAISE",
-                "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                4.0,
-                4.0,
+                8.0,
                 null,
                 null,
-                null,
-                null,
-                null,
-                null
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "Tilt-A-Whirl",
-                "IamPhamous",
-                "Tilt-A-Whirl"
+                "miscusee",
+                "allinoh",
+                "miscusee"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                5.22,
-                null
+                10.0,
+                10.0
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "miscusee",
+                "allinoh",
+                "miscusee"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                25.0,
+                25.0
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "miscusee",
+                "allinoh"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
+        "8h Ks",
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        "3h 3c",
         null,
         null
     ],
     "finishing_stack": [
-        178.97,
-        196.0,
-        297.61,
-        216.47,
-        212.24,
+        211.85,
+        331.54999999999995,
         200.0,
-        202.0,
-        127.50999999999999,
-        225.11
+        79.85,
+        335.84,
+        152.4
     ]
 }

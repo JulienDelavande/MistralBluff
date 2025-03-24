@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/25 13:37:21",
+    "game_id": "805696686",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "chardcheez18",
+        "Ksander",
+        "IlxxxlI",
+        "marrone85"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        20.17,
+        12.5,
+        13.6,
+        11.33
+    ],
+    "player_small_blind": "marrone85",
+    "small_blind": 0.1,
+    "player_big_blind": "chardcheez18",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "Kd",
+            "Ad"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ksander",
+                "IlxxxlI",
+                "marrone85",
+                "chardcheez18"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "marrone85",
+                "chardcheez18"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "marrone85",
+                "chardcheez18"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-river": {
+            "players": [
+                "marrone85",
+                "chardcheez18"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "5h Qs"
+    ],
+    "finishing_stack": [
+        18.470000000000002,
+        12.5,
+        13.6,
+        12.860000000000001
+    ]
+}

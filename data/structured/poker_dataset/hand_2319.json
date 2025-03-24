@@ -1,20 +1,18 @@
 {
-    "date": "2016/11/21 12:2:31",
-    "game_id": "781007267",
+    "date": "2016/9/18 9:30:28",
+    "game_id": "730257149",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Short",
-    "button_seat": 2,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 1,
     "players": [
-        "kidsquid",
-        "sr86",
+        "Lewass99",
         "IlxxxlI",
-        "hotshothotgg",
-        "Spagetti1",
-        "parmele",
-        "ChrisNola",
-        "Parcker",
-        "FirstClan"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "kalabanaspirit",
+        "aquamarin"
     ],
     "players_seats": [
         1,
@@ -23,120 +21,91 @@
         4,
         5,
         6,
-        7,
-        8,
         9
     ],
     "starting_stacks": [
-        25.0,
-        45.47,
-        22.68,
-        25.39,
-        25.84,
-        26.95,
-        44.76,
-        25.0,
-        29.52
+        231.5,
+        80.0,
+        466.0,
+        200.0,
+        78.11,
+        196.0,
+        148.08
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "hotshothotgg",
-    "big_blind": 0.5,
+    "small_blind": 1.0,
+    "player_big_blind": "Pimpika",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "9h"
+        "5c",
+        "3s"
     ],
     "dealed_cards": {
         "flop": [
-            "Jd",
-            "7c",
-            "10c"
+            "9s",
+            "5h",
+            "Qh"
         ],
-        "turn": [
-            "8d"
-        ],
-        "river": [
-            "5c"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Spagetti1",
-                "parmele",
-                "ChrisNola",
-                "Parcker",
-                "FirstClan",
-                "kidsquid",
-                "sr86",
+                "VegetablesArentYummy",
+                "GARY888",
+                "kalabanaspirit",
+                "aquamarin",
+                "Lewass99",
                 "IlxxxlI",
-                "hotshothotgg"
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "RAISE",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
-                null,
-                null,
-                2.5,
+                2.0,
                 null,
                 null,
                 null,
                 null,
-                2.0
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "hotshothotgg",
-                "Parcker"
+                "Pimpika",
+                "GARY888",
+                "Pimpika"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD"
             ],
             "values": [
                 null,
+                3.16,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "hotshothotgg",
-                "Parcker"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "hotshothotgg",
-                "Parcker"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -146,19 +115,15 @@
         null,
         null,
         null,
-        null,
-        "As 10h",
         null
     ],
     "finishing_stack": [
-        24.5,
-        45.47,
-        22.43,
-        22.89,
-        25.84,
-        26.95,
-        44.76,
-        27.97,
-        29.52
+        231.5,
+        79.0,
+        464.0,
+        200.0,
+        80.86,
+        196.0,
+        148.08
     ]
 }

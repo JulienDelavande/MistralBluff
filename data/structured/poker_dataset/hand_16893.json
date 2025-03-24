@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/19 20:42:6",
+    "game_id": "801726517",
+    "variant": "PRR",
+    "table_name": "Bahamut",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "Randy Tran",
+        "UltraFish",
+        "Tolstobrov E",
+        "IlxxxlI",
+        "Serb1one"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        0.93,
+        1.92,
+        0.48,
+        2.53,
+        0.5
+    ],
+    "player_small_blind": "Serb1one",
+    "small_blind": 0.01,
+    "player_big_blind": "Randy Tran",
+    "big_blind": 0.02,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "2d",
+            "2h"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "UltraFish",
+                "Tolstobrov E",
+                "IlxxxlI",
+                "Serb1one",
+                "Randy Tran"
+            ],
+            "actions": [
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.02,
+                0.02,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Randy Tran",
+                "UltraFish",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.04,
+                null,
+                0.04
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Randy Tran",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.08,
+                0.08
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Randy Tran",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.1,
+                0.1
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "6s Ks",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        1.1800000000000002,
+        1.9,
+        0.24,
+        2.53,
+        0.49
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 21:27:35",
+    "game_id": "793495216",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "erotomania",
+        "SkaHot",
+        "Moryak999",
+        "IlxxxlI",
+        "FetusMunch"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        29.17,
+        34.16,
+        12.35,
+        9.0
+    ],
+    "player_small_blind": "Moryak999",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "Jd",
+            "2s"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FetusMunch",
+                "erotomania",
+                "SkaHot",
+                "Moryak999",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                0.75,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FetusMunch",
+                "erotomania",
+                "FetusMunch"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.75,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FetusMunch",
+                "erotomania"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FetusMunch",
+                "erotomania",
+                "FetusMunch"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                0.5,
+                22.5,
+                6.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "6h 4h",
+        null,
+        null,
+        null,
+        "Js Jh"
+    ],
+    "finishing_stack": [
+        16.0,
+        29.17,
+        34.059999999999995,
+        12.1,
+        17.44
+    ]
+}

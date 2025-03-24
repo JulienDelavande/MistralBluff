@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/22 17:4:5",
+    "game_id": "803709507",
+    "variant": "PRR",
+    "table_name": "Ekek-14",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Ratbastrd",
+        "kkkj23",
+        "Jepare",
+        "contender86"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.62,
+        34.95,
+        14.55,
+        30.39,
+        13.76
+    ],
+    "player_small_blind": "Jepare",
+    "small_blind": 0.1,
+    "player_big_blind": "contender86",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "3h",
+            "2h"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ratbastrd",
+                "kkkj23",
+                "Jepare",
+                "contender86"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jepare",
+                "contender86",
+                "kkkj23",
+                "Jepare"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jepare",
+                "contender86"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.07,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.62,
+        34.95,
+        14.3,
+        31.53,
+        12.76
+    ]
+}

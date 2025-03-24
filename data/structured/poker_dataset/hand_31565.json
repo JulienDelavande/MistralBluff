@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 8:59:17",
+    "game_id": "791904998",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Shaten994",
+        "IlxxxlI",
+        "Ynaito",
+        "virtualbox",
+        "Cradd0ck"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        26.28,
+        12.37,
+        25.0,
+        25.0,
+        46.27
+    ],
+    "player_small_blind": "Shaten994",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "10c",
+            "9h"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ynaito",
+                "virtualbox",
+                "Cradd0ck",
+                "Shaten994",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ynaito",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Ynaito"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.72,
+                1.72
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Ynaito"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                8.89,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        26.18,
+        15.599999999999998,
+        21.52,
+        25.0,
+        46.27
+    ]
+}

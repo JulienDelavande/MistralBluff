@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 14:19:3",
-    "game_id": "787002322",
+    "date": "2016/9/5 12:12:6",
+    "game_id": "720261092",
     "variant": "PRR",
-    "table_name": "Gorgons-15",
-    "type_game": "Hold'em",
+    "table_name": "Medusa",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "WeakAndWeary",
-        "IampokerKidd",
-        "imger8",
+        "follower1",
         "IlxxxlI",
-        "foreseen",
-        "BiGFck"
+        "whitnez33",
+        "bigrpk22",
+        "RapaNui",
+        "RumCola 86"
     ],
     "players_seats": [
         1,
@@ -22,52 +22,63 @@
         6
     ],
     "starting_stacks": [
-        53.2,
-        99.27,
-        51.89,
-        20.75,
-        52.7,
-        11.5
+        212.0,
+        82.0,
+        272.35,
+        244.85,
+        200.0,
+        135.22
     ],
-    "player_small_blind": "imger8",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "whitnez33",
+    "small_blind": 2.0,
+    "player_big_blind": "bigrpk22",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9d",
-        "8c"
+        "10c",
+        "10h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "8d",
+            "Js",
+            "2s"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Jc"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "foreseen",
-                "BiGFck",
-                "WeakAndWeary",
-                "IampokerKidd",
-                "imger8",
-                "IlxxxlI"
+                "RapaNui",
+                "RumCola 86",
+                "follower1",
+                "IlxxxlI",
+                "whitnez33",
+                "bigrpk22",
+                "RumCola 86"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
                 "FOLD",
+                "ALLIN",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                1.25,
+                null,
+                12.0,
+                null,
+                82.0,
                 null,
                 null,
-                null,
-                null,
-                null
+                70.0
             ]
         },
         "post-flop": {
@@ -88,18 +99,18 @@
     },
     "card_shown_by_players": [
         null,
+        "10c 10h",
         null,
         null,
         null,
-        null,
-        null
+        "4c 4s"
     ],
     "finishing_stack": [
-        53.2,
-        99.27,
-        51.64,
-        20.25,
-        53.45,
-        11.5
+        212.0,
+        168.3,
+        270.35,
+        240.85,
+        200.0,
+        53.22
     ]
 }

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/5 9:16:25",
+    "game_id": "791264438",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "38979",
+        "WeakAndWeary",
+        "IlxxxlI",
+        "stg",
+        "GautamaBuddha"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        100.0,
+        135.08,
+        40.0,
+        73.73,
+        100.2
+    ],
+    "player_small_blind": "38979",
+    "small_blind": 0.5,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "Ah",
+            "Ks"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "stg",
+                "GautamaBuddha",
+                "38979",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "stg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "stg",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.12,
+                4.12
+            ]
+        },
+        "post-river": {
+            "players": [
+                "WeakAndWeary",
+                "stg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "6c Ac",
+        null,
+        "10s 10d",
+        null
+    ],
+    "finishing_stack": [
+        99.5,
+        141.97,
+        40.0,
+        66.61,
+        100.2
+    ]
+}

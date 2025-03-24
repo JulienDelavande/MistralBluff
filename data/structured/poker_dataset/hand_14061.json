@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/24 0:15:3",
+    "game_id": "804599473",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "TheBronze101",
+        "Sonic3Dblast",
+        "serial28",
+        "IlxxxlI",
+        "MAGNIT"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.05,
+        32.4,
+        25.0,
+        34.16,
+        31.92
+    ],
+    "player_small_blind": "Sonic3Dblast",
+    "small_blind": 0.1,
+    "player_big_blind": "serial28",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "6c",
+            "2s"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "MAGNIT",
+                "TheBronze101",
+                "Sonic3Dblast",
+                "serial28"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "serial28",
+                "MAGNIT",
+                "TheBronze101",
+                "serial28"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.25,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MAGNIT",
+                "TheBronze101",
+                "MAGNIT"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.61,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.66,
+        32.3,
+        24.25,
+        34.16,
+        29.92
+    ]
+}

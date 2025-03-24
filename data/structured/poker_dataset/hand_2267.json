@@ -1,157 +1,113 @@
 {
-    "date": "2016/11/28 17:51:45",
-    "game_id": "786343846",
+    "date": "2016/9/18 9:12:50",
+    "game_id": "730248528",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
-    "button_seat": 7,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "Hakuna_Matata777",
-        "frenzybarb",
-        "JoJoLoring",
-        "IlxxxlI",
-        "1jackoff1",
-        "haroldbb",
-        "rpportugal"
+        "winchy21",
+        "VegetablesArentYummy",
+        "Pureprofit4",
+        "graphicup",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
         4,
         5,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        92.67,
-        50.0,
-        44.23,
-        20.0,
-        94.55,
-        59.89,
-        7.38
+        85.71,
+        317.87,
+        202.62,
+        350.5,
+        80.88
     ],
-    "player_small_blind": "haroldbb",
-    "small_blind": 0.25,
-    "player_big_blind": "rpportugal",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "winchy21",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "As",
-        "4h"
+        "9c",
+        "Js"
     ],
     "dealed_cards": {
         "flop": [
-            "Kc",
-            "8h",
-            "Qd"
+            "2c",
+            "5h",
+            "8s"
         ],
-        "turn": [
-            "9h"
-        ],
-        "river": [
-            "Kd"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Hakuna_Matata777",
-                "frenzybarb",
-                "JoJoLoring",
+                "VegetablesArentYummy",
+                "Pureprofit4",
+                "graphicup",
                 "IlxxxlI",
-                "1jackoff1",
-                "haroldbb",
-                "rpportugal"
+                "winchy21"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "CALL",
                 "FOLD",
-                "CALL",
-                "FOLD",
-                "CHECK"
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                0.5,
                 null,
-                0.5,
-                null,
-                null
+                6.0,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "rpportugal",
-                "JoJoLoring",
-                "1jackoff1"
+                "IlxxxlI",
+                "winchy21",
+                "IlxxxlI"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
+                "BET",
+                "RAISE",
+                "FOLD"
             ],
             "values": [
-                null,
-                null,
+                5.28,
+                15.84,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "rpportugal",
-                "JoJoLoring",
-                "1jackoff1"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "rpportugal",
-                "JoJoLoring",
-                "1jackoff1"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
-        null,
-        "Ac 7d",
         null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        92.67,
-        50.0,
-        45.4,
-        20.0,
-        94.05,
-        59.64,
-        6.88
+        98.74,
+        317.87,
+        202.62,
+        350.5,
+        67.6
     ]
 }

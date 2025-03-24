@@ -1,89 +1,149 @@
 {
-    "date": "2016/11/29 14:25:57",
-    "game_id": "787005258",
+    "date": "2016/9/5 11:57:50",
+    "game_id": "720256726",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "foreseen",
+        "graphicup",
+        "lars76",
         "IlxxxlI",
-        "Beep_Beep",
-        "Jui Kuen"
+        "ShtrafBat",
+        "follower1",
+        "RapaNui"
     ],
     "players_seats": [
+        1,
+        2,
         3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        66.64,
-        22.57,
-        100.82,
-        61.37
+        202.48,
+        134.15,
+        118.75,
+        94.65,
+        323.46,
+        200.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "Beep_Beep",
-    "big_blind": 0.5,
+    "player_small_blind": "lars76",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "10h"
+        "Jc",
+        "6c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "10s",
+            "9h",
+            "3s"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "4h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "foreseen",
-                "IlxxxlI",
-                "Beep_Beep",
-                "Jui Kuen"
+                "ShtrafBat",
+                "follower1",
+                "RapaNui",
+                "graphicup",
+                "lars76",
+                "IlxxxlI"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL",
+                "CALL"
             ],
             "values": [
-                3.0,
+                null,
+                null,
+                null,
+                8.4,
+                6.4,
+                4.4
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lars76",
+                "IlxxxlI",
+                "graphicup"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "lars76",
+                "IlxxxlI",
+                "graphicup"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "lars76",
+                "IlxxxlI",
+                "graphicup"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                11.0,
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        68.39,
-        22.32,
-        100.32,
-        60.37
+        194.07999999999998,
+        150.7,
+        110.35,
+        94.65,
+        323.46,
+        200.0
     ]
 }

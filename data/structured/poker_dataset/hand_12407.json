@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/24 21:34:48",
+    "game_id": "805231775",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "FatzPanda",
+        "samotiti",
+        "booya25",
+        "IlxxxlI",
+        "runsdeeply"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        23.74,
+        9.65,
+        31.83,
+        45.29,
+        8.61
+    ],
+    "player_small_blind": "FatzPanda",
+    "small_blind": 0.1,
+    "player_big_blind": "samotiti",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "3s",
+            "10h"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "booya25",
+                "IlxxxlI",
+                "runsdeeply",
+                "FatzPanda",
+                "samotiti"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FatzPanda",
+                "samotiti",
+                "runsdeeply",
+                "FatzPanda",
+                "samotiti"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "samotiti",
+                "runsdeeply"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "samotiti",
+                "runsdeeply",
+                "samotiti"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.4,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.49,
+        9.15,
+        31.83,
+        45.29,
+        9.299999999999999
+    ]
+}

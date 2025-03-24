@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 23:2:7",
+    "game_id": "805825418",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "Limp_IN",
+        "raraAvis8",
+        "IlxxxlI",
+        "Log_in",
+        "corporation 4"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        19.61,
+        12.15,
+        27.61,
+        14.18,
+        5.0
+    ],
+    "player_small_blind": "Log_in",
+    "small_blind": 0.1,
+    "player_big_blind": "corporation 4",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "8s",
+            "10c"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Limp_IN",
+                "raraAvis8",
+                "IlxxxlI",
+                "Log_in",
+                "corporation 4"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "corporation 4",
+                "Limp_IN",
+                "corporation 4"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.5,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "corporation 4",
+                "Limp_IN"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "corporation 4",
+                "Limp_IN"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.76,
+                0.76
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "9d 3s"
+    ],
+    "finishing_stack": [
+        18.099999999999998,
+        12.15,
+        27.61,
+        14.08,
+        6.460000000000001
+    ]
+}

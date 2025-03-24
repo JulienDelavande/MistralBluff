@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/5 12:21:51",
+    "game_id": "791400884",
+    "variant": "PRR",
+    "table_name": "Gorgons-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "rascaldog",
+        "IlxxxlI",
+        "Parcker",
+        "WeakAndWeary",
+        "welld0ne",
+        "Polar1z1ng"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        42.22,
+        20.0,
+        54.84,
+        55.6,
+        58.76,
+        57.86
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Parcker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "10c",
+            "7s"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "welld0ne",
+                "Polar1z1ng",
+                "rascaldog",
+                "IlxxxlI",
+                "Parcker"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                1.5,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "rascaldog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "rascaldog",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.38,
+                null,
+                2.38
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                51.72,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.72,
+        16.12,
+        54.34,
+        61.0,
+        58.76,
+        57.86
+    ]
+}

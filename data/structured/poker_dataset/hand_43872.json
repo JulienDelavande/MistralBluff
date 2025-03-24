@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/1 14:32:31",
+    "game_id": "788641854",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "Parcker",
+        "DocHoliday87",
+        "cuervo_",
+        "braaaap",
+        "Ice Bank Mice Elf",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.5,
+        40.52,
+        19.44,
+        22.61,
+        64.11,
+        20.0
+    ],
+    "player_small_blind": "cuervo_",
+    "small_blind": 0.25,
+    "player_big_blind": "braaaap",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "8s",
+            "5c"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "IlxxxlI",
+                "Parcker",
+                "DocHoliday87",
+                "cuervo_",
+                "braaaap"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "cuervo_",
+                "braaaap",
+                "cuervo_"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.63,
+                0.63
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "cuervo_",
+                "braaaap",
+                "cuervo_"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.43,
+                1.43
+            ]
+        },
+        "post-river": {
+            "players": [
+                "cuervo_",
+                "braaaap",
+                "cuervo_",
+                "braaaap",
+                "cuervo_"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.24,
+                6.48,
+                9.2,
+                5.96
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "8c 10s",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.5,
+        40.52,
+        4.440000000000001,
+        36.11,
+        64.11,
+        20.0
+    ]
+}

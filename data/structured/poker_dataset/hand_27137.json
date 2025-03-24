@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/7 19:42:54",
+    "game_id": "792778979",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Bokmal",
+        "eu4ria",
+        "IlxxxlI",
+        "darKK228",
+        "FTHater"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.75,
+        124.17,
+        21.88,
+        58.93,
+        96.35
+    ],
+    "player_small_blind": "eu4ria",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "Qd",
+            "9s"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "darKK228",
+                "FTHater",
+                "Bokmal",
+                "eu4ria",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "eu4ria",
+                "IlxxxlI",
+                "FTHater"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "eu4ria",
+                "IlxxxlI",
+                "FTHater",
+                "eu4ria"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.5,
+                null,
+                6.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "eu4ria",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                116.17,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.75,
+        132.8,
+        13.879999999999999,
+        58.93,
+        94.85
+    ]
+}

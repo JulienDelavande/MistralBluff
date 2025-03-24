@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/6 16:50:0",
+    "game_id": "792164469",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "Poteplie",
+        "anokato",
+        "IampokerKidd",
+        "Camdenn",
+        "CHIPnFISH"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.85,
+        25.0,
+        55.44,
+        46.4,
+        38.72,
+        23.9
+    ],
+    "player_small_blind": "Poteplie",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "Qs",
+            "5d"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "9c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IampokerKidd",
+                "Camdenn",
+                "CHIPnFISH",
+                "IlxxxlI",
+                "Poteplie",
+                "anokato"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Camdenn",
+                "CHIPnFISH"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.88,
+                0.88
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Camdenn",
+                "CHIPnFISH",
+                "Camdenn"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.71,
+                4.0,
+                2.29
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Camdenn",
+                "CHIPnFISH",
+                "Camdenn"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.25,
+                6.25
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Jd Qd",
+        "Ac 8c"
+    ],
+    "finishing_stack": [
+        11.85,
+        24.9,
+        55.19,
+        46.4,
+        49.75,
+        12.019999999999998
+    ]
+}

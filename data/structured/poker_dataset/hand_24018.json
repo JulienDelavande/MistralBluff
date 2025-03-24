@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 15:7:32",
+    "game_id": "793412865",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "needmorefppp",
+        "IlxxxlI",
+        "anokato",
+        "PhillipHellmuth",
+        "bigfeeesh",
+        "mugiwara_boy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.3,
+        13.68,
+        37.86,
+        32.99,
+        14.78,
+        25.25
+    ],
+    "player_small_blind": "bigfeeesh",
+    "small_blind": 0.1,
+    "player_big_blind": "mugiwara_boy",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "Ad",
+            "6h"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "needmorefppp",
+                "IlxxxlI",
+                "anokato",
+                "PhillipHellmuth",
+                "bigfeeesh",
+                "mugiwara_boy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bigfeeesh",
+                "mugiwara_boy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bigfeeesh",
+                "mugiwara_boy",
+                "bigfeeesh"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                0.25,
+                1.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.3,
+        13.68,
+        37.86,
+        32.99,
+        14.03,
+        25.93
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/24 20:59:0",
+    "game_id": "805222452",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "d4av",
+        "IlxxxlI",
+        "KUSH_KING",
+        "Indigol",
+        "38979"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        88.85,
+        50.25,
+        97.37,
+        50.75,
+        55.68
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "KUSH_KING",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "Ah",
+            "Jh"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Indigol",
+                "38979",
+                "d4av",
+                "IlxxxlI",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "d4av"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "d4av",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.19,
+                1.19
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "d4av",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10s Qh",
+        "6s 6h",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        94.0,
+        45.06,
+        96.87,
+        50.75,
+        55.68
+    ]
+}

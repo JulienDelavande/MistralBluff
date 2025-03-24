@@ -1,140 +1,105 @@
 {
-    "date": "2016/11/29 13:22:3",
-    "game_id": "786975775",
+    "date": "2016/9/5 12:57:54",
+    "game_id": "720273771",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 5,
     "players": [
-        "WeakAndWeary",
-        "MadLifeGrinder",
-        "Sephiroth1",
-        "LloydXmas",
-        "Im Don King",
-        "IlxxxlI"
+        "St3p04ka",
+        "IlxxxlI",
+        "SheppyPOO!!"
     ],
     "players_seats": [
-        1,
         2,
-        3,
         4,
-        5,
-        6
+        5
     ],
     "starting_stacks": [
-        112.16,
-        100.0,
-        106.39,
-        169.83,
-        113.33,
-        60.13
+        521.67,
+        155.35,
+        598.19
     ],
-    "player_small_blind": "Sephiroth1",
-    "small_blind": 0.5,
-    "player_big_blind": "LloydXmas",
-    "big_blind": 1.0,
+    "player_small_blind": "St3p04ka",
+    "small_blind": 3.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "3h"
+        "10h",
+        "9s"
     ],
     "dealed_cards": {
         "flop": [
-            "6d",
-            "5h",
+            "4h",
+            "10c",
             "Qs"
         ],
         "turn": [
-            "9c"
+            "Kh"
         ],
-        "river": [
-            "3c"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Im Don King",
-                "IlxxxlI",
-                "WeakAndWeary",
-                "MadLifeGrinder",
-                "Sephiroth1",
-                "LloydXmas"
+                "SheppyPOO!!",
+                "St3p04ka",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
-                null,
-                null,
-                2.5,
-                null,
-                1.5
+                12.0,
+                9.0
             ]
         },
         "post-flop": {
             "players": [
-                "LloydXmas",
-                "MadLifeGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "LloydXmas",
-                "MadLifeGrinder"
+                "St3p04ka",
+                "IlxxxlI"
             ],
             "actions": [
                 "BET",
                 "CALL"
             ],
             "values": [
-                3.92,
-                3.92
+                11.82,
+                11.82
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "St3p04ka",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                32.22,
+                null
             ]
         },
         "post-river": {
-            "players": [
-                "LloydXmas",
-                "MadLifeGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        "Ah 8h",
-        null,
         null
     ],
     "finishing_stack": [
-        112.16,
-        93.58,
-        105.89,
-        176.09000000000003,
-        113.33,
-        60.13
+        547.99,
+        128.53,
+        598.19
     ]
 }

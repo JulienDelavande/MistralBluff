@@ -1,0 +1,167 @@
+{
+    "date": "2016/12/6 17:43:37",
+    "game_id": "792175174",
+    "variant": "PRR",
+    "table_name": "Ettin-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "kidsquid",
+        "appleman123",
+        "vatraman",
+        "Br4dy12",
+        "luanjunyi",
+        "IlxxxlI",
+        "Conan el barbaro",
+        "Poteplie",
+        "jObOkO"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        28.3,
+        9.75,
+        25.0,
+        36.2,
+        25.91,
+        10.0,
+        25.29,
+        43.8,
+        52.05
+    ],
+    "player_small_blind": "appleman123",
+    "small_blind": 0.1,
+    "player_big_blind": "vatraman",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "9s",
+            "Jh"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Br4dy12",
+                "luanjunyi",
+                "IlxxxlI",
+                "Conan el barbaro",
+                "Poteplie",
+                "jObOkO",
+                "kidsquid",
+                "appleman123",
+                "vatraman"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.9,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "appleman123",
+                "luanjunyi",
+                "appleman123"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "appleman123",
+                "luanjunyi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "appleman123",
+                "luanjunyi"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.02,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        28.3,
+        11.79,
+        24.75,
+        36.2,
+        23.91,
+        10.0,
+        25.29,
+        43.8,
+        52.05
+    ]
+}

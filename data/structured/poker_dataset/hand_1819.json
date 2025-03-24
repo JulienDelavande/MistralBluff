@@ -1,75 +1,129 @@
 {
-    "date": "2016/11/28 19:56:23",
-    "game_id": "786367174",
+    "date": "2016/9/18 8:13:21",
+    "game_id": "730213930",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
+    "table_name": "Karkadann-4",
+    "type_game": "Hold'em",
     "button_seat": 1,
     "players": [
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "brokenlucks"
+        "Spew Diamond Phillips",
+        "gosu36484",
+        "Antimonysayz",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
+        100.0,
+        196.2,
         40.0,
-        105.0,
-        100.02,
-        92.18
+        124.88,
+        53.4,
+        84.94,
+        100.0,
+        21.59,
+        239.58
     ],
-    "player_small_blind": "38979",
-    "small_blind": 1.0,
-    "player_big_blind": "sheenius81",
-    "big_blind": 2.0,
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qc",
-        "6c"
+        "7s",
+        "3h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "Kd",
+            "8d",
+            "2c"
+        ],
+        "turn": [
+            "3c"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "brokenlucks",
-                "IlxxxlI",
-                "38979",
-                "sheenius81",
-                "38979"
+                "Spew Diamond Phillips",
+                "gosu36484",
+                "Antimonysayz",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "RAISE",
-                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
+                3.0,
                 null,
-                5.0,
-                16.0,
+                3.0,
+                null,
+                null,
+                3.0,
+                null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "gosu36484",
+                "FirstClan",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                null,
+                6.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "gosu36484",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                18.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -81,12 +135,22 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.0,
-        99.0,
-        106.02,
-        92.18
+        91.0,
+        195.7,
+        39.0,
+        124.88,
+        65.78,
+        84.94,
+        97.0,
+        21.59,
+        239.58
     ]
 }

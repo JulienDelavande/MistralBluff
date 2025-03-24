@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/22 20:40:15",
+    "game_id": "803759900",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "HapKoTuk",
+        "SkaHot",
+        "IlxxxlI",
+        "afvet333",
+        "Cef539",
+        "Spears1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        84.06,
+        30.52,
+        27.29,
+        16.68,
+        13.43
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "8c",
+            "7s"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "afvet333",
+                "Cef539",
+                "Spears1",
+                "HapKoTuk",
+                "SkaHot",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "afvet333",
+                "Spears1",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.17,
+                1.17
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "afvet333",
+                "Spears1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "afvet333",
+                "Spears1",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.66,
+                2.66
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Kh Kc",
+        null,
+        "2c 2h"
+    ],
+    "finishing_stack": [
+        25.0,
+        83.96000000000001,
+        30.27,
+        31.75,
+        16.68,
+        8.85
+    ]
+}

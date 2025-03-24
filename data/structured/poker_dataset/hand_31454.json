@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/6 12:56:11",
+    "game_id": "792075761",
+    "variant": "PRR",
+    "table_name": "Kraken-8",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "FaceMelt",
+        "flyshark01",
+        "Doubletwentyone",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        219.49,
+        106.81,
+        40.0
+    ],
+    "player_small_blind": "flyshark01",
+    "small_blind": 0.5,
+    "player_big_blind": "Doubletwentyone",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "2c",
+            "3h"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "FaceMelt",
+                "flyshark01",
+                "Doubletwentyone"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Doubletwentyone",
+                "FaceMelt"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Doubletwentyone",
+                "FaceMelt",
+                "Doubletwentyone"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.12,
+                4.12
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Doubletwentyone",
+                "FaceMelt"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8s 7c",
+        null,
+        "6h 5h",
+        null
+    ],
+    "finishing_stack": [
+        92.88,
+        218.99,
+        113.7,
+        40.0
+    ]
+}

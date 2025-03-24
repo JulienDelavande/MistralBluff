@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 8:57:29",
+    "game_id": "792473764",
+    "variant": "PRR",
+    "table_name": "Gorgons-12",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "THEKELL",
+        "GetPaidGetLaid",
+        "IlxxxlI",
+        "Stuck4Lyfe",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        41.92,
+        50.0,
+        20.0,
+        15.39,
+        97.67
+    ],
+    "player_small_blind": "THEKELL",
+    "small_blind": 0.25,
+    "player_big_blind": "GetPaidGetLaid",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "3d",
+            "Qd"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Stuck4Lyfe",
+                "so_it_goes",
+                "THEKELL",
+                "GetPaidGetLaid"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "THEKELL",
+                "Stuck4Lyfe"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "THEKELL",
+                "Stuck4Lyfe"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "THEKELL",
+                "Stuck4Lyfe",
+                "THEKELL"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                0.5,
+                4.46,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        39.42,
+        49.5,
+        20.0,
+        18.12,
+        97.67
+    ]
+}

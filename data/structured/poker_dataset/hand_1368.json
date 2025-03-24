@@ -1,102 +1,78 @@
 {
-    "date": "2016/11/29 8:25:36",
-    "game_id": "786746175",
+    "date": "2016/9/17 15:21:27",
+    "game_id": "729613898",
     "variant": "PRR",
-    "table_name": "Longana",
-    "type_game": "Hold'em",
-    "button_seat": 9,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "PANDAisEVIL",
+        "jbaker10031",
+        "38979",
         "IlxxxlI",
-        "TonnaMunz",
-        "Gargantuatua"
+        "Fuck-P-Stars",
+        "elpasoafera"
     ],
     "players_seats": [
+        1,
         2,
         3,
-        7,
-        9
+        4,
+        5
     ],
     "starting_stacks": [
-        281.96,
-        80.0,
-        200.0,
-        200.95
+        47.3,
+        118.41,
+        84.57,
+        141.12,
+        53.53
     ],
-    "player_small_blind": "PANDAisEVIL",
+    "player_small_blind": "IlxxxlI",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "Fuck-P-Stars",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qc",
-        "4c"
+        "Jd",
+        "9s"
     ],
     "dealed_cards": {
-        "flop": [
-            "Qh",
-            "Jd",
-            "Ah"
-        ],
-        "turn": [
-            "Ks"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "TonnaMunz",
-                "Gargantuatua",
-                "PANDAisEVIL",
-                "IlxxxlI"
+                "elpasoafera",
+                "jbaker10031",
+                "38979",
+                "IlxxxlI",
+                "Fuck-P-Stars"
             ],
             "actions": [
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                6.0,
-                null,
-                4.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "Gargantuatua",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                4.11,
-                4.11
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "Gargantuatua",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
-                "RAISE",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                2.0,
-                14.0,
+                null,
+                4.0,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -108,12 +84,14 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        280.96,
-        67.89,
-        200.0,
-        212.79999999999998
+        50.3,
+        118.41,
+        83.57,
+        139.12,
+        53.53
     ]
 }

@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/7 20:1:1",
+    "game_id": "792781963",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Irene13",
+        "IlxxxlI",
+        "SkaHot",
+        "huiloputin",
+        "Qatro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        28.74,
+        10.0,
+        25.17,
+        34.05,
+        43.82
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "huiloputin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "7c",
+            "Ac"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Qatro",
+                "Irene13",
+                "IlxxxlI",
+                "SkaHot",
+                "huiloputin"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "huiloputin",
+                "Irene13",
+                "huiloputin",
+                "Irene13"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.76,
+                1.92,
+                1.16
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "huiloputin",
+                "Irene13"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.77,
+                3.77
+            ]
+        },
+        "post-river": {
+            "players": [
+                "huiloputin",
+                "Irene13"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Qd As",
+        null
+    ],
+    "finishing_stack": [
+        22.299999999999997,
+        10.0,
+        25.07,
+        39.949999999999996,
+        43.82
+    ]
+}

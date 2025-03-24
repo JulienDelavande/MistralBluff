@@ -1,89 +1,145 @@
 {
-    "date": "2016/11/29 7:35:40",
-    "game_id": "786704756",
+    "date": "2016/9/18 7:35:10",
+    "game_id": "730189939",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Cap",
-    "button_seat": 4,
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 8,
     "players": [
-        "wethco",
-        "plin777",
-        "BigBlat",
-        "dbrinker",
-        "coldkilla",
-        "IlxxxlI"
+        "IlxxxlI",
+        "0nlyDaNuts",
+        "or3o1990",
+        "Pimpika",
+        "BlitzWaut",
+        "KillinOMG",
+        "dartx",
+        "Chicubs2016"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        176.97,
-        69.78,
-        90.0,
-        282.85,
-        99.29,
-        80.0
+        43.51,
+        83.6,
+        195.31,
+        71.52,
+        111.3,
+        50.72,
+        57.49,
+        79.73
     ],
-    "player_small_blind": "coldkilla",
-    "small_blind": 1.0,
+    "player_small_blind": "Chicubs2016",
+    "small_blind": 0.5,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "Jh"
+        "4h",
+        "10c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "3h",
+            "7c",
+            "Qs"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "Qh"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "wethco",
-                "plin777",
-                "BigBlat",
-                "dbrinker",
-                "coldkilla",
+                "0nlyDaNuts",
+                "or3o1990",
+                "Pimpika",
+                "BlitzWaut",
+                "KillinOMG",
+                "dartx",
+                "Chicubs2016",
                 "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
+                2.0,
+                2.0,
                 null,
                 null,
-                3.0,
+                1.5,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Chicubs2016",
+                "Pimpika",
+                "BlitzWaut",
+                "Chicubs2016"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.43,
+                4.43,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Pimpika",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                9.0
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Pimpika",
+                "BlitzWaut",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                22.0,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -92,14 +148,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        176.97,
-        69.78,
-        90.0,
-        282.85,
-        101.29,
-        78.0
+        42.51,
+        83.6,
+        195.31,
+        56.089999999999996,
+        128.04000000000002,
+        50.72,
+        57.49,
+        77.73
     ]
 }

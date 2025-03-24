@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:42:1",
-    "game_id": "786353762",
+    "date": "2016/9/18 8:48:2",
+    "game_id": "730235186",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 1,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "Hakuna_Matata777",
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "PolitcallyiC2.0",
+        "Frisconar",
+        "Pablo46",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
@@ -19,41 +22,61 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        41.71,
-        76.72,
-        62.5,
-        22.08,
-        76.36,
-        53.36
+        101.5,
+        197.66,
+        40.0,
+        107.5,
+        37.0,
+        100.0,
+        101.5,
+        24.21,
+        240.51
     ],
-    "player_small_blind": "eu4ria",
-    "small_blind": 0.25,
-    "player_big_blind": "Smok5 Js",
-    "big_blind": 0.5,
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7s",
-        "Ac"
+        "6d",
+        "2s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "4h",
+            "8d",
+            "5c"
+        ],
+        "turn": [
+            "Jc"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "SenNoSen",
-                "Hakuna_Matata777",
-                "IlxxxlI",
-                "BoTPuMHeDichBro",
-                "eu4ria"
+                "PolitcallyiC2.0",
+                "Frisconar",
+                "Pablo46",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD",
@@ -63,19 +86,44 @@
                 null,
                 null,
                 null,
+                3.0,
+                3.0,
+                null,
+                null,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FirstClan",
+                "brainvape"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.37,
+                2.37
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FirstClan",
+                "brainvape",
+                "FirstClan"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                7.75,
+                18.84,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -89,14 +137,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        41.96,
-        76.72,
-        62.5,
-        22.08,
-        76.36,
-        53.11
+        101.5,
+        197.16,
+        39.0,
+        107.5,
+        37.0,
+        100.0,
+        88.38,
+        37.45,
+        240.51
     ]
 }

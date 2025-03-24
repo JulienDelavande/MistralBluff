@@ -1,91 +1,107 @@
 {
-    "date": "2016/11/29 7:39:31",
-    "game_id": "786707836",
+    "date": "2016/9/18 7:33:13",
+    "game_id": "730188600",
     "variant": "PRR",
-    "table_name": "Longana-2",
+    "table_name": "Karkadann",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 6,
     "players": [
         "IlxxxlI",
-        "Randall5",
-        "IamPhamous",
-        "TonnaMunz",
-        "Iia007",
-        "MadLifeGrinder",
-        "aleaga",
-        "shokerAAss"
+        "0nlyDaNuts",
+        "or3o1990",
+        "Pimpika",
+        "BlitzWaut",
+        "KillinOMG",
+        "dartx",
+        "Chicubs2016"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
+        6,
         7,
         8,
         9
     ],
     "starting_stacks": [
-        120.8,
-        80.0,
-        178.55,
-        292.35,
-        200.0,
-        220.4,
-        286.5,
-        247.73
+        43.51,
+        83.6,
+        195.31,
+        69.24,
+        100.0,
+        51.22,
+        70.99,
+        80.73
     ],
-    "player_small_blind": "MadLifeGrinder",
-    "small_blind": 1.0,
-    "player_big_blind": "aleaga",
-    "big_blind": 2.0,
+    "player_small_blind": "KillinOMG",
+    "small_blind": 0.5,
+    "player_big_blind": "dartx",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9s",
-        "2h"
+        "Kc",
+        "3s"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "5d",
+            "Ks",
+            "7d"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "shokerAAss",
+                "Chicubs2016",
                 "IlxxxlI",
-                "Randall5",
-                "IamPhamous",
-                "TonnaMunz",
-                "Iia007",
-                "MadLifeGrinder",
-                "aleaga"
+                "0nlyDaNuts",
+                "or3o1990",
+                "Pimpika",
+                "BlitzWaut",
+                "KillinOMG",
+                "dartx"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                5.0,
                 null,
                 null,
+                2.0,
                 null,
                 null,
-                null
+                1.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "dartx",
+                "Pimpika",
+                "dartx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.85,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -109,13 +125,13 @@
         null
     ],
     "finishing_stack": [
-        120.8,
-        83.0,
-        178.55,
-        292.35,
-        200.0,
-        219.4,
-        284.5,
-        247.73
+        43.51,
+        83.6,
+        195.31,
+        71.52,
+        100.0,
+        50.72,
+        68.99,
+        80.73
     ]
 }

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/19 20:7:30",
+    "game_id": "801721003",
+    "variant": "PRR",
+    "table_name": "Cyclops",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "doctor rick",
+        "Corvidicus",
+        "kambaa",
+        "IlxxxlI",
+        "Nanamom",
+        "Alicesdad"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        2.41,
+        5.0,
+        1.12,
+        5.0,
+        3.57,
+        0.89
+    ],
+    "player_small_blind": "Nanamom",
+    "small_blind": 0.02,
+    "player_big_blind": "Alicesdad",
+    "big_blind": 0.05,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "Jd",
+            "Qd"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "doctor rick",
+                "Corvidicus",
+                "kambaa",
+                "IlxxxlI",
+                "Nanamom",
+                "Alicesdad"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.08,
+                0.05
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Nanamom",
+                "Alicesdad"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.09,
+                0.09
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Nanamom",
+                "Alicesdad"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Nanamom",
+                "Alicesdad",
+                "Nanamom"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                0.05,
+                0.2,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        2.41,
+        5.0,
+        1.12,
+        5.0,
+        3.33,
+        1.11
+    ]
+}

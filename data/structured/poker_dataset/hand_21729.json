@@ -1,0 +1,169 @@
+{
+    "date": "2016/12/9 7:38:39",
+    "game_id": "793806747",
+    "variant": "PRR",
+    "table_name": "Ettin-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Bandman1",
+        "Maria_Pia",
+        "ilovebacardi",
+        "humabi",
+        "Tzra1",
+        "IlxxxlI",
+        "viva el ocho"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "starting_stacks": [
+        16.71,
+        10.47,
+        25.0,
+        11.11,
+        17.11,
+        10.0,
+        25.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "viva el ocho",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "3h",
+            "9c"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bandman1",
+                "Maria_Pia",
+                "ilovebacardi",
+                "humabi",
+                "Tzra1",
+                "IlxxxlI",
+                "viva el ocho"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.55,
+                null,
+                0.55,
+                null,
+                0.45,
+                0.3
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "viva el ocho",
+                "Maria_Pia",
+                "humabi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "viva el ocho",
+                "Maria_Pia",
+                "humabi",
+                "IlxxxlI",
+                "viva el ocho"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.95,
+                0.95,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Maria_Pia",
+                "humabi",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "7s 7d",
+        null,
+        "As 8h",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        16.71,
+        15.57,
+        25.0,
+        6.609999999999999,
+        17.11,
+        9.45,
+        24.45
+    ]
+}

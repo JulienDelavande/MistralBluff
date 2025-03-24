@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/6 8:22:38",
+    "game_id": "791875368",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "jayg320",
+        "Irene13",
+        "iKaBiNK",
+        "rapidfire1269"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        32.47,
+        54.52,
+        25.0,
+        35.3
+    ],
+    "player_small_blind": "Irene13",
+    "small_blind": 0.1,
+    "player_big_blind": "iKaBiNK",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "10d",
+            "2s"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "rapidfire1269",
+                "IlxxxlI",
+                "jayg320",
+                "Irene13",
+                "iKaBiNK",
+                "jayg320"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.6,
+                2.15,
+                null,
+                1.65
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Irene13",
+                "jayg320"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Irene13",
+                "jayg320",
+                "Irene13"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.49,
+                5.49
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Irene13",
+                "jayg320"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "3c 3h",
+        "10s As",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.0,
+        22.729999999999997,
+        63.53,
+        24.75,
+        35.3
+    ]
+}

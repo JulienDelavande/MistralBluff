@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 13:9:43",
-    "game_id": "786968641",
+    "date": "2016/9/6 0:18:44",
+    "game_id": "720624326",
     "variant": "PRR",
-    "table_name": "Kraken-7",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 8,
     "players": [
-        "gust",
-        "WeakAndWeary",
-        "Beep_Beep",
+        "BigLou1212",
+        "BIGRAISE",
+        "RUDINHO",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
         "IlxxxlI",
-        "Im Don King",
-        "MadLifeGrinder"
+        "bustmynuts"
     ],
     "players_seats": [
         1,
@@ -19,63 +22,111 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.58,
-        101.5,
-        106.75,
-        40.0,
-        111.2,
-        107.07
+        400.0,
+        170.45,
+        710.3,
+        238.57,
+        425.34,
+        469.45,
+        410.7,
+        176.4,
+        310.74
     ],
-    "player_small_blind": "gust",
-    "small_blind": 0.5,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 1.0,
+    "player_small_blind": "bustmynuts",
+    "small_blind": 2.0,
+    "player_big_blind": "BigLou1212",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "Kh"
+        "7s",
+        "As"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "2h",
+            "Kh",
+            "7h"
+        ],
+        "turn": [
+            "2s"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Beep_Beep",
+                "BIGRAISE",
+                "RUDINHO",
+                "HookahBOSS",
+                "Maria26years",
+                "gfclbv",
+                "Leatherass9",
                 "IlxxxlI",
-                "Im Don King",
-                "MadLifeGrinder",
-                "gust"
+                "bustmynuts",
+                "BigLou1212"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                12.0,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BigLou1212",
+                "RUDINHO",
+                "BigLou1212"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                17.0,
+                17.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BigLou1212",
+                "RUDINHO",
+                "BigLou1212"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                null,
-                null,
-                null,
+                35.0,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-river": {
             "players": [],
@@ -89,14 +140,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.08,
-        102.0,
-        106.75,
-        40.0,
-        111.2,
-        107.07
+        371.0,
+        170.45,
+        740.6999999999999,
+        238.57,
+        425.34,
+        469.45,
+        410.7,
+        176.4,
+        308.74
     ]
 }

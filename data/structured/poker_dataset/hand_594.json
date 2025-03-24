@@ -1,67 +1,75 @@
 {
-    "date": "2016/11/29 13:41:6",
-    "game_id": "786986007",
+    "date": "2016/9/5 12:45:52",
+    "game_id": "720270704",
     "variant": "PRR",
-    "table_name": "Lakhey",
+    "table_name": "Medusa",
     "type_game": "Short",
-    "button_seat": 1,
+    "button_seat": 2,
     "players": [
-        "uncle_argyle",
-        "VegetablesArentYummy",
+        "oleg_dagi",
         "IlxxxlI",
-        "AironVega",
-        "Pimpika"
+        "SheppyPOO!!",
+        "St3p04ka"
     ],
     "players_seats": [
-        1,
+        2,
         3,
         4,
-        5,
-        6
+        5
     ],
     "starting_stacks": [
-        100.62,
-        212.13,
-        40.0,
-        100.0,
-        126.2
+        80.0,
+        80.0,
+        233.66,
+        201.55
     ],
-    "player_small_blind": "VegetablesArentYummy",
-    "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "2d"
+        "Ad",
+        "As"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "5c",
+            "2h",
+            "2d"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "3d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "AironVega",
-                "Pimpika",
-                "uncle_argyle",
-                "VegetablesArentYummy",
-                "IlxxxlI"
+                "St3p04ka",
+                "oleg_dagi",
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "SheppyPOO!!"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "ALLIN",
+                "CALL"
             ],
             "values": [
-                6.0,
                 null,
                 null,
-                null,
-                null
+                2.0,
+                8.0,
+                76.0,
+                68.0
             ]
         },
         "post-flop": {
@@ -82,16 +90,14 @@
     },
     "card_shown_by_players": [
         null,
-        null,
-        null,
-        null,
+        "Ad As",
+        "8d 8s",
         null
     ],
     "finishing_stack": [
-        100.62,
-        211.13,
-        38.0,
-        103.0,
-        126.2
+        80.0,
+        158.4,
+        153.66,
+        201.55
     ]
 }

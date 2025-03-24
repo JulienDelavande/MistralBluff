@@ -1,81 +1,157 @@
 {
-    "date": "2016/11/29 7:36:50",
-    "game_id": "786705647",
+    "date": "2016/9/18 7:34:33",
+    "game_id": "730189517",
     "variant": "PRR",
-    "table_name": "Longana-3",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 7,
     "players": [
+        "ABCD123",
+        "TryNotToTilt",
+        "UrSoDumb",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "shokerAAss",
-        "TonnaMunz"
+        "Silverchicken"
     ],
     "players_seats": [
         1,
-        3,
+        4,
+        5,
+        6,
+        7,
+        8,
         9
     ],
     "starting_stacks": [
+        173.38,
+        636.69,
+        305.6,
+        200.0,
+        200.0,
         80.0,
-        250.35,
-        259.43
+        267.7
     ],
-    "player_small_blind": "shokerAAss",
-    "small_blind": 1.0,
-    "player_big_blind": "TonnaMunz",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "Silverchicken",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Js",
-        "Jh"
+        "4s",
+        "As"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Js",
+            "7c",
+            "Jh"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "4h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "ABCD123",
+                "TryNotToTilt",
+                "UrSoDumb",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "shokerAAss",
-                "TonnaMunz"
+                "Silverchicken",
+                "ABCD123"
             ],
             "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "CALL",
+                "CALL"
             ],
             "values": [
-                6.0,
+                4.0,
+                null,
+                null,
+                14.0,
+                null,
+                null,
+                10.0,
+                10.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Silverchicken",
+                "ABCD123",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Silverchicken",
+                "ABCD123",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                21.8,
+                21.8,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Silverchicken",
+                "ABCD123"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
+        "10c Kd",
         null,
         null,
-        null
+        null,
+        null,
+        null,
+        "8c 6c"
     ],
     "finishing_stack": [
-        83.0,
-        249.35,
-        257.43
+        224.32999999999998,
+        636.69,
+        305.6,
+        186.0,
+        200.0,
+        78.0,
+        231.89999999999998
     ]
 }

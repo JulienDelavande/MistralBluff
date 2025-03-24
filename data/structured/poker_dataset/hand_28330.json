@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/7 10:33:50",
+    "game_id": "792545956",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "imJonny",
+        "IlxxxlI",
+        "sir.caffeine",
+        "_glocklee_"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        27.8,
+        10.94,
+        25.43,
+        25.0
+    ],
+    "player_small_blind": "sir.caffeine",
+    "small_blind": 0.1,
+    "player_big_blind": "_glocklee_",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "Qc",
+            "5d"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "imJonny",
+                "IlxxxlI",
+                "sir.caffeine",
+                "_glocklee_",
+                "imJonny"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.63,
+                null,
+                2.15,
+                null,
+                1.62
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "sir.caffeine",
+                "imJonny",
+                "sir.caffeine"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.01,
+                3.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "sir.caffeine",
+                "imJonny"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "sir.caffeine",
+                "imJonny"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10s 10h",
+        null
+    ],
+    "finishing_stack": [
+        22.54,
+        10.94,
+        30.410000000000004,
+        24.75
+    ]
+}

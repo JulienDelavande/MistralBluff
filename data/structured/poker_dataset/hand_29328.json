@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/7 9:3:58",
+    "game_id": "792478442",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "peetrius",
+        "PhillyPoker19",
+        "Ice Bank Mice Elf",
+        "jkeezl"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        38.43,
+        14.98,
+        39.5,
+        11.42
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "peetrius",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "Kh",
+            "Qc"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PhillyPoker19",
+                "Ice Bank Mice Elf",
+                "jkeezl",
+                "IlxxxlI",
+                "peetrius"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "peetrius",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "peetrius",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.72,
+                1.72
+            ]
+        },
+        "post-river": {
+            "players": [
+                "peetrius",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10c Jh",
+        "Qh Ah",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.9,
+        34.95,
+        18.21,
+        39.5,
+        11.42
+    ]
+}

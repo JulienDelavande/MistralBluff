@@ -1,81 +1,170 @@
 {
-    "date": "2016/11/29 12:41:54",
-    "game_id": "786952978",
+    "date": "2016/9/6 0:52:23",
+    "game_id": "720653345",
     "variant": "PRR",
-    "table_name": "Longana",
-    "type_game": "Short",
-    "button_seat": 4,
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 1,
     "players": [
-        "VegetablesArentYummy",
-        "89_suited",
-        "IlxxxlI"
+        "BigLou1212",
+        "BIGRAISE",
+        "JikkiP",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
+        "IlxxxlI",
+        "bocha12"
     ],
     "players_seats": [
+        1,
+        2,
         3,
         4,
-        5
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        101.5,
-        84.0,
-        40.0
+        250.97,
+        255.35,
+        129.2,
+        391.01,
+        311.81,
+        602.1,
+        400.0,
+        160.0,
+        407.8
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "VegetablesArentYummy",
-    "big_blind": 2.0,
+    "player_small_blind": "BIGRAISE",
+    "small_blind": 2.0,
+    "player_big_blind": "JikkiP",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6h",
-        "2c"
+        "8d",
+        "Kh"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "6c",
+            "Js",
+            "9c"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "Qc"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "89_suited",
+                "HookahBOSS",
+                "Maria26years",
+                "gfclbv",
+                "Leatherass9",
                 "IlxxxlI",
-                "VegetablesArentYummy"
+                "bocha12",
+                "BigLou1212",
+                "BIGRAISE",
+                "JikkiP"
             ],
             "actions": [
                 "RAISE",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.55,
+                null,
+                null,
+                null,
+                null,
+                null,
+                8.55,
+                null,
+                4.55
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JikkiP",
+                "HookahBOSS",
+                "BigLou1212",
+                "JikkiP"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
                 "FOLD"
             ],
             "values": [
-                6.0,
+                null,
+                10.29,
+                10.29,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HookahBOSS",
+                "BigLou1212"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "HookahBOSS",
+                "BigLou1212"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                14.0,
+                14.0
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
+        null,
+        "Qh Ad",
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        99.5,
-        87.0,
-        39.0
+        218.13,
+        253.35,
+        120.64999999999999,
+        433.65,
+        311.81,
+        602.1,
+        400.0,
+        160.0,
+        407.8
     ]
 }

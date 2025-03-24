@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/25 22:9:39",
+    "game_id": "805811148",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "wwww111",
+        "Limp_IN",
+        "warrior1023",
+        "IlxxxlI",
+        "Slim2Nun",
+        "filtro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.12,
+        21.43,
+        12.11,
+        12.5,
+        15.17,
+        39.49
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Slim2Nun",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "Ah",
+            "5h"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "filtro",
+                "wwww111",
+                "Limp_IN",
+                "warrior1023",
+                "IlxxxlI",
+                "Slim2Nun"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Slim2Nun",
+                "Limp_IN",
+                "warrior1023"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Slim2Nun",
+                "Limp_IN",
+                "warrior1023",
+                "Slim2Nun"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.76,
+                0.76,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Limp_IN",
+                "warrior1023"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.48,
+                1.48
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Jh Ad",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.12,
+        24.47,
+        9.37,
+        12.4,
+        14.67,
+        39.49
+    ]
+}

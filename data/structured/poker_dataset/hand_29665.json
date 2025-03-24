@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/7 8:37:13",
+    "game_id": "792455285",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "imApony444",
+        "IlxxxlI",
+        "xxRepoManxx",
+        "Bunkman",
+        "Crazymax13",
+        "Tunnelrat"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.28,
+        5.0,
+        12.85,
+        13.84,
+        10.14,
+        27.08
+    ],
+    "player_small_blind": "Tunnelrat",
+    "small_blind": 0.1,
+    "player_big_blind": "imApony444",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "9h",
+            "2c"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "xxRepoManxx",
+                "Bunkman",
+                "Crazymax13",
+                "Tunnelrat",
+                "imApony444"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Tunnelrat",
+                "imApony444",
+                "Crazymax13",
+                "Tunnelrat"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Tunnelrat",
+                "Crazymax13",
+                "Tunnelrat"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.53,
+                2.53
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Tunnelrat",
+                "Crazymax13",
+                "Tunnelrat"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.86,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.78,
+        5.0,
+        12.85,
+        13.84,
+        14.469999999999999,
+        22.799999999999997
+    ]
+}

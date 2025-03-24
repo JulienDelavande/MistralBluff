@@ -1,0 +1,108 @@
+{
+    "date": "2016/12/27 15:44:23",
+    "game_id": "807095739",
+    "variant": "PRR",
+    "table_name": "Ekek-19",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "anokato",
+        "IlxxxlI",
+        "SharkHunter14",
+        "IampokerKidd"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        42.21,
+        25.1,
+        46.95,
+        74.73
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "SharkHunter14",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "3s",
+            "Qd"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IampokerKidd",
+                "anokato",
+                "IlxxxlI",
+                "SharkHunter14",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.15,
+                0.5,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "SharkHunter14",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.25,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        42.21,
+        24.35,
+        47.63,
+        74.73
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/9 13:47:46",
+    "game_id": "794084917",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "braaaap",
+        "Parcker",
+        "IlxxxlI",
+        "Jui Kuen",
+        "Tilt-A-Whirl"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.5,
+        54.85,
+        20.0,
+        50.0,
+        98.3
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Jui Kuen",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "6c",
+            "8d"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Tilt-A-Whirl",
+                "braaaap",
+                "Parcker",
+                "IlxxxlI",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                null,
+                1.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Tilt-A-Whirl",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Tilt-A-Whirl",
+                "Parcker"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.31,
+                1.31
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Tilt-A-Whirl",
+                "Parcker",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.07,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.5,
+        57.65,
+        19.75,
+        49.5,
+        95.99
+    ]
+}

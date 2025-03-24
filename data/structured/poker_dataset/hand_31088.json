@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/6 13:57:47",
+    "game_id": "792106367",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 4,
+    "players": [
+        "furburger85",
+        "Like a Sunday Morn",
+        "IlxxxlI",
+        "ElvenEyes"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        38.05,
+        22.88,
+        23.9,
+        52.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "ElvenEyes",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "Kh",
+            "2d"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "furburger85",
+                "Like a Sunday Morn",
+                "IlxxxlI",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ElvenEyes",
+                "furburger85",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.09,
+                3.09
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ElvenEyes",
+                "furburger85"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ElvenEyes",
+                "furburger85"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.02,
+                6.02
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10d Kc"
+    ],
+    "finishing_stack": [
+        25.939999999999998,
+        22.88,
+        23.4,
+        63.879999999999995
+    ]
+}

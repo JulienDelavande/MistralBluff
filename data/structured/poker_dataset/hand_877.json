@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 12:47:0",
-    "game_id": "786956229",
+    "date": "2016/9/6 0:49:26",
+    "game_id": "720650836",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 7,
     "players": [
-        "BHawk12",
+        "BigLou1212",
+        "BIGRAISE",
+        "JikkiP",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
         "IlxxxlI",
-        "flyshark01",
-        "Jui Kuen",
-        "constant revelation",
-        "foreseen"
+        "bocha12"
     ],
     "players_seats": [
         1,
@@ -19,30 +22,36 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        62.42,
-        20.0,
-        88.29,
-        50.0,
-        23.2,
-        53.09
+        264.97,
+        259.35,
+        143.2,
+        391.01,
+        305.81,
+        582.4,
+        400.0,
+        160.0,
+        400.0
     ],
-    "player_small_blind": "BHawk12",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "bocha12",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "8h"
+        "10h",
+        "2c"
     ],
     "dealed_cards": {
         "flop": [
-            "2d",
-            "6d",
-            "Jd"
+            "3c",
+            "8s",
+            "2d"
         ],
         "turn": [],
         "river": []
@@ -50,12 +59,16 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "flyshark01",
-                "Jui Kuen",
-                "constant revelation",
-                "foreseen",
-                "BHawk12",
-                "IlxxxlI"
+                "BigLou1212",
+                "BIGRAISE",
+                "JikkiP",
+                "HookahBOSS",
+                "Maria26years",
+                "gfclbv",
+                "Leatherass9",
+                "IlxxxlI",
+                "bocha12",
+                "JikkiP"
             ],
             "actions": [
                 "FOLD",
@@ -63,22 +76,30 @@
                 "CALL",
                 "FOLD",
                 "FOLD",
-                "CHECK"
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                0.5,
+                4.0,
                 null,
                 null,
-                null
+                14.0,
+                null,
+                null,
+                null,
+                10.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "constant revelation",
-                "IlxxxlI"
+                "JikkiP",
+                "gfclbv",
+                "JikkiP"
             ],
             "actions": [
                 "CHECK",
@@ -87,7 +108,7 @@
             ],
             "values": [
                 null,
-                0.59,
+                16.85,
                 null
             ]
         },
@@ -108,14 +129,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        62.17,
-        19.5,
-        88.29,
-        50.0,
-        23.89,
-        53.09
+        264.97,
+        259.35,
+        129.2,
+        391.01,
+        305.81,
+        602.1,
+        400.0,
+        158.0,
+        396.0
     ]
 }

@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/28 19:56:37",
-    "game_id": "786367211",
+    "date": "2016/9/18 8:13:9",
+    "game_id": "730213807",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Kraken-6",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 6,
     "players": [
-        "caballeroXXX",
-        "38979",
-        "meandkids",
-        "Goomashroom",
-        "legenda99",
-        "IlxxxlI"
+        "iDawg",
+        "hotandcold=hold",
+        "IlxxxlI",
+        "gosu36484",
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
@@ -22,109 +22,81 @@
         6
     ],
     "starting_stacks": [
-        64.35,
-        50.0,
-        79.35,
-        110.12,
-        107.1,
-        20.0
+        122.4,
+        110.27,
+        45.0,
+        38.55,
+        100.0,
+        130.21
     ],
-    "player_small_blind": "Goomashroom",
-    "small_blind": 0.25,
-    "player_big_blind": "legenda99",
-    "big_blind": 0.5,
+    "player_small_blind": "iDawg",
+    "small_blind": 0.5,
+    "player_big_blind": "hotandcold=hold",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6c",
-        "3c"
+        "Qc",
+        "6h"
     ],
     "dealed_cards": {
         "flop": [
-            "5c",
-            "6d",
-            "6s"
+            "7s",
+            "Jc",
+            "6c"
         ],
-        "turn": [
-            "As"
-        ],
-        "river": [
-            "3h"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "caballeroXXX",
-                "38979",
-                "meandkids",
-                "Goomashroom",
-                "legenda99",
-                "Goomashroom",
-                "legenda99"
+                "gosu36484",
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg",
+                "hotandcold=hold"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "RAISE",
-                "RAISE",
-                "RAISE",
-                "CALL"
+                "FOLD"
             ],
             "values": [
                 null,
+                3.0,
+                3.0,
                 null,
-                null,
-                null,
-                1.25,
-                4.0,
-                10.12,
-                7.12
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "Goomashroom",
-                "legenda99"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                10.44,
-                10.44
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Goomashroom",
-                "legenda99"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
                 null,
                 null
             ]
         },
-        "post-river": {
+        "post-flop": {
             "players": [
-                "Goomashroom",
-                "legenda99"
+                "gosu36484",
+                "BlitzWaut"
             ],
             "actions": [
                 "BET",
                 "FOLD"
             ],
             "values": [
-                20.96,
+                5.0,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -136,11 +108,11 @@
         null
     ],
     "finishing_stack": [
-        64.35,
-        50.0,
-        79.35,
-        129.98000000000002,
-        85.03999999999999,
-        20.0
+        121.9,
+        109.27,
+        45.0,
+        42.68,
+        97.0,
+        130.21
     ]
 }

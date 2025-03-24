@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:15:26",
-    "game_id": "786348608",
+    "date": "2016/9/18 9:1:19",
+    "game_id": "730242182",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 1,
     "players": [
-        "SenNoSen",
-        "eu4ria",
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "dscshift",
-        "pokanaktus",
-        "wethco"
+        "PolitcallyiC2.0",
+        "Frisconar",
+        "Pablo46",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
@@ -19,39 +22,57 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        117.25,
-        230.94,
-        23.75,
-        24.0,
-        53.27,
-        51.55
+        101.5,
+        192.35,
+        49.46,
+        109.72,
+        37.8,
+        100.0,
+        109.53,
+        28.64,
+        231.01
     ],
-    "player_small_blind": "pokanaktus",
-    "small_blind": 0.25,
-    "player_big_blind": "wethco",
-    "big_blind": 0.5,
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "6c"
+        "6h",
+        "9c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Ac",
+            "Kh",
+            "2s"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "As"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "SenNoSen",
-                "eu4ria",
+                "PolitcallyiC2.0",
+                "Frisconar",
+                "Pablo46",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
                 "IlxxxlI",
-                "dscshift",
-                "pokanaktus",
-                "wethco"
+                "brainvape"
             ],
             "actions": [
                 "FOLD",
@@ -59,31 +80,66 @@
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "FOLD"
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
                 null,
-                1.25,
-                null
+                3.0,
+                8.0,
+                null,
+                null,
+                null,
+                5.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "brainvape",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "brainvape",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "brainvape",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                8.0
+            ]
         }
     },
     "card_shown_by_players": [
@@ -92,14 +148,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        "10s Kd",
         null
     ],
     "finishing_stack": [
-        117.25,
-        230.94,
-        23.75,
-        24.0,
-        53.77,
-        51.05
+        101.5,
+        191.85,
+        48.46,
+        109.72,
+        37.8,
+        100.0,
+        109.53,
+        44.47,
+        215.01
     ]
 }

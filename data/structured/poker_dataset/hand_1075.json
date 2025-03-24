@@ -1,109 +1,127 @@
 {
-    "date": "2016/11/29 11:27:21",
-    "game_id": "786898192",
+    "date": "2016/9/13 13:22:14",
+    "game_id": "726612341",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Lakhey",
     "type_game": "Short",
-    "button_seat": 6,
+    "button_seat": 5,
     "players": [
-        "Maria_Pia",
+        "Wei2huge",
         "IlxxxlI",
-        "beachrog",
-        "imperceptible",
-        "Parcker"
+        "DOR1",
+        "uncle_argyle",
+        "PANDAisEVIL",
+        "ravenh94"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
         6
     ],
     "starting_stacks": [
-        20.75,
-        10.0,
-        43.56,
-        8.5,
-        43.54
+        146.67,
+        75.0,
+        42.73,
+        107.94,
+        102.0,
+        57.31
     ],
-    "player_small_blind": "Maria_Pia",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "ravenh94",
+    "small_blind": 1.0,
+    "player_big_blind": "Wei2huge",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "Js"
+        "Ac",
+        "9h"
     ],
     "dealed_cards": {
         "flop": [
-            "8h",
-            "As",
-            "2d"
+            "10c",
+            "Qc",
+            "Jh"
         ],
         "turn": [
-            "7c"
+            "Kd"
         ],
         "river": [
-            "Jh"
+            "6d"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "beachrog",
-                "imperceptible",
-                "Parcker",
-                "Maria_Pia",
-                "IlxxxlI"
+                "IlxxxlI",
+                "DOR1",
+                "uncle_argyle",
+                "PANDAisEVIL",
+                "ravenh94",
+                "Wei2huge"
             ],
             "actions": [
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "RAISE",
                 "FOLD",
-                "CALL"
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
+                2.0,
                 null,
-                1.2,
                 null,
-                0.7
+                1.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "Parcker"
+                "ravenh94",
+                "Wei2huge",
+                "DOR1"
             ],
             "actions": [
+                "CHECK",
                 "CHECK",
                 "CHECK"
             ],
             "values": [
+                null,
                 null,
                 null
             ]
         },
         "post-turn": {
             "players": [
-                "IlxxxlI",
-                "Parcker"
+                "ravenh94",
+                "Wei2huge",
+                "DOR1",
+                "ravenh94",
+                "Wei2huge"
             ],
             "actions": [
+                "CHECK",
+                "CHECK",
                 "BET",
+                "FOLD",
                 "CALL"
             ],
             "values": [
-                0.5,
-                0.5
+                null,
+                null,
+                4.0,
+                null,
+                4.0
             ]
         },
         "post-river": {
             "players": [
-                "IlxxxlI",
-                "Parcker"
+                "Wei2huge",
+                "DOR1"
             ],
             "actions": [
                 "CHECK",
@@ -116,17 +134,19 @@
         }
     },
     "card_shown_by_players": [
+        "9s Ad",
         null,
-        "10h Js",
+        "3c 3d",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        20.5,
-        11.770000000000001,
-        43.56,
-        8.5,
-        41.839999999999996
+        153.97,
+        75.0,
+        36.73,
+        107.94,
+        102.0,
+        55.31
     ]
 }

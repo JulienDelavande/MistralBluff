@@ -1,103 +1,116 @@
 {
-    "date": "2016/11/29 11:41:0",
-    "game_id": "786908815",
+    "date": "2016/9/12 11:59:34",
+    "game_id": "725843325",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Lakhey",
     "type_game": "Short",
-    "button_seat": 5,
+    "button_seat": 1,
     "players": [
-        "Maria_Pia",
+        "Leatherass9",
+        "vachips",
+        "Ksowas",
         "IlxxxlI",
-        "beachrog",
-        "MEDSat420ish",
-        "imperceptible",
-        "Parcker"
+        "Anastasia31"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
         6
     ],
     "starting_stacks": [
-        23.49,
-        10.0,
-        25.71,
-        24.25,
-        34.05,
-        39.09
+        208.95,
+        95.49,
+        211.23,
+        40.0,
+        231.04
     ],
-    "player_small_blind": "Parcker",
-    "small_blind": 0.25,
-    "player_big_blind": "Maria_Pia",
-    "big_blind": 0.5,
+    "player_small_blind": "vachips",
+    "small_blind": 1.0,
+    "player_big_blind": "Ksowas",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4h",
-        "3d"
+        "8c",
+        "Qd"
     ],
     "dealed_cards": {
         "flop": [
-            "3s",
-            "2c",
-            "9h"
+            "10c",
+            "4h",
+            "Js"
         ],
         "turn": [
-            "2d"
+            "9s"
         ],
-        "river": []
+        "river": [
+            "5s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "beachrog",
-                "MEDSat420ish",
-                "imperceptible",
-                "Parcker",
-                "Maria_Pia",
-                "beachrog"
+                "Anastasia31",
+                "Leatherass9",
+                "vachips",
+                "Ksowas"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
-                "FOLD",
                 "FOLD",
                 "RAISE",
-                "FOLD",
+                "CALL",
                 "CALL"
             ],
             "values": [
                 null,
-                2.0,
                 null,
-                null,
-                5.75,
-                null,
-                4.0
+                4.0,
+                3.0,
+                2.0
             ]
         },
         "post-flop": {
             "players": [
-                "Parcker",
-                "beachrog"
+                "vachips",
+                "Ksowas",
+                "Leatherass9"
             ],
             "actions": [
                 "BET",
+                "FOLD",
                 "CALL"
             ],
             "values": [
-                3.96,
-                3.96
+                5.7,
+                null,
+                5.7
             ]
         },
         "post-turn": {
             "players": [
-                "Parcker",
-                "beachrog",
-                "Parcker"
+                "vachips",
+                "Leatherass9",
+                "vachips"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                11.11,
+                32.22,
+                21.11
+            ]
+        },
+        "post-river": {
+            "players": [
+                "vachips",
+                "Leatherass9",
+                "vachips"
             ],
             "actions": [
                 "CHECK",
@@ -106,14 +119,9 @@
             ],
             "values": [
                 null,
-                12.93,
+                56.56,
                 null
             ]
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
@@ -121,15 +129,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        22.99,
-        10.0,
-        35.15,
-        24.25,
-        34.05,
-        29.130000000000003
+        251.86999999999998,
+        53.56999999999999,
+        207.23,
+        40.0,
+        231.04
     ]
 }

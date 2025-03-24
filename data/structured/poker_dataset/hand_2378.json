@@ -1,151 +1,121 @@
 {
-    "date": "2016/11/21 11:2:48",
-    "game_id": "780960674",
+    "date": "2016/9/18 9:47:25",
+    "game_id": "730265412",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 7,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "Haid Dasalami",
-        "BBDub27",
-        "FirstClan",
-        "IlxxxlI",
-        "Daggens",
-        "VegasMike420",
-        "solasso"
+        "Bazuko",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
+        3,
+        4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        48.98,
-        71.44,
-        50.75,
-        29.77,
-        54.27,
-        48.8,
-        29.54
+        167.1,
+        370.69,
+        659.37,
+        283.02,
+        198.0,
+        105.7
     ],
-    "player_small_blind": "VegasMike420",
-    "small_blind": 0.25,
-    "player_big_blind": "solasso",
-    "big_blind": 0.5,
+    "player_small_blind": "Bazuko",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4h",
-        "Ks"
+        "6d",
+        "10s"
     ],
     "dealed_cards": {
         "flop": [
+            "10h",
             "7h",
-            "7c",
-            "7d"
+            "9c"
         ],
-        "turn": [
-            "5d"
-        ],
-        "river": [
-            "10c"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Haid Dasalami",
-                "BBDub27",
-                "FirstClan",
+                "flyzlcomb07",
+                "Pureprofit4",
+                "hangiie",
                 "IlxxxlI",
-                "Daggens",
-                "VegasMike420",
-                "solasso"
+                "Bazuko",
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
                 "CALL",
+                "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
+                10.0,
                 null,
-                1.5,
+                10.0,
                 null,
-                null,
-                1.5,
                 null,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "BBDub27",
-                "Daggens"
+                "flyzlcomb07",
+                "hangiie",
+                "flyzlcomb07"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD"
             ],
             "values": [
                 null,
+                17.16,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "BBDub27",
-                "Daggens"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                2.0,
-                2.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "BBDub27",
-                "Daggens",
-                "BBDub27"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                4.91,
-                4.91
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
-        "Qh Ac",
         null,
         null,
-        "9d 8d",
+        null,
         null,
         null
     ],
     "finishing_stack": [
-        48.98,
-        79.73,
-        50.75,
-        29.77,
-        45.86,
-        48.55,
-        29.04
+        165.1,
+        366.69,
+        649.37,
+        283.02,
+        213.75,
+        105.7
     ]
 }

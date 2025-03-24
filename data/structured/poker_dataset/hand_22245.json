@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 22:1:18",
+    "game_id": "793504024",
+    "variant": "PRR",
+    "table_name": "Gorgons-3",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "aleks0v",
+        "odel_nadel",
+        "IgLa",
+        "IlxxxlI",
+        "38979",
+        "Midway Liiiiightin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        50.75,
+        158.51,
+        26.05,
+        51.74,
+        44.85
+    ],
+    "player_small_blind": "Midway Liiiiightin",
+    "small_blind": 0.25,
+    "player_big_blind": "aleks0v",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "3h",
+            "Qs"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "odel_nadel",
+                "IgLa",
+                "IlxxxlI",
+                "38979",
+                "Midway Liiiiightin",
+                "aleks0v"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                null,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "aleks0v",
+                "IgLa",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.44,
+                1.44
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "aleks0v",
+                "IgLa"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "aleks0v",
+                "IgLa"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10h 10c",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.660000000000004,
+        50.75,
+        155.82,
+        26.05,
+        51.74,
+        44.6
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/23 8:27:2",
+    "game_id": "804207968",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "SwoogieSlayer",
+        "IlxxxlI",
+        "Burger",
+        "hobbslima",
+        "Sonic3Dblast"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        25.27,
+        26.32,
+        11.85,
+        25.68,
+        30.32
+    ],
+    "player_small_blind": "Burger",
+    "small_blind": 0.1,
+    "player_big_blind": "hobbslima",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "Ks",
+            "7d"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "SwoogieSlayer",
+                "IlxxxlI",
+                "Burger",
+                "hobbslima"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.58,
+                0.48,
+                0.33
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Burger",
+                "hobbslima",
+                "IlxxxlI",
+                "Burger",
+                "hobbslima"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.83,
+                0.83,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Burger",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Burger",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.15,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.27,
+        24.91,
+        13.67,
+        25.1,
+        30.32
+    ]
+}

@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 19:5:1",
-    "game_id": "786357362",
+    "date": "2016/9/18 8:39:41",
+    "game_id": "730230261",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 9,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "Goomashroom",
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
@@ -19,75 +22,140 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        28.31,
-        93.51,
-        50.0,
-        24.84,
-        78.57,
-        54.81
+        82.0,
+        200.0,
+        279.1,
+        708.55,
+        598.29,
+        285.83,
+        200.0,
+        166.3,
+        218.94
     ],
-    "player_small_blind": "BoTPuMHeDichBro",
-    "small_blind": 0.25,
-    "player_big_blind": "eu4ria",
-    "big_blind": 0.5,
+    "player_small_blind": "ABCD123",
+    "small_blind": 2.0,
+    "player_big_blind": "liniang",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
+        "4s",
         "9c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "3c",
+            "6c",
+            "Qd"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "10s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Smok5 Js",
-                "SenNoSen",
-                "Goomashroom",
+                "Cellar door",
+                "TryNotToTilt",
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "BoTPuMHeDichBro",
-                "eu4ria"
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
                 "RAISE",
+                "CALL",
                 "FOLD",
                 "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                8.0,
+                null,
+                null,
+                null,
+                8.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "liniang",
+                "TryNotToTilt",
+                "flyzlcomb07",
+                "wishyouhadnot",
+                "liniang"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
-                null,
-                1.25,
-                null,
-                null,
+                22.46,
+                22.46,
+                22.46,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TryNotToTilt",
+                "flyzlcomb07",
+                "wishyouhadnot"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                66.92,
+                66.92,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TryNotToTilt",
+                "flyzlcomb07"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
+        null,
+        null,
+        "Ks Kd",
         null,
         null,
         null,
@@ -95,11 +163,14 @@
         null
     ],
     "finishing_stack": [
-        28.31,
-        93.51,
-        50.75,
-        24.84,
-        78.32,
-        54.31
+        80.0,
+        192.0,
+        279.1,
+        844.04,
+        500.90999999999997,
+        285.83,
+        200.0,
+        166.3,
+        188.48
     ]
 }

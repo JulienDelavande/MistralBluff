@@ -1,20 +1,18 @@
 {
-    "date": "2016/11/21 11:18:37",
-    "game_id": "780974518",
+    "date": "2016/9/18 9:40:14",
+    "game_id": "730261924",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Short",
-    "button_seat": 6,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 3,
     "players": [
-        "haroldbb",
-        "sr86",
+        "Lewass99",
         "IlxxxlI",
-        "WICHONSKI",
-        "Brucelegend",
-        "parmele",
-        "ChrisNola",
-        "iflopznuts",
-        "FirstClan"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "cracypoker",
+        "kalabanaspirit",
+        "sr86"
     ],
     "players_seats": [
         1,
@@ -23,62 +21,63 @@
         4,
         5,
         6,
-        7,
-        8,
-        9
+        7
     ],
     "starting_stacks": [
-        29.17,
-        25.0,
-        20.76,
-        42.56,
-        25.3,
-        12.99,
-        51.96,
-        60.48,
-        25.0
+        206.32,
+        80.0,
+        455.0,
+        299.83,
+        200.0,
+        236.76,
+        170.36
     ],
-    "player_small_blind": "ChrisNola",
-    "small_blind": 0.25,
-    "player_big_blind": "iflopznuts",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
+    "player_big_blind": "cracypoker",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "3h"
+        "Js",
+        "4h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "9d",
+            "Jc",
+            "8h"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "4c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "FirstClan",
-                "haroldbb",
+                "kalabanaspirit",
                 "sr86",
+                "Lewass99",
                 "IlxxxlI",
-                "WICHONSKI",
-                "Brucelegend",
-                "parmele",
-                "ChrisNola"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "cracypoker"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
-                null,
-                null,
+                2.0,
                 null,
                 null,
                 null,
@@ -86,41 +85,67 @@
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "cracypoker",
+                "Lewass99"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "cracypoker",
+                "Lewass99",
+                "cracypoker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "cracypoker",
+                "Lewass99"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
+        "Ah 7d",
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
+        "2h 9h",
         null,
         null
     ],
     "finishing_stack": [
-        29.17,
-        25.0,
-        20.76,
-        42.56,
-        25.3,
-        12.99,
-        51.71,
-        60.73,
-        25.0
+        200.32,
+        80.0,
+        455.0,
+        298.83,
+        206.35,
+        236.76,
+        170.36
     ]
 }

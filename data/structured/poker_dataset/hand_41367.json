@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/2 12:1:5",
+    "game_id": "789231180",
+    "variant": "PRR",
+    "table_name": "Kraken-18",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "hodisuda",
+        "Ksowas",
+        "St3p04ka",
+        "IlxxxlI",
+        "jazzybeee"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        242.82,
+        116.46,
+        40.0,
+        41.6,
+        69.8
+    ],
+    "player_small_blind": "Ksowas",
+    "small_blind": 0.5,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "Jd",
+            "2h"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "jazzybeee",
+                "hodisuda",
+                "Ksowas",
+                "St3p04ka"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksowas",
+                "St3p04ka",
+                "jazzybeee"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksowas",
+                "St3p04ka",
+                "jazzybeee"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ksowas",
+                "St3p04ka",
+                "jazzybeee",
+                "Ksowas",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.9,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        242.82,
+        115.46,
+        39.0,
+        41.6,
+        71.64999999999999
+    ]
+}

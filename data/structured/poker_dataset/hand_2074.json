@@ -1,62 +1,62 @@
 {
-    "date": "2016/11/28 18:47:15",
-    "game_id": "786354677",
+    "date": "2016/9/18 8:45:7",
+    "game_id": "730233474",
     "variant": "PRR",
-    "table_name": "Lakhey-10",
+    "table_name": "Karkadann-2",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 4,
     "players": [
-        "DonCesarGrinder",
         "IlxxxlI",
-        "KingGuciGuci",
-        "JJaromir",
-        "bunchy"
+        "VegetablesArentYummy",
+        "Pimpika",
+        "BlitzWaut",
+        "Pablo46",
+        "gosu36484",
+        "Frisconar"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
-        5,
-        6
+        6,
+        8,
+        9
     ],
     "starting_stacks": [
-        415.96,
-        83.0,
-        214.6,
-        496.7,
-        359.31
+        94.37,
+        100.0,
+        73.97,
+        223.64,
+        102.73,
+        58.08,
+        37.0
     ],
-    "player_small_blind": "bunchy",
-    "small_blind": 1.0,
-    "player_big_blind": "DonCesarGrinder",
-    "big_blind": 2.0,
+    "player_small_blind": "Pablo46",
+    "small_blind": 0.5,
+    "player_big_blind": "gosu36484",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "2c"
+        "10h",
+        "10d"
     ],
     "dealed_cards": {
-        "flop": [
-            "10h",
-            "7h",
-            "2h"
-        ],
-        "turn": [
-            "8h"
-        ],
-        "river": [
-            "Ac"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "Frisconar",
                 "IlxxxlI",
-                "KingGuciGuci",
-                "JJaromir",
-                "bunchy",
-                "DonCesarGrinder",
-                "KingGuciGuci"
+                "VegetablesArentYummy",
+                "Pimpika",
+                "BlitzWaut",
+                "Pablo46",
+                "gosu36484",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
@@ -64,61 +64,35 @@
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
                 null,
-                4.4,
+                2.0,
                 null,
-                15.0,
+                6.0,
                 null,
-                11.6
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "bunchy",
-                "KingGuciGuci",
-                "bunchy"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
                 null,
-                13.9,
-                13.9
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "bunchy",
-                "KingGuciGuci"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
                 null,
                 null
             ]
         },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
         "post-river": {
-            "players": [
-                "bunchy",
-                "KingGuciGuci"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                19.6,
-                19.6
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -126,13 +100,17 @@
         null,
         null,
         null,
-        "Kc Kh"
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        413.96,
-        83.0,
-        165.1,
-        496.7,
-        407.81
+        92.37,
+        100.0,
+        77.47,
+        223.64,
+        102.23,
+        57.08,
+        37.0
     ]
 }

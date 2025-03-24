@@ -1,0 +1,122 @@
+{
+    "date": "2016/12/24 20:38:14",
+    "game_id": "805218362",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "N1cer1ver",
+        "rochman23",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        30.88,
+        7.05,
+        30.28
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "N1cer1ver",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "7d",
+            "2d"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "rochman23",
+                "IlxxxlI",
+                "N1cer1ver"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "N1cer1ver"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "N1cer1ver"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "N1cer1ver",
+                "IlxxxlI",
+                "N1cer1ver"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.32,
+                1.5,
+                1.18
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "2s Ks",
+        null,
+        "5s 6c"
+    ],
+    "finishing_stack": [
+        32.46,
+        7.05,
+        28.53
+    ]
+}

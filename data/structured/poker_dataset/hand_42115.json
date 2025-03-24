@@ -1,0 +1,162 @@
+{
+    "date": "2016/12/2 9:42:0",
+    "game_id": "789130978",
+    "variant": "PRR",
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "AironVega",
+        "IlxxxlI",
+        "EstyzBallnn",
+        "RunnerLucker",
+        "hypno4u",
+        "aleaga",
+        "Gronkowski69",
+        "dankmann"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        279.44,
+        80.0,
+        416.0,
+        203.0,
+        512.87,
+        200.0,
+        200.0,
+        261.35
+    ],
+    "player_small_blind": "Gronkowski69",
+    "small_blind": 1.0,
+    "player_big_blind": "dankmann",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "5h",
+            "6d"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AironVega",
+                "IlxxxlI",
+                "EstyzBallnn",
+                "RunnerLucker",
+                "hypno4u",
+                "aleaga",
+                "Gronkowski69",
+                "dankmann"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                5.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Gronkowski69",
+                "dankmann"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Gronkowski69",
+                "dankmann",
+                "Gronkowski69"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                7.6,
+                7.6
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Gronkowski69",
+                "dankmann",
+                "Gronkowski69"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        279.44,
+        80.0,
+        416.0,
+        203.0,
+        512.87,
+        200.0,
+        186.4,
+        273.59000000000003
+    ]
+}

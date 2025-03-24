@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/7 19:47:9",
+    "game_id": "792779694",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 2,
+    "players": [
+        "Blaze3535",
+        "Oral-Bet",
+        "IlxxxlI",
+        "emmettbrow",
+        "Bokmal"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        47.42,
+        62.37,
+        20.5,
+        72.96,
+        53.64
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "emmettbrow",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "As",
+            "3h"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bokmal",
+                "Blaze3535",
+                "Oral-Bet",
+                "IlxxxlI",
+                "emmettbrow"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "emmettbrow",
+                "Blaze3535"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "emmettbrow",
+                "Blaze3535",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.57,
+                null,
+                4.71,
+                3.14
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Blaze3535",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.86,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        53.510000000000005,
+        62.37,
+        14.79,
+        71.96,
+        53.64
+    ]
+}

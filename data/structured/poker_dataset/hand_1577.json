@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 20:43:47",
-    "game_id": "786377348",
+    "date": "2016/9/18 7:39:54",
+    "game_id": "730193186",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 2,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 7,
     "players": [
+        "A",
         "IlxxxlI",
-        "gfclbv",
-        "dscshift",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "Pimpika",
+        "drdboy",
+        "utormico",
+        "wishyouhadnot",
+        "BadBeat79",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
@@ -19,137 +22,134 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.0,
-        90.75,
-        41.0,
-        163.7,
-        86.44,
-        79.9
+        311.22,
+        86.4,
+        85.5,
+        74.5,
+        161.66,
+        178.83,
+        399.48,
+        306.26,
+        207.6
     ],
-    "player_small_blind": "dscshift",
+    "player_small_blind": "UrSoDumb",
     "small_blind": 1.0,
-    "player_big_blind": "Wollverin",
+    "player_big_blind": "KeepKalm",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "Jh"
+        "2h",
+        "Ks"
     ],
     "dealed_cards": {
         "flop": [
-            "Jd",
-            "Kc",
-            "Jc"
+            "6s",
+            "9s",
+            "6c"
         ],
         "turn": [
-            "Qs"
+            "5c"
         ],
         "river": [
-            "Qh"
+            "2c"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "meandkids",
-                "Are you with me",
+                "A",
                 "IlxxxlI",
-                "gfclbv",
-                "dscshift",
-                "Wollverin"
+                "Pimpika",
+                "drdboy",
+                "utormico",
+                "wishyouhadnot",
+                "BadBeat79",
+                "UrSoDumb",
+                "KeepKalm",
+                "drdboy",
+                "wishyouhadnot"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
                 "CALL",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
             ],
             "values": [
                 null,
-                5.0,
                 null,
                 null,
                 4.0,
-                3.0
+                null,
+                4.0,
+                null,
+                null,
+                28.0,
+                26.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "dscshift",
-                "Wollverin",
-                "Are you with me",
-                "dscshift",
-                "Wollverin"
+                "KeepKalm",
+                "drdboy",
+                "KeepKalm"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
                 "BET",
-                "CALL",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                null,
-                4.99,
-                4.99,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "dscshift",
-                "Are you with me",
-                "dscshift"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "ALLIN",
                 "CALL"
             ],
             "values": [
-                null,
-                16.0,
-                16.0
+                20.66,
+                44.5,
+                23.84
             ]
         },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
         "post-river": {
-            "players": [
-                "dscshift",
-                "Are you with me",
-                "dscshift"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                15.0,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
+        "4h 4d",
         null,
         null,
-        null
+        null,
+        null,
+        "Ah As"
     ],
     "finishing_stack": [
-        40.0,
-        90.75,
-        15.010000000000002,
-        158.7,
-        86.44,
-        108.05000000000001
+        311.22,
+        86.4,
+        85.5,
+        0.0,
+        161.66,
+        174.83,
+        399.48,
+        305.26,
+        284.1
     ]
 }

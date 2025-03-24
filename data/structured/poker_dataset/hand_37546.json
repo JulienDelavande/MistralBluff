@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/3 10:38:57",
+    "game_id": "789846062",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "IlxxxlI",
+        "CharleyCat",
+        "Leatherass9",
+        "weldnewport",
+        "mr.fargo",
+        "RunnerLucker",
+        "JstClcknBtns"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        72.0,
+        189.0,
+        460.8,
+        238.3,
+        80.0,
+        222.45,
+        279.55
+    ],
+    "player_small_blind": "RunnerLucker",
+    "small_blind": 1.0,
+    "player_big_blind": "JstClcknBtns",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "9c",
+            "2c"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "CharleyCat",
+                "Leatherass9",
+                "weldnewport",
+                "mr.fargo",
+                "RunnerLucker",
+                "JstClcknBtns",
+                "weldnewport"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                6.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "weldnewport",
+                "mr.fargo",
+                "weldnewport"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                7.84,
+                7.84
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "weldnewport",
+                "mr.fargo",
+                "weldnewport",
+                "mr.fargo"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                14.0,
+                224.46,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        72.0,
+        189.0,
+        460.8,
+        266.21000000000004,
+        52.16,
+        221.45,
+        277.55
+    ]
+}

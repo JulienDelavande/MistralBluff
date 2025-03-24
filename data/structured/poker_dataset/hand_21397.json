@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/9 8:46:53",
+    "game_id": "793869444",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "WeakAndWeary",
+        "Polar1z1ng",
+        "IlxxxlI",
+        "bigblue23",
+        "IgLa",
+        "LionHeart76"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        70.18,
+        99.39,
+        21.49,
+        55.15,
+        91.1,
+        52.62
+    ],
+    "player_small_blind": "bigblue23",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "10c",
+            "5s"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LionHeart76",
+                "WeakAndWeary",
+                "Polar1z1ng",
+                "IlxxxlI",
+                "bigblue23",
+                "IgLa"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bigblue23",
+                "Polar1z1ng"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bigblue23",
+                "Polar1z1ng",
+                "bigblue23",
+                "Polar1z1ng"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                8.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        70.18,
+        94.39,
+        21.49,
+        60.129999999999995,
+        90.6,
+        52.62
+    ]
+}

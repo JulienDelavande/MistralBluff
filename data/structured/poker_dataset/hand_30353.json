@@ -1,0 +1,139 @@
+{
+    "date": "2016/12/6 17:2:38",
+    "game_id": "792166878",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "Br4dy12",
+        "vatraman",
+        "anokato",
+        "piruyo086",
+        "IlxxxlI",
+        "Poteplie",
+        "kidsquid"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        44.9,
+        25.0,
+        25.0,
+        5.67,
+        10.0,
+        41.78,
+        77.42
+    ],
+    "player_small_blind": "Br4dy12",
+    "small_blind": 0.1,
+    "player_big_blind": "vatraman",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "2d",
+            "6s"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "piruyo086",
+                "IlxxxlI",
+                "Poteplie",
+                "kidsquid",
+                "Br4dy12",
+                "vatraman",
+                "piruyo086"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "piruyo086",
+                "kidsquid",
+                "piruyo086",
+                "kidsquid"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.12,
+                4.67,
+                3.55
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10s As",
+        null,
+        null,
+        "2c 7s"
+    ],
+    "finishing_stack": [
+        44.8,
+        24.75,
+        25.0,
+        0.0,
+        10.0,
+        41.78,
+        82.86
+    ]
+}

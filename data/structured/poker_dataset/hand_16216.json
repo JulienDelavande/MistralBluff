@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/22 21:52:6",
+    "game_id": "803793311",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "booya25",
+        "tywhoyou",
+        "densis",
+        "naprimer",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        24.15,
+        18.28,
+        30.94,
+        26.64,
+        34.29
+    ],
+    "player_small_blind": "tywhoyou",
+    "small_blind": 0.1,
+    "player_big_blind": "densis",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "Kd",
+            "Jc"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "naprimer",
+                "IlxxxlI",
+                "booya25",
+                "tywhoyou",
+                "densis"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "tywhoyou",
+                "densis",
+                "booya25",
+                "tywhoyou"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                null,
+                1.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "tywhoyou",
+                "densis"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "tywhoyou",
+                "densis"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qh Jh",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.4,
+        20.8,
+        28.94,
+        26.64,
+        34.29
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 22:9:15",
+    "game_id": "793506161",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Kovrol99",
+        "IlxxxlI",
+        "HapKoTuk",
+        "SonUTSucker",
+        "ProFishOr",
+        "SkaHot"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        4.79,
+        11.02,
+        25.0,
+        27.27,
+        7.42,
+        54.25
+    ],
+    "player_small_blind": "ProFishOr",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "Ad",
+            "7h"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Kovrol99",
+                "IlxxxlI",
+                "HapKoTuk",
+                "SonUTSucker",
+                "ProFishOr",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ProFishOr",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ProFishOr",
+                "SkaHot",
+                "ProFishOr"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ProFishOr",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "4s Qs",
+        "4c 6s"
+    ],
+    "finishing_stack": [
+        4.79,
+        11.02,
+        25.0,
+        27.27,
+        7.87,
+        53.75
+    ]
+}

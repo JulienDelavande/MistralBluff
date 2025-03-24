@@ -1,0 +1,154 @@
+{
+    "date": "2016/9/27 7:11:27",
+    "game_id": "737074380",
+    "variant": "PRR",
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "AironVega",
+        "shokerAAss",
+        "KeepKalm",
+        "IlxxxlI",
+        "DetectiveUA",
+        "basic instinct",
+        "Pimpika",
+        "caldo785"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        301.31,
+        215.0,
+        203.0,
+        80.0,
+        465.66,
+        525.99,
+        80.0,
+        80.0
+    ],
+    "player_small_blind": "basic instinct",
+    "small_blind": 1.0,
+    "player_big_blind": "caldo785",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "Qh",
+            "2c"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AironVega",
+                "shokerAAss",
+                "KeepKalm",
+                "IlxxxlI",
+                "DetectiveUA",
+                "basic instinct",
+                "caldo785"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.0,
+                null,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "caldo785",
+                "shokerAAss",
+                "caldo785"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                8.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "caldo785",
+                "shokerAAss",
+                "caldo785",
+                "shokerAAss",
+                "caldo785"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "RAISE",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                11.0,
+                33.0,
+                88.0,
+                33.0
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kh Qc",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Qs 9s"
+    ],
+    "finishing_stack": [
+        301.31,
+        293.0,
+        203.0,
+        80.0,
+        465.66,
+        524.99,
+        80.0,
+        0.0
+    ]
+}

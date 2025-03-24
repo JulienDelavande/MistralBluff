@@ -1,0 +1,108 @@
+{
+    "date": "2016/12/24 10:57:15",
+    "game_id": "805006540",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "CroMagnons",
+        "huiloputin"
+    ],
+    "players_seats": [
+        2,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        37.82,
+        57.67,
+        25.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "CroMagnons",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "Kh",
+            "6c"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "huiloputin",
+                "IlxxxlI",
+                "CroMagnons"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.5,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "huiloputin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "huiloputin",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.8,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        37.32,
+        57.42,
+        25.69
+    ]
+}

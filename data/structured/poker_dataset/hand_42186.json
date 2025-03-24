@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/2 9:31:36",
+    "game_id": "789122596",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "dragggonfly",
+        "flyshark01",
+        "abdollars",
+        "TriwizardChamp",
+        "IlxxxlI",
+        "FirstClan"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        59.25,
+        52.3,
+        70.35,
+        34.57,
+        20.0,
+        50.08
+    ],
+    "player_small_blind": "FirstClan",
+    "small_blind": 0.25,
+    "player_big_blind": "dragggonfly",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "As",
+            "6d"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "flyshark01",
+                "abdollars",
+                "TriwizardChamp",
+                "IlxxxlI",
+                "FirstClan",
+                "dragggonfly",
+                "abdollars"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                2.0,
+                2.0,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "abdollars",
+                "TriwizardChamp",
+                "IlxxxlI",
+                "abdollars"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.57,
+                null,
+                2.57
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "abdollars",
+                "TriwizardChamp",
+                "abdollars"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.0,
+                5.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "abdollars",
+                "TriwizardChamp",
+                "abdollars"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                25.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        58.75,
+        52.3,
+        60.779999999999994,
+        45.8,
+        18.0,
+        49.83
+    ]
+}

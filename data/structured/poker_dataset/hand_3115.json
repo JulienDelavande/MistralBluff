@@ -1,0 +1,122 @@
+{
+    "date": "2016/9/21 22:22:2",
+    "game_id": "732861599",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 8,
+    "players": [
+        "meni.v",
+        "fatboy00",
+        "hodisuda",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        4,
+        6,
+        8
+    ],
+    "starting_stacks": [
+        114.15,
+        185.6,
+        100.0,
+        48.15
+    ],
+    "player_small_blind": "meni.v",
+    "small_blind": 1.0,
+    "player_big_blind": "fatboy00",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "2c",
+            "Kc"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hodisuda",
+                "IlxxxlI",
+                "meni.v",
+                "fatboy00"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "meni.v",
+                "fatboy00",
+                "meni.v"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "meni.v",
+                "fatboy00",
+                "meni.v",
+                "fatboy00"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.8,
+                7.6,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        121.17000000000002,
+        177.79999999999998,
+        100.0,
+        48.15
+    ]
+}

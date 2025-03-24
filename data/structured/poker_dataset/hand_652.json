@@ -1,39 +1,42 @@
 {
-    "date": "2016/11/29 13:19:57",
-    "game_id": "786974570",
+    "date": "2016/9/5 13:1:26",
+    "game_id": "720274544",
     "variant": "PRR",
-    "table_name": "Kraken-22",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
+        "St3p04ka",
         "IlxxxlI",
-        "Beep_Beep",
+        "pokerhawk333",
         "gust",
-        "MadLifeGrinder",
-        "WeakAndWeary"
+        "jtee95",
+        "PANDAisEVIL"
     ],
     "players_seats": [
         2,
         3,
         4,
         5,
-        6
+        7,
+        8
     ],
     "starting_stacks": [
-        40.0,
-        228.88,
-        42.28,
-        103.5,
-        263.42
+        125.41,
+        49.3,
+        30.52,
+        80.0,
+        241.51,
+        124.77
     ],
-    "player_small_blind": "MadLifeGrinder",
-    "small_blind": 0.5,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "pokerhawk333",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3d",
-        "Js"
+        "7c",
+        "8d"
     ],
     "dealed_cards": {
         "flop": [],
@@ -43,18 +46,27 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "Beep_Beep",
                 "gust",
-                "MadLifeGrinder"
+                "jtee95",
+                "PANDAisEVIL",
+                "St3p04ka",
+                "IlxxxlI",
+                "pokerhawk333",
+                "jtee95"
             ],
             "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
+                null,
+                6.0,
+                18.0,
                 null,
                 null,
                 null,
@@ -82,13 +94,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.0,
-        228.88,
-        42.28,
-        103.0,
-        263.92
+        125.41,
+        48.3,
+        28.52,
+        80.0,
+        235.51,
+        133.76999999999998
     ]
 }

@@ -1,84 +1,105 @@
 {
-    "date": "2016/11/29 14:31:49",
-    "game_id": "787007865",
+    "date": "2016/9/5 11:44:58",
+    "game_id": "720252384",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "WeakAndWeary",
-        "MadLifeGrinder",
-        "Sephiroth1",
+        "graphicup",
+        "lars76",
         "IlxxxlI",
-        "gust",
-        "ElvenEyes"
+        "follower1",
+        "SheppyPOO!!"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        188.01,
-        115.12,
-        139.83,
-        50.85,
-        40.0,
-        112.11
+        216.88,
+        191.55,
+        94.55,
+        233.96,
+        202.0
     ],
-    "player_small_blind": "MadLifeGrinder",
-    "small_blind": 0.5,
-    "player_big_blind": "Sephiroth1",
-    "big_blind": 1.0,
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "graphicup",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8h",
-        "5d"
+        "8d",
+        "Qh"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "7s",
+            "Kh",
+            "6h"
+        ],
+        "turn": [
+            "10s"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "lars76",
                 "IlxxxlI",
-                "gust",
-                "ElvenEyes",
-                "WeakAndWeary",
-                "MadLifeGrinder",
-                "Sephiroth1"
+                "follower1",
+                "SheppyPOO!!",
+                "graphicup"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
+                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
+                8.0,
                 null,
-                null,
-                null,
-                2.0,
+                8.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "lars76",
+                "follower1"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                13.0,
+                13.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "lars76",
+                "follower1",
+                "lars76"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                14.0,
+                70.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -91,15 +112,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        189.51,
-        114.62,
-        138.83,
-        50.85,
-        40.0,
-        112.11
+        212.88,
+        156.55,
+        94.55,
+        274.21000000000004,
+        200.0
     ]
 }

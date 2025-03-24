@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/25 22:39:40",
+    "game_id": "805819220",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "lukopti",
+        "d0nkeym0ney",
+        "Indigol",
+        "IlxxxlI",
+        "komar182",
+        "spewbacca"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        45.54,
+        17.35,
+        57.75,
+        26.81,
+        25.0,
+        7.71
+    ],
+    "player_small_blind": "lukopti",
+    "small_blind": 0.1,
+    "player_big_blind": "d0nkeym0ney",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "Jd",
+            "3c"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Indigol",
+                "IlxxxlI",
+                "komar182",
+                "spewbacca",
+                "lukopti",
+                "d0nkeym0ney"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "d0nkeym0ney",
+                "spewbacca"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "d0nkeym0ney",
+                "spewbacca"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "d0nkeym0ney",
+                "spewbacca",
+                "d0nkeym0ney"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.66,
+                0.66
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "7s Ad"
+    ],
+    "finishing_stack": [
+        45.44,
+        15.690000000000001,
+        57.75,
+        26.81,
+        25.0,
+        9.3
+    ]
+}

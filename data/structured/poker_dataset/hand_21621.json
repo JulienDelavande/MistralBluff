@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/9 8:14:13",
+    "game_id": "793836430",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "thegambler327",
+        "Ksander",
+        "Maria_Pia",
+        "braaaap",
+        "IlxxxlI",
+        "TriwizardChamp"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        58.99,
+        34.68,
+        30.61,
+        20.0,
+        51.59
+    ],
+    "player_small_blind": "braaaap",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "8d",
+            "Qc"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TriwizardChamp",
+                "thegambler327",
+                "Ksander",
+                "Maria_Pia",
+                "braaaap",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                1.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksander",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.31,
+                1.31
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksander",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.4,
+                3.4
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ksander",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ad 10h",
+        "Jh Qd",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        53.28,
+        40.54,
+        30.36,
+        19.5,
+        51.59
+    ]
+}

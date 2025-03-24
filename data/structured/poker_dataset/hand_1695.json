@@ -1,70 +1,107 @@
 {
-    "date": "2016/11/28 20:16:20",
-    "game_id": "786371678",
+    "date": "2016/9/18 7:58:37",
+    "game_id": "730204794",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 4,
+    "table_name": "Karkadann-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
     "players": [
         "IlxxxlI",
-        "38979",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "VegetablesArentYummy",
+        "Pimpika",
+        "BlitzWaut",
+        "Torinsurance",
+        "Chicubs2016",
+        "gosu36484",
+        "Mightyquinny"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
-        5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        45.0,
-        221.52,
-        121.7,
-        111.14,
-        77.73
+        77.0,
+        100.0,
+        67.1,
+        230.51,
+        128.94,
+        58.95,
+        44.55,
+        99.5
     ],
-    "player_small_blind": "meandkids",
-    "small_blind": 1.0,
-    "player_big_blind": "Are you with me",
-    "big_blind": 2.0,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 0.5,
+    "player_big_blind": "Pimpika",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jc",
-        "5c"
+        "10d",
+        "9d"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "7d",
+            "10c",
+            "6c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "BlitzWaut",
+                "Torinsurance",
+                "Chicubs2016",
+                "gosu36484",
+                "Mightyquinny",
                 "IlxxxlI",
-                "38979",
-                "Wollverin",
-                "meandkids"
+                "VegetablesArentYummy",
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
+                4.0,
                 null,
+                null,
+                null,
+                4.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Torinsurance",
+                "IlxxxlI",
+                "Torinsurance"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.51,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -82,13 +119,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        45.0,
-        221.52,
-        121.7,
-        110.14,
-        78.73
+        82.03,
+        99.5,
+        66.1,
+        230.51,
+        124.94,
+        58.95,
+        44.55,
+        99.5
     ]
 }

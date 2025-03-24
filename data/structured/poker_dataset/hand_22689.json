@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 21:22:27",
+    "game_id": "793493767",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "ForcedToPortray",
+        "erotomania",
+        "SkaHot",
+        "Moryak999",
+        "IlxxxlI",
+        "FetusMunch"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        43.72,
+        25.0,
+        27.69,
+        29.76,
+        11.15,
+        11.11
+    ],
+    "player_small_blind": "erotomania",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "6s",
+            "9d"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "2s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Moryak999",
+                "IlxxxlI",
+                "FetusMunch",
+                "ForcedToPortray",
+                "erotomania",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "FetusMunch",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "FetusMunch"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "FetusMunch"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        43.72,
+        24.9,
+        29.37,
+        29.76,
+        11.15,
+        9.35
+    ]
+}

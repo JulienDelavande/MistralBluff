@@ -1,100 +1,115 @@
 {
-    "date": "2016/11/29 13:43:12",
-    "game_id": "786987030",
+    "date": "2016/9/5 12:43:24",
+    "game_id": "720270013",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 8,
     "players": [
-        "Ball Crusher",
-        "Jui Kuen",
-        "PokerBrat1127",
+        "RapaNui",
+        "St3p04ka",
+        "GranatoBetano",
         "IlxxxlI",
-        "anabeliangrape"
+        "SheppyPOO!!",
+        "oleg_dagi",
+        "ShtrafBat",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        121.21,
-        28.58,
-        10.95,
-        10.0,
-        34.05
+        686.84,
+        400.27,
+        306.93,
+        126.87,
+        683.94,
+        360.4,
+        140.75,
+        236.21
     ],
-    "player_small_blind": "anabeliangrape",
-    "small_blind": 0.25,
-    "player_big_blind": "Ball Crusher",
-    "big_blind": 0.5,
+    "player_small_blind": "TheManiac89",
+    "small_blind": 3.0,
+    "player_big_blind": "RapaNui",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4h",
-        "3c"
+        "9d",
+        "10h"
     ],
     "dealed_cards": {
         "flop": [
-            "Qh",
-            "8d",
-            "7c"
+            "3h",
+            "Kd",
+            "8d"
         ],
         "turn": [
-            "Ks"
+            "9c"
         ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Jui Kuen",
-                "PokerBrat1127",
+                "St3p04ka",
+                "GranatoBetano",
                 "IlxxxlI",
-                "anabeliangrape",
-                "Ball Crusher"
+                "SheppyPOO!!",
+                "oleg_dagi",
+                "ShtrafBat",
+                "TheManiac89",
+                "RapaNui"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "CALL",
                 "FOLD",
-                "CALL",
                 "FOLD"
             ],
             "values": [
-                1.5,
-                1.5,
                 null,
-                1.25,
+                null,
+                null,
+                null,
+                12.0,
+                12.0,
+                null,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "anabeliangrape",
-                "Jui Kuen",
-                "PokerBrat1127",
-                "anabeliangrape"
+                "oleg_dagi",
+                "ShtrafBat",
+                "oleg_dagi"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
-                3.16,
-                null,
-                3.16
+                16.35,
+                16.35
             ]
         },
         "post-turn": {
             "players": [
-                "anabeliangrape",
-                "Jui Kuen",
-                "anabeliangrape"
+                "oleg_dagi",
+                "ShtrafBat",
+                "oleg_dagi"
             ],
             "actions": [
                 "CHECK",
@@ -103,7 +118,7 @@
             ],
             "values": [
                 null,
-                7.17,
+                43.36,
                 null
             ]
         },
@@ -118,13 +133,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        120.71,
-        34.68,
-        9.45,
-        10.0,
-        29.389999999999997
+        680.84,
+        400.27,
+        306.93,
+        126.87,
+        683.94,
+        332.04999999999995,
+        177.45,
+        233.21
     ]
 }

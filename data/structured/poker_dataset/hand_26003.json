@@ -1,0 +1,110 @@
+{
+    "date": "2016/12/8 8:11:52",
+    "game_id": "793131582",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "flyshark01",
+        "braaaap",
+        "BBrav0",
+        "DonkReaper",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        54.17,
+        21.5,
+        50.25,
+        51.5,
+        21.5
+    ],
+    "player_small_blind": "BBrav0",
+    "small_blind": 0.25,
+    "player_big_blind": "DonkReaper",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "4d",
+            "2h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "flyshark01",
+                "braaaap",
+                "BBrav0",
+                "DonkReaper"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BBrav0",
+                "DonkReaper"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.9,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        54.17,
+        21.5,
+        51.6,
+        50.0,
+        21.5
+    ]
+}

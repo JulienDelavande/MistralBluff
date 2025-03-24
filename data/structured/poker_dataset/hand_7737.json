@@ -1,0 +1,145 @@
+{
+    "date": "2016/12/27 16:16:20",
+    "game_id": "807103843",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "heraklinos89",
+        "IlxxxlI",
+        "FIVETEN",
+        "DHD"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        24.5,
+        47.73,
+        17.14,
+        85.73
+    ],
+    "player_small_blind": "heraklinos89",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "7h",
+            "5d"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FIVETEN",
+                "DHD",
+                "heraklinos89",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI",
+                "FIVETEN",
+                "heraklinos89",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI",
+                "FIVETEN",
+                "heraklinos89",
+                "IlxxxlI",
+                "FIVETEN"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.85,
+                7.0,
+                7.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                16.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        36.29,
+        39.23,
+        12.790000000000001,
+        85.73
+    ]
+}

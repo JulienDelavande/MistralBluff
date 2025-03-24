@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/26 13:30:58",
+    "game_id": "806353917",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "AIRSUPPLY",
+        "CardShark98",
+        "IlxxxlI",
+        "HapKoTuk",
+        "Syanala"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        21.26,
+        14.51,
+        21.9,
+        26.41,
+        13.17
+    ],
+    "player_small_blind": "CardShark98",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "5c",
+            "Jh"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "Syanala",
+                "AIRSUPPLY",
+                "CardShark98",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CardShark98",
+                "HapKoTuk",
+                "CardShark98"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.11,
+                1.11
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CardShark98",
+                "HapKoTuk",
+                "CardShark98"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.75,
+                2.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CardShark98",
+                "HapKoTuk",
+                "CardShark98"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "ALLIN"
+            ],
+            "values": [
+                3.5,
+                10.5,
+                6.4
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qd Ah",
+        null,
+        "9d 9c",
+        null
+    ],
+    "finishing_stack": [
+        21.26,
+        0.0,
+        21.65,
+        39.71,
+        13.17
+    ]
+}

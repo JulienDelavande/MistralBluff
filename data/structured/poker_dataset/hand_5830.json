@@ -1,0 +1,119 @@
+{
+    "date": "2016/10/12 17:44:33",
+    "game_id": "748945312",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "Equilibrium",
+        "Cleveland23",
+        "aleks0v"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        52.9,
+        116.97,
+        67.0,
+        79.07
+    ],
+    "player_small_blind": "Equilibrium",
+    "small_blind": 0.5,
+    "player_big_blind": "Cleveland23",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "5c",
+            "7h"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aleks0v",
+                "IlxxxlI",
+                "Equilibrium",
+                "Cleveland23"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Cleveland23",
+                "aleks0v",
+                "Cleveland23"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Cleveland23",
+                "aleks0v",
+                "Cleveland23"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.9,
+        116.47,
+        60.0,
+        85.85
+    ]
+}

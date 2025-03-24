@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/22 21:43:21",
+    "game_id": "803789534",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "illoke",
+        "aleks0v",
+        "roastbeans",
+        "Beep_Beep",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        51.59,
+        81.09,
+        27.11,
+        57.04,
+        50.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "illoke",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "2h",
+            "4s"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aleks0v",
+                "roastbeans",
+                "Beep_Beep",
+                "IlxxxlI",
+                "illoke",
+                "roastbeans"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                2.5,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "roastbeans",
+                "Beep_Beep",
+                "roastbeans"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "roastbeans",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.18,
+                6.18
+            ]
+        },
+        "post-river": {
+            "players": [
+                "roastbeans",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                16.43,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        51.09,
+        81.09,
+        37.44,
+        46.36,
+        49.75
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "date": "2016/12/3 7:54:59",
+    "game_id": "789717761",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "betcat",
+        "everglo5",
+        "biloxiRiver",
+        "TheBigALofVA",
+        "IlxxxlI",
+        "seahawks16",
+        "MNspecktacular"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        40.0,
+        101.75,
+        108.23,
+        114.61,
+        40.0,
+        108.88,
+        47.55
+    ],
+    "player_small_blind": "TheBigALofVA",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Kc",
+            "8c"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "seahawks16",
+                "MNspecktacular",
+                "betcat",
+                "everglo5",
+                "biloxiRiver",
+                "TheBigALofVA",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.75,
+                2.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "everglo5",
+                "biloxiRiver"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.75,
+                3.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "everglo5",
+                "biloxiRiver",
+                "everglo5"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.18,
+                9.18
+            ]
+        },
+        "post-river": {
+            "players": [
+                "everglo5",
+                "biloxiRiver"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10h Ad",
+        "5c Ac",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.0,
+        117.28999999999999,
+        92.55000000000001,
+        114.11,
+        39.0,
+        108.88,
+        47.55
+    ]
+}

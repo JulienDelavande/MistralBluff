@@ -1,95 +1,67 @@
 {
-    "date": "2016/11/29 14:46:47",
-    "game_id": "787014130",
+    "date": "2016/9/4 10:9:37",
+    "game_id": "719287714",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 6,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "cuervo_",
         "IlxxxlI",
-        "jjeannin1",
-        "trader063",
-        "Parcker",
-        "Jui Kuen"
+        "Pureprofit4",
+        "SheppyPOO!!",
+        "bet2000"
     ],
     "players_seats": [
-        1,
         2,
-        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        7.39,
-        20.0,
-        41.09,
-        34.04,
-        63.97,
-        77.75
+        169.22,
+        558.36,
+        200.0,
+        603.4
     ],
-    "player_small_blind": "cuervo_",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8d",
-        "6s"
+        "Qd",
+        "10h"
     ],
     "dealed_cards": {
-        "flop": [
-            "10s",
-            "Qh",
-            "6h"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "jjeannin1",
-                "trader063",
-                "Parcker",
-                "Jui Kuen",
-                "cuervo_",
-                "IlxxxlI"
+                "bet2000",
+                "IlxxxlI",
+                "Pureprofit4",
+                "SheppyPOO!!"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL",
                 "FOLD"
             ],
             "values": [
-                1.0,
                 null,
+                8.0,
                 null,
-                null,
-                0.75,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "cuervo_",
-                "jjeannin1",
-                "cuervo_"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                3.0,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -106,16 +78,12 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        6.39,
-        19.5,
-        42.470000000000006,
-        34.04,
-        63.97,
-        77.75
+        175.22,
+        556.36,
+        196.0,
+        603.4
     ]
 }

@@ -1,63 +1,124 @@
 {
-    "date": "2016/11/28 18:57:41",
-    "game_id": "786356294",
+    "date": "2016/9/18 8:41:17",
+    "game_id": "730231216",
     "variant": "PRR",
-    "table_name": "Lakhey-10",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 5,
     "players": [
-        "Popka1337",
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "JJaromir"
+        "PolitcallyiC2.0",
+        "Frisconar",
+        "Pablo46",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
+        2,
         3,
-        5
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        71.5,
-        87.9,
-        495.5
+        101.5,
+        205.41,
+        40.0,
+        98.5,
+        37.0,
+        100.0,
+        100.0,
+        20.13,
+        242.01
     ],
-    "player_small_blind": "JJaromir",
-    "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "player_small_blind": "Pablo46",
+    "small_blind": 0.5,
+    "player_big_blind": "FirstClan",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5s",
-        "3c"
+        "7s",
+        "7c"
     ],
     "dealed_cards": {
         "flop": [
-            "6d",
-            "4c",
-            "4s"
+            "Kh",
+            "Ad",
+            "8h"
         ],
         "turn": [
-            "Qh"
+            "2d"
         ],
-        "river": []
+        "river": [
+            "6c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "JJaromir",
-                "IlxxxlI"
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
+                "IlxxxlI",
+                "PolitcallyiC2.0",
+                "Frisconar",
+                "Pablo46",
+                "FirstClan",
+                "brainvape"
             ],
             "actions": [
                 "CALL",
-                "CHECK"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 1.0,
-                null
+                null,
+                null,
+                null,
+                2.0,
+                null,
+                null,
+                null,
+                null,
+                1.0
             ]
         },
         "post-flop": {
             "players": [
-                "JJaromir",
+                "brainvape",
+                "IlxxxlI",
+                "brainvape"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.61,
+                2.61
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "brainvape",
                 "IlxxxlI"
             ],
             "actions": [
@@ -69,37 +130,41 @@
                 null
             ]
         },
-        "post-turn": {
+        "post-river": {
             "players": [
-                "JJaromir",
-                "IlxxxlI",
-                "JJaromir"
+                "brainvape",
+                "IlxxxlI"
             ],
             "actions": [
-                "BET",
-                "RAISE",
-                "FOLD"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                4.0,
-                14.0,
+                null,
                 null
             ]
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
+        "7s 7c",
+        null,
+        null,
+        null,
+        null,
+        "Qd 8d",
         null
     ],
     "finishing_stack": [
-        71.5,
-        93.30000000000001,
-        489.5
+        101.5,
+        205.41,
+        35.39,
+        98.5,
+        37.0,
+        99.5,
+        99.0,
+        25.71,
+        242.01
     ]
 }

@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/6 16:36:39",
+    "game_id": "792161309",
+    "variant": "PRR",
+    "table_name": "Gorgons-19",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "WeakAndWeary",
+        "joshe8",
+        "WomboComboAA",
+        "IlxxxlI",
+        "CASHMONEYKILLA",
+        "DopeDope"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        73.77,
+        21.34,
+        58.7,
+        20.0,
+        61.88,
+        49.2
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "CASHMONEYKILLA",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "9h",
+            "5d"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DopeDope",
+                "WeakAndWeary",
+                "joshe8",
+                "WomboComboAA",
+                "IlxxxlI",
+                "CASHMONEYKILLA"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CASHMONEYKILLA",
+                "joshe8"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CASHMONEYKILLA",
+                "joshe8",
+                "CASHMONEYKILLA",
+                "joshe8"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                6.5,
+                5.08
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CASHMONEYKILLA",
+                "joshe8"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                54.38,
+                13.84
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "7h Ad",
+        null,
+        null,
+        "Jc 9c",
+        null
+    ],
+    "finishing_stack": [
+        73.77,
+        40.79,
+        58.7,
+        19.75,
+        40.540000000000006,
+        49.2
+    ]
+}

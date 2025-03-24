@@ -1,143 +1,140 @@
 {
-    "date": "2016/11/29 14:28:52",
-    "game_id": "787006584",
+    "date": "2016/9/5 11:51:40",
+    "game_id": "720254724",
     "variant": "PRR",
-    "table_name": "Longana",
+    "table_name": "Medusa",
     "type_game": "Short",
     "button_seat": 6,
     "players": [
-        "actionjax24",
-        "VegetablesArentYummy",
-        "gust",
-        "thimk",
+        "graphicup",
+        "lars76",
         "IlxxxlI",
-        "pineapplesand",
-        "StephCurry",
-        "hotshothotgg"
+        "ShtrafBat",
+        "follower1",
+        "SheppyPOO!!"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        98.46,
-        135.53,
-        89.0,
-        65.02,
-        40.0,
-        40.0,
-        109.5,
-        63.19
+        198.48,
+        142.15,
+        124.75,
+        96.8,
+        278.21,
+        214.0
     ],
-    "player_small_blind": "pineapplesand",
-    "small_blind": 1.0,
-    "player_big_blind": "StephCurry",
-    "big_blind": 2.0,
+    "player_small_blind": "graphicup",
+    "small_blind": 2.0,
+    "player_big_blind": "lars76",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4d",
-        "5h"
+        "8c",
+        "6c"
     ],
     "dealed_cards": {
         "flop": [
-            "Qc",
-            "7h",
-            "8h"
+            "As",
+            "8h",
+            "5c"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "5h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "hotshothotgg",
-                "actionjax24",
-                "VegetablesArentYummy",
-                "gust",
-                "thimk",
                 "IlxxxlI",
-                "pineapplesand",
-                "StephCurry"
+                "ShtrafBat",
+                "follower1",
+                "SheppyPOO!!",
+                "graphicup",
+                "lars76"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
+                "RAISE",
                 "FOLD",
                 "FOLD",
-                "CALL",
                 "FOLD",
-                "FOLD",
-                "CHECK"
+                "CALL"
             ],
             "values": [
                 null,
-                2.0,
+                8.0,
                 null,
                 null,
-                2.0,
                 null,
-                null,
-                null
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "StephCurry",
-                "actionjax24",
-                "thimk",
-                "StephCurry",
-                "actionjax24"
+                "lars76",
+                "ShtrafBat"
             ],
             "actions": [
                 "CHECK",
-                "CHECK",
-                "BET",
-                "FOLD",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
-                null,
-                null,
-                3.32,
                 null,
                 null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "lars76",
+                "ShtrafBat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "lars76",
+                "ShtrafBat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        null,
-        null,
-        null,
+        "7h 7d",
         null,
         null
     ],
     "finishing_stack": [
-        96.46,
-        135.53,
-        89.0,
-        69.67,
-        40.0,
-        39.0,
-        107.5,
-        63.19
+        196.48,
+        134.15,
+        124.75,
+        106.65,
+        278.21,
+        214.0
     ]
 }

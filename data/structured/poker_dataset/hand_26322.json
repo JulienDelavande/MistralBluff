@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 7:41:21",
+    "game_id": "793107594",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "kiedrok888",
+        "utfamly5",
+        "Ice Bank Mice Elf",
+        "12monkeys",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        21.43,
+        23.1,
+        69.67,
+        28.59,
+        10.0
+    ],
+    "player_small_blind": "kiedrok888",
+    "small_blind": 0.1,
+    "player_big_blind": "utfamly5",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "10c",
+            "Jh"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "12monkeys",
+                "IlxxxlI",
+                "kiedrok888",
+                "utfamly5"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.58,
+                null,
+                0.33
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "utfamly5",
+                "IlxxxlI",
+                "utfamly5"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.62,
+                0.62
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "utfamly5",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "utfamly5",
+                "IlxxxlI",
+                "utfamly5"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.33,
+        21.900000000000002,
+        69.67,
+        28.59,
+        11.18
+    ]
+}

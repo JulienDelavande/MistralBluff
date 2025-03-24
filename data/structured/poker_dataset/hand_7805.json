@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/27 16:5:12",
+    "game_id": "807101061",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "Njakka",
+        "HapKoTuk",
+        "stone1974",
+        "heraklinos89",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        18.91,
+        64.31,
+        15.04,
+        16.01,
+        13.96
+    ],
+    "player_small_blind": "stone1974",
+    "small_blind": 0.1,
+    "player_big_blind": "heraklinos89",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "Qh",
+            "Jd"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Njakka",
+                "HapKoTuk",
+                "stone1974",
+                "heraklinos89"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.62,
+                0.62,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI",
+                "Njakka",
+                "heraklinos89",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.93,
+                0.93,
+                0.93
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI",
+                "Njakka"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI",
+                "Njakka"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "9c 10d",
+        "Ks As"
+    ],
+    "finishing_stack": [
+        17.36,
+        64.31,
+        14.94,
+        18.98,
+        12.41
+    ]
+}

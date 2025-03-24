@@ -1,0 +1,119 @@
+{
+    "date": "2016/9/27 7:6:53",
+    "game_id": "737071024",
+    "variant": "PRR",
+    "table_name": "Lakhey-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "KeepKalm",
+        "IlxxxlI",
+        "AironVega",
+        "basic instinct"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        269.43,
+        80.0,
+        206.0,
+        651.98
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "AironVega",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "2s",
+            "Jd"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "basic instinct",
+                "KeepKalm",
+                "IlxxxlI",
+                "AironVega"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                null,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "basic instinct",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.22,
+                5.22
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AironVega",
+                "basic instinct",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                40.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        269.43,
+        79.0,
+        195.78,
+        662.13
+    ]
+}

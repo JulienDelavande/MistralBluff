@@ -1,79 +1,104 @@
 {
-    "date": "2016/11/29 15:21:46",
-    "game_id": "787026366",
+    "date": "2016/9/4 2:4:49",
+    "game_id": "718939936",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 9,
     "players": [
-        "hoocher",
+        "BIGRAISE",
+        "tcoll16",
+        "cracypoker",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "Beep_Beep",
-        "IampokerKidd",
-        "Jui Kuen",
-        "foreseen"
+        "WalterBlack",
+        "TheFront7",
+        "NoSugarJoe"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        80.93,
-        20.25,
-        105.9,
-        50.75,
-        52.25,
-        158.08
+        120.0,
+        216.0,
+        247.25,
+        200.0,
+        80.0,
+        285.35,
+        281.55,
+        42.2
     ],
-    "player_small_blind": "Beep_Beep",
-    "small_blind": 0.25,
-    "player_big_blind": "IampokerKidd",
-    "big_blind": 0.5,
+    "player_small_blind": "BIGRAISE",
+    "small_blind": 2.0,
+    "player_big_blind": "tcoll16",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "4c"
+        "4s",
+        "Ah"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Kh",
+            "Ks",
+            "7c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Jui Kuen",
-                "foreseen",
-                "hoocher",
+                "cracypoker",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "Beep_Beep",
-                "IampokerKidd"
+                "WalterBlack",
+                "TheFront7",
+                "NoSugarJoe",
+                "BIGRAISE",
+                "tcoll16"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
-                1.5,
                 null,
                 null,
                 null,
+                null,
+                12.0,
+                12.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TheFront7",
+                "NoSugarJoe"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                31.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -92,14 +117,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        80.93,
-        20.25,
-        105.65,
-        50.25,
-        53.0,
-        158.08
+        118.0,
+        212.0,
+        247.25,
+        200.0,
+        80.0,
+        285.35,
+        299.25,
+        30.200000000000003
     ]
 }

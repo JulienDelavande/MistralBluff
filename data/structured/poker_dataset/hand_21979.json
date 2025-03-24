@@ -1,0 +1,105 @@
+{
+    "date": "2016/12/8 23:57:23",
+    "game_id": "793541112",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 1,
+    "players": [
+        "karapanza1",
+        "sinnedKK",
+        "Azaladog",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        103.0,
+        54.98,
+        75.04,
+        20.0
+    ],
+    "player_small_blind": "sinnedKK",
+    "small_blind": 0.5,
+    "player_big_blind": "Azaladog",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "8c",
+            "Qc"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "karapanza1",
+                "sinnedKK",
+                "Azaladog"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                2.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "karapanza1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                5.0,
+                101.0,
+                13.0
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Qs Ks",
+        null,
+        null,
+        "10d Qh"
+    ],
+    "finishing_stack": [
+        122.5,
+        54.48,
+        74.04,
+        0.0
+    ]
+}

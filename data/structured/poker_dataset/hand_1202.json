@@ -1,54 +1,45 @@
 {
-    "date": "2016/11/29 9:9:10",
-    "game_id": "786783768",
+    "date": "2016/9/17 10:13:20",
+    "game_id": "729529205",
     "variant": "PRR",
-    "table_name": "Garuda-2",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "Tilt-A-Whirl",
-        "apoo11",
-        "imperceptible",
-        "Ice Bank Mice Elf",
-        "tutofu84",
-        "IlxxxlI",
-        "coldkilla",
-        "kid4life"
+        "AbstractSun",
+        "pokerhawk333",
+        "graphicup",
+        "gust",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
         5,
-        6,
-        7,
-        9
+        6
     ],
     "starting_stacks": [
-        50.85,
-        31.74,
-        20.0,
-        102.5,
-        91.41,
-        21.75,
-        14.5,
-        65.38
+        433.37,
+        127.37,
+        134.2,
+        158.0,
+        77.0
     ],
-    "player_small_blind": "Ice Bank Mice Elf",
-    "small_blind": 0.25,
-    "player_big_blind": "tutofu84",
-    "big_blind": 0.5,
+    "player_small_blind": "gust",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jd",
-        "As"
+        "5d",
+        "6s"
     ],
     "dealed_cards": {
         "flop": [
-            "5c",
-            "Ks",
-            "Qd"
+            "5h",
+            "Js",
+            "6c"
         ],
         "turn": [],
         "river": []
@@ -56,51 +47,48 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "coldkilla",
-                "kid4life",
-                "Tilt-A-Whirl",
-                "apoo11",
-                "imperceptible",
-                "Ice Bank Mice Elf",
-                "tutofu84"
+                "AbstractSun",
+                "pokerhawk333",
+                "graphicup",
+                "gust",
+                "IlxxxlI"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
-                1.75,
+                null,
+                4.0,
                 null,
                 null,
-                null,
-                null,
-                null,
-                null,
-                1.25
+                2.0
             ]
         },
         "post-flop": {
             "players": [
-                "tutofu84",
                 "IlxxxlI",
-                "tutofu84"
+                "pokerhawk333",
+                "IlxxxlI",
+                "pokerhawk333",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "FOLD"
+                "RAISE",
+                "ALLIN",
+                "ALLIN"
             ],
             "values": [
                 null,
-                1.86,
-                null
+                5.7,
+                16.0,
+                117.67,
+                57.0
             ]
         },
         "post-turn": {
@@ -116,22 +104,16 @@
     },
     "card_shown_by_players": [
         null,
+        "Ks Kh",
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "5d 6s"
     ],
     "finishing_stack": [
-        50.85,
-        31.74,
-        20.0,
-        102.25,
-        89.66,
-        23.57,
-        14.5,
-        65.38
+        433.37,
+        50.370000000000005,
+        134.2,
+        157.0,
+        152.0
     ]
 }

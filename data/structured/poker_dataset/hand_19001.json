@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/9 21:3:15",
+    "game_id": "794171985",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "GranatoBetano",
+        "IgLa",
+        "Pvybz",
+        "IlxxxlI",
+        "gust",
+        "meandkids"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        88.79,
+        108.63,
+        174.2,
+        41.0,
+        40.0,
+        166.49
+    ],
+    "player_small_blind": "meandkids",
+    "small_blind": 0.5,
+    "player_big_blind": "GranatoBetano",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "6s",
+            "Ah"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "Pvybz",
+                "IlxxxlI",
+                "gust",
+                "meandkids",
+                "GranatoBetano",
+                "gust",
+                "meandkids"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                6.5,
+                16.0,
+                null,
+                10.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "meandkids",
+                "GranatoBetano",
+                "meandkids"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.4,
+                11.4
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "meandkids",
+                "GranatoBetano",
+                "meandkids"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                18.62,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        116.25,
+        108.63,
+        174.2,
+        41.0,
+        38.0,
+        138.09
+    ]
+}

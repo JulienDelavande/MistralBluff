@@ -1,16 +1,16 @@
 {
-    "date": "2016/11/28 17:58:14",
-    "game_id": "786345073",
+    "date": "2016/9/18 9:11:16",
+    "game_id": "730247718",
     "variant": "PRR",
-    "table_name": "Kraken-16",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "Hakuna_Matata777",
-        "SenNoSen",
-        "IlxxxlI",
-        "plin777",
-        "CrimZnole"
+        "winchy21",
+        "VegetablesArentYummy",
+        "Pureprofit4",
+        "graphicup",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -20,91 +20,113 @@
         6
     ],
     "starting_stacks": [
-        130.81,
-        101.13,
-        40.0,
-        50.54,
-        94.16
+        85.71,
+        317.87,
+        201.75,
+        352.5,
+        80.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "plin777",
-    "big_blind": 1.0,
+    "player_small_blind": "graphicup",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kh",
-        "7s"
+        "Qh",
+        "8d"
     ],
     "dealed_cards": {
         "flop": [
-            "2d",
-            "9s",
-            "8c"
+            "3s",
+            "2c",
+            "3h"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "2h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "CrimZnole",
-                "Hakuna_Matata777",
-                "SenNoSen",
-                "IlxxxlI",
-                "plin777"
+                "winchy21",
+                "VegetablesArentYummy",
+                "Pureprofit4",
+                "graphicup",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "CALL",
-                "CHECK"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                8.0,
                 null,
-                0.5,
-                null
+                4.0
             ]
         },
         "post-flop": {
             "players": [
                 "IlxxxlI",
-                "plin777"
+                "Pureprofit4"
             ],
             "actions": [
-                "BET",
-                "FOLD"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                1.0,
+                null,
                 null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
+        "8h Kd",
         null,
-        null,
-        null
+        "Qh 8d"
     ],
     "finishing_stack": [
-        130.81,
-        101.13,
-        40.9,
-        49.54,
-        94.16
+        85.71,
+        317.87,
+        202.62,
+        350.5,
+        80.88
     ]
 }

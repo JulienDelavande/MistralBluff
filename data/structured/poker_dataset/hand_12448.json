@@ -1,0 +1,121 @@
+{
+    "date": "2016/12/24 21:30:19",
+    "game_id": "805230553",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "FatzPanda",
+        "samotiti",
+        "booya25",
+        "IlxxxlI",
+        "UglyBuzzard",
+        "runsdeeply"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.74,
+        10.0,
+        30.42,
+        43.43,
+        1.7,
+        10.61
+    ],
+    "player_small_blind": "FatzPanda",
+    "small_blind": 0.1,
+    "player_big_blind": "samotiti",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "8h",
+            "7h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "booya25",
+                "IlxxxlI",
+                "UglyBuzzard",
+                "runsdeeply",
+                "FatzPanda",
+                "samotiti"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.75,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FatzPanda",
+                "UglyBuzzard",
+                "runsdeeply"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                1.19,
+                0.95,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Kd 8d",
+        null,
+        null,
+        null,
+        "Qs Ac",
+        null
+    ],
+    "finishing_stack": [
+        26.22,
+        9.75,
+        30.42,
+        43.43,
+        0.0,
+        9.86
+    ]
+}

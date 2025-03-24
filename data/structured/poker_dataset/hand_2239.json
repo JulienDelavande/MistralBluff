@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:2:21",
-    "game_id": "786345799",
+    "date": "2016/9/18 9:8:16",
+    "game_id": "730246144",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 4,
     "players": [
-        "eu4ria",
-        "JoJoLoring",
-        "BoTPuMHeDichBro",
-        "pokanaktus",
-        "pingpong420",
-        "IlxxxlI"
+        "LuckyBoy1980",
+        "gosu36484",
+        "Cellar door",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ACES6176",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "utormico"
     ],
     "players_seats": [
         1,
@@ -19,106 +22,112 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        50.0,
-        60.62,
-        53.37,
-        60.93,
-        49.25,
-        20.25
+        203.0,
+        79.0,
+        205.64,
+        295.07,
+        172.15,
+        94.27,
+        211.0,
+        138.2,
+        146.43
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "eu4ria",
-    "big_blind": 0.5,
+    "player_small_blind": "Pimpika",
+    "small_blind": 1.0,
+    "player_big_blind": "ACES6176",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "Qs"
+        "9c",
+        "10c"
     ],
     "dealed_cards": {
         "flop": [
-            "10d",
-            "Ac",
-            "6c"
+            "5c",
+            "Jh",
+            "7c"
         ],
         "turn": [
-            "5s"
+            "6d"
         ],
         "river": [
-            "Ks"
+            "4h"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "JoJoLoring",
-                "BoTPuMHeDichBro",
-                "pokanaktus",
-                "pingpong420",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "eu4ria",
-                "JoJoLoring"
+                "utormico",
+                "LuckyBoy1980",
+                "gosu36484",
+                "Cellar door",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ACES6176"
             ],
             "actions": [
-                "CALL",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "RAISE",
                 "CALL",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
-                0.5,
+                null,
+                4.0,
+                4.0,
                 null,
                 null,
                 null,
-                1.5,
-                1.25,
-                1.25
+                null,
+                null,
+                null
             ]
         },
         "post-flop": {
             "players": [
                 "IlxxxlI",
-                "eu4ria",
-                "JoJoLoring",
-                "IlxxxlI"
+                "utormico"
             ],
             "actions": [
-                "CHECK",
                 "BET",
-                "FOLD",
                 "CALL"
             ],
             "values": [
-                null,
-                3.5,
-                null,
-                3.5
+                3.48,
+                3.48
             ]
         },
         "post-turn": {
             "players": [
                 "IlxxxlI",
-                "eu4ria"
+                "utormico"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null
+                5.0,
+                5.0
             ]
         },
         "post-river": {
             "players": [
                 "IlxxxlI",
-                "eu4ria"
+                "utormico"
             ],
             "actions": [
                 "CHECK",
@@ -136,14 +145,20 @@
         null,
         null,
         null,
-        "Qd Qs"
+        null,
+        null,
+        "9c 10c",
+        "Ac Jd"
     ],
     "finishing_stack": [
-        44.75,
-        58.87,
-        53.37,
-        60.93,
-        49.25,
-        26.64
+        203.0,
+        79.0,
+        205.64,
+        295.07,
+        171.15,
+        92.27,
+        211.0,
+        125.71999999999998,
+        160.52
     ]
 }

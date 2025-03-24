@@ -1,26 +1,24 @@
 {
-    "date": "2016/11/29 15:2:16",
-    "game_id": "787019645",
+    "date": "2016/9/4 9:52:34",
+    "game_id": "719280202",
     "variant": "PRR",
-    "table_name": "Karkadann-3",
-    "type_game": "Hold'em",
-    "button_seat": 9,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "DRofBooya",
-        "ElvenEyes",
-        "StephCurry",
-        "gust",
-        "pineapplesand",
-        "AironVega",
+        "GoodnightMoon",
+        "Kak_Ded_Y4il",
+        "SheppyPOO!!",
+        "BiGFck",
+        "Einstein727",
         "IlxxxlI",
-        "dankmann",
-        "VegetablesArentYummy"
+        "VegetablesArentYummy",
+        "bet2000"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
         5,
         6,
         7,
@@ -28,80 +26,111 @@
         9
     ],
     "starting_stacks": [
-        43.98,
-        168.15,
-        109.6,
-        51.95,
-        40.0,
-        100.0,
-        86.2,
-        141.19,
-        269.5
+        587.04,
+        1297.95,
+        200.0,
+        92.65,
+        151.39,
+        90.0,
+        200.0,
+        468.69
     ],
-    "player_small_blind": "DRofBooya",
-    "small_blind": 0.5,
-    "player_big_blind": "ElvenEyes",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2c",
-        "5h"
+        "Ac",
+        "As"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "5d",
+            "Kh",
+            "4h"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Ks"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "StephCurry",
-                "gust",
-                "pineapplesand",
-                "AironVega",
+                "bet2000",
+                "GoodnightMoon",
+                "Kak_Ded_Y4il",
+                "SheppyPOO!!",
+                "BiGFck",
+                "Einstein727",
                 "IlxxxlI",
-                "dankmann",
-                "VegetablesArentYummy",
-                "DRofBooya",
-                "ElvenEyes"
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL",
+                "CHECK"
             ],
             "values": [
-                3.0,
                 null,
                 null,
                 null,
                 null,
                 null,
                 null,
-                null,
+                2.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.3,
+                5.3
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -110,20 +139,18 @@
         null,
         null,
         null,
-        null,
-        null,
+        "Ac As",
         null,
         null
     ],
     "finishing_stack": [
-        43.48,
-        167.15,
-        111.1,
-        51.95,
-        40.0,
-        100.0,
-        86.2,
-        141.19,
-        269.5
+        587.04,
+        1297.95,
+        200.0,
+        92.65,
+        151.39,
+        99.15,
+        190.7,
+        468.69
     ]
 }

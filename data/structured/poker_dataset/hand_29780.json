@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/7 8:26:35",
+    "game_id": "792445277",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "imApony444",
+        "IlxxxlI",
+        "Maria_Pia",
+        "Bunkman",
+        "Crazymax13"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        12.96,
+        5.0,
+        14.03,
+        12.66,
+        10.0
+    ],
+    "player_small_blind": "Bunkman",
+    "small_blind": 0.1,
+    "player_big_blind": "Crazymax13",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "8s",
+            "7c"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "imApony444",
+                "IlxxxlI",
+                "Maria_Pia",
+                "Bunkman",
+                "Crazymax13",
+                "imApony444"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                1.0,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "imApony444",
+                "Maria_Pia",
+                "imApony444"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "imApony444",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "imApony444",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10d 9d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.96,
+        5.0,
+        16.169999999999998,
+        12.56,
+        9.75
+    ]
+}

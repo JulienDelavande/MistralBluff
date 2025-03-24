@@ -1,19 +1,17 @@
 {
-    "date": "2016/11/29 9:18:17",
-    "game_id": "786792268",
+    "date": "2016/9/15 11:37:35",
+    "game_id": "728099797",
     "variant": "PRR",
-    "table_name": "Longana-4",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "Iia007",
-        "IAmClueless",
-        "PANDAisEVIL",
-        "mr.fargo",
-        "L4zy_FiSh",
-        "IlxxxlI",
-        "LazyFish",
-        "Gronkowski69"
+        "norcalho",
+        "Anastasia31",
+        "NoCortosPermite",
+        "Leatherass9",
+        "letsgooooo",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -21,71 +19,83 @@
         3,
         4,
         5,
-        6,
-        7,
-        8
+        6
     ],
     "starting_stacks": [
-        227.92,
-        467.48,
-        384.22,
-        88.0,
-        201.55,
-        80.0,
-        209.0,
-        224.1
+        53.83,
+        174.37,
+        150.71,
+        134.74,
+        32.25,
+        40.0
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "letsgooooo",
     "small_blind": 1.0,
-    "player_big_blind": "Gronkowski69",
+    "player_big_blind": "IlxxxlI",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10d",
-        "Kc"
+        "2c",
+        "6c"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "3h",
+            "Ad",
+            "Ks"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Iia007",
-                "IAmClueless",
-                "PANDAisEVIL",
-                "mr.fargo",
-                "L4zy_FiSh",
-                "IlxxxlI",
-                "Gronkowski69",
-                "Iia007"
+                "norcalho",
+                "Anastasia31",
+                "NoCortosPermite",
+                "Leatherass9",
+                "letsgooooo",
+                "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                4.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Anastasia31",
+                "Leatherass9",
+                "IlxxxlI",
+                "Anastasia31"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
-                6.0,
                 null,
                 null,
-                null,
-                18.0,
-                null,
+                8.0,
                 null,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-turn": {
             "players": [],
@@ -104,18 +114,14 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        221.92,
-        467.48,
-        384.22,
-        88.0,
-        210.55,
-        79.0,
-        209.0,
-        222.1
+        53.83,
+        170.37,
+        150.71,
+        143.09,
+        31.25,
+        36.0
     ]
 }

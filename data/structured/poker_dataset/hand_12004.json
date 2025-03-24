@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/24 22:14:7",
+    "game_id": "805242561",
+    "variant": "PRR",
+    "table_name": "Gorgons-17",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "TZhang",
+        "DClaWyer",
+        "Indigol",
+        "aquamarin",
+        "IlxxxlI",
+        "dangerspike"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        69.7,
+        50.0,
+        58.12,
+        39.85,
+        58.25
+    ],
+    "player_small_blind": "dangerspike",
+    "small_blind": 0.25,
+    "player_big_blind": "TZhang",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "Qd",
+            "3c"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DClaWyer",
+                "Indigol",
+                "aquamarin",
+                "IlxxxlI",
+                "dangerspike",
+                "TZhang"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dangerspike",
+                "TZhang",
+                "aquamarin",
+                "dangerspike",
+                "TZhang"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                null,
+                2.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "TZhang",
+                "aquamarin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "TZhang",
+                "aquamarin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ks Ah",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        46.0,
+        69.7,
+        50.0,
+        63.15,
+        39.85,
+        56.75
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "date": "2016/12/27 16:57:47",
+    "game_id": "807112052",
+    "variant": "PRR",
+    "table_name": "Ettin-6",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "dankmann",
+        "Wint3rborn",
+        "Flying Merkin",
+        "Blackjack64",
+        "AcesHigh14",
+        "AceHigh57",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        43.88,
+        11.03,
+        32.49,
+        13.38,
+        24.1,
+        16.28,
+        25.79
+    ],
+    "player_small_blind": "Wint3rborn",
+    "small_blind": 0.1,
+    "player_big_blind": "Flying Merkin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "8h",
+            "Ks"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Blackjack64",
+                "AcesHigh14",
+                "AceHigh57",
+                "IlxxxlI",
+                "dankmann",
+                "Wint3rborn",
+                "Flying Merkin"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Flying Merkin",
+                "AceHigh57",
+                "Flying Merkin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.52,
+                0.52
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Flying Merkin",
+                "AceHigh57",
+                "Flying Merkin",
+                "AceHigh57"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.02,
+                2.04,
+                1.02
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Flying Merkin",
+                "AceHigh57"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.95,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        43.88,
+        10.93,
+        35.34,
+        13.38,
+        24.1,
+        13.22,
+        25.79
+    ]
+}

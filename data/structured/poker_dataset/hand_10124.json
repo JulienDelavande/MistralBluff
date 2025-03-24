@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/25 14:21:56",
+    "game_id": "805715356",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "afvet333",
+        "dtnfk",
+        "IlxxxlI",
+        "Jui Kuen",
+        "akjordan16"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        28.09,
+        41.23,
+        16.61,
+        12.5,
+        12.25
+    ],
+    "player_small_blind": "akjordan16",
+    "small_blind": 0.1,
+    "player_big_blind": "afvet333",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "7h",
+            "5s"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dtnfk",
+                "IlxxxlI",
+                "Jui Kuen",
+                "akjordan16",
+                "afvet333"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "afvet333",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "afvet333",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "afvet333",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        28.64,
+        41.23,
+        16.61,
+        12.0,
+        12.15
+    ]
+}

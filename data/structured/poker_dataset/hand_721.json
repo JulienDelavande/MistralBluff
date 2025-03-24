@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 13:10:27",
-    "game_id": "786969056",
+    "date": "2016/9/6 0:17:43",
+    "game_id": "720623377",
     "variant": "PRR",
-    "table_name": "Kraken-7",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 7,
     "players": [
-        "gust",
-        "WeakAndWeary",
-        "Beep_Beep",
+        "BigLou1212",
+        "BIGRAISE",
+        "RUDINHO",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
         "IlxxxlI",
-        "Im Don King",
-        "MadLifeGrinder"
+        "bustmynuts"
     ],
     "players_seats": [
         1,
@@ -19,58 +22,92 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.08,
-        102.0,
-        106.75,
-        40.0,
-        111.2,
-        107.07
+        400.0,
+        170.45,
+        710.3,
+        238.57,
+        425.34,
+        459.6,
+        410.7,
+        178.4,
+        318.74
     ],
-    "player_small_blind": "WeakAndWeary",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "bustmynuts",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "5s"
+        "4h",
+        "Ac"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Kc",
+            "2h",
+            "7c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Im Don King",
-                "MadLifeGrinder",
-                "gust",
-                "WeakAndWeary",
-                "IlxxxlI"
+                "BigLou1212",
+                "BIGRAISE",
+                "RUDINHO",
+                "HookahBOSS",
+                "Maria26years",
+                "gfclbv",
+                "Leatherass9",
+                "IlxxxlI",
+                "bustmynuts"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                2.35,
                 null,
                 null,
                 null,
-                null
+                null,
+                null,
+                8.0,
+                null,
+                null,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "bustmynuts",
+                "gfclbv",
+                "bustmynuts"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -89,14 +126,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.08,
-        101.5,
-        106.75,
-        39.0,
-        112.7,
-        107.07
+        400.0,
+        170.45,
+        710.3,
+        238.57,
+        425.34,
+        469.45000000000005,
+        410.7,
+        176.4,
+        310.74
     ]
 }

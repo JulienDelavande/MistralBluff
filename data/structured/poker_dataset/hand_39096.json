@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/2 21:41:23",
+    "game_id": "789411699",
+    "variant": "PRR",
+    "table_name": "Lakhey-2",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Orondi",
+        "Eywa",
+        "Chubrica",
+        "JustNoPain",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        98.22,
+        221.25,
+        462.51,
+        101.85,
+        80.0
+    ],
+    "player_small_blind": "Chubrica",
+    "small_blind": 1.0,
+    "player_big_blind": "JustNoPain",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Qs",
+            "9c"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Orondi",
+                "Eywa",
+                "Chubrica",
+                "JustNoPain"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                6.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JustNoPain",
+                "Eywa"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "JustNoPain",
+                "Eywa",
+                "JustNoPain"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.23,
+                8.23
+            ]
+        },
+        "post-river": {
+            "players": [
+                "JustNoPain",
+                "Eywa"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "3h 4h",
+        null,
+        "2h As",
+        null
+    ],
+    "finishing_stack": [
+        98.22,
+        207.02,
+        461.51,
+        115.60999999999999,
+        80.0
+    ]
+}

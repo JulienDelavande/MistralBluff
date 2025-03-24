@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/23 8:25:30",
+    "game_id": "804206589",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "420_am",
+        "BeatenByJacks",
+        "DKillion",
+        "Ksander",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        15.44,
+        15.1,
+        12.53,
+        6.1,
+        29.59,
+        13.58
+    ],
+    "player_small_blind": "420_am",
+    "small_blind": 0.1,
+    "player_big_blind": "BeatenByJacks",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "6s",
+            "5c"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DKillion",
+                "Ksander",
+                "Jui Kuen",
+                "IlxxxlI",
+                "420_am",
+                "BeatenByJacks"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BeatenByJacks",
+                "Jui Kuen",
+                "BeatenByJacks"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BeatenByJacks",
+                "Jui Kuen",
+                "BeatenByJacks"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                2.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BeatenByJacks",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "3h 3s",
+        null,
+        null,
+        "Ah Kh"
+    ],
+    "finishing_stack": [
+        15.44,
+        15.0,
+        16.23,
+        6.1,
+        29.59,
+        9.58
+    ]
+}

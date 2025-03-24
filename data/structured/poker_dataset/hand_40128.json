@@ -1,0 +1,159 @@
+{
+    "date": "2016/12/2 15:54:38",
+    "game_id": "789339176",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "dankmann",
+        "StephCurry",
+        "imperceptible",
+        "IlxxxlI",
+        "BluffDoctor",
+        "AironVega",
+        "ElvenEyes",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        106.0,
+        100.0,
+        18.64,
+        42.25,
+        360.39,
+        123.58,
+        100.0,
+        113.52
+    ],
+    "player_small_blind": "dankmann",
+    "small_blind": 0.5,
+    "player_big_blind": "StephCurry",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "3s",
+            "5d"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "imperceptible",
+                "IlxxxlI",
+                "BluffDoctor",
+                "AironVega",
+                "ElvenEyes",
+                "VegetablesArentYummy",
+                "dankmann",
+                "StephCurry"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "StephCurry",
+                "BluffDoctor"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "StephCurry",
+                "BluffDoctor"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "StephCurry",
+                "BluffDoctor",
+                "StephCurry"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                6.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        105.5,
+        95.0,
+        18.64,
+        42.25,
+        365.37,
+        123.58,
+        100.0,
+        113.52
+    ]
+}

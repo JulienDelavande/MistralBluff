@@ -1,0 +1,121 @@
+{
+    "date": "2016/12/2 8:40:14",
+    "game_id": "789081965",
+    "variant": "PRR",
+    "table_name": "Lakhey-2",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "VegetablesArentYummy",
+        "Orondi",
+        "AligateR",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        205.0,
+        223.36,
+        202.0,
+        97.18
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "Orondi",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "As",
+            "6s"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AligateR",
+                "IlxxxlI",
+                "Orondi"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Orondi",
+                "AligateR"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Orondi",
+                "AligateR"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.18,
+                6.18
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Orondi",
+                "AligateR"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                24.36,
+                24.36
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10s Qd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        205.0,
+        258.90000000000003,
+        165.46,
+        96.18
+    ]
+}

@@ -1,127 +1,89 @@
 {
-    "date": "2016/11/28 20:2:36",
-    "game_id": "786368380",
+    "date": "2016/9/18 8:7:40",
+    "game_id": "730210283",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 1,
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
     "players": [
+        "iDawg",
+        "hotandcold=hold",
         "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "Wollverin",
-        "dscshift"
+        "gosu36484",
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
         6
     ],
     "starting_stacks": [
-        40.0,
-        181.14,
-        120.39,
-        100.0,
-        105.5
+        119.82,
+        108.77,
+        46.5,
+        35.27,
+        100.78,
+        134.74
     ],
-    "player_small_blind": "38979",
-    "small_blind": 1.0,
-    "player_big_blind": "sheenius81",
-    "big_blind": 2.0,
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "iDawg",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7h",
-        "5d"
+        "Kd",
+        "9c"
     ],
     "dealed_cards": {
-        "flop": [
-            "2s",
-            "Js",
-            "Qc"
-        ],
-        "turn": [
-            "10d"
-        ],
-        "river": [
-            "9h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Wollverin",
-                "dscshift",
+                "hotandcold=hold",
                 "IlxxxlI",
-                "38979",
-                "sheenius81"
+                "gosu36484",
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
                 "FOLD",
-                "CALL",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                2.0,
-                null,
-                1.0,
-                null
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "38979",
-                "sheenius81",
-                "dscshift"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "38979",
-                "sheenius81",
-                "dscshift"
-            ],
-            "actions": [
-                "BET",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                4.0,
-                null,
-                4.0
-            ]
-        },
-        "post-river": {
-            "players": [
-                "38979",
-                "dscshift",
-                "38979"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "RAISE",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                6.0,
+                null,
+                null,
+                2.0,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -129,13 +91,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.0,
-        175.14,
-        118.39,
-        100.0,
-        112.8
+        118.82,
+        108.77,
+        46.5,
+        35.27,
+        102.28,
+        134.24
     ]
 }

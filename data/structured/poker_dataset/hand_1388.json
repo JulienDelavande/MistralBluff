@@ -1,85 +1,92 @@
 {
-    "date": "2016/11/29 8:18:5",
-    "game_id": "786739184",
+    "date": "2016/9/17 15:36:57",
+    "game_id": "729617371",
     "variant": "PRR",
-    "table_name": "Karkadann",
-    "type_game": "Hold'em",
-    "button_seat": 9,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "Qrenor",
+        "38979",
         "IlxxxlI",
-        "IamPhamous",
-        "coldkilla",
-        "Log_in",
-        "PeLanpapa",
-        "Iia007"
+        "Fuck-P-Stars",
+        "elpasoafera",
+        "gust"
     ],
     "players_seats": [
         2,
         3,
         4,
         5,
-        6,
-        7,
-        9
+        6
     ],
     "starting_stacks": [
-        126.99,
-        40.0,
-        164.92,
-        37.0,
-        29.6,
         100.0,
-        146.89
+        85.12,
+        168.77,
+        45.61,
+        93.36
     ],
-    "player_small_blind": "Qrenor",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "gust",
+    "small_blind": 1.0,
+    "player_big_blind": "38979",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "Js"
+        "2s",
+        "10s"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Kd",
+            "2d",
+            "4h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IamPhamous",
-                "coldkilla",
-                "Log_in",
-                "PeLanpapa",
-                "Iia007",
-                "Qrenor",
-                "IlxxxlI"
+                "IlxxxlI",
+                "Fuck-P-Stars",
+                "elpasoafera",
+                "gust",
+                "38979"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                3.0,
                 null,
                 null,
+                4.52,
                 null,
-                null,
-                null,
-                null
+                2.52
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "38979",
+                "elpasoafera",
+                "38979",
+                "elpasoafera"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.14,
+                12.56,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -97,17 +104,13 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        126.49,
-        39.0,
-        166.42,
-        37.0,
-        29.6,
-        100.0,
-        146.89
+        107.85000000000001,
+        85.12,
+        168.77,
+        37.95,
+        92.36
     ]
 }

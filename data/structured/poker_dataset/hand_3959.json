@@ -1,0 +1,138 @@
+{
+    "date": "2016/9/23 9:1:2",
+    "game_id": "734097943",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "AironVega",
+        "IlxxxlI",
+        "CKDaimen",
+        "VanishingFlames",
+        "Pureprofit4",
+        "botfarmplz"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        86.0,
+        185.75,
+        200.0,
+        440.45,
+        103.8
+    ],
+    "player_small_blind": "botfarmplz",
+    "small_blind": 2.0,
+    "player_big_blind": "AironVega",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "7d",
+            "9s"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "CKDaimen",
+                "VanishingFlames",
+                "Pureprofit4",
+                "botfarmplz",
+                "AironVega",
+                "CKDaimen"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                20.0,
+                null,
+                null,
+                null,
+                12.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CKDaimen",
+                "VanishingFlames",
+                "CKDaimen"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                22.77,
+                22.77
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CKDaimen",
+                "VanishingFlames",
+                "CKDaimen"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                41.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        196.0,
+        86.0,
+        142.98,
+        247.87,
+        440.45,
+        101.8
+    ]
+}

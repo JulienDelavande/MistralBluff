@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 10:45:37",
+    "game_id": "793270725",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "_glocklee_",
+        "lukopti",
+        "robcace",
+        "welld0ne",
+        "IlxxxlI",
+        "raraAvis8"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        30.51,
+        26.65,
+        27.28,
+        25.0,
+        10.0,
+        42.42
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "raraAvis8",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "8c",
+            "5h"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "_glocklee_",
+                "lukopti",
+                "robcace",
+                "welld0ne",
+                "IlxxxlI",
+                "raraAvis8",
+                "welld0ne"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.58,
+                null,
+                1.5,
+                1.17
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "raraAvis8",
+                "welld0ne"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "raraAvis8",
+                "welld0ne"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "raraAvis8",
+                "welld0ne",
+                "raraAvis8"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                3.25,
+                23.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.51,
+        26.65,
+        27.28,
+        29.6,
+        9.9,
+        37.42
+    ]
+}

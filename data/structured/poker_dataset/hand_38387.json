@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/3 8:31:33",
+    "game_id": "789745729",
+    "variant": "PRR",
+    "table_name": "Kraken-11",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "IlxxxlI",
+        "Bokmal",
+        "mr.fargo",
+        "MrCRABS333",
+        "speechboy71"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        111.05,
+        78.5,
+        87.43,
+        40.0,
+        123.34,
+        229.35
+    ],
+    "player_small_blind": "speechboy71",
+    "small_blind": 0.5,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "As",
+            "7s"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Bokmal",
+                "mr.fargo",
+                "MrCRABS333",
+                "speechboy71",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.2,
+                null,
+                null,
+                1.2
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "mr.fargo"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "mr.fargo",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.8,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        108.85,
+        78.5,
+        87.43,
+        42.459999999999994,
+        123.34,
+        228.85
+    ]
+}

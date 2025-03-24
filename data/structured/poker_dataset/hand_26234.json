@@ -1,0 +1,137 @@
+{
+    "date": "2016/12/8 7:51:17",
+    "game_id": "793115938",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "fortecco",
+        "ijhAA",
+        "Ice Bank Mice Elf",
+        "Bunkman",
+        "apjames"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.88,
+        58.26,
+        12.8,
+        15.44,
+        23.92,
+        11.7
+    ],
+    "player_small_blind": "ijhAA",
+    "small_blind": 0.1,
+    "player_big_blind": "Ice Bank Mice Elf",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "8d",
+            "7d"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bunkman",
+                "apjames",
+                "IlxxxlI",
+                "fortecco",
+                "ijhAA",
+                "Ice Bank Mice Elf",
+                "apjames"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                null,
+                null,
+                1.75,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "apjames"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.93,
+                2.93
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "apjames",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                4.73,
+                6.77,
+                2.04
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Qd Ad",
+        null,
+        "Jd As"
+    ],
+    "finishing_stack": [
+        10.88,
+        58.26,
+        12.700000000000001,
+        3.74,
+        23.92,
+        22.33
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/25 16:6:11",
+    "game_id": "805745930",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "afvet333",
+        "Sonic3Dblast",
+        "holdme7"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        27.17,
+        27.35,
+        55.43,
+        28.68
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "afvet333",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Jc",
+            "6c"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "holdme7",
+                "IlxxxlI",
+                "afvet333"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "afvet333",
+                "IlxxxlI",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.32,
+                2.0,
+                1.68
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qc 8s",
+        "10s Qh",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.92,
+        29.380000000000003,
+        55.43,
+        28.68
+    ]
+}

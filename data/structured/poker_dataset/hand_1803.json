@@ -1,42 +1,57 @@
 {
-    "date": "2016/11/28 19:58:39",
-    "game_id": "786367550",
+    "date": "2016/9/18 8:11:43",
+    "game_id": "730212900",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 4,
     "players": [
+        "A",
         "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "Wollverin"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "utormico",
+        "Cellar door",
+        "FishinChips",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
         2,
         3,
-        5
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.0,
-        198.18,
-        102.02,
-        100.0
+        362.77,
+        104.66,
+        88.36,
+        200.0,
+        133.58,
+        200.0,
+        135.41,
+        301.41,
+        303.15
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "utormico",
     "small_blind": 1.0,
-    "player_big_blind": "38979",
+    "player_big_blind": "Cellar door",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5s",
-        "3c"
+        "4c",
+        "6s"
     ],
     "dealed_cards": {
         "flop": [
-            "8h",
-            "6h",
-            "9h"
+            "Ac",
+            "4h",
+            "10d"
         ],
         "turn": [],
         "river": []
@@ -44,38 +59,56 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "sheenius81",
-                "Wollverin",
+                "FishinChips",
+                "UrSoDumb",
+                "KeepKalm",
+                "A",
                 "IlxxxlI",
-                "38979"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "utormico",
+                "Cellar door"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                4.0,
-                null,
-                null,
-                2.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "38979",
-                "sheenius81",
-                "38979"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "CALL",
+                "CALL",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                5.7,
+                4.0,
+                null,
+                4.0,
+                null,
+                4.0,
+                4.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "UrSoDumb",
+                "A",
+                "Pimpika",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                12.03,
+                null,
+                null,
                 null
             ]
         },
@@ -94,12 +127,22 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        39.0,
-        194.18,
-        106.57,
-        100.0
+        358.77,
+        104.66,
+        84.36,
+        196.0,
+        132.58,
+        198.0,
+        135.41,
+        315.46000000000004,
+        303.15
     ]
 }

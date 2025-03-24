@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/5 16:39:58",
+    "game_id": "791497823",
+    "variant": "PRR",
+    "table_name": "Kraken-3",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "mcjvtny",
+        "Ksowas",
+        "GT-R37",
+        "aleks0v"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        42.95,
+        94.68,
+        138.16,
+        100.0,
+        100.0
+    ],
+    "player_small_blind": "Ksowas",
+    "small_blind": 0.5,
+    "player_big_blind": "GT-R37",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "10s",
+            "9d"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aleks0v",
+                "IlxxxlI",
+                "mcjvtny",
+                "Ksowas",
+                "GT-R37"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                2.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksowas",
+                "mcjvtny"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksowas",
+                "mcjvtny",
+                "Ksowas"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.43,
+                4.43
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ksowas",
+                "mcjvtny",
+                "Ksowas"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.04,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        42.95,
+        102.32,
+        130.73,
+        99.0,
+        100.0
+    ]
+}

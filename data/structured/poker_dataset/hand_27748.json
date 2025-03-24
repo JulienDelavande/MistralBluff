@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/7 15:59:10",
+    "game_id": "792731898",
+    "variant": "PRR",
+    "table_name": "Gorgons-17",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "Maria_Pia",
+        "hoocher",
+        "IlxxxlI",
+        "Suppernoob42",
+        "Hakuna_Matata777"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        55.62,
+        20.25,
+        86.08,
+        21.78,
+        28.04,
+        50.0
+    ],
+    "player_small_blind": "Maria_Pia",
+    "small_blind": 0.25,
+    "player_big_blind": "hoocher",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "2s",
+            "5h"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Suppernoob42",
+                "Hakuna_Matata777",
+                "WeakAndWeary",
+                "Maria_Pia",
+                "hoocher"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Maria_Pia",
+                "hoocher"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Maria_Pia",
+                "hoocher"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Maria_Pia",
+                "hoocher"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        55.62,
+        21.15,
+        85.08,
+        21.78,
+        28.04,
+        50.0
+    ]
+}

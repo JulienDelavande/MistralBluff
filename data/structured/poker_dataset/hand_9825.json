@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/25 15:4:26",
+    "game_id": "805729714",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Sonic3Dblast",
+        "groshelnik",
+        "3ubble3utt",
+        "anokato",
+        "MrTamPham"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        40.39,
+        25.0,
+        30.54,
+        61.69,
+        45.9
+    ],
+    "player_small_blind": "groshelnik",
+    "small_blind": 0.1,
+    "player_big_blind": "3ubble3utt",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "Ah",
+            "Kd"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "MrTamPham",
+                "IlxxxlI",
+                "Sonic3Dblast",
+                "groshelnik",
+                "3ubble3utt",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.55,
+                null,
+                2.0,
+                1.7
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "3ubble3utt",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.25,
+                2.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "3ubble3utt",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                5.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "3ubble3utt",
+                "Sonic3Dblast",
+                "3ubble3utt"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.89,
+                6.89
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "As 10s",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        55.239999999999995,
+        24.9,
+        14.149999999999999,
+        61.69,
+        45.9
+    ]
+}

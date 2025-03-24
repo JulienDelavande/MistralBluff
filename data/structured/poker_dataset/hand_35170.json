@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/5 9:33:26",
+    "game_id": "791279700",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 3,
+    "players": [
+        "LAGrinder",
+        "IlxxxlI",
+        "Hakuna_Matata777",
+        "Prostodursen",
+        "Ksowas",
+        "38979"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        53.23,
+        23.0,
+        50.0,
+        96.8,
+        98.13,
+        73.9
+    ],
+    "player_small_blind": "Prostodursen",
+    "small_blind": 0.5,
+    "player_big_blind": "38979",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "9d",
+            "2d"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LAGrinder",
+                "IlxxxlI",
+                "Hakuna_Matata777",
+                "Prostodursen",
+                "38979"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "38979",
+                "Hakuna_Matata777"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "38979",
+                "Hakuna_Matata777",
+                "38979"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        53.23,
+        23.0,
+        52.28,
+        96.3,
+        98.13,
+        71.9
+    ]
+}

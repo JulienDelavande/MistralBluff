@@ -1,84 +1,122 @@
 {
-    "date": "2016/11/28 18:44:41",
-    "game_id": "786354232",
+    "date": "2016/9/18 8:46:49",
+    "game_id": "730234469",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
+    "table_name": "Karkadann-2",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 8,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "Hakuna_Matata777",
         "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "VegetablesArentYummy",
+        "Pimpika",
+        "BlitzWaut",
+        "Pablo46",
+        "Rishatra",
+        "gosu36484",
+        "Frisconar"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        39.96,
-        77.67,
-        63.84,
-        21.58,
-        76.36,
-        53.11
+        92.37,
+        100.0,
+        77.47,
+        223.64,
+        103.73,
+        40.0,
+        56.58,
+        36.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "BoTPuMHeDichBro",
-    "big_blind": 0.5,
+    "player_small_blind": "Frisconar",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
-    "cards_player": [
-        "3c",
-        "4h"
-    ],
+    "cards_player": [],
     "dealed_cards": {
         "flop": [
-            "Ac",
-            "Qc",
-            "Ks"
+            "2c",
+            "9d",
+            "5h"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "8d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "eu4ria",
-                "Smok5 Js",
-                "SenNoSen",
-                "Hakuna_Matata777",
-                "IlxxxlI",
-                "BoTPuMHeDichBro"
+                "Pimpika",
+                "BlitzWaut",
+                "Pablo46",
+                "Rishatra",
+                "gosu36484",
+                "Frisconar",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
+                "FOLD",
+                "CHECK",
                 "FOLD",
                 "FOLD",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
-                1.0,
                 null,
                 null,
-                0.5
+                null,
+                null,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "BoTPuMHeDichBro",
-                "SenNoSen",
-                "BoTPuMHeDichBro"
+                "VegetablesArentYummy",
+                "Rishatra"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "VegetablesArentYummy",
+                "Rishatra"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "VegetablesArentYummy",
+                "Rishatra",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "CHECK",
@@ -87,19 +125,9 @@
             ],
             "values": [
                 null,
-                0.71,
+                1.58,
                 null
             ]
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
@@ -108,14 +136,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        39.96,
-        78.81,
-        63.84,
-        21.33,
-        75.36,
-        53.11
+        92.37,
+        99.0,
+        77.47,
+        223.64,
+        103.73,
+        41.38,
+        56.58,
+        35.5
     ]
 }

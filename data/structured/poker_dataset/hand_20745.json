@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/9 9:55:41",
+    "game_id": "793930195",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 3,
+    "players": [
+        "IgLa",
+        "rudyru",
+        "IlxxxlI",
+        "EasyQQ",
+        "LazyFish",
+        "mr.fargo"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        64.67,
+        20.0,
+        78.28,
+        116.77,
+        55.16
+    ],
+    "player_small_blind": "EasyQQ",
+    "small_blind": 0.5,
+    "player_big_blind": "LazyFish",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "8s",
+            "Qs"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mr.fargo",
+                "IgLa",
+                "rudyru",
+                "IlxxxlI",
+                "EasyQQ",
+                "LazyFish"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "EasyQQ",
+                "LazyFish"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "EasyQQ",
+                "LazyFish"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "EasyQQ",
+                "LazyFish",
+                "EasyQQ"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        64.67,
+        20.0,
+        77.28,
+        117.67,
+        55.16
+    ]
+}

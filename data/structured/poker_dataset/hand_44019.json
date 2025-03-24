@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/1 14:8:49",
+    "game_id": "788631382",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "MadLifeGrinder",
+        "CattleCorner",
+        "BingBingBopBop",
+        "IlxxxlI",
+        "Goomashroom"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        110.75,
+        228.06,
+        83.5,
+        198.51
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Goomashroom",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "Kd",
+            "Ks"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "CattleCorner",
+                "BingBingBopBop",
+                "IlxxxlI",
+                "Goomashroom",
+                "CattleCorner"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                null,
+                13.0,
+                10.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Goomashroom",
+                "CattleCorner"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                10.52,
+                10.52
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Goomashroom",
+                "CattleCorner",
+                "Goomashroom"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                23.53,
+                23.53
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Goomashroom",
+                "CattleCorner",
+                "Goomashroom"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                62.7,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        156.3,
+        228.06,
+        83.0,
+        150.45999999999998
+    ]
+}

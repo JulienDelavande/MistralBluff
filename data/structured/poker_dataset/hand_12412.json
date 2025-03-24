@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 21:34:0",
+    "game_id": "805231571",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "SkaHot",
+        "ramieliasov",
+        "booya25",
+        "IlxxxlI",
+        "dopey2",
+        "Pro-Bro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        33.78,
+        38.81,
+        23.09,
+        25.0,
+        28.79,
+        42.39
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "dopey2",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "10s",
+            "2d"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pro-Bro",
+                "SkaHot",
+                "ramieliasov",
+                "booya25",
+                "IlxxxlI",
+                "dopey2",
+                "ramieliasov"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dopey2",
+                "ramieliasov"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.18,
+                2.18
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dopey2",
+                "ramieliasov"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dopey2",
+                "ramieliasov"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ac 8c",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.78,
+        42.900000000000006,
+        23.09,
+        24.9,
+        24.36,
+        42.39
+    ]
+}

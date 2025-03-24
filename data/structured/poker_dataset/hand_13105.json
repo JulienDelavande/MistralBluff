@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/24 10:36:27",
+    "game_id": "804990741",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "420_am",
+        "majomx",
+        "Nardicus62",
+        "Da Infamous",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        18.55,
+        10.2,
+        0.96,
+        5.61,
+        12.73
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "420_am",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "10s",
+            "6h"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "majomx",
+                "Nardicus62",
+                "Da Infamous",
+                "IlxxxlI",
+                "420_am"
+            ],
+            "actions": [
+                "CALL",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                0.25,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "420_am",
+                "majomx",
+                "Nardicus62"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "420_am",
+                "majomx",
+                "Nardicus62",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.71,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "2d 3s",
+        null,
+        "7d 10d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        17.59,
+        9.95,
+        2.3,
+        5.61,
+        12.48
+    ]
+}

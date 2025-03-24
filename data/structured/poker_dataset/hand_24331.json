@@ -1,0 +1,116 @@
+{
+    "date": "2016/12/8 14:35:50",
+    "game_id": "793402409",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "anokato",
+        "HapKoTuk",
+        "PhillipHellmuth",
+        "slipgater",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.2,
+        57.39,
+        33.84,
+        26.77,
+        10.35
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "PhillipHellmuth",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "3h",
+            "10s"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "slipgater",
+                "IlxxxlI",
+                "anokato",
+                "HapKoTuk",
+                "PhillipHellmuth"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.65,
+                null,
+                null,
+                null,
+                0.4
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PhillipHellmuth",
+                "slipgater",
+                "PhillipHellmuth",
+                "slipgater"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                2.66,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.2,
+        57.29,
+        35.2,
+        25.37,
+        10.35
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 0:37:20",
+    "game_id": "804608263",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "raraAvis8",
+        "IlxxxlI",
+        "Artemone",
+        "Sonic3Dblast",
+        "MAGNIT",
+        "raider3751"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        33.21,
+        25.0,
+        76.65,
+        25.26,
+        25.0
+    ],
+    "player_small_blind": "MAGNIT",
+    "small_blind": 0.1,
+    "player_big_blind": "raider3751",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "6h",
+            "Js"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "raraAvis8",
+                "IlxxxlI",
+                "Artemone",
+                "Sonic3Dblast",
+                "MAGNIT",
+                "raider3751"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "raider3751",
+                "Artemone",
+                "raider3751"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "raider3751",
+                "Artemone"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "raider3751",
+                "Artemone"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        33.21,
+        23.24,
+        76.65,
+        25.16,
+        26.68
+    ]
+}

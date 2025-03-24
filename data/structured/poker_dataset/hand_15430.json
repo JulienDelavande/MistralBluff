@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/23 7:39:4",
+    "game_id": "804169382",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "Msbhvntwin",
+        "DonkeyPlaya",
+        "i fked YB"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.3,
+        12.93,
+        14.83,
+        21.39
+    ],
+    "player_small_blind": "Msbhvntwin",
+    "small_blind": 0.1,
+    "player_big_blind": "DonkeyPlaya",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "Jd",
+            "8c"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "i fked YB",
+                "IlxxxlI",
+                "Msbhvntwin",
+                "DonkeyPlaya"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Msbhvntwin",
+                "DonkeyPlaya",
+                "i fked YB",
+                "Msbhvntwin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Msbhvntwin",
+                "DonkeyPlaya",
+                "i fked YB",
+                "Msbhvntwin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Msbhvntwin",
+                "DonkeyPlaya"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10c 10s",
+        "Qs 8d",
+        null
+    ],
+    "finishing_stack": [
+        25.3,
+        14.55,
+        13.83,
+        20.64
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 14:11:13",
+    "game_id": "805711001",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "Jui Kuen",
+        "dtnfk",
+        "CroMagnons",
+        "IlxxxlI",
+        "Parcker",
+        "bclever"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.6,
+        15.76,
+        12.5,
+        12.5,
+        25.77,
+        10.82
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Parcker",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "Ks",
+            "Js"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bclever",
+                "Jui Kuen",
+                "dtnfk",
+                "CroMagnons",
+                "IlxxxlI",
+                "Parcker",
+                "bclever"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bclever",
+                "CroMagnons"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.76,
+                1.76
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bclever",
+                "CroMagnons",
+                "bclever"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "ALLIN"
+            ],
+            "values": [
+                3.83,
+                9.0,
+                4.48
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Kd Jh",
+        null,
+        null,
+        "10s 9s"
+    ],
+    "finishing_stack": [
+        13.6,
+        15.76,
+        22.58,
+        12.4,
+        25.52,
+        0.0
+    ]
+}

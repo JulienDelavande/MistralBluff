@@ -1,99 +1,124 @@
 {
-    "date": "2016/11/28 20:41:18",
-    "game_id": "786376795",
+    "date": "2016/9/18 7:42:3",
+    "game_id": "730194613",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Kraken-6",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 3,
     "players": [
-        "GreinSeint",
-        "in_ur_i",
-        "caballeroXXX",
-        "meandkids",
-        "IlxxxlI"
+        "iDawg",
+        "jackson319",
+        "IlxxxlI",
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
+        1,
         2,
         3,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        21.4,
-        38.78,
-        114.11,
-        50.75,
-        20.0
+        113.41,
+        68.82,
+        40.12,
+        107.43,
+        128.28
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "GreinSeint",
-    "big_blind": 0.5,
+    "player_small_blind": "BlitzWaut",
+    "small_blind": 0.5,
+    "player_big_blind": "Pimpika",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5s",
-        "8c"
+        "As",
+        "2c"
     ],
     "dealed_cards": {
         "flop": [
-            "7d",
-            "4h",
-            "3s"
+            "7s",
+            "3c",
+            "Kh"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "Ac"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "in_ur_i",
-                "caballeroXXX",
-                "meandkids",
+                "iDawg",
+                "jackson319",
                 "IlxxxlI",
-                "GreinSeint",
-                "in_ur_i"
+                "BlitzWaut",
+                "Pimpika"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "FOLD",
-                "RAISE",
-                "CALL"
+                "CALL",
+                "CHECK"
             ],
             "values": [
-                1.5,
                 null,
+                1.0,
                 null,
-                null,
-                3.0,
-                2.0
+                0.5,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "GreinSeint",
-                "in_ur_i"
+                "BlitzWaut",
+                "Pimpika",
+                "jackson319",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.9,
+                1.9,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Pimpika",
+                "jackson319"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.3,
+                4.3
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Pimpika",
+                "jackson319"
             ],
             "actions": [
                 "BET",
                 "FOLD"
             ],
             "values": [
-                2.29,
+                9.0,
                 null
             ]
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
@@ -104,10 +129,10 @@
         null
     ],
     "finishing_stack": [
-        24.79,
-        35.28,
-        114.11,
-        50.75,
-        19.75
+        113.41,
+        61.61999999999999,
+        40.12,
+        106.43,
+        135.71
     ]
 }

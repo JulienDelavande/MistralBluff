@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/23 11:19:32",
+    "game_id": "804337528",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "abdollars",
+        "Burger",
+        "xROCKETMANx",
+        "IlxxxlI",
+        "CroMagnons"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        11.89,
+        9.98,
+        18.55,
+        12.5,
+        25.62
+    ],
+    "player_small_blind": "xROCKETMANx",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "5d",
+            "Kd"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CroMagnons",
+                "abdollars",
+                "Burger",
+                "xROCKETMANx",
+                "IlxxxlI",
+                "CroMagnons"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                2.14,
+                2.14,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "abdollars",
+                "Burger"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "abdollars",
+                "Burger"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.56,
+                2.56
+            ]
+        },
+        "post-river": {
+            "players": [
+                "abdollars",
+                "Burger",
+                "abdollars"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.28,
+                5.28
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Js Jc",
+        "Ac Qc",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        1.9100000000000001,
+        20.01,
+        18.45,
+        12.25,
+        24.87
+    ]
+}

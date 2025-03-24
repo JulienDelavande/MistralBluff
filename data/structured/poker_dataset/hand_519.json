@@ -1,127 +1,111 @@
 {
-    "date": "2016/11/29 14:6:38",
-    "game_id": "786997254",
+    "date": "2016/9/5 12:28:27",
+    "game_id": "720265951",
     "variant": "PRR",
-    "table_name": "Karkadann-3",
-    "type_game": "Hold'em",
-    "button_seat": 8,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "zboiii",
-        "ElvenEyes",
-        "StephCurry",
+        "UrSoDumb",
+        "St3p04ka",
         "IlxxxlI",
-        "dankmann",
-        "VegetablesArentYummy"
+        "gust",
+        "jtee95",
+        "lars76"
     ],
     "players_seats": [
         1,
         2,
         3,
+        5,
         7,
-        8,
         9
     ],
     "starting_stacks": [
-        100.0,
-        107.5,
-        112.28,
-        40.04,
-        161.24,
-        268.17
+        174.45,
+        126.25,
+        50.75,
+        80.0,
+        207.57,
+        105.8
     ],
-    "player_small_blind": "VegetablesArentYummy",
-    "small_blind": 0.5,
-    "player_big_blind": "zboiii",
-    "big_blind": 1.0,
+    "player_small_blind": "St3p04ka",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7h",
-        "9h"
+        "Qh",
+        "Qc"
     ],
     "dealed_cards": {
         "flop": [
-            "7d",
-            "8d",
-            "Jc"
+            "As",
+            "10d",
+            "Ks"
         ],
-        "turn": [
-            "8s"
-        ],
-        "river": [
-            "5c"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "ElvenEyes",
-                "StephCurry",
+                "gust",
+                "jtee95",
+                "lars76",
+                "UrSoDumb",
+                "St3p04ka",
                 "IlxxxlI",
-                "dankmann",
-                "VegetablesArentYummy",
-                "zboiii"
+                "lars76",
+                "St3p04ka"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL"
+                "CALL",
+                "FOLD"
             ],
             "values": [
+                null,
+                null,
                 2.0,
                 null,
-                null,
-                null,
-                null,
-                1.0
+                1.0,
+                4.0,
+                4.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "zboiii",
-                "ElvenEyes",
-                "zboiii"
+                "IlxxxlI",
+                "lars76",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                2.14,
-                2.14
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "zboiii",
-                "ElvenEyes"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "zboiii",
-                "ElvenEyes"
-            ],
-            "actions": [
-                "BET",
+                "ALLIN",
                 "FOLD"
             ],
             "values": [
-                6.0,
+                null,
+                99.8,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -133,11 +117,11 @@
         null
     ],
     "finishing_stack": [
-        104.21,
-        103.36,
-        112.28,
-        40.04,
-        161.24,
-        267.67
+        174.45,
+        124.25,
+        44.75,
+        80.0,
+        207.57,
+        113.1
     ]
 }

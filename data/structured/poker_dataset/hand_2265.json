@@ -1,106 +1,84 @@
 {
-    "date": "2016/11/28 17:53:47",
-    "game_id": "786344269",
+    "date": "2016/9/18 9:11:48",
+    "game_id": "730248007",
     "variant": "PRR",
-    "table_name": "Garuda-3",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 9,
+    "button_seat": 1,
     "players": [
-        "Hakuna_Matata777",
-        "frenzybarb",
-        "JoJoLoring",
-        "IlxxxlI",
-        "1jackoff1",
-        "haroldbb",
-        "rpportugal"
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "Pablo46",
+        "Pimpika",
+        "gosu36484",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
-        4,
+        3,
         5,
-        7,
-        8,
+        6,
         9
     ],
     "starting_stacks": [
-        92.17,
-        50.0,
-        44.9,
-        20.0,
-        95.69,
-        59.14,
-        6.63
+        171.19,
+        106.26,
+        102.0,
+        72.94,
+        39.03,
+        40.0
     ],
-    "player_small_blind": "Hakuna_Matata777",
-    "small_blind": 0.25,
-    "player_big_blind": "frenzybarb",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 0.5,
+    "player_big_blind": "Pablo46",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Js",
-        "8s"
+        "5s",
+        "As"
     ],
     "dealed_cards": {
         "flop": [
-            "10s",
-            "Kd",
-            "3h"
+            "Kc",
+            "5h",
+            "8c"
         ],
-        "turn": [
-            "3c"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "JoJoLoring",
+                "Pimpika",
+                "gosu36484",
                 "IlxxxlI",
-                "1jackoff1",
-                "haroldbb",
-                "rpportugal",
-                "Hakuna_Matata777",
-                "frenzybarb"
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pablo46"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "CALL",
+                "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "CHECK"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                0.5,
+                2.0,
                 null,
                 null,
-                null,
-                null
+                1.0
             ]
         },
         "post-flop": {
             "players": [
-                "frenzybarb",
-                "1jackoff1"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "frenzybarb",
-                "1jackoff1",
-                "frenzybarb"
+                "Pablo46",
+                "IlxxxlI",
+                "Pablo46"
             ],
             "actions": [
                 "CHECK",
@@ -109,9 +87,14 @@
             ],
             "values": [
                 null,
-                1.0,
+                2.85,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -125,16 +108,14 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        91.92,
-        49.5,
-        44.9,
-        20.0,
-        96.38,
-        59.14,
-        6.63
+        171.19,
+        105.76,
+        100.0,
+        72.94,
+        39.03,
+        42.28
     ]
 }

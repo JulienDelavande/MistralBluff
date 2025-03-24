@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/9 20:0:3",
+    "game_id": "794161766",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "nemesh123",
+        "RRapt09",
+        "IlxxxlI",
+        "IgLa",
+        "wethco"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        15.66,
+        25.25,
+        20.0,
+        62.54,
+        60.68
+    ],
+    "player_small_blind": "IgLa",
+    "small_blind": 0.25,
+    "player_big_blind": "wethco",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "Jc",
+            "5s"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "nemesh123",
+                "RRapt09",
+                "IlxxxlI",
+                "IgLa",
+                "wethco"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "wethco",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "wethco",
+                "IlxxxlI",
+                "wethco"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "wethco",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qc 9s",
+        null,
+        "Kh 10h"
+    ],
+    "finishing_stack": [
+        15.66,
+        25.25,
+        16.0,
+        62.29,
+        64.52
+    ]
+}

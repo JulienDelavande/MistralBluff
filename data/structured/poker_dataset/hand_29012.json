@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/7 9:40:33",
+    "game_id": "792511596",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "WeakAndWeary",
+        "IgLa",
+        "dragggonfly",
+        "goodygumdrop",
+        "IlxxxlI",
+        "braaaap"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.38,
+        74.26,
+        70.14,
+        36.65,
+        20.25,
+        20.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "braaaap",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "9s",
+            "Ac"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "IgLa",
+                "dragggonfly",
+                "goodygumdrop",
+                "IlxxxlI",
+                "braaaap"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "braaaap"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "braaaap"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "braaaap"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "5s Qs",
+        "7c 7d"
+    ],
+    "finishing_stack": [
+        50.38,
+        74.26,
+        70.14,
+        36.65,
+        19.25,
+        20.9
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/24 0:20:13",
+    "game_id": "804601575",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "NdRunner",
+        "OlegGazmanoy",
+        "serial28",
+        "Sonic3Dblast",
+        "IlxxxlI",
+        "BoScHiNg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        39.41,
+        35.19,
+        37.9,
+        29.7,
+        25.0,
+        13.46
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "BoScHiNg",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Jd",
+            "2s"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "NdRunner",
+                "OlegGazmanoy",
+                "serial28",
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "BoScHiNg"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BoScHiNg",
+                "serial28"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BoScHiNg",
+                "serial28"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.7,
+                0.7
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BoScHiNg",
+                "serial28"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.58,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        39.41,
+        35.19,
+        36.699999999999996,
+        29.7,
+        24.9,
+        14.64
+    ]
+}

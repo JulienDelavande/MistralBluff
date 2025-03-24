@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/3 11:36:46",
+    "game_id": "789887799",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "davetheman",
+        "rudyru",
+        "IlxxxlI",
+        "Flushdogg",
+        "EBDuBois",
+        "imperceptible"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        30.86,
+        26.83,
+        20.84,
+        34.05,
+        32.88,
+        7.42
+    ],
+    "player_small_blind": "Flushdogg",
+    "small_blind": 0.25,
+    "player_big_blind": "EBDuBois",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "Kd",
+            "9c"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "imperceptible",
+                "davetheman",
+                "rudyru",
+                "IlxxxlI",
+                "Flushdogg",
+                "EBDuBois"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "EBDuBois",
+                "davetheman",
+                "EBDuBois"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.09,
+                3.09
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "EBDuBois",
+                "davetheman",
+                "EBDuBois"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.96,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        35.230000000000004,
+        26.83,
+        20.84,
+        33.8,
+        28.290000000000003,
+        7.42
+    ]
+}

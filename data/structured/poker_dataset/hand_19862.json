@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/9 14:0:29",
+    "game_id": "794089924",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "rossco2000",
+        "hoocher",
+        "Heksebrygg",
+        "Mr.AllIn1992",
+        "IlxxxlI",
+        "mdw72"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        4.84,
+        46.81,
+        57.04,
+        74.42,
+        20.45,
+        29.66
+    ],
+    "player_small_blind": "mdw72",
+    "small_blind": 0.25,
+    "player_big_blind": "rossco2000",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "7s",
+            "Qc"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hoocher",
+                "Heksebrygg",
+                "Mr.AllIn1992",
+                "IlxxxlI",
+                "mdw72",
+                "rossco2000"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "mdw72",
+                "rossco2000",
+                "Mr.AllIn1992"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mdw72",
+                "rossco2000",
+                "Mr.AllIn1992",
+                "mdw72"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "rossco2000",
+                "Mr.AllIn1992"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        6.67,
+        46.81,
+        57.04,
+        72.92,
+        20.45,
+        29.16
+    ]
+}

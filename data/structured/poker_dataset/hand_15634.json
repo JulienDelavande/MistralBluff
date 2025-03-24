@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/22 23:24:48",
+    "game_id": "803886178",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "OlegGazmanoy",
+        "Br4dy12",
+        "SkaHot",
+        "afvet333",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        25.25,
+        25.0,
+        25.19,
+        26.15,
+        27.28
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "5s",
+            "2s"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "OlegGazmanoy",
+                "Br4dy12",
+                "SkaHot",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.76,
+                0.76
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.48,
+                1.48
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8h 8d",
+        null,
+        null,
+        null,
+        "Ac 9h"
+    ],
+    "finishing_stack": [
+        28.04,
+        25.0,
+        25.09,
+        26.15,
+        24.29
+    ]
+}

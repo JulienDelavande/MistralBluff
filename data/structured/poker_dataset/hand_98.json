@@ -1,90 +1,105 @@
 {
-    "date": "2016/11/29 15:8:12",
-    "game_id": "787021775",
+    "date": "2016/9/4 9:47:7",
+    "game_id": "719277451",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 5,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "cuervo_",
         "IlxxxlI",
-        "jjeannin1",
-        "trader063",
-        "Parcker",
-        "Jui Kuen"
+        "letsgooooo",
+        "bet2000",
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
-        5,
         6
     ],
     "starting_stacks": [
-        20.0,
-        20.0,
-        39.42,
-        35.47,
-        85.93,
-        75.28
+        114.7,
+        83.85,
+        404.55,
+        200.0
     ],
-    "player_small_blind": "Jui Kuen",
-    "small_blind": 0.25,
-    "player_big_blind": "cuervo_",
-    "big_blind": 0.5,
+    "player_small_blind": "bet2000",
+    "small_blind": 2.0,
+    "player_big_blind": "ConstanceHarm",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jh",
-        "6s"
+        "Ad",
+        "5c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "Ah",
+            "Qc",
+            "9s"
+        ],
+        "turn": [
+            "10h"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "jjeannin1",
-                "trader063",
-                "Parcker",
-                "Jui Kuen",
-                "cuervo_",
-                "jjeannin1",
-                "trader063"
+                "letsgooooo",
+                "bet2000",
+                "ConstanceHarm"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
-                "CALL",
-                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                6.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bet2000",
+                "ConstanceHarm",
+                "letsgooooo",
+                "bet2000",
+                "ConstanceHarm"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
-                0.5,
-                0.5,
                 null,
-                14.75,
-                null,
-                null,
+                13.22,
+                13.22,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "bet2000",
+                "letsgooooo"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                66.42,
+                62.63
+            ]
         },
         "post-river": {
             "players": [],
@@ -94,18 +109,14 @@
     },
     "card_shown_by_players": [
         null,
-        null,
-        null,
-        null,
-        null,
+        "5s Ac",
+        "9c 10c",
         null
     ],
     "finishing_stack": [
-        19.5,
-        20.0,
-        38.92,
-        34.97,
-        85.93,
-        76.78
+        114.7,
+        0.0,
+        494.65000000000003,
+        192.0
     ]
 }

@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/7 19:12:42",
+    "game_id": "792773522",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "huiloputin",
+        "NETWEBS",
+        "IampokerKidd",
+        "Irene13",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        29.41,
+        12.92,
+        43.69,
+        28.78,
+        10.0
+    ],
+    "player_small_blind": "NETWEBS",
+    "small_blind": 0.1,
+    "player_big_blind": "IampokerKidd",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "10d",
+            "4s"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Irene13",
+                "IlxxxlI",
+                "huiloputin",
+                "NETWEBS",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "NETWEBS",
+                "huiloputin",
+                "NETWEBS"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.88,
+                0.88
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "NETWEBS",
+                "huiloputin",
+                "NETWEBS"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.09,
+                2.09
+            ]
+        },
+        "post-river": {
+            "players": [
+                "NETWEBS",
+                "huiloputin"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                9.45,
+                9.45
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kc 10c",
+        "6s 5c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        16.490000000000002,
+        24.79,
+        43.44,
+        28.78,
+        10.0
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/1 21:17:12",
+    "game_id": "788734210",
+    "variant": "PRR",
+    "table_name": "Kraken-14",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "WeakAndWeary",
+        "Chubrica",
+        "colethomas",
+        "Oral-Bet",
+        "Rekruol",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        319.66,
+        134.78,
+        100.0,
+        40.0,
+        118.87,
+        40.0
+    ],
+    "player_small_blind": "Oral-Bet",
+    "small_blind": 0.5,
+    "player_big_blind": "Rekruol",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "5h",
+            "Ac"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "Chubrica",
+                "colethomas",
+                "Oral-Bet",
+                "Rekruol"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                1.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Oral-Bet",
+                "Chubrica",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.37,
+                2.37
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Oral-Bet",
+                "Chubrica"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Oral-Bet",
+                "Chubrica"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.17,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        319.66,
+        130.41,
+        100.0,
+        44.89,
+        117.87,
+        40.0
+    ]
+}

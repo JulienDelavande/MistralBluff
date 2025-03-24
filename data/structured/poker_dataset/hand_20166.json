@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/9 13:29:17",
+    "game_id": "794076521",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "braaaap",
+        "Parcker",
+        "IlxxxlI",
+        "iowamike",
+        "Tilt-A-Whirl"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        21.82,
+        54.6,
+        20.75,
+        47.24,
+        91.22
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "7h",
+            "2h"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "iowamike",
+                "Tilt-A-Whirl",
+                "braaaap",
+                "Parcker",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "braaaap"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "braaaap"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.07,
+                1.07
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "braaaap",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.93,
+        54.35,
+        18.68,
+        47.24,
+        91.22
+    ]
+}

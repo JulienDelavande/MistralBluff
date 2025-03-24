@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/6 13:21:36",
+    "game_id": "792089118",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Bluffing Every Hand",
+        "IlxxxlI",
+        "MrHustle",
+        "Palkan93",
+        "sir.caffeine",
+        "virtualbox"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        38.09,
+        10.25,
+        25.1,
+        30.22,
+        25.88,
+        25.41
+    ],
+    "player_small_blind": "sir.caffeine",
+    "small_blind": 0.1,
+    "player_big_blind": "virtualbox",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "6d",
+            "Qd"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bluffing Every Hand",
+                "IlxxxlI",
+                "MrHustle",
+                "Palkan93",
+                "sir.caffeine",
+                "virtualbox"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "sir.caffeine",
+                "virtualbox"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.47,
+                0.47
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "sir.caffeine",
+                "virtualbox"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.54,
+                1.54
+            ]
+        },
+        "post-river": {
+            "players": [
+                "sir.caffeine",
+                "virtualbox"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        38.09,
+        10.25,
+        25.1,
+        30.22,
+        28.369999999999997,
+        22.65
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 23:16:15",
+    "game_id": "805263809",
+    "variant": "PRR",
+    "table_name": "Gorgons-17",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "lonleyronin",
+        "QDevilQ",
+        "MrCRABS333",
+        "JloJIKa",
+        "IlxxxlI",
+        "dangerspike"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        52.34,
+        50.0,
+        50.0,
+        57.13,
+        39.59,
+        50.0
+    ],
+    "player_small_blind": "dangerspike",
+    "small_blind": 0.25,
+    "player_big_blind": "lonleyronin",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "3c",
+            "5s"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "QDevilQ",
+                "MrCRABS333",
+                "JloJIKa",
+                "IlxxxlI",
+                "dangerspike",
+                "lonleyronin"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MrCRABS333",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MrCRABS333",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                5.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MrCRABS333",
+                "IlxxxlI",
+                "MrCRABS333"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                17.0,
+                30.59,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        51.84,
+        50.0,
+        24.0,
+        57.13,
+        63.71,
+        49.75
+    ]
+}

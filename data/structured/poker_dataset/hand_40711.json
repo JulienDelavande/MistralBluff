@@ -1,0 +1,156 @@
+{
+    "date": "2016/12/2 14:29:24",
+    "game_id": "789310257",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "GagaPoker",
+        "StephCurry",
+        "hodisuda",
+        "imperceptible",
+        "IlxxxlI",
+        "BluffDoctor",
+        "kingkong508",
+        "BiGFck",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        100.0,
+        109.97,
+        106.02,
+        38.5,
+        41.42,
+        232.43,
+        70.2,
+        23.9,
+        129.88
+    ],
+    "player_small_blind": "StephCurry",
+    "small_blind": 0.5,
+    "player_big_blind": "hodisuda",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "Qc",
+            "5h"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "imperceptible",
+                "IlxxxlI",
+                "BluffDoctor",
+                "kingkong508",
+                "BiGFck",
+                "VegetablesArentYummy",
+                "GagaPoker",
+                "StephCurry",
+                "hodisuda"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "hodisuda",
+                "kingkong508"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "hodisuda",
+                "kingkong508",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        109.47,
+        105.02,
+        38.5,
+        41.42,
+        232.43,
+        71.58,
+        23.9,
+        129.88
+    ]
+}

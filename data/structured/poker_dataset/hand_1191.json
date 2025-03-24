@@ -1,146 +1,102 @@
 {
-    "date": "2016/11/29 9:11:32",
-    "game_id": "786786045",
+    "date": "2016/9/15 12:9:17",
+    "game_id": "728108059",
     "variant": "PRR",
-    "table_name": "Gorgons-7",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "528 Hertz",
-        "Heksebrygg",
-        "Dirty4skin",
-        "FaceMelt",
-        "Tilt-A-Whirl",
+        "TuxoH",
+        "allinoh",
+        "NoCortosPermite",
         "IlxxxlI"
     ],
     "players_seats": [
-        1,
-        2,
         3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        50.0,
-        50.0,
-        43.09,
-        61.48,
-        75.34,
-        20.13
+        210.3,
+        67.85,
+        344.04,
+        146.4
     ],
-    "player_small_blind": "Dirty4skin",
-    "small_blind": 0.25,
-    "player_big_blind": "FaceMelt",
-    "big_blind": 0.5,
+    "player_small_blind": "allinoh",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2h",
-        "Jd"
+        "6d",
+        "8d"
     ],
     "dealed_cards": {
         "flop": [
-            "6s",
-            "10d",
-            "8s"
+            "2h",
+            "7s",
+            "9d"
         ],
-        "turn": [
-            "Ah"
-        ],
-        "river": [
-            "10c"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Tilt-A-Whirl",
-                "IlxxxlI",
-                "528 Hertz",
-                "Heksebrygg",
-                "Dirty4skin",
-                "FaceMelt"
+                "TuxoH",
+                "allinoh",
+                "IlxxxlI"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "RAISE",
                 "CALL"
             ],
             "values": [
                 null,
-                null,
-                null,
-                null,
-                1.75,
-                1.5
+                10.0,
+                8.0
             ]
         },
         "post-flop": {
             "players": [
-                "Dirty4skin",
-                "FaceMelt"
+                "allinoh",
+                "IlxxxlI",
+                "allinoh"
             ],
             "actions": [
-                "BET",
-                "CALL"
+                "CHECK",
+                "ALLIN",
+                "FOLD"
             ],
             "values": [
-                2.53,
-                2.53
+                null,
+                134.4,
+                null
             ]
         },
         "post-turn": {
-            "players": [
-                "Dirty4skin",
-                "FaceMelt",
-                "Dirty4skin",
-                "FaceMelt"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                4.3,
-                12.0,
-                7.7
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "Dirty4skin",
-                "FaceMelt"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "As Js",
-        null,
         null,
         null
     ],
     "finishing_stack": [
-        50.0,
-        50.0,
-        57.97,
-        44.949999999999996,
-        75.34,
-        20.13
+        210.3,
+        55.849999999999994,
+        344.04,
+        158.20000000000002
     ]
 }

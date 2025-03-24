@@ -1,20 +1,17 @@
 {
-    "date": "2016/11/29 8:53:22",
-    "game_id": "786771436",
+    "date": "2016/9/17 11:23:37",
+    "game_id": "729556356",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
+        "SheppyPOO!!",
+        "RCSOX",
         "IlxxxlI",
-        "Tilt-A-Whirl",
-        "IamPhamous",
-        "PANDAisEVIL",
-        "Iia007",
-        "322xxx",
-        "L4zy_FiSh",
-        "mr.fargo",
-        "shokerAAss"
+        "Johannah12",
+        "pokerhawk333",
+        "Pureprofit4"
     ],
     "players_seats": [
         1,
@@ -22,88 +19,73 @@
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        99.21,
-        220.96,
-        153.87,
-        204.93,
-        248.76,
-        200.0,
-        200.0,
-        146.55,
-        203.0
+        216.7,
+        134.97,
+        226.03,
+        206.32,
+        91.86,
+        315.5
     ],
-    "player_small_blind": "322xxx",
-    "small_blind": 1.0,
-    "player_big_blind": "L4zy_FiSh",
-    "big_blind": 2.0,
+    "player_small_blind": "pokerhawk333",
+    "small_blind": 2.0,
+    "player_big_blind": "Pureprofit4",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "Jd"
+        "Ks",
+        "Qc"
     ],
     "dealed_cards": {
         "flop": [
-            "7c",
-            "6s",
-            "Ad"
-        ],
-        "turn": [
+            "10s",
+            "Kd",
             "Js"
         ],
+        "turn": [
+            "6c"
+        ],
         "river": [
-            "8d"
+            "2h"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "mr.fargo",
-                "shokerAAss",
+                "SheppyPOO!!",
+                "RCSOX",
                 "IlxxxlI",
-                "Tilt-A-Whirl",
-                "IamPhamous",
-                "PANDAisEVIL",
-                "Iia007",
-                "322xxx",
-                "L4zy_FiSh",
-                "IamPhamous"
+                "Johannah12",
+                "pokerhawk333",
+                "Pureprofit4",
+                "RCSOX"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
                 "RAISE",
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
+                4.0,
+                8.0,
                 null,
                 null,
                 null,
-                6.0,
-                null,
-                18.0,
-                null,
-                null,
-                12.0
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "IamPhamous",
-                "Iia007",
-                "IamPhamous"
+                "RCSOX",
+                "IlxxxlI",
+                "RCSOX"
             ],
             "actions": [
                 "CHECK",
@@ -112,35 +94,41 @@
             ],
             "values": [
                 null,
-                18.52,
-                18.52
+                10.9,
+                10.9
             ]
         },
         "post-turn": {
             "players": [
-                "IamPhamous",
-                "Iia007"
+                "RCSOX",
+                "IlxxxlI",
+                "RCSOX"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
                 null,
-                null
+                23.0,
+                23.0
             ]
         },
         "post-river": {
             "players": [
-                "IamPhamous",
-                "Iia007"
+                "RCSOX",
+                "IlxxxlI",
+                "RCSOX"
             ],
             "actions": [
-                "BET",
+                "CHECK",
+                "ALLIN",
                 "FOLD"
             ],
             "values": [
-                48.69,
+                null,
+                184.13,
                 null
             ]
         }
@@ -151,20 +139,14 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        99.21,
-        220.96,
-        190.39,
-        204.93,
-        212.23999999999998,
-        199.0,
-        198.0,
-        146.55,
-        203.0
+        216.7,
+        93.07,
+        273.08,
+        206.32,
+        89.86,
+        311.5
     ]
 }

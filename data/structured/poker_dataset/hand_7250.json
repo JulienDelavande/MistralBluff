@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/28 10:22:11",
+    "game_id": "807598240",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 3,
+    "players": [
+        "Pimpika",
+        "IlxxxlI",
+        "Ice Bank Mice Elf",
+        "dzdnconfuzed",
+        "PANDAisEVIL"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        45.0,
+        43.23,
+        55.28,
+        36.16,
+        75.29
+    ],
+    "player_small_blind": "dzdnconfuzed",
+    "small_blind": 0.5,
+    "player_big_blind": "PANDAisEVIL",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "4c",
+            "5s"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pimpika",
+                "IlxxxlI",
+                "Ice Bank Mice Elf",
+                "dzdnconfuzed",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PANDAisEVIL",
+                "Ice Bank Mice Elf",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.85,
+                2.85
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PANDAisEVIL",
+                "Ice Bank Mice Elf",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.46,
+                6.46
+            ]
+        },
+        "post-river": {
+            "players": [
+                "PANDAisEVIL",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "8h 7d",
+        null,
+        "4d 8d"
+    ],
+    "finishing_stack": [
+        45.0,
+        43.23,
+        43.97,
+        35.66,
+        85.95
+    ]
+}

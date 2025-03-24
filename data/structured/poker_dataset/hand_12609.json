@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/24 21:7:9",
+    "game_id": "805224162",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "N1cer1ver",
+        "gipper PK",
+        "booya25",
+        "IlxxxlI",
+        "BobbyJones1936",
+        "runsdeeply"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        34.15,
+        31.7,
+        14.77,
+        44.86,
+        10.08,
+        25.0
+    ],
+    "player_small_blind": "N1cer1ver",
+    "small_blind": 0.1,
+    "player_big_blind": "gipper PK",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "4s",
+            "Ah"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "booya25",
+                "IlxxxlI",
+                "BobbyJones1936",
+                "runsdeeply",
+                "N1cer1ver",
+                "gipper PK",
+                "booya25",
+                "BobbyJones1936",
+                "runsdeeply"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                0.75,
+                null,
+                2.0,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "gipper PK",
+                "booya25"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "gipper PK",
+                "booya25",
+                "gipper PK"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "gipper PK",
+                "booya25"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                3.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        34.05,
+        37.05,
+        10.52,
+        44.86,
+        9.33,
+        24.25
+    ]
+}

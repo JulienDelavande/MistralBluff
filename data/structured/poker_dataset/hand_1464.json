@@ -1,149 +1,136 @@
 {
-    "date": "2016/11/29 7:57:46",
-    "game_id": "786721971",
+    "date": "2016/9/18 7:20:40",
+    "game_id": "730179622",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
+        "ABCD123",
+        "klizzyklein",
+        "TryNotToTilt",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "loolu",
-        "IamPhamous",
-        "TonnaMunz",
-        "Iia007",
-        "Gronkowski69",
-        "MadLifeGrinder",
-        "aleaga",
-        "shokerAAss"
+        "Silverchicken"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
-        5,
         6,
         7,
         8,
         9
     ],
     "starting_stacks": [
-        85.04,
-        213.0,
-        133.55,
-        268.35,
-        202.25,
-        302.25,
-        205.4,
-        347.51,
-        296.98
+        92.08,
+        280.63,
+        315.96,
+        200.0,
+        213.8,
+        80.0,
+        278.0
     ],
-    "player_small_blind": "Gronkowski69",
-    "small_blind": 1.0,
-    "player_big_blind": "MadLifeGrinder",
-    "big_blind": 2.0,
+    "player_small_blind": "LuckyBoy1980",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7h",
-        "8c"
+        "Ks",
+        "5s"
     ],
     "dealed_cards": {
         "flop": [
-            "Qd",
-            "3d",
-            "Ac"
+            "Kc",
+            "Ac",
+            "2s"
         ],
         "turn": [
-            "9c"
+            "9h"
         ],
-        "river": []
+        "river": [
+            "9s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "aleaga",
-                "shokerAAss",
-                "IlxxxlI",
-                "loolu",
-                "IamPhamous",
-                "TonnaMunz",
-                "Iia007",
-                "Gronkowski69",
-                "MadLifeGrinder"
+                "Silverchicken",
+                "ABCD123",
+                "klizzyklein",
+                "TryNotToTilt",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "RAISE",
                 "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
-                null,
-                null,
-                6.0,
-                6.0,
+                4.0,
                 null,
                 null,
                 null,
-                4.0
+                null,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "MadLifeGrinder",
-                "loolu",
-                "IamPhamous",
-                "MadLifeGrinder",
-                "loolu"
+                "IlxxxlI",
+                "ABCD123"
             ],
             "actions": [
                 "CHECK",
-                "CHECK",
-                "BET",
-                "CALL",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
-                null,
-                9.02,
-                9.02,
                 null
             ]
         },
         "post-turn": {
             "players": [
-                "MadLifeGrinder",
-                "IamPhamous",
-                "MadLifeGrinder",
-                "IamPhamous",
-                "MadLifeGrinder"
+                "IlxxxlI",
+                "ABCD123",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "RAISE",
-                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "ABCD123",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                17.59,
-                44.0,
-                100.94,
+                8.92,
                 null
             ]
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
@@ -153,19 +140,15 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        85.04,
-        207.0,
-        196.57,
-        268.35,
-        202.25,
-        301.25,
-        146.38,
-        347.51,
-        296.98
+        101.93,
+        280.63,
+        315.96,
+        200.0,
+        211.8,
+        72.0,
+        278.0
     ]
 }

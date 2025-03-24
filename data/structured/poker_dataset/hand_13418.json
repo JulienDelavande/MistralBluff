@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 10:3:57",
+    "game_id": "804965613",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "OpusDog",
+        "IlxxxlI",
+        "Burger",
+        "chintrogdin",
+        "CroMagnons",
+        "huiloputin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.59,
+        25.0,
+        16.43,
+        11.21,
+        46.99,
+        34.43
+    ],
+    "player_small_blind": "chintrogdin",
+    "small_blind": 0.1,
+    "player_big_blind": "CroMagnons",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "Ad",
+            "Ah"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "huiloputin",
+                "OpusDog",
+                "IlxxxlI",
+                "Burger",
+                "chintrogdin",
+                "CroMagnons",
+                "chintrogdin"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.5,
+                1.5,
+                1.15
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "chintrogdin",
+                "CroMagnons",
+                "chintrogdin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "chintrogdin",
+                "CroMagnons",
+                "chintrogdin",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.75,
+                8.21,
+                4.46
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10h Ac",
+        "Ks As",
+        null
+    ],
+    "finishing_stack": [
+        24.59,
+        25.0,
+        16.43,
+        0.0,
+        57.08,
+        34.43
+    ]
+}

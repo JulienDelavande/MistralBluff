@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/7 9:19:26",
+    "game_id": "792492614",
+    "variant": "PRR",
+    "table_name": "Gorgons-12",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "xROCKETMANx",
+        "THEKELL",
+        "IlxxxlI",
+        "QDevilQ",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        55.56,
+        42.62,
+        20.25,
+        53.0,
+        101.6
+    ],
+    "player_small_blind": "THEKELL",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "7d",
+            "2h"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "QDevilQ",
+                "so_it_goes",
+                "xROCKETMANx",
+                "THEKELL",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "THEKELL",
+                "IlxxxlI",
+                "xROCKETMANx",
+                "THEKELL",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.42,
+                null,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "xROCKETMANx",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        58.69,
+        41.62,
+        17.83,
+        53.0,
+        101.6
+    ]
+}

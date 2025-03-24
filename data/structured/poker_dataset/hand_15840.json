@@ -1,0 +1,165 @@
+{
+    "date": "2016/12/22 22:53:44",
+    "game_id": "803851606",
+    "variant": "PRR",
+    "table_name": "Garuda-2",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "naprimer",
+        "GagaPoker",
+        "joydivizion",
+        "Rusya",
+        "biglashley",
+        "mugiwara_boy",
+        "IlxxxlI",
+        "twoakers"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        75.52,
+        50.0,
+        50.69,
+        56.26,
+        37.1,
+        50.0,
+        50.0,
+        30.77
+    ],
+    "player_small_blind": "naprimer",
+    "small_blind": 0.25,
+    "player_big_blind": "GagaPoker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "Jc",
+            "Qh"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "joydivizion",
+                "Rusya",
+                "biglashley",
+                "mugiwara_boy",
+                "IlxxxlI",
+                "twoakers",
+                "naprimer",
+                "GagaPoker",
+                "biglashley"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                4.5,
+                null,
+                null,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "biglashley",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "biglashley",
+                "IlxxxlI",
+                "biglashley"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.5,
+                9.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "biglashley",
+                "IlxxxlI",
+                "biglashley"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                36.0,
+                23.1
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "4h Ah",
+        null,
+        "Qd 10d",
+        null
+    ],
+    "finishing_stack": [
+        75.27,
+        49.5,
+        50.69,
+        56.26,
+        0.0,
+        50.0,
+        84.85,
+        30.77
+    ]
+}

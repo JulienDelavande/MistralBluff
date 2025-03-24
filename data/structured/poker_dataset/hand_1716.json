@@ -1,58 +1,89 @@
 {
-    "date": "2016/11/28 20:10:17",
-    "game_id": "786370208",
+    "date": "2016/9/18 8:1:15",
+    "game_id": "730206130",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "caballeroXXX",
-        "in_ur_i",
-        "IlxxxlI"
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "Cellar door",
+        "wjb024"
     ],
     "players_seats": [
-        1,
+        2,
+        3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        52.6,
-        50.0,
-        23.54
+        40.0,
+        100.0,
+        157.2,
+        100.0,
+        85.35
     ],
-    "player_small_blind": "caballeroXXX",
-    "small_blind": 0.25,
-    "player_big_blind": "in_ur_i",
-    "big_blind": 0.5,
+    "player_small_blind": "KeepKalm",
+    "small_blind": 1.0,
+    "player_big_blind": "Cellar door",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6c",
-        "Kd"
+        "3c",
+        "4c"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Kd",
+            "9s",
+            "Ad"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "wjb024",
                 "IlxxxlI",
-                "caballeroXXX"
+                "VegetablesArentYummy",
+                "KeepKalm",
+                "Cellar door"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                5.0,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Cellar door",
+                "VegetablesArentYummy",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
+                4.22,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-turn": {
             "players": [],
@@ -68,11 +99,15 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        52.35,
-        50.25,
-        23.54
+        40.0,
+        105.45,
+        156.2,
+        95.0,
+        85.35
     ]
 }

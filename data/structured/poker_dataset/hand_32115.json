@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 8:11:28",
+    "game_id": "791866054",
+    "variant": "PRR",
+    "table_name": "Kraken-3",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Azaladog",
+        "shokerAAss",
+        "binkblankboo",
+        "mr.fargo",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        276.8,
+        165.35,
+        66.9,
+        40.0,
+        40.0
+    ],
+    "player_small_blind": "mr.fargo",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "10d",
+            "5s"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Azaladog",
+                "shokerAAss",
+                "binkblankboo",
+                "mr.fargo",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Azaladog",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.09,
+                3.09
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Azaladog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Azaladog"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.02,
+                6.02
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "9s 10s",
+        null,
+        null,
+        null,
+        "Kc Qs"
+    ],
+    "finishing_stack": [
+        288.18,
+        165.35,
+        66.9,
+        39.5,
+        27.89
+    ]
+}

@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/29 13:39:22",
-    "game_id": "786985156",
+    "date": "2016/9/5 12:47:23",
+    "game_id": "720271140",
     "variant": "PRR",
-    "table_name": "Gorgons-12",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 4,
     "players": [
-        "BHawk12",
-        "WeakAndWeary",
-        "IampokerKidd",
+        "RapaNui",
+        "St3p04ka",
+        "GranatoBetano",
         "IlxxxlI",
-        "Beep_Beep",
-        "foreseen"
+        "SheppyPOO!!",
+        "oleg_dagi",
+        "ShtrafBat",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
@@ -19,47 +21,51 @@
         3,
         4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        67.5,
-        92.33,
-        50.25,
-        20.0,
-        50.75,
-        65.62
+        647.84,
+        400.27,
+        511.38,
+        126.87,
+        677.94,
+        332.05,
+        129.0,
+        233.21
     ],
-    "player_small_blind": "IampokerKidd",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 3.0,
+    "player_big_blind": "TheManiac89",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qc",
-        "7d"
+        "2c",
+        "6s"
     ],
     "dealed_cards": {
         "flop": [
-            "9c",
-            "Qs",
-            "5s"
+            "7h",
+            "7c",
+            "Jh"
         ],
         "turn": [
-            "8c"
+            "Ah"
         ],
         "river": [
-            "6s"
+            "4c"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Beep_Beep",
-                "foreseen",
-                "BHawk12",
-                "WeakAndWeary",
-                "IampokerKidd",
-                "IlxxxlI"
+                "RapaNui",
+                "St3p04ka",
+                "GranatoBetano",
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "TheManiac89"
             ],
             "actions": [
                 "FOLD",
@@ -71,18 +77,18 @@
             ],
             "values": [
                 null,
-                1.25,
+                18.0,
                 null,
                 null,
-                1.0,
+                15.0,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "IampokerKidd",
-                "foreseen",
-                "IampokerKidd"
+                "SheppyPOO!!",
+                "St3p04ka",
+                "SheppyPOO!!"
             ],
             "actions": [
                 "CHECK",
@@ -91,59 +97,60 @@
             ],
             "values": [
                 null,
-                2.84,
-                2.84
+                27.96,
+                27.96
             ]
         },
         "post-turn": {
             "players": [
-                "IampokerKidd",
-                "foreseen",
-                "IampokerKidd"
+                "SheppyPOO!!",
+                "St3p04ka"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
-                12.38,
-                12.38
+                null
             ]
         },
         "post-river": {
             "players": [
-                "IampokerKidd",
-                "foreseen",
-                "IampokerKidd"
+                "SheppyPOO!!",
+                "St3p04ka",
+                "SheppyPOO!!"
             ],
             "actions": [
                 "CHECK",
                 "ALLIN",
-                "ALLIN"
+                "FOLD"
             ],
             "values": [
                 null,
-                49.15,
-                33.78
+                354.31,
+                null
             ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "7s As",
         null,
         null,
-        "10h Kh"
+        null,
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        67.5,
-        92.33,
-        98.0,
-        19.5,
-        50.75,
-        15.370000000000005
+        647.84,
+        451.28,
+        511.38,
+        126.87,
+        631.98,
+        332.05,
+        129.0,
+        227.21
     ]
 }

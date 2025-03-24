@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/25 22:13:3",
+    "game_id": "805812109",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Indigol",
+        "IlxxxlI",
+        "whitebeaver77",
+        "spewbacca"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        60.71,
+        25.49,
+        11.78,
+        10.0
+    ],
+    "player_small_blind": "whitebeaver77",
+    "small_blind": 0.1,
+    "player_big_blind": "spewbacca",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "2c",
+            "6d"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Indigol",
+                "IlxxxlI",
+                "whitebeaver77",
+                "spewbacca"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "spewbacca",
+                "Indigol",
+                "spewbacca"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.76,
+                0.76
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "spewbacca",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "spewbacca",
+                "Indigol"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.98,
+                1.98
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ad 9d",
+        null,
+        null,
+        "Ks 8s"
+    ],
+    "finishing_stack": [
+        63.95,
+        25.49,
+        11.68,
+        6.51
+    ]
+}

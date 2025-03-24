@@ -1,0 +1,105 @@
+{
+    "date": "2016/12/8 11:28:29",
+    "game_id": "793303006",
+    "variant": "PRR",
+    "table_name": "Ettin-4",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "12monkeys",
+        "drewwid",
+        "IlxxxlI",
+        "TheRealSlimShadyy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5,
+        7
+    ],
+    "starting_stacks": [
+        14.66,
+        27.25,
+        10.35,
+        26.37
+    ],
+    "player_small_blind": "12monkeys",
+    "small_blind": 0.1,
+    "player_big_blind": "drewwid",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "2h",
+            "Ah"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "TheRealSlimShadyy",
+                "12monkeys",
+                "drewwid"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.62,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "drewwid",
+                "IlxxxlI",
+                "drewwid"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.66,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        14.56,
+        26.63,
+        11.01,
+        26.37
+    ]
+}

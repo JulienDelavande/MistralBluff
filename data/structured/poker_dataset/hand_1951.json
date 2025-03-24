@@ -1,78 +1,91 @@
 {
-    "date": "2016/11/28 19:36:58",
-    "game_id": "786363640",
+    "date": "2016/9/18 8:31:52",
+    "game_id": "730225510",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
-    "button_seat": 8,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "6betThreat",
-        "legenda99",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
         "flyzlcomb07",
-        "allaebalaamballa",
-        "IlxxxlI"
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
+        "IlxxxlI",
+        "wishyouhadnot"
     ],
     "players_seats": [
-        1,
+        2,
+        3,
+        4,
         5,
         6,
+        7,
         8,
         9
     ],
     "starting_stacks": [
-        6.27,
-        112.63,
-        71.39,
-        39.65,
-        42.52
+        200.0,
+        263.1,
+        550.98,
+        614.29,
+        246.05,
+        353.32,
+        166.3,
+        174.94
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "6betThreat",
-    "big_blind": 0.5,
+    "player_small_blind": "Cellar door",
+    "small_blind": 2.0,
+    "player_big_blind": "TryNotToTilt",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Js",
-        "Ad"
+        "8d",
+        "10c"
     ],
     "dealed_cards": {
-        "flop": [
-            "5c",
-            "10c",
-            "6s"
-        ],
-        "turn": [
-            "7h"
-        ],
-        "river": [
-            "9h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "legenda99",
                 "flyzlcomb07",
-                "allaebalaamballa",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "6betThreat",
-                "IlxxxlI"
+                "wishyouhadnot",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt",
+                "Cellar door",
+                "TryNotToTilt"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "ALLIN",
-                "CALL"
+                "RAISE",
+                "RAISE",
+                "FOLD"
             ],
             "values": [
                 null,
                 null,
                 null,
-                1.0,
-                5.77,
-                5.02
+                null,
+                null,
+                null,
+                10.0,
+                28.0,
+                68.0,
+                null
             ]
         },
         "post-flop": {
@@ -92,17 +105,23 @@
         }
     },
     "card_shown_by_players": [
-        "8c 9s",
         null,
         null,
         null,
-        "Js Ad"
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        11.92,
-        112.63,
-        71.39,
-        39.65,
-        36.25
+        200.0,
+        295.1,
+        518.98,
+        614.29,
+        246.05,
+        353.32,
+        166.3,
+        174.94
     ]
 }

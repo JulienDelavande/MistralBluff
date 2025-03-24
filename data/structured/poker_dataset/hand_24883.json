@@ -1,0 +1,163 @@
+{
+    "date": "2016/12/8 11:19:53",
+    "game_id": "793296438",
+    "variant": "PRR",
+    "table_name": "Ettin-5",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "12monkeys",
+        "lablador1010",
+        "IlxxxlI",
+        "chanero",
+        "R_CAP",
+        "Haid Dasalami",
+        "drewwid"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        9.65,
+        29.78,
+        10.0,
+        4.56,
+        20.73,
+        20.66,
+        25.0
+    ],
+    "player_small_blind": "lablador1010",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "6h",
+            "4h"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "chanero",
+                "R_CAP",
+                "Haid Dasalami",
+                "drewwid",
+                "12monkeys",
+                "lablador1010",
+                "IlxxxlI",
+                "chanero"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                1.0,
+                null,
+                null,
+                null,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "chanero",
+                "R_CAP",
+                "IlxxxlI",
+                "chanero"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "chanero",
+                "R_CAP"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "chanero",
+                "R_CAP",
+                "chanero"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.65,
+        29.68,
+        9.0,
+        2.0599999999999996,
+        24.03,
+        20.66,
+        25.0
+    ]
+}

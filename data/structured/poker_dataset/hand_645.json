@@ -1,83 +1,124 @@
 {
-    "date": "2016/11/29 13:21:29",
-    "game_id": "786975458",
+    "date": "2016/9/5 12:59:6",
+    "game_id": "720274026",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "Abundance4All",
-        "xROCKETMANx",
+        "St3p04ka",
         "IlxxxlI",
-        "GagaPoker",
-        "foreseen"
+        "pokerhawk333",
+        "gust",
+        "jtee95",
+        "PANDAisEVIL"
     ],
     "players_seats": [
-        1,
         2,
+        3,
         4,
         5,
-        6
+        7,
+        8
     ],
     "starting_stacks": [
-        88.07,
-        61.97,
-        21.25,
-        84.78,
-        53.87
+        122.41,
+        48.3,
+        30.52,
+        80.0,
+        237.06,
+        132.77
     ],
-    "player_small_blind": "Abundance4All",
-    "small_blind": 0.25,
-    "player_big_blind": "xROCKETMANx",
-    "big_blind": 0.5,
+    "player_small_blind": "gust",
+    "small_blind": 1.0,
+    "player_big_blind": "jtee95",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ad",
-        "Ks"
+        "4d",
+        "2s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "5c",
+            "6s",
+            "8s"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "3c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "PANDAisEVIL",
+                "St3p04ka",
                 "IlxxxlI",
-                "GagaPoker",
-                "foreseen",
-                "Abundance4All",
-                "xROCKETMANx"
+                "pokerhawk333",
+                "gust",
+                "jtee95"
             ],
             "actions": [
                 "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "CALL"
             ],
             "values": [
-                1.75,
+                5.0,
                 null,
                 null,
+                null,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jtee95",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "jtee95",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "jtee95",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                7.84,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -85,13 +126,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        87.82,
-        61.47,
-        22.0,
-        84.78,
-        53.87
+        122.41,
+        48.3,
+        30.52,
+        79.0,
+        242.51,
+        127.77000000000001
     ]
 }

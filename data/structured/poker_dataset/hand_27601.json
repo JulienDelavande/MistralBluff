@@ -1,0 +1,154 @@
+{
+    "date": "2016/12/7 19:1:21",
+    "game_id": "792771786",
+    "variant": "PRR",
+    "table_name": "Ettin-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "mistersmiles",
+        "silvereye",
+        "Tazz_Rocks",
+        "Bryndad",
+        "ramirocalieron",
+        "IlxxxlI",
+        "number7withacoke"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        31.06,
+        26.12,
+        16.13,
+        9.37,
+        8.21,
+        10.47,
+        13.62
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "number7withacoke",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "3h",
+            "Ah"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mistersmiles",
+                "silvereye",
+                "Tazz_Rocks",
+                "Bryndad",
+                "ramirocalieron",
+                "IlxxxlI",
+                "number7withacoke",
+                "silvereye"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "silvereye",
+                "ramirocalieron"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.6,
+                2.6
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "silvereye",
+                "ramirocalieron"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "silvereye",
+                "ramirocalieron",
+                "silvereye"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.61,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        31.06,
+        22.52,
+        16.13,
+        9.37,
+        11.790000000000001,
+        10.370000000000001,
+        13.37
+    ]
+}

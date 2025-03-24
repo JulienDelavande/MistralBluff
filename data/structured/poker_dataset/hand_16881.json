@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/19 20:50:39",
+    "game_id": "801728087",
+    "variant": "PRR",
+    "table_name": "Bahamut",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "Randy Tran",
+        "UltraFish",
+        "Tolstobrov E",
+        "K9CARE",
+        "IlxxxlI",
+        "Serb1one"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        1.12,
+        1.65,
+        1.45,
+        0.78,
+        2.49,
+        0.36
+    ],
+    "player_small_blind": "Tolstobrov E",
+    "small_blind": 0.01,
+    "player_big_blind": "K9CARE",
+    "big_blind": 0.02,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "Kc",
+            "4s"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Serb1one",
+                "Randy Tran",
+                "UltraFish",
+                "Tolstobrov E",
+                "K9CARE"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.01,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Tolstobrov E",
+                "K9CARE"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.02,
+                0.02
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Tolstobrov E",
+                "K9CARE",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.04,
+                0.08,
+                0.04
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Tolstobrov E",
+                "K9CARE",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.11,
+                0.11
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "8d Kh",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        1.12,
+        1.65,
+        1.22,
+        0.99,
+        2.49,
+        0.36
+    ]
+}

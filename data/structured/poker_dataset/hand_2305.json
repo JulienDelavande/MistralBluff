@@ -1,154 +1,105 @@
 {
-    "date": "2016/11/21 12:30:37",
-    "game_id": "781028918",
+    "date": "2016/9/18 9:22:46",
+    "game_id": "730253443",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Short",
-    "button_seat": 7,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 2,
     "players": [
-        "kidsquid",
-        "sr86",
         "IlxxxlI",
-        "hotshothotgg",
-        "Spagetti1",
-        "parmele",
-        "ChrisNola",
-        "Parcker",
-        "FirstClan"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "hangiie",
+        "aquamarin"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
         5,
-        6,
-        7,
         8,
         9
     ],
     "starting_stacks": [
-        31.88,
-        47.15,
-        26.39,
-        27.47,
-        24.84,
-        18.97,
-        60.95,
-        25.0,
-        28.95
+        80.0,
+        464.0,
+        246.69,
+        90.61,
+        80.97,
+        133.3
     ],
-    "player_small_blind": "Parcker",
-    "small_blind": 0.25,
-    "player_big_blind": "FirstClan",
-    "big_blind": 0.5,
+    "player_small_blind": "Pimpika",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3c",
-        "3d"
+        "8s",
+        "As"
     ],
     "dealed_cards": {
         "flop": [
-            "8h",
-            "Ks",
-            "2d"
+            "3d",
+            "5h",
+            "7d"
         ],
-        "turn": [
-            "5d"
-        ],
-        "river": [
-            "Ah"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "kidsquid",
-                "sr86",
+                "GARY888",
+                "hangiie",
+                "aquamarin",
                 "IlxxxlI",
-                "hotshothotgg",
-                "Spagetti1",
-                "parmele",
-                "ChrisNola",
-                "Parcker",
-                "FirstClan",
-                "kidsquid",
-                "hotshothotgg"
+                "Pimpika",
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "RAISE",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "CALL",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "RAISE",
-                "CALL",
-                "CALL"
+                "CHECK"
             ],
             "values": [
-                1.5,
+                2.0,
                 null,
                 null,
-                1.5,
+                2.0,
                 null,
-                null,
-                null,
-                null,
-                6.0,
-                5.0,
-                5.0
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "FirstClan",
-                "kidsquid",
-                "hotshothotgg",
-                "FirstClan"
+                "VegetablesArentYummy",
+                "GARY888",
+                "IlxxxlI"
             ],
             "actions": [
-                "CHECK",
                 "BET",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                9.38,
-                null,
-                9.38
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "FirstClan",
-                "kidsquid"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "FirstClan",
-                "kidsquid"
-            ],
-            "actions": [
-                "ALLIN",
                 "FOLD"
             ],
             "values": [
-                13.07,
+                4.43,
+                null,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -157,20 +108,14 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        15.999999999999998,
-        47.15,
-        26.39,
-        20.97,
-        24.84,
-        18.97,
-        60.95,
-        24.75,
-        49.660000000000004
+        78.0,
+        463.0,
+        251.34,
+        88.61,
+        80.97,
+        133.3
     ]
 }

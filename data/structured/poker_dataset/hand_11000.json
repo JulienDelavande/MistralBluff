@@ -1,0 +1,167 @@
+{
+    "date": "2016/12/25 0:1:46",
+    "game_id": "805281940",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "shim123",
+        "Winter is here",
+        "Log_in",
+        "IlxxxlI",
+        "JetRex",
+        "THeNyConnect",
+        "MrCat",
+        "hoocher",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        73.52,
+        49.5,
+        22.89,
+        50.75,
+        32.1,
+        45.3,
+        49.0,
+        49.25,
+        68.2
+    ],
+    "player_small_blind": "shim123",
+    "small_blind": 0.25,
+    "player_big_blind": "Winter is here",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "Kh",
+            "Js"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Log_in",
+                "IlxxxlI",
+                "JetRex",
+                "THeNyConnect",
+                "MrCat",
+                "hoocher",
+                "so_it_goes",
+                "shim123",
+                "Winter is here"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Winter is here",
+                "so_it_goes"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Winter is here",
+                "so_it_goes"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.07,
+                1.07
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Winter is here",
+                "so_it_goes",
+                "Winter is here"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "8c 10s"
+    ],
+    "finishing_stack": [
+        73.27,
+        45.43,
+        22.89,
+        50.75,
+        32.1,
+        45.3,
+        49.0,
+        49.25,
+        72.11
+    ]
+}

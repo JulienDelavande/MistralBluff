@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/24 10:14:47",
+    "game_id": "804973849",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "dtnfk",
+        "ijhAA",
+        "BeatsHappen",
+        "njiegw",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        17.77,
+        13.38,
+        12.5,
+        58.34,
+        17.56
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "dtnfk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "2s",
+            "Ks"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "7c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ijhAA",
+                "BeatsHappen",
+                "njiegw",
+                "IlxxxlI",
+                "dtnfk"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BeatsHappen",
+                "njiegw"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.17,
+                1.17
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BeatsHappen",
+                "njiegw",
+                "BeatsHappen",
+                "njiegw"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                5.5,
+                3.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BeatsHappen",
+                "njiegw"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                5.08,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        17.52,
+        13.38,
+        19.52,
+        50.92,
+        17.459999999999997
+    ]
+}

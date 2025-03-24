@@ -1,140 +1,92 @@
 {
-    "date": "2016/11/28 18:6:55",
-    "game_id": "786346773",
+    "date": "2016/9/18 9:5:25",
+    "game_id": "730244480",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 5,
     "players": [
-        "Hakuna_Matata777",
-        "SenNoSen",
-        "pokanaktus",
         "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "38979",
+        "VVubanga",
+        "graphicup"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        5,
-        6
+        5
     ],
     "starting_stacks": [
-        63.5,
-        79.54,
-        50.75,
-        20.0,
-        58.64,
-        82.58
+        45.0,
+        277.45,
+        131.89,
+        135.72
     ],
-    "player_small_blind": "eu4ria",
-    "small_blind": 0.25,
-    "player_big_blind": "SenNoSen",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "38979",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3d",
-        "10d"
+        "Ad",
+        "5d"
     ],
     "dealed_cards": {
-        "flop": [
-            "Js",
-            "2c",
-            "3s"
-        ],
-        "turn": [
-            "8s"
-        ],
-        "river": [
-            "10s"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "pokanaktus",
+                "VVubanga",
+                "graphicup",
                 "IlxxxlI",
-                "BoTPuMHeDichBro",
-                "eu4ria",
-                "SenNoSen"
+                "38979",
+                "graphicup"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
+                "ALLIN",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                1.0,
                 null,
+                5.0,
+                44.0,
                 null,
-                null,
-                0.5
+                null
             ]
         },
         "post-flop": {
-            "players": [
-                "SenNoSen",
-                "pokanaktus",
-                "SenNoSen"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.5,
-                1.5
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "SenNoSen",
-                "pokanaktus"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "SenNoSen",
-                "pokanaktus"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        null,
-        "5s 6s",
         null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        63.5,
-        82.03,
-        48.25,
-        20.0,
-        58.64,
-        82.33
+        52.0,
+        275.45,
+        131.89,
+        130.72
     ]
 }

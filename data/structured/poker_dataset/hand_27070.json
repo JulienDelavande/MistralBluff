@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/7 19:49:29",
+    "game_id": "792780088",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Bokmal",
+        "eu4ria",
+        "IlxxxlI",
+        "FTHater",
+        "Oral-Bet"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.41,
+        132.83,
+        22.25,
+        93.35,
+        34.83
+    ],
+    "player_small_blind": "eu4ria",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "4s",
+            "4c"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FTHater",
+                "Oral-Bet",
+                "Bokmal",
+                "eu4ria",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.25,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "eu4ria",
+                "Oral-Bet",
+                "eu4ria",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.9,
+                5.0,
+                3.1
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "eu4ria",
+                "Oral-Bet",
+                "eu4ria"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                28.58,
+                19.58
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kc 9c",
+        null,
+        null,
+        "10c 10d"
+    ],
+    "finishing_stack": [
+        50.41,
+        165.16000000000003,
+        21.75,
+        93.35,
+        0.0
+    ]
+}

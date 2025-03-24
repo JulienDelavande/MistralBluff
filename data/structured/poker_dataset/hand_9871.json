@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/25 14:59:34",
+    "game_id": "805728220",
+    "variant": "PRR",
+    "table_name": "Ekek-14",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "holdme7",
+        "anokato",
+        "Pro-Bro",
+        "asldkjflkjm",
+        "Sonic3Dblast",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        47.24,
+        29.42,
+        26.23,
+        27.35,
+        30.39,
+        27.6
+    ],
+    "player_small_blind": "Pro-Bro",
+    "small_blind": 0.1,
+    "player_big_blind": "asldkjflkjm",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "6c",
+            "Jh"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "holdme7",
+                "anokato",
+                "Pro-Bro",
+                "asldkjflkjm"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Pro-Bro",
+                "asldkjflkjm"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Pro-Bro",
+                "asldkjflkjm",
+                "Pro-Bro"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        47.24,
+        29.42,
+        25.73,
+        27.8,
+        30.39,
+        27.6
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/9 18:23:33",
+    "game_id": "794147326",
+    "variant": "PRR",
+    "table_name": "Gorgons-14",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "beachrog",
+        "Macka3oppo13",
+        "IlxxxlI",
+        "SeemsLegit"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        48.25,
+        50.75,
+        25.27,
+        47.15
+    ],
+    "player_small_blind": "beachrog",
+    "small_blind": 0.25,
+    "player_big_blind": "Macka3oppo13",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "2s",
+            "7c"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "SeemsLegit",
+                "beachrog",
+                "Macka3oppo13",
+                "beachrog"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "beachrog",
+                "Macka3oppo13",
+                "beachrog"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                2.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "beachrog",
+                "Macka3oppo13"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "beachrog",
+                "Macka3oppo13",
+                "beachrog"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                3.32,
+                8.5,
+                5.18
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "7h Ah",
+        "As 10c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        60.629999999999995,
+        37.0,
+        25.27,
+        47.15
+    ]
+}

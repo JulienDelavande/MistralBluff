@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 8:23:8",
+    "game_id": "793845491",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "MadLifeGrinder",
+        "IlxxxlI",
+        "Heksebrygg",
+        "Tilt-A-Whirl",
+        "Polar1z1ng",
+        "braaaap"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        28.98,
+        51.64,
+        66.25,
+        66.1,
+        23.31
+    ],
+    "player_small_blind": "Polar1z1ng",
+    "small_blind": 0.25,
+    "player_big_blind": "braaaap",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "As",
+            "Qd"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "IlxxxlI",
+                "Heksebrygg",
+                "Tilt-A-Whirl",
+                "Polar1z1ng",
+                "braaaap"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.75,
+                null,
+                null,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "braaaap",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "braaaap",
+                "IlxxxlI",
+                "braaaap"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.38,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        30.8,
+        51.64,
+        66.25,
+        65.85,
+        21.56
+    ]
+}

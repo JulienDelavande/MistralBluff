@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/26 13:9:53",
+    "game_id": "806343147",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "constant revelation",
+        "IlxxxlI",
+        "lablador1010",
+        "OMG_VanCandy",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        25.3,
+        16.44,
+        29.15,
+        11.05,
+        22.52
+    ],
+    "player_small_blind": "OMG_VanCandy",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "3c",
+            "10h"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "constant revelation",
+                "IlxxxlI",
+                "lablador1010",
+                "OMG_VanCandy",
+                "HapKoTuk",
+                "constant revelation",
+                "lablador1010"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                0.75,
+                null,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "constant revelation",
+                "lablador1010",
+                "constant revelation",
+                "lablador1010"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                2.3,
+                4.6,
+                4.6,
+                2.3
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "constant revelation",
+                "lablador1010"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.86,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.87,
+        16.44,
+        20.0,
+        10.950000000000001,
+        22.27
+    ]
+}

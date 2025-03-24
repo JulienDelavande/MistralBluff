@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/8 17:49:49",
+    "game_id": "793450263",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "IampokerKidd",
+        "Bokmal",
+        "IlxxxlI",
+        "Mr.Excel"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        53.68,
+        50.0,
+        73.78,
+        20.0,
+        73.79
+    ],
+    "player_small_blind": "Mr.Excel",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "4d",
+            "Qd"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IampokerKidd",
+                "Bokmal",
+                "IlxxxlI",
+                "Mr.Excel",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Mr.Excel",
+                "WeakAndWeary",
+                "Mr.Excel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.59,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        54.81,
+        50.0,
+        73.78,
+        20.0,
+        72.54
+    ]
+}

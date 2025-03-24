@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/7 19:4:0",
+    "game_id": "792772205",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Irene13",
+        "IlxxxlI",
+        "SkaHot",
+        "huiloputin",
+        "KUSH_KING",
+        "renoreno"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        34.52,
+        10.83,
+        25.0,
+        25.0,
+        34.89,
+        25.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "6d",
+            "Jd"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "huiloputin",
+                "KUSH_KING",
+                "renoreno",
+                "Irene13",
+                "IlxxxlI",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "KUSH_KING",
+                "renoreno"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.86,
+                0.86
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "KUSH_KING",
+                "renoreno"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.94,
+                1.94
+            ]
+        },
+        "post-river": {
+            "players": [
+                "KUSH_KING",
+                "renoreno"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Qs Js",
+        null
+    ],
+    "finishing_stack": [
+        34.52,
+        10.73,
+        24.75,
+        25.0,
+        38.2,
+        21.7
+    ]
+}

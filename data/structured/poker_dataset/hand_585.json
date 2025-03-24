@@ -1,94 +1,72 @@
 {
-    "date": "2016/11/29 13:42:33",
-    "game_id": "786986721",
+    "date": "2016/9/5 12:44:36",
+    "game_id": "720270349",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "BHawk12",
-        "flyshark01",
-        "Doubletwentyone",
+        "oleg_dagi",
         "IlxxxlI",
-        "foreseen"
+        "SheppyPOO!!",
+        "St3p04ka"
     ],
     "players_seats": [
-        1,
+        2,
         3,
         4,
-        5,
-        6
+        5
     ],
     "starting_stacks": [
-        47.0,
-        99.17,
-        52.99,
-        20.0,
-        56.04
+        80.0,
+        84.0,
+        235.66,
+        115.45
     ],
-    "player_small_blind": "flyshark01",
-    "small_blind": 0.25,
-    "player_big_blind": "Doubletwentyone",
-    "big_blind": 0.5,
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6d",
-        "8c"
+        "8c",
+        "6d"
     ],
     "dealed_cards": {
         "flop": [
-            "Jd",
+            "2d",
             "Kd",
-            "9d"
+            "Ad"
         ],
-        "turn": [
-            "4d"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "oleg_dagi",
                 "IlxxxlI",
-                "foreseen",
-                "BHawk12",
-                "flyshark01",
-                "Doubletwentyone"
+                "SheppyPOO!!",
+                "St3p04ka"
             ],
             "actions": [
-                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
+                8.0,
                 null,
-                1.25,
                 null,
-                null,
-                0.75
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "Doubletwentyone",
-                "foreseen"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Doubletwentyone",
-                "foreseen",
-                "Doubletwentyone"
+                "St3p04ka",
+                "oleg_dagi",
+                "St3p04ka"
             ],
             "actions": [
                 "CHECK",
@@ -97,9 +75,14 @@
             ],
             "values": [
                 null,
-                1.02,
+                5.95,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -111,14 +94,12 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        47.0,
-        98.92,
-        51.74,
-        20.0,
-        57.41
+        89.85,
+        84.0,
+        233.66,
+        107.45
     ]
 }

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/7 19:14:22",
+    "game_id": "792773808",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "huiloputin",
+        "IlxxxlI",
+        "Poteplie",
+        "Irene13",
+        "SkaHot",
+        "IampokerKidd"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.35,
+        10.32,
+        25.0,
+        28.61,
+        25.35,
+        26.05
+    ],
+    "player_small_blind": "Irene13",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "9s",
+            "Ks"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IampokerKidd",
+                "huiloputin",
+                "IlxxxlI",
+                "Poteplie",
+                "Irene13",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Irene13",
+                "Poteplie",
+                "Irene13"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.79,
+                0.79
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Irene13",
+                "Poteplie"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Irene13",
+                "Poteplie"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.25,
+                2.25
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "3h 3s",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.35,
+        10.32,
+        21.46,
+        32.04,
+        25.1,
+        26.05
+    ]
+}

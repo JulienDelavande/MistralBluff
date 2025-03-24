@@ -1,0 +1,159 @@
+{
+    "date": "2016/12/23 8:23:26",
+    "game_id": "804204696",
+    "variant": "PRR",
+    "table_name": "Ettin-8",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Ksander",
+        "IlxxxlI",
+        "ZabieramZielone",
+        "booya25",
+        "viva el ocho",
+        "Flipassassin",
+        "labnola",
+        "brutus36"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        25.0,
+        31.42,
+        44.68,
+        18.63,
+        25.0,
+        30.73,
+        10.3,
+        17.76
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "ZabieramZielone",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "2d",
+            "10d"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "booya25",
+                "viva el ocho",
+                "Flipassassin",
+                "labnola",
+                "brutus36",
+                "Ksander",
+                "IlxxxlI",
+                "ZabieramZielone"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ZabieramZielone",
+                "viva el ocho"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ZabieramZielone",
+                "viva el ocho"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.01,
+                1.01
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ZabieramZielone",
+                "viva el ocho",
+                "ZabieramZielone"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.72,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        31.32,
+        42.92,
+        18.63,
+        26.68,
+        30.73,
+        10.3,
+        17.76
+    ]
+}

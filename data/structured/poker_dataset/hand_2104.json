@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 18:40:48",
-    "game_id": "786353527",
+    "date": "2016/9/18 8:49:58",
+    "game_id": "730236235",
     "variant": "PRR",
-    "table_name": "Lakhey-10",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 5,
     "players": [
-        "rkoko",
-        "DonCesarGrinder",
+        "gosu36484",
         "IlxxxlI",
-        "KingGuciGuci",
-        "JJaromir",
-        "bunchy"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "Torinsurance",
+        "FishinChips",
+        "Crabbapple"
     ],
     "players_seats": [
         1,
@@ -19,87 +21,125 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        116.09,
-        316.87,
+        90.25,
         80.0,
-        201.0,
-        488.6,
-        364.31
+        181.16,
+        233.91,
+        78.63,
+        115.7,
+        78.08,
+        99.88
     ],
-    "player_small_blind": "KingGuciGuci",
+    "player_small_blind": "Torinsurance",
     "small_blind": 1.0,
-    "player_big_blind": "JJaromir",
+    "player_big_blind": "FishinChips",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5s",
-        "Kd"
+        "10c",
+        "As"
     ],
     "dealed_cards": {
         "flop": [
-            "4c",
-            "2s",
-            "Jc"
+            "9c",
+            "6h",
+            "Ac"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "3c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "bunchy",
-                "rkoko",
-                "DonCesarGrinder",
+                "Crabbapple",
+                "gosu36484",
                 "IlxxxlI",
-                "KingGuciGuci",
-                "JJaromir"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "GARY888",
+                "Torinsurance",
+                "FishinChips"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "CALL",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                null,
-                1.0,
-                null
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "KingGuciGuci",
-                "JJaromir",
-                "KingGuciGuci"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 4.0,
+                null,
+                4.0,
+                null,
+                null,
+                3.0,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Torinsurance",
+                "FishinChips",
+                "gosu36484",
+                "Pimpika",
+                "Torinsurance"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.0,
+                null,
+                10.0,
                 null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FishinChips",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FishinChips",
+                "Pimpika"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                10.0,
+                10.0
+            ]
         }
     },
     "card_shown_by_players": [
@@ -108,14 +148,18 @@
         null,
         null,
         null,
+        null,
+        "8c Kc",
         null
     ],
     "finishing_stack": [
-        116.09,
-        316.87,
+        86.25,
         80.0,
-        199.0,
-        490.40000000000003,
-        364.31
+        157.16,
+        233.91,
+        78.63,
+        111.7,
+        107.28,
+        99.88
     ]
 }

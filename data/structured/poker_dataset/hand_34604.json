@@ -1,0 +1,122 @@
+{
+    "date": "2016/12/5 10:44:54",
+    "game_id": "791338426",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "AAAAETOS",
+        "badboy85"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        38.85,
+        49.3,
+        44.3
+    ],
+    "player_small_blind": "AAAAETOS",
+    "small_blind": 0.5,
+    "player_big_blind": "badboy85",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "5h",
+            "Ad"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "AAAAETOS",
+                "badboy85",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                2.3,
+                null,
+                5.0,
+                3.7
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "badboy85",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "badboy85",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "badboy85",
+                "IlxxxlI",
+                "badboy85"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.34,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        48.35,
+        48.8,
+        34.3
+    ]
+}

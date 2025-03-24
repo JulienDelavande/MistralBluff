@@ -1,0 +1,137 @@
+{
+    "date": "2016/9/18 10:18:59",
+    "game_id": "730279051",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Pimpika",
+        "VegetablesArentYummy",
+        "cracypoker",
+        "Sereja",
+        "xx_HaZ"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        88.08,
+        448.66,
+        301.53,
+        240.96,
+        207.0,
+        200.0
+    ],
+    "player_small_blind": "cracypoker",
+    "small_blind": 1.0,
+    "player_big_blind": "xx_HaZ",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "8d",
+            "Ad"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Pimpika",
+                "VegetablesArentYummy",
+                "cracypoker",
+                "xx_HaZ"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "cracypoker",
+                "xx_HaZ"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "cracypoker",
+                "xx_HaZ"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                6.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "cracypoker",
+                "xx_HaZ"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ks 4c",
+        null,
+        "Kh 6h"
+    ],
+    "finishing_stack": [
+        88.08,
+        448.66,
+        301.53,
+        240.46,
+        207.0,
+        199.5
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/23 13:10:13",
+    "game_id": "804409587",
+    "variant": "PRR",
+    "table_name": "Ettin-5",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "RAIDERFRED",
+        "Spagetti1",
+        "TheN00N",
+        "Ksander",
+        "IlxxxlI",
+        "Beekamikaze",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        45.26,
+        31.95,
+        19.74,
+        29.15,
+        27.65,
+        14.21,
+        25.1
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.1,
+    "player_big_blind": "RAIDERFRED",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "Ad",
+            "9s"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Spagetti1",
+                "TheN00N",
+                "Ksander",
+                "IlxxxlI",
+                "Beekamikaze",
+                "Parcker",
+                "RAIDERFRED",
+                "Parcker"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                1.0,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Parcker",
+                "RAIDERFRED"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Parcker",
+                "RAIDERFRED",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.58,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        46.39,
+        31.95,
+        19.74,
+        29.15,
+        27.65,
+        14.21,
+        23.85
+    ]
+}

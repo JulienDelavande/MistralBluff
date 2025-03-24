@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/27 15:46:30",
+    "game_id": "807096342",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "Njakka",
+        "HapKoTuk",
+        "stone1974",
+        "alasku",
+        "wwww111",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        19.24,
+        73.07,
+        11.97,
+        10.0,
+        10.59,
+        12.5
+    ],
+    "player_small_blind": "stone1974",
+    "small_blind": 0.1,
+    "player_big_blind": "alasku",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "4c",
+            "Kc"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "wwww111",
+                "IlxxxlI",
+                "Njakka",
+                "HapKoTuk",
+                "stone1974",
+                "alasku"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "stone1974",
+                "alasku",
+                "wwww111"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "stone1974",
+                "alasku",
+                "wwww111"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "stone1974",
+                "alasku",
+                "wwww111",
+                "stone1974",
+                "alasku"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10s Jh",
+        "8s 7s",
+        null
+    ],
+    "finishing_stack": [
+        19.24,
+        73.07,
+        11.47,
+        12.280000000000001,
+        8.59,
+        12.5
+    ]
+}

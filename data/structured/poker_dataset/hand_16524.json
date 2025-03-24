@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/22 17:14:26",
+    "game_id": "803711897",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "aleks0v",
+        "GetPaidGetLaid",
+        "DirtyDog98"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        58.91,
+        56.31,
+        52.5,
+        67.65
+    ],
+    "player_small_blind": "DirtyDog98",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "5h",
+            "As"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aleks0v",
+                "GetPaidGetLaid",
+                "DirtyDog98",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "GetPaidGetLaid"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "GetPaidGetLaid"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.58,
+                1.58
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "GetPaidGetLaid",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.42,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.33,
+        56.31,
+        55.06,
+        67.4
+    ]
+}

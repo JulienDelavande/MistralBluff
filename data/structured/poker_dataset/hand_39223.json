@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/2 20:59:7",
+    "game_id": "789400958",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Orondi",
+        "bringerxrain",
+        "322xxx",
+        "Samm1990",
+        "Eddk4",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        111.35,
+        112.65,
+        107.38,
+        41.73,
+        38.0,
+        41.5
+    ],
+    "player_small_blind": "322xxx",
+    "small_blind": 0.5,
+    "player_big_blind": "Samm1990",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "Kd",
+            "9c"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Eddk4",
+                "IlxxxlI",
+                "Orondi",
+                "bringerxrain",
+                "322xxx",
+                "Samm1990",
+                "bringerxrain"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.0,
+                9.5,
+                9.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "322xxx",
+                "Samm1990"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "322xxx",
+                "Samm1990",
+                "322xxx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.28,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        111.35,
+        109.65,
+        97.38,
+        53.58,
+        38.0,
+        41.5
+    ]
+}

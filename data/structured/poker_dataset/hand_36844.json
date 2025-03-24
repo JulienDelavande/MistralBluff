@@ -1,0 +1,119 @@
+{
+    "date": "2016/12/3 15:33:3",
+    "game_id": "790009241",
+    "variant": "PRR",
+    "table_name": "Karkadann-2",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "IlxxxlI",
+        "AironVega",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        8
+    ],
+    "starting_stacks": [
+        44.0,
+        187.45,
+        120.3
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "AironVega",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "Ac",
+            "Ah"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "AironVega",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                5.58,
+                null,
+                3.58
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10s 10d",
+        null,
+        "Kh 8h"
+    ],
+    "finishing_stack": [
+        35.92,
+        186.45,
+        128.53
+    ]
+}

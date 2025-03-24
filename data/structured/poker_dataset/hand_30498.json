@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/6 16:48:17",
+    "game_id": "792164077",
+    "variant": "PRR",
+    "table_name": "Ettin-5",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Daigoro",
+        "alohadave",
+        "Poteplie",
+        "IlxxxlI",
+        "anokato"
+    ],
+    "players_seats": [
+        2,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        23.82,
+        25.77,
+        30.14,
+        10.62,
+        51.99
+    ],
+    "player_small_blind": "alohadave",
+    "small_blind": 0.1,
+    "player_big_blind": "Poteplie",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "Qs",
+            "2h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "anokato",
+                "Daigoro",
+                "alohadave",
+                "Poteplie"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "alohadave",
+                "Poteplie",
+                "alohadave"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.63,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.82,
+        25.27,
+        30.59,
+        10.62,
+        51.99
+    ]
+}

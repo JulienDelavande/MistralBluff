@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/24 0:7:37",
+    "game_id": "804596435",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Artemone",
+        "Sonic3Dblast",
+        "KABAB",
+        "OlegGazmanoy",
+        "serial28",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        38.71,
+        27.02,
+        26.05,
+        53.98,
+        25.7
+    ],
+    "player_small_blind": "Artemone",
+    "small_blind": 0.1,
+    "player_big_blind": "Sonic3Dblast",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "10d",
+            "4c"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "KABAB",
+                "OlegGazmanoy",
+                "serial28",
+                "IlxxxlI",
+                "Artemone",
+                "Sonic3Dblast",
+                "KABAB",
+                "serial28"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                3.5,
+                null,
+                null,
+                2.75,
+                2.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "KABAB",
+                "serial28",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "KABAB",
+                "serial28",
+                "IlxxxlI",
+                "KABAB",
+                "serial28"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.5,
+                22.2,
+                null,
+                16.7
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "10h 10c",
+        "Jc Ac"
+    ],
+    "finishing_stack": [
+        24.9,
+        38.46,
+        23.52,
+        26.05,
+        80.77,
+        0.0
+    ]
+}

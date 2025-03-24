@@ -1,0 +1,169 @@
+{
+    "date": "2016/12/3 10:19:4",
+    "game_id": "789830701",
+    "variant": "PRR",
+    "table_name": "Karkadann-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "RunnerLucker",
+        "SqueekyToy",
+        "hodisuda",
+        "Pimpika",
+        "IlxxxlI",
+        "neetslaup",
+        "pingtennis"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+    ],
+    "starting_stacks": [
+        108.53,
+        57.5,
+        102.78,
+        160.91,
+        40.0,
+        110.39,
+        100.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "neetslaup",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "10c",
+            "Jd"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "pingtennis",
+                "RunnerLucker",
+                "SqueekyToy",
+                "hodisuda",
+                "Pimpika",
+                "IlxxxlI",
+                "neetslaup",
+                "SqueekyToy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                3.0,
+                null,
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "neetslaup",
+                "SqueekyToy",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "neetslaup",
+                "SqueekyToy",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "neetslaup",
+                "SqueekyToy",
+                "hodisuda",
+                "neetslaup",
+                "SqueekyToy",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                7.51,
+                15.02,
+                null,
+                7.51
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Qd 9s",
+        null
+    ],
+    "finishing_stack": [
+        108.53,
+        54.5,
+        84.76,
+        160.91,
+        39.5,
+        129.94,
+        100.0
+    ]
+}

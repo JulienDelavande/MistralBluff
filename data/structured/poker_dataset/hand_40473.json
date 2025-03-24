@@ -1,0 +1,179 @@
+{
+    "date": "2016/12/2 15:2:24",
+    "game_id": "789322205",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "Tilt-A-Whirl",
+        "StephCurry",
+        "IlxxxlI",
+        "Jessica144",
+        "UHav2DepositAgainLOL",
+        "VegetablesArentYummy",
+        "hodisuda",
+        "dankmann",
+        "CoolStoryBro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        293.56,
+        219.25,
+        96.97,
+        281.55,
+        282.41,
+        236.53,
+        224.83,
+        200.0,
+        327.97
+    ],
+    "player_small_blind": "CoolStoryBro",
+    "small_blind": 1.0,
+    "player_big_blind": "Tilt-A-Whirl",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "8d",
+            "Ac"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "StephCurry",
+                "IlxxxlI",
+                "Jessica144",
+                "UHav2DepositAgainLOL",
+                "VegetablesArentYummy",
+                "hodisuda",
+                "dankmann",
+                "CoolStoryBro",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                null,
+                null,
+                null,
+                null,
+                3.0,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CoolStoryBro",
+                "Tilt-A-Whirl",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CoolStoryBro",
+                "Tilt-A-Whirl",
+                "IlxxxlI",
+                "CoolStoryBro",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                16.0,
+                16.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CoolStoryBro",
+                "IlxxxlI",
+                "CoolStoryBro"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                42.0,
+                42.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qs Ks",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        289.56,
+        219.25,
+        159.97,
+        281.55,
+        282.41,
+        236.53,
+        224.83,
+        200.0,
+        265.97
+    ]
+}

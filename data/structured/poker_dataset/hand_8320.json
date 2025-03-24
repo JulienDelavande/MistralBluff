@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/26 12:53:50",
+    "game_id": "806335348",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "dtnfk",
+        "Artemone",
+        "misky10",
+        "liusanity",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        10.0,
+        28.1,
+        27.72,
+        26.34,
+        32.02
+    ],
+    "player_small_blind": "dtnfk",
+    "small_blind": 0.1,
+    "player_big_blind": "Artemone",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "10h",
+            "Kd"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "9c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "misky10",
+                "liusanity",
+                "HapKoTuk",
+                "IlxxxlI",
+                "dtnfk",
+                "Artemone",
+                "misky10",
+                "dtnfk"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                null,
+                0.65,
+                null,
+                0.5,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dtnfk",
+                "misky10",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.07,
+                1.07
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dtnfk",
+                "misky10",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.09,
+                2.09
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dtnfk",
+                "misky10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ad Kc",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        5.84,
+        27.85,
+        31.71,
+        26.34,
+        32.02
+    ]
+}

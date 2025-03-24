@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/6 17:14:38",
+    "game_id": "792169391",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "HapKoTuk",
+        "IlxxxlI",
+        "Jepare",
+        "jbrew",
+        "anokato",
+        "Moryak999"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        31.41,
+        10.0,
+        26.1,
+        49.04,
+        32.4,
+        23.99
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "2s",
+            "5s"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jepare",
+                "jbrew",
+                "anokato",
+                "Moryak999",
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "jbrew",
+                "IlxxxlI",
+                "jbrew"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.76,
+                2.5,
+                1.74
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "jbrew"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "jbrew"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                6.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        31.31,
+        13.02,
+        26.1,
+        45.79,
+        32.4,
+        23.99
+    ]
+}

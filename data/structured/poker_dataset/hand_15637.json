@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/22 23:24:11",
+    "game_id": "803885565",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "SkaHot",
+        "OlegGazmanoy",
+        "Sonic3Dblast",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        26.02,
+        34.23,
+        25.75,
+        35.27
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "Jd",
+            "3c"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "9c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "OlegGazmanoy",
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.55,
+                null,
+                0.3
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                0.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "Sonic3Dblast",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.02,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.72,
+        34.23,
+        27.02,
+        35.17
+    ]
+}

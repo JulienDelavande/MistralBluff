@@ -1,80 +1,64 @@
 {
-    "date": "2016/11/28 17:59:44",
-    "game_id": "786345304",
+    "date": "2016/9/18 9:10:20",
+    "game_id": "730247214",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "eu4ria",
-        "BoTPuMHeDichBro",
-        "pokanaktus",
-        "IlxxxlI"
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "38979",
+        "gosu36484"
     ],
     "players_seats": [
         1,
+        2,
         3,
-        4,
         6
     ],
     "starting_stacks": [
-        50.75,
-        52.02,
-        62.68,
-        20.0
+        100.0,
+        42.0,
+        271.45,
+        168.0
     ],
-    "player_small_blind": "BoTPuMHeDichBro",
-    "small_blind": 0.25,
-    "player_big_blind": "pokanaktus",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2s",
-        "10d"
+        "Qc",
+        "7h"
     ],
     "dealed_cards": {
-        "flop": [
-            "3d",
-            "7s",
-            "Jh"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "eu4ria",
-                "BoTPuMHeDichBro",
-                "pokanaktus"
+                "38979",
+                "gosu36484",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                1.25,
-                1.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "BoTPuMHeDichBro",
-                "pokanaktus"
-            ],
-            "actions": [
-                "BET",
                 "FOLD"
             ],
             "values": [
-                0.95,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -94,9 +78,9 @@
         null
     ],
     "finishing_stack": [
-        50.75,
-        53.370000000000005,
-        61.18,
-        20.0
+        99.0,
+        43.0,
+        271.45,
+        168.0
     ]
 }

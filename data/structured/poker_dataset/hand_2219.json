@@ -1,168 +1,116 @@
 {
-    "date": "2016/11/28 18:6:4",
-    "game_id": "786346599",
+    "date": "2016/9/18 9:5:59",
+    "game_id": "730244827",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
-    "button_seat": 7,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "Hakuna_Matata777",
-        "Ms.stone",
-        "smellskindyfishy",
-        "IlxxxlI",
-        "NoizeyCrckt",
-        "1jackoff1",
-        "haroldbb",
-        "rpportugal"
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "graphicup",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        89.17,
-        30.23,
-        19.5,
-        20.0,
-        45.25,
-        104.96,
-        87.06,
-        20.59
+        37.74,
+        323.87,
+        420.46,
+        182.14,
+        348.5,
+        81.6
     ],
-    "player_small_blind": "haroldbb",
-    "small_blind": 0.25,
-    "player_big_blind": "rpportugal",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "flyzlcomb07",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ac",
-        "7c"
+        "9s",
+        "8c"
     ],
     "dealed_cards": {
         "flop": [
-            "9h",
-            "Qs",
-            "6h"
+            "Jh",
+            "Kh",
+            "8d"
         ],
         "turn": [
-            "4d"
+            "7h"
         ],
         "river": [
-            "3c"
+            "Js"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Hakuna_Matata777",
-                "Ms.stone",
-                "smellskindyfishy",
+                "Pureprofit4",
+                "graphicup",
                 "IlxxxlI",
-                "NoizeyCrckt",
-                "1jackoff1",
-                "haroldbb",
-                "rpportugal"
+                "winchy21",
+                "VegetablesArentYummy",
+                "flyzlcomb07",
+                "Pureprofit4"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "CALL",
+                "ALLIN",
+                "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
+                12.0,
                 null,
                 null,
-                1.5,
+                37.74,
                 null,
                 null,
-                1.5,
-                null,
-                1.0
+                25.74
             ]
         },
         "post-flop": {
-            "players": [
-                "rpportugal",
-                "smellskindyfishy",
-                "1jackoff1",
-                "rpportugal",
-                "smellskindyfishy"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "RAISE",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                2.0,
-                6.0,
-                null,
-                4.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "smellskindyfishy",
-                "1jackoff1",
-                "smellskindyfishy"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                5.0,
-                5.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "smellskindyfishy",
-                "1jackoff1"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
+        "9h 10c",
         null,
         null,
-        null,
-        null,
-        null,
-        "Kd Qc",
+        "Qs Kc",
         null,
         null
     ],
     "finishing_stack": [
-        89.17,
-        30.23,
-        7.0,
-        20.0,
-        45.25,
-        117.88,
-        86.81,
-        19.09
+        80.68,
+        321.87,
+        416.46,
+        144.39999999999998,
+        348.5,
+        81.6
     ]
 }

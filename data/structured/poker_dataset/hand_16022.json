@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/22 22:22:5",
+    "game_id": "803806910",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "HapKoTuk",
+        "sikilocci",
+        "SkaHot",
+        "afvet333",
+        "booya25",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        34.38,
+        24.57,
+        29.72,
+        50.14,
+        3.57,
+        29.72
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "sikilocci",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "9h",
+            "9s"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SkaHot",
+                "afvet333",
+                "booya25",
+                "IlxxxlI",
+                "HapKoTuk",
+                "sikilocci"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5,
+                null,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "afvet333",
+                "booya25",
+                "HapKoTuk",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.75,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "booya25",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.13,
+        24.32,
+        29.72,
+        49.64,
+        5.41,
+        29.72
+    ]
+}

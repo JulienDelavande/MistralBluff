@@ -1,69 +1,62 @@
 {
-    "date": "2016/11/29 14:41:44",
-    "game_id": "787012053",
+    "date": "2016/9/4 10:22:31",
+    "game_id": "719293608",
     "variant": "PRR",
-    "table_name": "Lakhey-2",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "uncle_argyle",
-        "IlxxxlI",
-        "gust",
-        "joonjoonjoon",
         "VegetablesArentYummy",
-        "JoeRockwell"
+        "IlxxxlI",
+        "ConstanceHarm",
+        "St3p04ka",
+        "AironVega"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        137.87,
-        80.0,
-        90.91,
-        210.25,
-        448.17,
-        281.84
+        111.67,
+        40.0,
+        151.09,
+        87.12,
+        173.53
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "St3p04ka",
     "small_blind": 1.0,
-    "player_big_blind": "gust",
+    "player_big_blind": "AironVega",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ad",
-        "Kh"
+        "5c",
+        "9c"
     ],
     "dealed_cards": {
         "flop": [
-            "4s",
-            "6d",
-            "6s"
+            "Qc",
+            "Jc",
+            "6h"
         ],
         "turn": [
-            "10s"
+            "5s"
         ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "joonjoonjoon",
                 "VegetablesArentYummy",
-                "JoeRockwell",
-                "uncle_argyle",
                 "IlxxxlI",
-                "gust",
-                "JoeRockwell"
+                "ConstanceHarm",
+                "St3p04ka",
+                "AironVega"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "CALL",
                 "FOLD",
                 "RAISE",
                 "FOLD",
@@ -72,18 +65,16 @@
             "values": [
                 null,
                 null,
-                2.0,
+                5.0,
                 null,
-                7.0,
-                null,
-                6.0
+                3.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "JoeRockwell",
-                "IlxxxlI"
+                "AironVega",
+                "ConstanceHarm",
+                "AironVega"
             ],
             "actions": [
                 "CHECK",
@@ -92,15 +83,15 @@
             ],
             "values": [
                 null,
-                8.55,
-                8.55
+                6.96,
+                6.96
             ]
         },
         "post-turn": {
             "players": [
-                "IlxxxlI",
-                "JoeRockwell",
-                "IlxxxlI"
+                "AironVega",
+                "ConstanceHarm",
+                "AironVega"
             ],
             "actions": [
                 "CHECK",
@@ -109,7 +100,7 @@
             ],
             "values": [
                 null,
-                16.67,
+                18.78,
                 null
             ]
         },
@@ -124,15 +115,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        137.87,
-        63.45,
-        88.91,
-        210.25,
-        448.17,
-        298.64
+        111.67,
+        40.0,
+        162.81,
+        86.12,
+        161.57
     ]
 }

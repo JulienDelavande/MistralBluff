@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/9 9:16:5",
+    "game_id": "793894738",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "meandkids",
+        "IlxxxlI",
+        "MadLifeGrinder",
+        "peedee2211",
+        "g-vine"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        93.2,
+        47.06,
+        100.5,
+        107.35,
+        198.5
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 0.5,
+    "player_big_blind": "peedee2211",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "9c",
+            "10s"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "g-vine",
+                "meandkids",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "peedee2211"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                null,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "peedee2211",
+                "g-vine",
+                "peedee2211",
+                "g-vine"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                15.0,
+                11.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "peedee2211",
+                "g-vine"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                22.0,
+                22.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "peedee2211",
+                "g-vine"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Jh 8h",
+        null
+    ],
+    "finishing_stack": [
+        93.2,
+        47.06,
+        100.0,
+        144.35,
+        159.0
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/6 0:10:9",
+    "game_id": "791597154",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "MadLifeGrinder",
+        "GagaPoker",
+        "Azaladog",
+        "Chubrica",
+        "meandkids",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        103.0,
+        101.5,
+        128.5,
+        103.35,
+        40.0
+    ],
+    "player_small_blind": "GagaPoker",
+    "small_blind": 0.5,
+    "player_big_blind": "Chubrica",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "3c",
+            "6s"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "meandkids",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "GagaPoker",
+                "Chubrica"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GagaPoker",
+                "Chubrica"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "GagaPoker",
+                "Chubrica",
+                "GagaPoker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.65,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        98.1,
+        101.5,
+        132.91,
+        103.35,
+        40.0
+    ]
+}

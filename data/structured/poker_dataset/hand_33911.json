@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/5 12:21:58",
+    "game_id": "791400936",
+    "variant": "PRR",
+    "table_name": "Kraken-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "flyshark01",
+        "POWERSTACK",
+        "IlxxxlI",
+        "lordboroda",
+        "GagaPoker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        100.5,
+        35.36,
+        85.62,
+        100.0,
+        100.0
+    ],
+    "player_small_blind": "flyshark01",
+    "small_blind": 0.5,
+    "player_big_blind": "POWERSTACK",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "8h",
+            "7s"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "9c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "lordboroda",
+                "GagaPoker",
+                "flyshark01",
+                "POWERSTACK"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "POWERSTACK",
+                "lordboroda",
+                "GagaPoker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "POWERSTACK",
+                "lordboroda",
+                "GagaPoker"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                4.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "POWERSTACK",
+                "lordboroda"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                11.08,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        44.989999999999995,
+        85.62,
+        93.0,
+        97.0
+    ]
+}

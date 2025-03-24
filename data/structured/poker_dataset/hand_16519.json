@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/22 20:31:32",
+    "game_id": "803754823",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "HapKoTuk",
+        "SkaHot",
+        "IlxxxlI",
+        "Cef539",
+        "Spears1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        68.86,
+        25.0,
+        25.0,
+        30.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Cef539",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "7s",
+            "3d"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Spears1",
+                "HapKoTuk",
+                "SkaHot",
+                "IlxxxlI",
+                "Cef539"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Cef539"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Cef539"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.88,
+                0.88
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Cef539"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.75,
+                4.75
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "6s 3c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        68.86,
+        30.520000000000003,
+        18.87,
+        30.5
+    ]
+}

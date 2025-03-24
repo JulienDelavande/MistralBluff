@@ -1,0 +1,137 @@
+{
+    "date": "2016/12/8 7:16:18",
+    "game_id": "793087476",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "fortecco",
+        "FirstClan",
+        "foldemfoley",
+        "BeatsHappen",
+        "Ksander"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        5.0,
+        24.91,
+        14.24,
+        5.58,
+        15.75,
+        14.78
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "fortecco",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "8d",
+            "5s"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FirstClan",
+                "foldemfoley",
+                "BeatsHappen",
+                "Ksander",
+                "IlxxxlI",
+                "fortecco"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "fortecco",
+                "foldemfoley",
+                "fortecco"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "fortecco",
+                "foldemfoley",
+                "fortecco"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.83,
+                3.83
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "5c 5d",
+        null,
+        "Jc Qd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        4.9,
+        30.029999999999998,
+        14.24,
+        0.0,
+        15.75,
+        14.78
+    ]
+}

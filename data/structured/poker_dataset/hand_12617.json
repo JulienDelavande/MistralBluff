@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 21:5:26",
+    "game_id": "805223757",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "d4av",
+        "narrowrange",
+        "Indigol",
+        "KUSH_KING",
+        "Katoosi"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        56.82,
+        106.13,
+        71.11,
+        60.31,
+        74.71,
+        21.67
+    ],
+    "player_small_blind": "Indigol",
+    "small_blind": 0.25,
+    "player_big_blind": "KUSH_KING",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "Js",
+            "6h"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Katoosi",
+                "IlxxxlI",
+                "d4av",
+                "narrowrange",
+                "Indigol",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Indigol",
+                "KUSH_KING",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Indigol",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Indigol",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.47,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.82,
+        106.13,
+        71.11,
+        62.07,
+        72.75999999999999,
+        21.67
+    ]
+}

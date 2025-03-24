@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/23 23:54:29",
+    "game_id": "804591825",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "NdRunner",
+        "OlegGazmanoy",
+        "Slim55",
+        "Sonic3Dblast",
+        "IlxxxlI",
+        "BoScHiNg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.63,
+        38.77,
+        26.34,
+        25.0,
+        25.0,
+        12.5
+    ],
+    "player_small_blind": "NdRunner",
+    "small_blind": 0.1,
+    "player_big_blind": "OlegGazmanoy",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "10c",
+            "Ah"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Slim55",
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "BoScHiNg",
+                "NdRunner",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "NdRunner",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "NdRunner",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "NdRunner",
+                "OlegGazmanoy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kh 10s",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        38.93,
+        40.3,
+        26.34,
+        25.0,
+        25.0,
+        12.5
+    ]
+}

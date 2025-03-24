@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/23 7:54:36",
+    "game_id": "804181306",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "420_am",
+        "nemesh123",
+        "Ksander",
+        "Irthe1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        21.21,
+        12.83,
+        7.31,
+        22.06,
+        9.6
+    ],
+    "player_small_blind": "Ksander",
+    "small_blind": 0.1,
+    "player_big_blind": "Irthe1",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "8c",
+            "5s"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "420_am",
+                "nemesh123",
+                "Ksander",
+                "Irthe1"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.62,
+                null,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Irthe1",
+                "IlxxxlI",
+                "Irthe1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.65,
+                0.65
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Irthe1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Irthe1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kd Ad",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        22.450000000000003,
+        12.83,
+        7.31,
+        21.959999999999997,
+        8.33
+    ]
+}

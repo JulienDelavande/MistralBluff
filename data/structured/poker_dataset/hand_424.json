@@ -1,151 +1,86 @@
 {
-    "date": "2016/11/29 14:21:37",
-    "game_id": "787003389",
+    "date": "2016/9/5 12:7:20",
+    "game_id": "720259647",
     "variant": "PRR",
-    "table_name": "Longana",
+    "table_name": "Medusa",
     "type_game": "Short",
-    "button_seat": 8,
+    "button_seat": 6,
     "players": [
-        "actionjax24",
-        "BiGFck",
-        "VegetablesArentYummy",
-        "gust",
-        "thimk",
+        "follower1",
         "IlxxxlI",
-        "pineapplesand",
-        "StephCurry",
-        "hotshothotgg"
+        "whitnez33",
+        "bigrpk22",
+        "RumCola 86"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        117.51,
-        83.35,
-        120.93,
+        200.0,
         80.0,
-        52.37,
-        40.0,
-        42.0,
-        109.5,
-        72.19
+        270.65,
+        254.85,
+        129.37
     ],
-    "player_small_blind": "hotshothotgg",
-    "small_blind": 1.0,
-    "player_big_blind": "actionjax24",
-    "big_blind": 2.0,
+    "player_small_blind": "follower1",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "Kc"
+        "Ad",
+        "Jc"
     ],
     "dealed_cards": {
-        "flop": [
-            "4c",
-            "10s",
-            "9s"
-        ],
-        "turn": [
-            "8c"
-        ],
-        "river": [
-            "4s"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "BiGFck",
-                "VegetablesArentYummy",
-                "gust",
-                "thimk",
+                "whitnez33",
+                "bigrpk22",
+                "RumCola 86",
+                "follower1",
                 "IlxxxlI",
-                "pineapplesand",
-                "StephCurry",
-                "hotshothotgg",
-                "actionjax24"
+                "RumCola 86"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                4.0,
-                4.0,
-                null,
-                null,
-                null,
-                null,
-                2.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "actionjax24",
-                "gust",
-                "thimk"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "actionjax24",
-                "gust",
-                "thimk"
-            ],
-            "actions": [
-                "BET",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                7.0,
-                null,
-                7.0
-            ]
-        },
-        "post-river": {
-            "players": [
-                "actionjax24",
-                "thimk",
-                "actionjax24"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "ALLIN",
                 "FOLD"
             ],
             "values": [
                 null,
-                17.1,
+                null,
+                8.0,
+                null,
+                76.0,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -153,21 +88,13 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        106.51,
-        83.35,
-        120.93,
-        76.0,
-        67.02,
-        40.0,
-        42.0,
-        109.5,
-        71.19
+        198.0,
+        90.0,
+        270.65,
+        254.85,
+        121.37
     ]
 }

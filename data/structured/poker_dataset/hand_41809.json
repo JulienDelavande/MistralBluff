@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/2 10:32:2",
+    "game_id": "789170001",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "dragggonfly",
+        "Beep_Beep",
+        "abdollars",
+        "QDevilQ",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        75.06,
+        78.82,
+        56.07,
+        52.32,
+        20.0
+    ],
+    "player_small_blind": "QDevilQ",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Ac",
+            "9c"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dragggonfly",
+                "Beep_Beep",
+                "abdollars",
+                "QDevilQ",
+                "IlxxxlI",
+                "abdollars"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                null,
+                2.69,
+                1.94
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "abdollars"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.1,
+                2.1
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "abdollars"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "abdollars"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Ad 8d"
+    ],
+    "finishing_stack": [
+        75.06,
+        78.82,
+        48.78,
+        52.07,
+        26.8
+    ]
+}

@@ -1,127 +1,89 @@
 {
-    "date": "2016/11/29 13:3:56",
-    "game_id": "786965227",
+    "date": "2016/9/6 0:27:57",
+    "game_id": "720632631",
     "variant": "PRR",
-    "table_name": "Kraken-7",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "gust",
-        "WeakAndWeary",
-        "Beep_Beep",
-        "IlxxxlI",
-        "Im Don King",
-        "MadLifeGrinder"
+        "Ksowas",
+        "DTownDieselZZ",
+        "The_Toast",
+        "oddsonfav",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        41.58,
-        100.0,
-        110.25,
-        40.0,
-        105.93,
-        107.07
+        174.02,
+        94.83,
+        101.47,
+        79.95,
+        88.0
     ],
-    "player_small_blind": "Beep_Beep",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "The_Toast",
+    "small_blind": 1.0,
+    "player_big_blind": "oddsonfav",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5h",
-        "6h"
+        "5s",
+        "9h"
     ],
     "dealed_cards": {
-        "flop": [
-            "Js",
-            "9s",
-            "Qc"
-        ],
-        "turn": [
-            "Ac"
-        ],
-        "river": [
-            "4d"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Im Don King",
-                "MadLifeGrinder",
-                "gust",
-                "WeakAndWeary",
-                "Beep_Beep",
-                "IlxxxlI"
+                "IlxxxlI",
+                "Ksowas",
+                "DTownDieselZZ",
+                "The_Toast",
+                "oddsonfav",
+                "DTownDieselZZ",
+                "The_Toast"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                2.35,
-                null,
-                null,
-                null,
-                null,
-                1.35
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "Im Don King"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "Im Don King"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "IlxxxlI",
-                "Im Don King",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "RAISE",
                 "FOLD"
             ],
             "values": [
                 null,
-                9.0,
+                null,
+                4.0,
+                13.0,
+                null,
+                40.0,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -129,15 +91,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        41.58,
-        100.0,
-        109.75,
-        37.65,
-        108.52000000000001,
-        107.07
+        174.02,
+        110.83,
+        87.47,
+        77.95,
+        88.0
     ]
 }

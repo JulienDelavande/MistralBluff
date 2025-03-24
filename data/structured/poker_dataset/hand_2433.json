@@ -1,19 +1,17 @@
 {
-    "date": "2016/11/19 23:45:42",
-    "game_id": "779473014",
+    "date": "2016/9/18 10:5:3",
+    "game_id": "730272942",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "jviana",
-        "tbmfc",
-        "naprimer",
-        "Log_in",
+        "Cellar door",
         "IlxxxlI",
-        "Tanker123",
-        "MANTISGUYV10",
-        "pineapplesand"
+        "Origins",
+        "xXCONMANXx",
+        "aquamarin",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
         1,
@@ -21,71 +19,77 @@
         3,
         4,
         5,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        39.25,
-        12.34,
-        52.31,
-        18.97,
-        20.0,
-        30.51,
-        140.79,
-        20.0
+        128.25,
+        86.88,
+        175.76,
+        171.49,
+        199.36,
+        103.0
     ],
-    "player_small_blind": "Tanker123",
-    "small_blind": 0.25,
-    "player_big_blind": "MANTISGUYV10",
-    "big_blind": 0.5,
+    "player_small_blind": "Origins",
+    "small_blind": 1.0,
+    "player_big_blind": "xXCONMANXx",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3s",
-        "Ac"
+        "10d",
+        "As"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "10c",
+            "Ah",
+            "Qc"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "pineapplesand",
-                "jviana",
-                "tbmfc",
-                "naprimer",
-                "Log_in",
+                "aquamarin",
+                "VegetablesArentYummy",
+                "Cellar door",
                 "IlxxxlI",
-                "Tanker123",
-                "MANTISGUYV10"
+                "Origins",
+                "xXCONMANXx"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "ALLIN",
+                "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "ALLIN",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                12.34,
+                6.0,
                 null,
                 null,
-                null,
-                30.26,
-                null
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "xXCONMANXx",
+                "Cellar door",
+                "xXCONMANXx"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                4.11,
+                12.33,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -100,22 +104,18 @@
     },
     "card_shown_by_players": [
         null,
-        "8s 8d",
         null,
         null,
         null,
-        "Qd Jh",
         null,
         null
     ],
     "finishing_stack": [
-        39.25,
-        0.0,
-        52.31,
-        18.97,
-        20.0,
-        42.1,
-        140.29,
-        20.0
+        138.3,
+        86.88,
+        174.76,
+        161.38,
+        199.36,
+        103.0
     ]
 }

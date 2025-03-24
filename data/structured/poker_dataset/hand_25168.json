@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 10:10:3",
+    "game_id": "793238237",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "FirstClan",
+        "IlxxxlI",
+        "SurfinSafari",
+        "xxRepoManxx",
+        "2Joes",
+        "optimist1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        17.1,
+        6.68,
+        17.19,
+        47.65,
+        23.66,
+        16.42
+    ],
+    "player_small_blind": "2Joes",
+    "small_blind": 0.1,
+    "player_big_blind": "optimist1",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "8h",
+            "5s"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FirstClan",
+                "IlxxxlI",
+                "SurfinSafari",
+                "xxRepoManxx",
+                "2Joes",
+                "optimist1"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.55,
+                null,
+                null,
+                null,
+                0.45,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "2Joes",
+                "FirstClan",
+                "2Joes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.43,
+                0.43
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "2Joes",
+                "FirstClan",
+                "2Joes",
+                "FirstClan"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.75,
+                5.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        14.370000000000001,
+        6.68,
+        17.19,
+        47.65,
+        26.36,
+        16.17
+    ]
+}

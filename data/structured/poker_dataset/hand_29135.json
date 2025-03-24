@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 9:27:30",
+    "game_id": "792500168",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "annaroyer",
+        "PhillyPoker19",
+        "Ice Bank Mice Elf",
+        "marcapp",
+        "ghost1994"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        10.0,
+        28.79,
+        39.71,
+        10.19,
+        25.47
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "annaroyer",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "7d",
+            "4h"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PhillyPoker19",
+                "Ice Bank Mice Elf",
+                "marcapp",
+                "ghost1994",
+                "IlxxxlI",
+                "annaroyer"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "annaroyer",
+                "ghost1994",
+                "annaroyer"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "annaroyer",
+                "ghost1994",
+                "annaroyer"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.9,
+        8.25,
+        28.79,
+        39.71,
+        10.19,
+        27.14
+    ]
+}

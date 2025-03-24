@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/8 21:53:16",
+    "game_id": "793502210",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "sour159",
+        "NoahSDsDad",
+        "MadLifeGrinder",
+        "meandkids"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        41.5,
+        89.28,
+        173.72,
+        101.13,
+        100.0
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 0.5,
+    "player_big_blind": "meandkids",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "10d",
+            "Kd"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "sour159",
+                "NoahSDsDad",
+                "MadLifeGrinder",
+                "meandkids",
+                "sour159",
+                "NoahSDsDad"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0,
+                null,
+                4.0,
+                4.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "meandkids",
+                "sour159",
+                "NoahSDsDad"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "meandkids",
+                "sour159",
+                "NoahSDsDad",
+                "meandkids"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.0,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        41.5,
+        99.01,
+        168.72,
+        100.63,
+        95.0
+    ]
+}

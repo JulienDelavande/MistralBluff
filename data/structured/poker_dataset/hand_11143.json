@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/24 23:44:32",
+    "game_id": "805275559",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Only4Luxury",
+        "Portly23",
+        "QDevilQ",
+        "odel_nadel"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        69.27,
+        50.75,
+        23.75,
+        50.0,
+        89.76
+    ],
+    "player_small_blind": "Portly23",
+    "small_blind": 0.25,
+    "player_big_blind": "QDevilQ",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "4s",
+            "2s"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "odel_nadel",
+                "IlxxxlI",
+                "Only4Luxury",
+                "Portly23",
+                "QDevilQ",
+                "Only4Luxury"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                5.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "QDevilQ",
+                "Only4Luxury"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.56,
+                3.56
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "QDevilQ",
+                "Only4Luxury"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                9.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "QDevilQ",
+                "Only4Luxury",
+                "QDevilQ"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                32.69,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        69.27,
+        67.25,
+        23.5,
+        31.94,
+        89.76
+    ]
+}

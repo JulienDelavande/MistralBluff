@@ -1,0 +1,125 @@
+{
+    "date": "2016/12/5 10:48:10",
+    "game_id": "791340980",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Aslargs",
+        "Evilclown",
+        "Jui Kuen",
+        "Heksebrygg",
+        "IlxxxlI",
+        "Beep_Beep"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        51.5,
+        18.02,
+        149.7,
+        52.0,
+        20.18,
+        50.0
+    ],
+    "player_small_blind": "Jui Kuen",
+    "small_blind": 0.25,
+    "player_big_blind": "Heksebrygg",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "Jc",
+            "4c"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Beep_Beep",
+                "Aslargs",
+                "Evilclown",
+                "Jui Kuen",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Beep_Beep",
+                "Evilclown",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                16.52,
+                14.52
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10s 10c",
+        null,
+        null,
+        null,
+        "8c Ac"
+    ],
+    "finishing_stack": [
+        51.5,
+        0.0,
+        149.45,
+        51.5,
+        20.18,
+        66.94
+    ]
+}

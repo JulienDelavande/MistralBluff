@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/22 23:26:42",
+    "game_id": "803888074",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "magicriver88",
+        "KatyEverdeen",
+        "38979",
+        "IlxxxlI",
+        "BananaMango"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        52.09,
+        50.0,
+        54.34,
+        65.86
+    ],
+    "player_small_blind": "KatyEverdeen",
+    "small_blind": 0.25,
+    "player_big_blind": "38979",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "6s",
+            "Jc"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "BananaMango",
+                "magicriver88",
+                "KatyEverdeen",
+                "38979"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "KatyEverdeen",
+                "38979"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "KatyEverdeen",
+                "38979"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.5,
+                4.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "KatyEverdeen",
+                "38979"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                10.0,
+                10.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kc 10s",
+        "7h 9h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        34.59,
+        65.75,
+        54.34,
+        65.86
+    ]
+}

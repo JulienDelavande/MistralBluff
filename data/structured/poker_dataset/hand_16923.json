@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/19 20:6:29",
+    "game_id": "801720843",
+    "variant": "PRR",
+    "table_name": "Cyclops",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "doctor rick",
+        "Corvidicus",
+        "kambaa",
+        "IlxxxlI",
+        "Nanamom",
+        "Alicesdad"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        2.51,
+        5.0,
+        1.12,
+        5.0,
+        3.66,
+        0.89
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.02,
+    "player_big_blind": "Nanamom",
+    "big_blind": 0.05,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "As",
+            "8s"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Alicesdad",
+                "doctor rick",
+                "Corvidicus",
+                "kambaa",
+                "IlxxxlI",
+                "Nanamom",
+                "doctor rick",
+                "Corvidicus",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.05,
+                0.05,
+                null,
+                0.03,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Nanamom",
+                "doctor rick",
+                "Corvidicus",
+                "IlxxxlI",
+                "Nanamom",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.05,
+                null,
+                null,
+                0.3,
+                3.51,
+                3.26
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "5c Ad",
+        "Ac 7d",
+        null
+    ],
+    "finishing_stack": [
+        2.4099999999999997,
+        4.9,
+        1.12,
+        4.92,
+        3.57,
+        0.89
+    ]
+}

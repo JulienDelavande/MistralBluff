@@ -1,135 +1,103 @@
 {
-    "date": "2016/11/29 15:11:44",
-    "game_id": "787022952",
+    "date": "2016/9/4 9:41:55",
+    "game_id": "719274903",
     "variant": "PRR",
-    "table_name": "Garuda-4",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "dankmann",
-        "kid4life",
-        "DRofBooya",
-        "wvlax1425",
-        "Spagetti1",
-        "IlxxxlI",
-        "haroldbb",
-        "Korobochka"
+        "Martyrs",
+        "bet2000",
+        "Pureprofit4",
+        "Kak_Ded_Y4il",
+        "SheppyPOO!!",
+        "IlxxxlI"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        100.96,
-        112.85,
-        45.94,
-        51.29,
-        50.26,
-        20.75,
-        54.4,
-        101.45
+        361.92,
+        300.0,
+        386.6,
+        513.24,
+        312.0,
+        120.0
     ],
-    "player_small_blind": "Spagetti1",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "Martyrs",
+    "small_blind": 3.0,
+    "player_big_blind": "bet2000",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ah",
-        "6d"
+        "2h",
+        "Ah"
     ],
     "dealed_cards": {
         "flop": [
             "6s",
-            "5h",
-            "2d"
+            "7c",
+            "10h"
         ],
-        "turn": [
-            "Ad"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "haroldbb",
-                "Korobochka",
-                "dankmann",
-                "kid4life",
-                "DRofBooya",
-                "wvlax1425",
-                "Spagetti1",
-                "IlxxxlI"
+                "Pureprofit4",
+                "Kak_Ded_Y4il",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "Martyrs",
+                "bet2000",
+                "SheppyPOO!!"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
+                "RAISE",
                 "RAISE",
                 "FOLD",
-                "CALL",
                 "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
+                12.0,
+                18.0,
                 null,
-                1.0,
                 null,
-                1.0,
-                null,
-                0.5
+                6.0
             ]
         },
         "post-flop": {
             "players": [
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "kid4life",
-                "wvlax1425"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "kid4life",
-                "wvlax1425",
-                "IlxxxlI",
-                "kid4life",
-                "wvlax1425"
+                "SheppyPOO!!"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "CALL",
-                "RAISE",
-                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                1.54,
-                1.54,
-                7.0,
-                null,
+                11.0,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -143,18 +111,14 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        100.96,
-        110.30999999999999,
-        45.94,
-        48.75,
-        50.01,
-        25.69,
-        54.4,
-        101.45
+        358.92,
+        294.0,
+        386.6,
+        513.24,
+        294.0,
+        146.55
     ]
 }

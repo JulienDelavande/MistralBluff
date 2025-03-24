@@ -1,119 +1,77 @@
 {
-    "date": "2016/11/29 14:20:14",
-    "game_id": "787002836",
+    "date": "2016/9/5 12:10:4",
+    "game_id": "720260484",
     "variant": "PRR",
-    "table_name": "Longana",
+    "table_name": "Pegasus",
     "type_game": "Short",
-    "button_seat": 7,
+    "button_seat": 6,
     "players": [
-        "actionjax24",
-        "BiGFck",
-        "VegetablesArentYummy",
-        "gust",
-        "thimk",
+        "GranatoBetano",
         "IlxxxlI",
-        "pineapplesand",
-        "StephCurry",
-        "hotshothotgg"
+        "follower1"
     ],
     "players_seats": [
         1,
-        2,
         3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        117.51,
-        83.35,
-        135.1,
-        80.0,
-        52.37,
-        40.0,
-        42.0,
-        110.5,
-        58.48
+        180.0,
+        120.0,
+        714.42
     ],
-    "player_small_blind": "StephCurry",
-    "small_blind": 1.0,
-    "player_big_blind": "hotshothotgg",
-    "big_blind": 2.0,
+    "player_small_blind": "GranatoBetano",
+    "small_blind": 3.0,
+    "player_big_blind": "follower1",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
-    "cards_player": [
-        "Qc",
-        "5s"
-    ],
+    "cards_player": [],
     "dealed_cards": {
         "flop": [
-            "Kh",
-            "Jc",
-            "4s"
+            "8c",
+            "4d",
+            "Jd"
         ],
         "turn": [
-            "7h"
+            "8h"
         ],
         "river": [
-            "10s"
+            "6s"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "actionjax24",
-                "BiGFck",
-                "VegetablesArentYummy",
-                "gust",
-                "thimk",
-                "IlxxxlI",
-                "pineapplesand",
-                "StephCurry",
-                "hotshothotgg"
+                "GranatoBetano",
+                "follower1"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "CALL"
             ],
             "values": [
-                null,
-                null,
-                5.0,
-                null,
-                null,
-                null,
-                null,
-                null,
-                3.0
+                15.0,
+                12.0
             ]
         },
         "post-flop": {
             "players": [
-                "hotshothotgg",
-                "VegetablesArentYummy"
+                "GranatoBetano",
+                "follower1"
             ],
             "actions": [
-                "BET",
-                "CALL"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                3.48,
-                3.48
+                null,
+                null
             ]
         },
         "post-turn": {
             "players": [
-                "hotshothotgg",
-                "VegetablesArentYummy"
+                "GranatoBetano",
+                "follower1"
             ],
             "actions": [
                 "CHECK",
@@ -126,39 +84,27 @@
         },
         "post-river": {
             "players": [
-                "hotshothotgg",
-                "VegetablesArentYummy"
+                "GranatoBetano",
+                "follower1"
             ],
             "actions": [
                 "BET",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                5.69,
-                5.69
+                17.82,
+                null
             ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Kd 10d"
+        null
     ],
     "finishing_stack": [
-        117.51,
-        83.35,
-        120.92999999999999,
-        80.0,
-        52.37,
-        40.0,
-        42.0,
-        109.5,
-        72.19
+        197.65,
+        120.0,
+        696.42
     ]
 }

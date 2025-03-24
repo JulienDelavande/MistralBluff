@@ -1,0 +1,123 @@
+{
+    "date": "2016/12/23 11:20:35",
+    "game_id": "804338238",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "abdollars",
+        "Burger",
+        "xROCKETMANx",
+        "IlxxxlI",
+        "CroMagnons"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        1.91,
+        20.01,
+        18.45,
+        12.5,
+        24.87
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "CroMagnons",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "10c",
+            "Jh"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "abdollars",
+                "Burger",
+                "xROCKETMANx",
+                "IlxxxlI",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "CroMagnons",
+                "abdollars",
+                "IlxxxlI",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "ALLIN",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.66,
+                1.66,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "2d 2s",
+        null,
+        null,
+        "Jc 10d",
+        null
+    ],
+    "finishing_stack": [
+        0.0,
+        20.01,
+        18.45,
+        14.46,
+        24.62
+    ]
+}

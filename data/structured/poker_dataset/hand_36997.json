@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/3 14:6:28",
+    "game_id": "789976775",
+    "variant": "PRR",
+    "table_name": "Ekek-14",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "David_lay",
+        "Jui Kuen",
+        "giveitback",
+        "CalmDownJustCall"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        37.0,
+        26.25,
+        28.02,
+        29.47
+    ],
+    "player_small_blind": "giveitback",
+    "small_blind": 0.1,
+    "player_big_blind": "CalmDownJustCall",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "8c",
+            "7h"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "David_lay",
+                "Jui Kuen",
+                "giveitback",
+                "CalmDownJustCall"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CalmDownJustCall",
+                "Jui Kuen",
+                "CalmDownJustCall"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CalmDownJustCall",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CalmDownJustCall",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ad 6h",
+        null,
+        "9c 10h"
+    ],
+    "finishing_stack": [
+        10.0,
+        37.0,
+        28.78,
+        27.919999999999998,
+        26.77
+    ]
+}

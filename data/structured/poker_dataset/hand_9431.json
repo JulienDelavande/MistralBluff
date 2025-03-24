@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/25 16:16:14",
+    "game_id": "805748250",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Phildurrrhelmuth",
+        "dasani777",
+        "Sonic3Dblast",
+        "Count Chipula",
+        "IlxxxlI",
+        "holdme7"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.02,
+        14.03,
+        25.0,
+        35.56,
+        29.32,
+        123.8
+    ],
+    "player_small_blind": "dasani777",
+    "small_blind": 0.1,
+    "player_big_blind": "Sonic3Dblast",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "9d",
+            "5h"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Count Chipula",
+                "IlxxxlI",
+                "holdme7",
+                "Phildurrrhelmuth",
+                "dasani777",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dasani777",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dasani777",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dasani777",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.02,
+        15.61,
+        23.25,
+        35.56,
+        29.32,
+        123.8
+    ]
+}

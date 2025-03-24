@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/22 22:46:51",
+    "game_id": "803841515",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "HapKoTuk",
+        "sikilocci",
+        "SkaHot",
+        "afvet333",
+        "booya25",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        51.19,
+        43.38,
+        26.25,
+        32.32,
+        26.57,
+        28.69
+    ],
+    "player_small_blind": "booya25",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "6s",
+            "9d"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "sikilocci",
+                "SkaHot",
+                "afvet333",
+                "booya25",
+                "IlxxxlI",
+                "sikilocci",
+                "SkaHot",
+                "afvet333"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.75,
+                0.75,
+                null,
+                3.0,
+                null,
+                2.5,
+                2.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "SkaHot",
+                "afvet333"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                3.2,
+                3.2,
+                3.2
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "SkaHot",
+                "afvet333",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                19.8,
+                25.87,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qc Qs",
+        "9s 7s",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        51.19,
+        43.13,
+        0.0,
+        62.410000000000004,
+        26.47,
+        22.240000000000002
+    ]
+}

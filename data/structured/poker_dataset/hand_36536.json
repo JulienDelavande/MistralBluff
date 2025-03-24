@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/4 11:50:2",
+    "game_id": "790582198",
+    "variant": "PRR",
+    "table_name": "Kraken-8",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Ksowas",
+        "ELCAPITAWN10",
+        "IlxxxlI",
+        "Terpkings"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        132.78,
+        133.95,
+        40.0,
+        40.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Terpkings",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "7s",
+            "As"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ksowas",
+                "ELCAPITAWN10",
+                "IlxxxlI",
+                "Terpkings"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Terpkings",
+                "ELCAPITAWN10",
+                "Terpkings"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Terpkings",
+                "ELCAPITAWN10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Terpkings",
+                "ELCAPITAWN10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "8c Kd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        132.78,
+        139.38,
+        39.5,
+        34.5
+    ]
+}

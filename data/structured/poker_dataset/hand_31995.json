@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/6 8:21:51",
+    "game_id": "791874718",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Omfgdieahhh",
+        "sir.caffeine",
+        "danutzz",
+        "12monkeys",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        31.32,
+        26.85,
+        38.45,
+        10.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Omfgdieahhh",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "7s",
+            "10c"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "sir.caffeine",
+                "danutzz",
+                "12monkeys",
+                "IlxxxlI",
+                "Omfgdieahhh",
+                "12monkeys"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Omfgdieahhh",
+                "12monkeys"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.77,
+                1.77
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Omfgdieahhh",
+                "12monkeys",
+                "Omfgdieahhh"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.79,
+                5.79
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Omfgdieahhh",
+                "12monkeys",
+                "Omfgdieahhh"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                28.14,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        14.69,
+        31.32,
+        26.85,
+        47.83,
+        9.9
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "date": "2016/12/15 13:4:8",
+    "game_id": "798434146",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 2,
+    "players": [
+        "gust",
+        "GreinSeint",
+        "IlxxxlI",
+        "ikasu",
+        "roastbeans",
+        "pineapplesand"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        35.0,
+        50.0,
+        50.0,
+        67.12,
+        21.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "ikasu",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "Qs",
+            "4h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "roastbeans",
+                "pineapplesand",
+                "gust",
+                "GreinSeint",
+                "IlxxxlI",
+                "ikasu"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ikasu",
+                "roastbeans",
+                "ikasu"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.85,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.0,
+        35.0,
+        49.5,
+        48.0,
+        69.4,
+        21.5
+    ]
+}

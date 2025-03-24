@@ -1,0 +1,116 @@
+{
+    "date": "2016/12/5 9:45:32",
+    "game_id": "791290447",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 2,
+    "players": [
+        "PokerPhenom22",
+        "IlxxxlI",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5
+    ],
+    "starting_stacks": [
+        30.0,
+        20.0,
+        43.8
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "PokerPhenom22",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "2c",
+            "5c"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "St3p04ka",
+                "PokerPhenom22"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.3,
+                null,
+                1.3
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PokerPhenom22",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PokerPhenom22",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "PokerPhenom22",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.9,
+        16.2,
+        43.3
+    ]
+}

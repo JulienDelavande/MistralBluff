@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/2 16:15:3",
+    "game_id": "789345079",
+    "variant": "PRR",
+    "table_name": "Gorgons-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "WeakAndWeary",
+        "GagaPoker",
+        "DonkReaper",
+        "IlxxxlI",
+        "hoocher",
+        "imperceptible"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        61.54,
+        76.89,
+        69.85,
+        21.5,
+        49.5,
+        20.0
+    ],
+    "player_small_blind": "hoocher",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Kc",
+            "3d"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GagaPoker",
+                "DonkReaper",
+                "IlxxxlI",
+                "hoocher",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "hoocher",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "hoocher",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "hoocher",
+                "WeakAndWeary",
+                "hoocher"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.85,
+                2.85
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "6c 6h",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        65.46,
+        76.89,
+        69.85,
+        21.5,
+        45.15,
+        20.0
+    ]
+}

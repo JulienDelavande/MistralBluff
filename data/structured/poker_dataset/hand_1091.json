@@ -1,20 +1,17 @@
 {
-    "date": "2016/11/29 9:37:17",
-    "game_id": "786809152",
+    "date": "2016/9/13 13:28:46",
+    "game_id": "726613694",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
+        "Wei2huge",
         "IlxxxlI",
-        "Tilt-A-Whirl",
-        "IamPhamous",
+        "DOR1",
+        "uncle_argyle",
         "PANDAisEVIL",
-        "Gronkowski69",
-        "StephCurry",
-        "L4zy_FiSh",
-        "mr.fargo",
-        "shokerAAss"
+        "ravenh94"
     ],
     "players_seats": [
         1,
@@ -22,76 +19,80 @@
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        185.47,
-        211.5,
-        301.16,
-        211.32,
-        200.0,
-        208.0,
-        252.78,
-        104.51,
-        238.3
+        154.97,
+        69.0,
+        41.98,
+        104.94,
+        106.35,
+        50.31
     ],
-    "player_small_blind": "Gronkowski69",
+    "player_small_blind": "DOR1",
     "small_blind": 1.0,
-    "player_big_blind": "StephCurry",
+    "player_big_blind": "uncle_argyle",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jc",
-        "7s"
+        "5h",
+        "Jc"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "7d",
+            "8s",
+            "Qh"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "L4zy_FiSh",
-                "mr.fargo",
-                "shokerAAss",
-                "IlxxxlI",
-                "Tilt-A-Whirl",
-                "IamPhamous",
                 "PANDAisEVIL",
-                "Gronkowski69",
-                "StephCurry"
+                "ravenh94",
+                "Wei2huge",
+                "IlxxxlI",
+                "DOR1",
+                "uncle_argyle",
+                "ravenh94",
+                "DOR1"
             ],
             "actions": [
                 "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
                 "RAISE",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
+                2.0,
                 null,
                 null,
-                null,
-                null,
-                null,
-                null,
-                5.0,
+                1.0,
+                12.0,
+                12.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "uncle_argyle",
+                "ravenh94"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                90.94,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -110,20 +111,14 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        185.47,
-        211.5,
-        301.16,
-        211.32,
-        202.0,
-        206.0,
-        252.78,
-        104.51,
-        238.3
+        154.97,
+        69.0,
+        39.98,
+        119.44,
+        106.35,
+        36.31
     ]
 }

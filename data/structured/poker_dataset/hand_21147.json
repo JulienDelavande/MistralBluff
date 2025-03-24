@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/9 9:9:12",
+    "game_id": "793888147",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "MadLifeGrinder",
+        "g-vine",
+        "meandkids",
+        "bfish602",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        177.4,
+        129.46,
+        87.5,
+        115.2,
+        46.75
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "MadLifeGrinder",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "9s",
+            "9d"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "g-vine",
+                "meandkids",
+                "bfish602",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "g-vine"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                10.0,
+                null,
+                null,
+                null,
+                7.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "g-vine",
+                "meandkids"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "g-vine",
+                "meandkids",
+                "g-vine"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                13.62,
+                13.62
+            ]
+        },
+        "post-river": {
+            "players": [
+                "g-vine",
+                "meandkids",
+                "g-vine",
+                "meandkids"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                30.87,
+                105.84,
+                33.01
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "9c 8c",
+        "Ad Jh",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        176.4,
+        215.46,
+        0.0,
+        115.2,
+        46.25
+    ]
+}

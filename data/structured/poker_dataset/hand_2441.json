@@ -1,101 +1,79 @@
 {
-    "date": "2016/11/19 23:37:30",
-    "game_id": "779469191",
+    "date": "2016/9/18 10:7:9",
+    "game_id": "730273839",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
+    "table_name": "Medusa",
+    "type_game": "Short",
     "button_seat": 5,
     "players": [
-        "tbmfc",
-        "naprimer",
-        "Log_in",
-        "IlxxxlI",
-        "Vonalarta",
-        "Tanker123",
-        "MANTISGUYV10"
+        "Bazuko",
+        "VegetablesArentYummy",
+        "Taino44",
+        "Pureprofit4",
+        "xx_HaZ",
+        "IlxxxlI"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
         5,
-        6,
-        7,
-        8
+        6
     ],
     "starting_stacks": [
-        6.76,
-        53.56,
-        19.72,
-        20.0,
-        66.52,
-        35.64,
-        75.27
+        155.0,
+        354.69,
+        80.0,
+        362.96,
+        204.0,
+        163.74
     ],
-    "player_small_blind": "Vonalarta",
-    "small_blind": 0.25,
-    "player_big_blind": "Tanker123",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7h",
-        "6d"
+        "3s",
+        "2s"
     ],
     "dealed_cards": {
-        "flop": [
-            "3h",
-            "6h",
-            "4s"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MANTISGUYV10",
-                "tbmfc",
-                "naprimer",
-                "Log_in",
+                "Taino44",
+                "Pureprofit4",
+                "xx_HaZ",
                 "IlxxxlI",
-                "Vonalarta",
-                "Tanker123"
+                "VegetablesArentYummy",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
                 "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                null,
-                null,
-                1.25,
-                1.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "Vonalarta",
-                "Tanker123",
-                "Vonalarta"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
+                null,
+                null,
                 2.0,
+                10.0,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -114,16 +92,14 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        6.76,
-        53.56,
-        19.72,
-        20.0,
-        65.02,
-        36.99,
-        75.27
+        155.0,
+        358.69,
+        80.0,
+        362.96,
+        204.0,
+        159.74
     ]
 }

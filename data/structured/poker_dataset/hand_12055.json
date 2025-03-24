@@ -1,0 +1,170 @@
+{
+    "date": "2016/12/24 22:9:37",
+    "game_id": "805241190",
+    "variant": "PRR",
+    "table_name": "Ettin-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "shocktheworld",
+        "TheKingBigD",
+        "AcesHigh14",
+        "Helene91",
+        "IlxxxlI",
+        "Poteplie",
+        "kudos72off",
+        "Aacedugan",
+        "Falcons99"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        23.9,
+        50.14,
+        24.27,
+        25.0,
+        16.28,
+        25.0,
+        33.91,
+        10.33,
+        7.63
+    ],
+    "player_small_blind": "TheKingBigD",
+    "small_blind": 0.1,
+    "player_big_blind": "AcesHigh14",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "Qh",
+            "6h"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Helene91",
+                "IlxxxlI",
+                "Poteplie",
+                "kudos72off",
+                "Aacedugan",
+                "Falcons99",
+                "shocktheworld",
+                "TheKingBigD",
+                "AcesHigh14"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.75,
+                null,
+                0.75,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "kudos72off",
+                "Falcons99"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.64,
+                null,
+                1.64
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Falcons99"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Falcons99",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                2.79,
+                5.24,
+                2.45
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Jh Jd",
+        null,
+        null,
+        null,
+        "9h Ah"
+    ],
+    "finishing_stack": [
+        23.9,
+        50.04,
+        24.02,
+        25.0,
+        8.650000000000002,
+        25.0,
+        33.16,
+        10.33,
+        15.55
+    ]
+}

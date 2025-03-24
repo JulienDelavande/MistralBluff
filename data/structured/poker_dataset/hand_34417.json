@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/5 11:10:18",
+    "game_id": "791355734",
+    "variant": "PRR",
+    "table_name": "Gorgons-16",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Beep_Beep",
+        "imperceptible",
+        "pigtrickery",
+        "QDevilQ",
+        "so_it_goes",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        66.1,
+        19.74,
+        32.18,
+        59.56,
+        51.87,
+        31.36
+    ],
+    "player_small_blind": "pigtrickery",
+    "small_blind": 0.25,
+    "player_big_blind": "QDevilQ",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "Jc",
+            "5c"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "so_it_goes",
+                "IlxxxlI",
+                "Beep_Beep",
+                "imperceptible",
+                "pigtrickery",
+                "QDevilQ"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "pigtrickery",
+                "so_it_goes"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "pigtrickery",
+                "so_it_goes"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "pigtrickery",
+                "so_it_goes"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "5h Kh",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        66.1,
+        19.74,
+        34.91,
+        59.06,
+        49.37,
+        31.36
+    ]
+}

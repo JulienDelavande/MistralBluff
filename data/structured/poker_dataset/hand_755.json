@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 13:6:1",
-    "game_id": "786966426",
+    "date": "2016/9/6 0:24:12",
+    "game_id": "720629298",
     "variant": "PRR",
-    "table_name": "Kraken-7",
-    "type_game": "Hold'em",
+    "table_name": "Monopod",
+    "type_game": "Cap",
     "button_seat": 3,
     "players": [
-        "gust",
-        "WeakAndWeary",
-        "Beep_Beep",
+        "BigLou1212",
+        "BIGRAISE",
+        "RUDINHO",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
         "IlxxxlI",
-        "Im Don King",
-        "MadLifeGrinder"
+        "bustmynuts"
     ],
     "players_seats": [
         1,
@@ -19,106 +22,92 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        41.58,
-        100.0,
-        109.75,
-        40.0,
-        108.52,
-        107.07
+        322.13,
+        164.45,
+        794.7,
+        324.81,
+        425.34,
+        441.45,
+        410.7,
+        160.0,
+        314.74
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "Im Don King",
-    "big_blind": 1.0,
+    "player_small_blind": "HookahBOSS",
+    "small_blind": 2.0,
+    "player_big_blind": "Maria26years",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "2d"
+        "3d",
+        "8c"
     ],
     "dealed_cards": {
-        "flop": [
-            "6d",
-            "3h",
-            "2c"
-        ],
-        "turn": [
-            "8c"
-        ],
-        "river": [
-            "5h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "gust",
-                "WeakAndWeary",
-                "Beep_Beep",
+                "gfclbv",
+                "Leatherass9",
                 "IlxxxlI",
-                "Im Don King"
+                "bustmynuts",
+                "BigLou1212",
+                "BIGRAISE",
+                "RUDINHO",
+                "HookahBOSS",
+                "Maria26years",
+                "gfclbv",
+                "bustmynuts"
             ],
             "actions": [
+                "RAISE",
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                3.0,
-                null,
-                2.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "Im Don King",
-                "Beep_Beep"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Im Don King",
-                "Beep_Beep"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "Im Don King",
-                "Beep_Beep"
-            ],
-            "actions": [
-                "BET",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                5.0,
+                8.0,
+                null,
+                null,
+                8.0,
+                null,
+                62.0,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -127,14 +116,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        41.58,
-        100.0,
-        106.75,
-        39.5,
-        111.69999999999999,
-        107.07
+        322.13,
+        186.45,
+        794.7,
+        322.81,
+        421.34,
+        433.45,
+        410.7,
+        160.0,
+        306.74
     ]
 }

@@ -1,156 +1,146 @@
 {
-    "date": "2016/11/21 11:52:0",
-    "game_id": "781000863",
+    "date": "2016/9/18 9:33:10",
+    "game_id": "730258474",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Medusa",
     "type_game": "Short",
-    "button_seat": 2,
+    "button_seat": 1,
     "players": [
-        "haroldbb",
-        "sr86",
+        "Pureprofit4",
         "IlxxxlI",
-        "hotshothotgg",
-        "parmele",
-        "ChrisNola",
-        "Parcker",
-        "FirstClan"
+        "BoomSauce222",
+        "bb26bb",
+        "VegetablesArentYummy",
+        "stevedavebob"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        6,
-        7,
-        8,
-        9
+        5,
+        6
     ],
     "starting_stacks": [
-        36.45,
-        48.09,
-        23.43,
-        21.71,
-        27.7,
-        43.27,
-        25.75,
-        29.7
+        305.17,
+        80.0,
+        179.77,
+        446.44,
+        623.12,
+        203.91
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "hotshothotgg",
-    "big_blind": 0.5,
+    "small_blind": 2.0,
+    "player_big_blind": "BoomSauce222",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
+        "3d",
         "2d"
     ],
     "dealed_cards": {
         "flop": [
-            "8d",
-            "7h",
-            "3h"
+            "3s",
+            "4c",
+            "7h"
         ],
         "turn": [
-            "5h"
+            "Ks"
         ],
         "river": [
-            "7c"
+            "10d"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "parmele",
-                "ChrisNola",
-                "Parcker",
-                "FirstClan",
-                "haroldbb",
-                "sr86",
+                "bb26bb",
+                "VegetablesArentYummy",
+                "stevedavebob",
+                "Pureprofit4",
                 "IlxxxlI",
-                "hotshothotgg"
+                "BoomSauce222"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
                 "FOLD",
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CHECK"
+                "CALL"
             ],
             "values": [
                 null,
-                0.5,
                 null,
                 null,
+                8.0,
                 null,
-                null,
-                null,
-                null
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "hotshothotgg",
-                "ChrisNola"
+                "BoomSauce222",
+                "Pureprofit4",
+                "BoomSauce222"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
                 null,
-                null
+                8.92,
+                8.92
             ]
         },
         "post-turn": {
             "players": [
-                "hotshothotgg",
-                "ChrisNola"
+                "BoomSauce222",
+                "Pureprofit4",
+                "BoomSauce222"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
                 null,
-                null
+                23.66,
+                23.66
             ]
         },
         "post-river": {
             "players": [
-                "hotshothotgg",
-                "ChrisNola"
+                "BoomSauce222",
+                "Pureprofit4"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null
+                45.0,
+                45.0
             ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        "Ks 3d",
-        null,
+        "7d 4h",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        36.45,
-        48.09,
-        23.18,
-        22.400000000000002,
-        27.7,
-        42.77,
-        25.75,
-        29.7
+        219.59000000000003,
+        78.0,
+        265.65000000000003,
+        446.44,
+        623.12,
+        203.91
     ]
 }

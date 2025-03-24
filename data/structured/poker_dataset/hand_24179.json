@@ -1,0 +1,162 @@
+{
+    "date": "2016/12/8 14:49:11",
+    "game_id": "793407330",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "snow crash",
+        "solasso",
+        "parmele",
+        "Tzra1",
+        "Spagetti1",
+        "CallMePAPA",
+        "Ksander",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        17.12,
+        8.2,
+        6.96,
+        13.95,
+        59.76,
+        17.52,
+        12.6,
+        14.73
+    ],
+    "player_small_blind": "Ksander",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "As",
+            "Ks"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "snow crash",
+                "solasso",
+                "parmele",
+                "Tzra1",
+                "Spagetti1",
+                "CallMePAPA",
+                "Ksander",
+                "IlxxxlI",
+                "Tzra1"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.25,
+                null,
+                0.5,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Tzra1",
+                "CallMePAPA",
+                "Tzra1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Tzra1",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Tzra1",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        17.12,
+        8.2,
+        6.96,
+        15.19,
+        59.76,
+        16.52,
+        12.5,
+        14.48
+    ]
+}

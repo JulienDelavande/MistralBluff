@@ -1,70 +1,95 @@
 {
-    "date": "2016/11/29 15:10:19",
-    "game_id": "787022482",
+    "date": "2016/9/4 9:45:8",
+    "game_id": "719276499",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "IlxxxlI",
-        "aleks0v",
-        "Beep_Beep",
-        "LawMaker20"
+        "Martyrs",
+        "bet2000",
+        "Pureprofit4",
+        "Kak_Ded_Y4il",
+        "SheppyPOO!!",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
+        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        20.0,
-        50.0,
-        70.25,
-        21.33
+        401.49,
+        300.0,
+        368.6,
+        472.92,
+        300.0,
+        164.25
     ],
-    "player_small_blind": "LawMaker20",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "Kak_Ded_Y4il",
+    "small_blind": 3.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "2c"
+        "9d",
+        "5h"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "3c",
+            "Ac",
+            "Kh"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "aleks0v",
-                "Beep_Beep",
-                "LawMaker20",
                 "IlxxxlI",
-                "aleks0v"
+                "Martyrs",
+                "bet2000",
+                "Pureprofit4",
+                "Kak_Ded_Y4il",
+                "SheppyPOO!!"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
-                1.5,
                 null,
-                4.75,
+                12.0,
                 null,
-                null
+                null,
+                null,
+                6.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "SheppyPOO!!",
+                "Martyrs",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                13.37,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -81,12 +106,16 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        19.5,
-        48.5,
-        70.25,
-        23.33
+        416.24,
+        300.0,
+        368.6,
+        469.92,
+        288.0,
+        164.25
     ]
 }

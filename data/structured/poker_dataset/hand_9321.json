@@ -1,0 +1,100 @@
+{
+    "date": "2016/12/25 22:12:7",
+    "game_id": "805811834",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Indigol",
+        "IlxxxlI",
+        "whitebeaver77"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        58.67,
+        27.49,
+        12.03
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "whitebeaver77",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "8d",
+            "9c"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Indigol",
+                "IlxxxlI",
+                "whitebeaver77",
+                "Indigol"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                1.9,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Indigol",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.69,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        60.71,
+        25.49,
+        11.78
+    ]
+}

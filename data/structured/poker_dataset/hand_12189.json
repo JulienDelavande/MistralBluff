@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/24 21:56:26",
+    "game_id": "805237687",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "d4av",
+        "IlxxxlI",
+        "caballeroXXX",
+        "dellindi",
+        "Indigol",
+        "Xamroll"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        48.87,
+        98.53,
+        54.08,
+        59.76,
+        75.63
+    ],
+    "player_small_blind": "Indigol",
+    "small_blind": 0.25,
+    "player_big_blind": "Xamroll",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "Jc",
+            "6c"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "d4av",
+                "IlxxxlI",
+                "caballeroXXX",
+                "dellindi",
+                "Indigol",
+                "Xamroll"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Xamroll",
+                "caballeroXXX"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Xamroll",
+                "caballeroXXX"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        48.87,
+        97.28,
+        54.08,
+        59.51,
+        77.0
+    ]
+}

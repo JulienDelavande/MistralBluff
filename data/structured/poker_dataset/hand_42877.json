@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/1 20:55:0",
+    "game_id": "788729544",
+    "variant": "PRR",
+    "table_name": "Lakhey-10",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "ALLad_IN101",
+        "IlxxxlI",
+        "Chubrica",
+        "gfclbv"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        351.13,
+        87.0,
+        328.33,
+        103.69
+    ],
+    "player_small_blind": "gfclbv",
+    "small_blind": 1.0,
+    "player_big_blind": "ALLad_IN101",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "7h",
+            "5c"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Chubrica",
+                "gfclbv",
+                "ALLad_IN101"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ALLad_IN101",
+                "Chubrica"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ALLad_IN101",
+                "Chubrica"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        355.68,
+        87.0,
+        324.33,
+        102.69
+    ]
+}

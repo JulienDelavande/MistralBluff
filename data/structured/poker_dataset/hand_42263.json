@@ -1,0 +1,154 @@
+{
+    "date": "2016/12/2 9:18:32",
+    "game_id": "789111732",
+    "variant": "PRR",
+    "table_name": "Karkadann-2",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "Tilt-A-Whirl",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "sweetfeet",
+        "pingtennis",
+        "dankmann",
+        "aleaga"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        171.39,
+        101.5,
+        61.3,
+        44.44,
+        40.0,
+        104.18,
+        100.0
+    ],
+    "player_small_blind": "aleaga",
+    "small_blind": 0.5,
+    "player_big_blind": "Tilt-A-Whirl",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "4s",
+            "4d"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "sweetfeet",
+                "pingtennis",
+                "dankmann",
+                "aleaga",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Tilt-A-Whirl",
+                "sweetfeet",
+                "pingtennis",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.0,
+                7.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "sweetfeet",
+                "pingtennis"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                12.0,
+                12.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "sweetfeet",
+                "pingtennis"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                22.44,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        168.39,
+        101.5,
+        61.3,
+        67.57,
+        18.0,
+        104.18,
+        99.5
+    ]
+}

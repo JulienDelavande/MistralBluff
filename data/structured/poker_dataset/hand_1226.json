@@ -1,42 +1,48 @@
 {
-    "date": "2016/11/29 9:4:39",
-    "game_id": "786779357",
+    "date": "2016/9/17 10:38:15",
+    "game_id": "729540299",
     "variant": "PRR",
-    "table_name": "Gorgons-7",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "528 Hertz",
-        "Dirty4skin",
-        "Tilt-A-Whirl",
-        "IlxxxlI"
+        "flyzlcomb07",
+        "RCSOX",
+        "IlxxxlI",
+        "graphicup",
+        "784rim",
+        "Pureprofit4"
     ],
     "players_seats": [
         1,
+        2,
         3,
+        4,
         5,
         6
     ],
     "starting_stacks": [
-        52.55,
-        42.84,
-        85.76,
-        20.25
+        400.33,
+        191.0,
+        80.0,
+        255.25,
+        88.0,
+        270.49
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "528 Hertz",
-    "big_blind": 0.5,
+    "player_small_blind": "flyzlcomb07",
+    "small_blind": 2.0,
+    "player_big_blind": "RCSOX",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8s",
-        "8d"
+        "10c",
+        "9h"
     ],
     "dealed_cards": {
         "flop": [
-            "Qc",
-            "Qh",
-            "6s"
+            "Ah",
+            "3s",
+            "Ac"
         ],
         "turn": [],
         "river": []
@@ -44,35 +50,50 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "Dirty4skin",
-                "Tilt-A-Whirl",
                 "IlxxxlI",
-                "528 Hertz"
+                "graphicup",
+                "784rim",
+                "Pureprofit4",
+                "flyzlcomb07",
+                "RCSOX"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "RAISE",
+                "FOLD",
+                "CALL",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
-                1.0,
-                0.75
+                8.0,
+                null,
+                6.0,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "528 Hertz"
+                "flyzlcomb07",
+                "RCSOX",
+                "784rim",
+                "flyzlcomb07",
+                "RCSOX"
             ],
             "actions": [
+                "CHECK",
+                "CHECK",
                 "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                1.24,
+                null,
+                null,
+                11.9,
+                null,
                 null
             ]
         },
@@ -91,12 +112,16 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        51.3,
-        42.84,
-        85.76,
-        21.38
+        392.33,
+        183.0,
+        80.0,
+        255.25,
+        103.8,
+        270.49
     ]
 }

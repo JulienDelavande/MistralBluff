@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/2 14:20:19",
+    "game_id": "789306459",
+    "variant": "PRR",
+    "table_name": "Kraken-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "PoolGuyNY",
+        "IlxxxlI",
+        "Ksowas",
+        "HomoPokerus",
+        "WeakAndWeary",
+        "LuxuryMaster"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        42.68,
+        50.19,
+        110.66,
+        101.23,
+        150.27,
+        118.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Ksowas",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "Kc",
+            "6s"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HomoPokerus",
+                "WeakAndWeary",
+                "LuxuryMaster",
+                "PoolGuyNY",
+                "IlxxxlI",
+                "Ksowas"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksowas",
+                "LuxuryMaster",
+                "PoolGuyNY",
+                "Ksowas",
+                "LuxuryMaster"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "LuxuryMaster",
+                "PoolGuyNY"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "LuxuryMaster",
+                "PoolGuyNY"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.36,
+                7.36
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ks 8s"
+    ],
+    "finishing_stack": [
+        29.32,
+        49.69,
+        107.66,
+        101.23,
+        150.27,
+        133.35
+    ]
+}

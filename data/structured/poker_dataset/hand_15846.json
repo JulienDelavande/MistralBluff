@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/22 22:52:39",
+    "game_id": "803850005",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "SkaHot",
+        "MikiFinn",
+        "HapKoTuk",
+        "IlxxxlI",
+        "booya25",
+        "mce86"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        36.83,
+        27.13,
+        30.0,
+        25.59,
+        34.35,
+        29.46
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "5h",
+            "Ks"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "booya25",
+                "mce86",
+                "SkaHot",
+                "MikiFinn",
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "MikiFinn"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.79,
+                0.79
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "MikiFinn",
+                "HapKoTuk",
+                "MikiFinn"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.79,
+                5.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        36.83,
+        24.049999999999997,
+        33.010000000000005,
+        25.34,
+        34.35,
+        29.46
+    ]
+}

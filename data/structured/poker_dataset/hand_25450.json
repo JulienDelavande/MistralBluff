@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/8 9:47:4",
+    "game_id": "793219877",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "DiiMinores",
+        "IlxxxlI",
+        "xxRepoManxx",
+        "2Joes",
+        "optimist1"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.14,
+        5.0,
+        26.59,
+        23.21,
+        23.65
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "xxRepoManxx",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "Ac",
+            "9h"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "2Joes",
+                "optimist1",
+                "DiiMinores",
+                "IlxxxlI",
+                "xxRepoManxx",
+                "DiiMinores"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                2.25,
+                1.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "xxRepoManxx",
+                "DiiMinores",
+                "xxRepoManxx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.42,
+                2.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "xxRepoManxx",
+                "DiiMinores"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "xxRepoManxx",
+                "DiiMinores",
+                "xxRepoManxx"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                6.3,
+                15.22,
+                8.92
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qs 9s",
+        null,
+        "Qc Ah",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        0.0,
+        4.9,
+        44.81999999999999,
+        23.21,
+        23.65
+    ]
+}

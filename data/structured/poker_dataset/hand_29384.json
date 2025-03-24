@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/7 8:58:46",
+    "game_id": "792474444",
+    "variant": "PRR",
+    "table_name": "Gorgons-14",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "xROCKETMANx",
+        "IlxxxlI",
+        "Heksebrygg",
+        "Ice Bank Mice Elf"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        49.24,
+        20.0,
+        68.28,
+        52.26
+    ],
+    "player_small_blind": "Heksebrygg",
+    "small_blind": 0.25,
+    "player_big_blind": "Ice Bank Mice Elf",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "6d",
+            "5s"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "xROCKETMANx",
+                "IlxxxlI",
+                "Heksebrygg",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Heksebrygg",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Heksebrygg",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.3,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        49.24,
+        20.0,
+        71.33999999999999,
+        48.86
+    ]
+}

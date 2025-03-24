@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/9 13:37:55",
+    "game_id": "794080461",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "rossco2000",
+        "hoocher",
+        "Heksebrygg",
+        "IlxxxlI",
+        "mdw72"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        59.66,
+        61.46,
+        20.0,
+        22.58
+    ],
+    "player_small_blind": "mdw72",
+    "small_blind": 0.25,
+    "player_big_blind": "rossco2000",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "Kd",
+            "Ac"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hoocher",
+                "Heksebrygg",
+                "IlxxxlI",
+                "mdw72",
+                "rossco2000",
+                "Heksebrygg",
+                "mdw72"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                0.25,
+                1.5,
+                1.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "rossco2000",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "rossco2000",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "rossco2000",
+                "Heksebrygg",
+                "rossco2000"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                7.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        16.0,
+        59.66,
+        65.54,
+        20.0,
+        22.08
+    ]
+}

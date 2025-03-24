@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/23 13:30:47",
+    "game_id": "804420564",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "twoakers",
+        "sobrr",
+        "itsmejdg",
+        "Ksander"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        9
+    ],
+    "starting_stacks": [
+        31.85,
+        42.12,
+        14.32,
+        24.5,
+        26.0
+    ],
+    "player_small_blind": "itsmejdg",
+    "small_blind": 0.25,
+    "player_big_blind": "Ksander",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "As",
+            "Qs"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "7c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "twoakers",
+                "sobrr",
+                "itsmejdg",
+                "Ksander"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "itsmejdg",
+                "Ksander",
+                "sobrr",
+                "itsmejdg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                null,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "itsmejdg",
+                "Ksander",
+                "itsmejdg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.5,
+                3.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "itsmejdg",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ah 10c",
+        "Ac 9c"
+    ],
+    "finishing_stack": [
+        31.85,
+        42.12,
+        13.32,
+        30.779999999999998,
+        20.08
+    ]
+}

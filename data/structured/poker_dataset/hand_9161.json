@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/25 22:33:4",
+    "game_id": "805817331",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "lukopti",
+        "d0nkeym0ney",
+        "Indigol",
+        "IlxxxlI",
+        "spewbacca"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        46.23,
+        16.7,
+        58.1,
+        26.64,
+        7.55
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "spewbacca",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "Ks",
+            "Jd"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "lukopti",
+                "d0nkeym0ney",
+                "Indigol",
+                "IlxxxlI",
+                "spewbacca",
+                "d0nkeym0ney",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                0.15,
+                0.38,
+                0.38,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "spewbacca",
+                "d0nkeym0ney"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "spewbacca",
+                "d0nkeym0ney"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.96,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        46.23,
+        16.07,
+        58.1,
+        26.39,
+        8.36
+    ]
+}

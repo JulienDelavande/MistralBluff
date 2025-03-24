@@ -1,84 +1,108 @@
 {
-    "date": "2016/11/29 8:21:10",
-    "game_id": "786742009",
+    "date": "2016/9/17 15:30:26",
+    "game_id": "729615957",
     "variant": "PRR",
-    "table_name": "Karkadann-2",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "shokerAAss",
+        "jbaker10031",
+        "38979",
         "IlxxxlI",
-        "Iia007",
-        "Winter is here",
-        "Qrenor",
-        "PeLanpapa"
+        "Fuck-P-Stars",
+        "elpasoafera",
+        "gust"
     ],
     "players_seats": [
+        1,
         2,
+        3,
         4,
         5,
-        6,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        113.61,
-        75.92,
-        100.0,
-        200.64,
-        272.17,
-        195.0
+        45.67,
+        132.99,
+        85.12,
+        132.12,
+        49.61,
+        80.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "Iia007",
-    "big_blind": 1.0,
+    "player_small_blind": "elpasoafera",
+    "small_blind": 1.0,
+    "player_big_blind": "gust",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2h",
-        "5d"
+        "Kh",
+        "8s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "5d",
+            "8h",
+            "Jh"
+        ],
+        "turn": [
+            "5h"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Winter is here",
-                "Qrenor",
-                "PeLanpapa",
-                "shokerAAss",
+                "jbaker10031",
+                "38979",
                 "IlxxxlI",
-                "Iia007"
+                "Fuck-P-Stars",
+                "elpasoafera",
+                "gust"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                2.0,
+                null,
+                6.0,
                 null,
                 null,
                 null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "gust",
+                "38979"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "gust",
+                "38979"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.23,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -95,11 +119,11 @@
         null
     ],
     "finishing_stack": [
-        113.61,
-        75.42,
-        99.0,
-        202.14,
-        272.17,
-        195.0
+        45.67,
+        126.99000000000001,
+        85.12,
+        132.12,
+        48.61,
+        86.35
     ]
 }

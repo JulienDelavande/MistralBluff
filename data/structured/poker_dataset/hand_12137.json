@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 22:1:0",
+    "game_id": "805238661",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Xamroll",
+        "d4av",
+        "IlxxxlI",
+        "caballeroXXX",
+        "Indigol",
+        "38979"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        66.85,
+        107.97,
+        55.89,
+        55.29,
+        55.37,
+        58.07
+    ],
+    "player_small_blind": "38979",
+    "small_blind": 0.25,
+    "player_big_blind": "Xamroll",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "Ks",
+            "8d"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "d4av",
+                "IlxxxlI",
+                "caballeroXXX",
+                "Indigol",
+                "38979",
+                "Xamroll"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "d4av",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "d4av",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "d4av",
+                "Indigol",
+                "d4av"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Jd As",
+        null,
+        null,
+        "Ah 10h",
+        null
+    ],
+    "finishing_stack": [
+        66.35,
+        108.2,
+        55.89,
+        55.29,
+        55.61,
+        57.82
+    ]
+}

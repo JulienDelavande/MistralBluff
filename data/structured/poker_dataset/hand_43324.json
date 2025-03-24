@@ -1,0 +1,119 @@
+{
+    "date": "2016/12/1 15:45:30",
+    "game_id": "788668031",
+    "variant": "PRR",
+    "table_name": "Kraken-11",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "aleks0v",
+        "SHER1FFmd",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        127.62,
+        114.75,
+        51.46
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "aleks0v",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "7s",
+            "Ac"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SHER1FFmd",
+                "IlxxxlI",
+                "aleks0v"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "aleks0v",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.37,
+                2.37
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Kd 9h"
+    ],
+    "finishing_stack": [
+        122.75,
+        114.75,
+        55.85
+    ]
+}

@@ -1,20 +1,18 @@
 {
-    "date": "2016/11/29 12:50:14",
-    "game_id": "786958298",
+    "date": "2016/9/6 0:45:8",
+    "game_id": "720647218",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 3,
     "players": [
-        "BHawk12",
+        "TJoseph1",
         "IlxxxlI",
-        "flyshark01",
-        "Jui Kuen",
-        "constant revelation",
-        "foreseen"
+        "Ksowas",
+        "JikkiP",
+        "Im Don King"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
@@ -22,108 +20,116 @@
         6
     ],
     "starting_stacks": [
-        62.17,
-        20.0,
-        87.54,
-        50.0,
-        25.98,
-        53.09
+        52.25,
+        115.45,
+        217.79,
+        97.27,
+        108.2
     ],
-    "player_small_blind": "Jui Kuen",
-    "small_blind": 0.25,
-    "player_big_blind": "constant revelation",
-    "big_blind": 0.5,
+    "player_small_blind": "Ksowas",
+    "small_blind": 1.0,
+    "player_big_blind": "JikkiP",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "7d"
+        "Ad",
+        "5s"
     ],
     "dealed_cards": {
         "flop": [
-            "4h",
-            "5c",
-            "5s"
+            "Jd",
+            "8h",
+            "10d"
         ],
         "turn": [
-            "8s"
+            "3h"
         ],
-        "river": []
+        "river": [
+            "Ac"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "foreseen",
-                "BHawk12",
+                "Im Don King",
+                "TJoseph1",
                 "IlxxxlI",
-                "flyshark01",
-                "Jui Kuen",
-                "constant revelation"
+                "Ksowas",
+                "JikkiP"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
                 "CALL"
             ],
             "values": [
                 null,
-                1.5,
                 null,
-                null,
-                null,
-                1.0
+                4.0,
+                3.0,
+                2.0
             ]
         },
         "post-flop": {
             "players": [
-                "constant revelation",
-                "BHawk12"
+                "Ksowas",
+                "JikkiP",
+                "IlxxxlI"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL",
+                "FOLD"
             ],
             "values": [
-                null,
+                10.0,
+                10.0,
                 null
             ]
         },
         "post-turn": {
             "players": [
-                "constant revelation",
-                "BHawk12"
+                "Ksowas",
+                "JikkiP"
             ],
             "actions": [
                 "BET",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                1.54,
-                null
+                22.0,
+                22.0
             ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Ksowas",
+                "JikkiP"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                28.0,
+                28.0
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
+        "10c Js",
         null,
         null
     ],
     "finishing_stack": [
-        60.67,
-        20.0,
-        87.54,
-        49.75,
-        27.57,
-        53.09
+        52.25,
+        111.45,
+        282.78999999999996,
+        33.269999999999996,
+        108.2
     ]
 }

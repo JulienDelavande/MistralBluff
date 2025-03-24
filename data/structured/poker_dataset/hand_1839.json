@@ -1,74 +1,79 @@
 {
-    "date": "2016/11/28 19:54:31",
-    "game_id": "786366862",
+    "date": "2016/9/18 8:16:42",
+    "game_id": "730216044",
     "variant": "PRR",
-    "table_name": "Gorgons-3",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "Goomashroom",
         "38979",
-        "IlxxxlI"
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "Cellar door",
+        "wjb024"
     ],
     "players_seats": [
         1,
+        2,
+        3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        51.35,
-        96.45,
-        25.06
+        100.0,
+        45.1,
+        100.0,
+        202.32,
+        134.84,
+        73.85
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "Goomashroom",
-    "big_blind": 0.5,
+    "player_small_blind": "KeepKalm",
+    "small_blind": 1.0,
+    "player_big_blind": "Cellar door",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kc",
-        "6c"
+        "6h",
+        "Kd"
     ],
     "dealed_cards": {
-        "flop": [
-            "7c",
-            "8h",
-            "3c"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "wjb024",
                 "38979",
                 "IlxxxlI",
-                "Goomashroom"
+                "VegetablesArentYummy",
+                "KeepKalm",
+                "Cellar door"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
-                "CHECK"
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
                 null,
-                0.25,
+                6.0,
+                null,
+                null,
+                null,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "Goomashroom"
-            ],
-            "actions": [
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                0.63,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -84,11 +89,17 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        50.85,
-        96.45,
-        25.509999999999998
+        103.0,
+        45.1,
+        100.0,
+        201.32,
+        132.84,
+        73.85
     ]
 }

@@ -1,83 +1,130 @@
 {
-    "date": "2016/11/29 14:16:21",
-    "game_id": "787001210",
+    "date": "2016/9/5 12:18:48",
+    "game_id": "720263181",
     "variant": "PRR",
-    "table_name": "Kraken-16",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 8,
     "players": [
-        "GagaPoker",
-        "MadLifeGrinder",
-        "Sephiroth1",
-        "Beep_Beep",
-        "IlxxxlI"
+        "RapaNui",
+        "St3p04ka",
+        "GranatoBetano",
+        "IlxxxlI",
+        "markthegreat100",
+        "follower1",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5
+        6,
+        8,
+        9
     ],
     "starting_stacks": [
-        107.93,
-        110.85,
-        105.5,
-        113.05,
-        40.0
+        419.31,
+        224.2,
+        271.63,
+        135.87,
+        251.45,
+        306.0,
+        204.0
     ],
-    "player_small_blind": "Beep_Beep",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "TheManiac89",
+    "small_blind": 3.0,
+    "player_big_blind": "RapaNui",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "4c"
+        "Kc",
+        "2d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "8c",
+            "2s",
+            "Ad"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "4d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "GagaPoker",
-                "MadLifeGrinder",
-                "Sephiroth1",
-                "Beep_Beep",
-                "IlxxxlI"
+                "St3p04ka",
+                "GranatoBetano",
+                "IlxxxlI",
+                "markthegreat100",
+                "follower1",
+                "TheManiac89",
+                "RapaNui"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                2.5,
-                null
+                null,
+                null,
+                10.0,
+                7.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TheManiac89",
+                "RapaNui"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                6.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TheManiac89",
+                "RapaNui"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TheManiac89",
+                "RapaNui"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                19.0,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -85,13 +132,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        107.93,
-        110.85,
-        105.5,
-        114.05,
-        39.0
+        400.31,
+        224.2,
+        271.63,
+        135.87,
+        251.45,
+        306.0,
+        222.65
     ]
 }

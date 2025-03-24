@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 16:19:45",
+    "game_id": "788677449",
+    "variant": "PRR",
+    "table_name": "Lakhey-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "flyshark01",
+        "IlxxxlI",
+        "dolphin1609",
+        "Wollverin",
+        "BeAboutIt"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        200.0,
+        80.0,
+        269.25,
+        206.0,
+        177.3
+    ],
+    "player_small_blind": "dolphin1609",
+    "small_blind": 1.0,
+    "player_big_blind": "Wollverin",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "2c",
+            "Qs"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BeAboutIt",
+                "flyshark01",
+                "IlxxxlI",
+                "dolphin1609",
+                "Wollverin"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                6.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Wollverin",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Wollverin",
+                "IlxxxlI",
+                "Wollverin"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                18.0,
+                10.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Wollverin",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "9h Kd",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        200.0,
+        102.55,
+        268.25,
+        182.0,
+        177.3
+    ]
+}

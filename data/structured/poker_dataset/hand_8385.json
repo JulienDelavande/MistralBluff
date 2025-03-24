@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/26 12:46:48",
+    "game_id": "806331233",
+    "variant": "PRR",
+    "table_name": "Ekek-19",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "PhuckVariance",
+        "Ottermode",
+        "Parcker",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        31.07,
+        38.57,
+        19.01,
+        25.6,
+        27.82
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "PhuckVariance",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "7c",
+            "10s"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "2s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ottermode",
+                "Parcker",
+                "HapKoTuk",
+                "IlxxxlI",
+                "PhuckVariance",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                1.9,
+                1.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "PhuckVariance"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "PhuckVariance",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.49,
+                3.49
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "PhuckVariance",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.5,
+                9.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ah 10c",
+        "5c Qc",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        46.32,
+        22.16,
+        19.01,
+        25.6,
+        27.32
+    ]
+}

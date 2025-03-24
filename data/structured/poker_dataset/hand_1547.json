@@ -1,73 +1,95 @@
 {
-    "date": "2016/11/29 7:36:23",
-    "game_id": "786705326",
+    "date": "2016/9/18 7:34:38",
+    "game_id": "730189581",
     "variant": "PRR",
-    "table_name": "Kajsa",
-    "type_game": "short",
-    "button_seat": 6,
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 1,
     "players": [
+        "iDawg",
+        "jackson319",
         "IlxxxlI",
         "Gargantuatua",
-        "BigBlat",
-        "badboy85",
-        "Qrenor"
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        20.0,
-        59.0,
-        49.21,
-        42.28,
-        52.96
+        121.41,
+        66.74,
+        41.62,
+        130.65,
+        103.0,
+        130.28
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "jackson319",
     "small_blind": 0.5,
-    "player_big_blind": "BigBlat",
+    "player_big_blind": "IlxxxlI",
     "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jh",
-        "Kh"
+        "10s",
+        "7d"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "4s",
+            "As",
+            "Qh"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "badboy85",
-                "Qrenor",
-                "IlxxxlI",
-                "BigBlat",
-                "Qrenor"
+                "Gargantuatua",
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg",
+                "jackson319",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
                 "RAISE",
-                "ALLIN",
                 "FOLD",
+                "FOLD",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
-                2.0,
-                19.5,
+                3.0,
                 null,
+                null,
+                2.5,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "jackson319",
+                "BlitzWaut",
+                "jackson319"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.32,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -85,13 +107,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        23.0,
-        59.0,
-        48.21,
-        42.28,
-        50.96
+        121.41,
+        63.739999999999995,
+        40.62,
+        130.65,
+        106.65,
+        130.28
     ]
 }

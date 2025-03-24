@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/2 14:16:49",
+    "game_id": "789305039",
+    "variant": "PRR",
+    "table_name": "Longana-2",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "frazdaddy510",
+        "SuperMarioFold",
+        "VegetablesArentYummy",
+        "TonnaMunz"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        7
+    ],
+    "starting_stacks": [
+        80.0,
+        105.55,
+        200.0,
+        200.0,
+        232.84
+    ],
+    "player_small_blind": "TonnaMunz",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "6c",
+            "Ah"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "7c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "frazdaddy510",
+                "SuperMarioFold",
+                "VegetablesArentYummy",
+                "TonnaMunz",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                5.0,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.22,
+                8.44,
+                4.22
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                8.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10c 8h",
+        null,
+        null,
+        "9d 9c",
+        null
+    ],
+    "finishing_stack": [
+        58.56,
+        105.55,
+        200.0,
+        220.25,
+        231.84
+    ]
+}

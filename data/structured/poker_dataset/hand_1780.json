@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 20:1:16",
-    "game_id": "786368072",
+    "date": "2016/9/18 8:8:50",
+    "game_id": "730211018",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 7,
     "players": [
-        "caballeroXXX",
-        "38979",
-        "meandkids",
-        "Goomashroom",
-        "legenda99",
-        "IlxxxlI"
+        "VegetablesArentYummy",
+        "Pimpika",
+        "IlxxxlI",
+        "Spew Diamond Phillips",
+        "gosu36484",
+        "Antimonysayz",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
@@ -19,109 +22,142 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        62.85,
-        50.0,
-        98.47,
-        129.98,
-        70.24,
-        20.0
+        104.23,
+        169.76,
+        40.0,
+        134.34,
+        53.4,
+        84.94,
+        18.15,
+        29.55,
+        239.58
     ],
-    "player_small_blind": "meandkids",
-    "small_blind": 0.25,
-    "player_big_blind": "Goomashroom",
-    "big_blind": 0.5,
+    "player_small_blind": "brainvape",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "3d"
+        "8c",
+        "3c"
     ],
     "dealed_cards": {
         "flop": [
-            "8d",
-            "Qh",
-            "Qs"
+            "10d",
+            "Kd",
+            "10s"
         ],
         "turn": [
-            "Ks"
+            "Jh"
         ],
         "river": [
-            "Jh"
+            "4c"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "legenda99",
+                "VegetablesArentYummy",
+                "Pimpika",
                 "IlxxxlI",
-                "caballeroXXX",
-                "38979",
-                "meandkids",
-                "Goomashroom",
-                "38979"
+                "Spew Diamond Phillips",
+                "gosu36484",
+                "Antimonysayz",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "RAISE",
+                "CALL",
                 "FOLD",
-                "CALL"
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
             ],
             "values": [
+                2.5,
+                2.5,
+                null,
+                2.5,
                 null,
                 null,
                 null,
-                1.5,
-                6.25,
-                null,
-                5.0
+                2.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "meandkids",
-                "38979",
-                "meandkids"
+                "brainvape",
+                "VegetablesArentYummy",
+                "Pimpika",
+                "Spew Diamond Phillips",
+                "brainvape",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "CHECK",
+                "CHECK",
                 "BET",
+                "CALL",
+                "CALL",
                 "CALL"
             ],
             "values": [
                 null,
-                6.41,
-                6.41
+                null,
+                6.96,
+                6.96,
+                6.96,
+                6.96
             ]
         },
         "post-turn": {
             "players": [
-                "meandkids",
-                "38979"
+                "brainvape",
+                "VegetablesArentYummy",
+                "Pimpika",
+                "Spew Diamond Phillips"
             ],
             "actions": [
+                "CHECK",
+                "CHECK",
                 "CHECK",
                 "CHECK"
             ],
             "values": [
+                null,
+                null,
                 null,
                 null
             ]
         },
         "post-river": {
             "players": [
-                "meandkids",
-                "38979"
+                "brainvape",
+                "VegetablesArentYummy",
+                "Pimpika",
+                "Spew Diamond Phillips"
             ],
             "actions": [
+                "CHECK",
+                "CHECK",
                 "CHECK",
                 "CHECK"
             ],
             "values": [
+                null,
+                null,
                 null,
                 null
             ]
@@ -129,18 +165,24 @@
     },
     "card_shown_by_players": [
         null,
+        "Ac Kc",
         null,
-        "7c 7h",
+        null,
+        null,
+        null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        62.85,
-        37.09,
-        110.57000000000001,
-        129.48,
-        70.24,
-        20.0
+        94.77000000000001,
+        197.2,
+        40.0,
+        124.88,
+        53.4,
+        84.94,
+        18.15,
+        20.09,
+        238.58
     ]
 }

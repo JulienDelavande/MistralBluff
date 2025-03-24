@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/24 22:13:10",
+    "game_id": "805242288",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "Novassman",
+        "LuckyAce96",
+        "booya25",
+        "IlxxxlI",
+        "shocktheworld"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        24.95,
+        11.49,
+        29.01,
+        44.04,
+        29.79
+    ],
+    "player_small_blind": "booya25",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "10d",
+            "9s"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "shocktheworld",
+                "Novassman",
+                "LuckyAce96",
+                "booya25",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                0.25,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "shocktheworld",
+                "LuckyAce96",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.54,
+                0.54,
+                0.54
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "shocktheworld",
+                "LuckyAce96"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "shocktheworld",
+                "LuckyAce96"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "As 4h",
+        "Ah 10h"
+    ],
+    "finishing_stack": [
+        24.95,
+        10.7,
+        28.91,
+        43.25,
+        31.35
+    ]
+}

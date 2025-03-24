@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/7 10:40:0",
+    "game_id": "792552208",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "Heksebrygg",
+        "38979",
+        "Prostodursen",
+        "WeakAndWeary"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        21.51,
+        51.7,
+        57.51,
+        58.83,
+        50.02
+    ],
+    "player_small_blind": "38979",
+    "small_blind": 0.25,
+    "player_big_blind": "Prostodursen",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "8s",
+            "4h"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "IlxxxlI",
+                "Heksebrygg",
+                "38979",
+                "Prostodursen"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.79,
+                1.79
+            ]
+        },
+        "post-river": {
+            "players": [
+                "WeakAndWeary",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.49,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.51,
+        48.410000000000004,
+        57.26,
+        58.33,
+        53.7
+    ]
+}

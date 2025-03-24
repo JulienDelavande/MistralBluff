@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/9 8:14:28",
+    "game_id": "793836709",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Heksebrygg",
+        "Tilt-A-Whirl",
+        "Polar1z1ng",
+        "braaaap"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        61.62,
+        83.63,
+        50.0,
+        23.31
+    ],
+    "player_small_blind": "Heksebrygg",
+    "small_blind": 0.25,
+    "player_big_blind": "Tilt-A-Whirl",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "5s",
+            "5h"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Polar1z1ng",
+                "braaaap",
+                "IlxxxlI",
+                "Heksebrygg",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Tilt-A-Whirl",
+                "Polar1z1ng",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.71,
+                0.71
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Tilt-A-Whirl",
+                "Polar1z1ng",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.74,
+                1.74
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Tilt-A-Whirl",
+                "Polar1z1ng",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                13.0,
+                13.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10c Jc",
+        null
+    ],
+    "finishing_stack": [
+        20.0,
+        61.37,
+        67.17999999999999,
+        65.05,
+        23.31
+    ]
+}

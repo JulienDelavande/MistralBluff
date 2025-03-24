@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/8 17:23:50",
+    "game_id": "793445161",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "Beep_Beep",
+        "IampokerKidd",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        61.7,
+        61.42,
+        63.11,
+        10.5
+    ],
+    "player_small_blind": "Beep_Beep",
+    "small_blind": 0.25,
+    "player_big_blind": "IampokerKidd",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "10h",
+            "Qh"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "Beep_Beep",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Beep_Beep",
+                "WeakAndWeary",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.79,
+                1.79
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Beep_Beep",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Beep_Beep",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        58.910000000000004,
+        64.41,
+        62.61,
+        10.5
+    ]
+}

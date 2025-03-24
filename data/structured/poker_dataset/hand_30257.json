@@ -1,0 +1,166 @@
+{
+    "date": "2016/12/6 17:11:41",
+    "game_id": "792168752",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "vatraman",
+        "dankmann",
+        "anokato",
+        "IlxxxlI",
+        "Poteplie",
+        "kennycowboy",
+        "kidsquid"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        26.0,
+        27.81,
+        25.6,
+        10.0,
+        42.28,
+        24.65,
+        82.45
+    ],
+    "player_small_blind": "Poteplie",
+    "small_blind": 0.1,
+    "player_big_blind": "kennycowboy",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "7s",
+            "6s"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "kidsquid",
+                "vatraman",
+                "dankmann",
+                "anokato",
+                "IlxxxlI",
+                "Poteplie",
+                "kennycowboy"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "kennycowboy",
+                "kidsquid",
+                "IlxxxlI",
+                "kennycowboy",
+                "kidsquid"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.75,
+                1.75,
+                1.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "kennycowboy",
+                "kidsquid",
+                "IlxxxlI",
+                "kennycowboy",
+                "kidsquid"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "ALLIN",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                7.5,
+                7.5,
+                7.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "kennycowboy",
+                "kidsquid"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10h 10s",
+        null,
+        "Qs Js",
+        null
+    ],
+    "finishing_stack": [
+        26.0,
+        27.81,
+        25.6,
+        28.6,
+        42.18,
+        14.649999999999999,
+        72.45
+    ]
+}

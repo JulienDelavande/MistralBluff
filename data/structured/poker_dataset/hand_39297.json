@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/2 20:22:54",
+    "game_id": "789392285",
+    "variant": "PRR",
+    "table_name": "Lakhey",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Orondi",
+        "PANDAisEVIL",
+        "IlxxxlI",
+        "BgU_RedBaron"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        200.0,
+        207.6,
+        80.0,
+        206.8
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "BgU_RedBaron",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "10d",
+            "3d"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Orondi",
+                "PANDAisEVIL",
+                "IlxxxlI",
+                "BgU_RedBaron"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BgU_RedBaron",
+                "Orondi",
+                "BgU_RedBaron"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.18,
+                6.18
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BgU_RedBaron",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BgU_RedBaron",
+                "Orondi",
+                "BgU_RedBaron"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                16.07,
+                16.07
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kd Kc",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        227.25,
+        207.6,
+        79.0,
+        178.55
+    ]
+}

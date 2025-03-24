@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/8 14:45:23",
+    "game_id": "793406009",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "anokato",
+        "PhillipHellmuth",
+        "muchachon"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        10.35,
+        37.81,
+        26.63,
+        9.3
+    ],
+    "player_small_blind": "anokato",
+    "small_blind": 0.1,
+    "player_big_blind": "PhillipHellmuth",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "As",
+            "9s"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "muchachon",
+                "IlxxxlI",
+                "anokato",
+                "PhillipHellmuth"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PhillipHellmuth",
+                "muchachon"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PhillipHellmuth",
+                "muchachon"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "PhillipHellmuth",
+                "muchachon"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.96,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.35,
+        37.71,
+        28.08,
+        7.800000000000001
+    ]
+}

@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 13:4:21",
-    "game_id": "786965442",
+    "date": "2016/9/6 0:27:28",
+    "game_id": "720632224",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 6,
     "players": [
-        "BHawk12",
+        "BigLou1212",
+        "BIGRAISE",
+        "RUDINHO",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
         "IlxxxlI",
-        "flyshark01",
-        "Jui Kuen",
-        "constant revelation",
-        "foreseen"
+        "bustmynuts"
     ],
     "players_seats": [
         1,
@@ -19,128 +22,140 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        58.34,
-        25.93,
-        96.2,
-        50.0,
-        29.19,
-        50.0
+        386.08,
+        186.45,
+        750.2,
+        336.81,
+        419.34,
+        427.45,
+        406.7,
+        160.0,
+        292.24
     ],
-    "player_small_blind": "constant revelation",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "Leatherass9",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6s",
-        "Jc"
+        "3s",
+        "7s"
     ],
     "dealed_cards": {
         "flop": [
-            "10s",
-            "3c",
-            "4h"
+            "5c",
+            "9h",
+            "Jc"
         ],
         "turn": [
-            "2d"
+            "10c"
         ],
         "river": [
-            "8s"
+            "5h"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "BHawk12",
+                "bustmynuts",
+                "BigLou1212",
+                "BIGRAISE",
+                "RUDINHO",
+                "HookahBOSS",
+                "Maria26years",
+                "gfclbv",
+                "Leatherass9",
                 "IlxxxlI",
-                "flyshark01",
-                "Jui Kuen",
-                "constant revelation",
-                "foreseen",
-                "BHawk12"
+                "BigLou1212",
+                "Maria26years"
             ],
             "actions": [
-                "RAISE",
+                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
+                "RAISE",
                 "FOLD",
+                "FOLD",
+                "CALL",
                 "CALL"
             ],
             "values": [
-                1.5,
+                null,
+                4.0,
                 null,
                 null,
                 null,
-                4.25,
+                20.0,
+                60.0,
                 null,
-                3.0
+                null,
+                56.0,
+                40.0
             ]
         },
         "post-flop": {
             "players": [
-                "constant revelation",
-                "BHawk12"
+                "BigLou1212",
+                "Maria26years",
+                "gfclbv",
+                "BigLou1212",
+                "Maria26years"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "CHECK",
+                "RAISE",
+                "CALL",
+                "FOLD"
             ],
             "values": [
                 null,
+                null,
+                60.0,
+                60.0,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "constant revelation",
-                "BHawk12"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                4.51,
-                4.51
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "constant revelation",
-                "BHawk12",
-                "constant revelation"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "ALLIN"
-            ],
-            "values": [
-                null,
-                20.18,
-                20.18
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "7c Ac",
         null,
         null,
         null,
-        "Qs Qh",
+        null,
+        null,
+        "Js Jd",
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        29.150000000000002,
-        25.93,
-        96.2,
-        50.0,
-        55.94,
-        49.5
+        266.08,
+        186.45,
+        750.2,
+        336.81,
+        359.34,
+        610.45,
+        404.7,
+        156.0,
+        292.24
     ]
 }

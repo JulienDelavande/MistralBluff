@@ -1,126 +1,130 @@
 {
-    "date": "2016/11/29 15:5:30",
-    "game_id": "787020853",
+    "date": "2016/9/4 9:49:48",
+    "game_id": "719278806",
     "variant": "PRR",
-    "table_name": "Garuda-4",
-    "type_game": "Hold'em",
+    "table_name": "Medusa",
+    "type_game": "Short",
     "button_seat": 6,
     "players": [
-        "gorillaman68",
-        "dankmann",
-        "kid4life",
-        "DRofBooya",
-        "wvlax1425",
-        "Spagetti1",
         "IlxxxlI",
-        "haroldbb",
-        "Korobochka"
+        "letsgooooo",
+        "bet2000",
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        53.77,
-        101.71,
-        113.59,
-        45.19,
-        52.04,
-        50.01,
-        20.0,
-        54.88,
-        102.45
+        104.7,
+        200.0,
+        494.65,
+        209.8
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "haroldbb",
-    "big_blind": 0.5,
+    "small_blind": 2.0,
+    "player_big_blind": "letsgooooo",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "7h"
+        "Qs",
+        "4h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Jc",
+            "7d",
+            "4d"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "8h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Korobochka",
-                "gorillaman68",
-                "dankmann",
-                "kid4life",
-                "DRofBooya",
-                "wvlax1425",
-                "Spagetti1",
-                "IlxxxlI"
+                "bet2000",
+                "ConstanceHarm",
+                "IlxxxlI",
+                "letsgooooo"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
+                10.0,
                 null,
-                null,
-                null,
-                null,
-                null,
-                null,
-                null
+                6.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "letsgooooo",
+                "ConstanceHarm",
+                "letsgooooo"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.12,
+                11.12
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "letsgooooo",
+                "ConstanceHarm",
+                "letsgooooo"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                35.22,
+                35.22
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "letsgooooo",
+                "ConstanceHarm"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
+        "7s Ks",
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Kh 10c"
     ],
     "finishing_stack": [
-        53.77,
-        101.71,
-        113.59,
-        45.19,
-        52.04,
-        50.01,
-        19.75,
-        55.13,
-        102.45
+        102.7,
+        257.24,
+        494.65,
+        153.46
     ]
 }

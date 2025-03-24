@@ -1,75 +1,132 @@
 {
-    "date": "2016/11/29 11:54:13",
-    "game_id": "786918870",
+    "date": "2016/9/6 10:33:12",
+    "game_id": "721082710",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Pegasus",
     "type_game": "Short",
-    "button_seat": 6,
+    "button_seat": 3,
     "players": [
         "IlxxxlI",
-        "BiGFck",
-        "38979"
+        "secretdonk",
+        "ShtrafBat",
+        "graphicup",
+        "oleg_dagi"
     ],
     "players_seats": [
+        1,
         2,
         3,
-        6
+        4,
+        5
     ],
     "starting_stacks": [
-        10.92,
-        11.75,
-        25.0
+        120.0,
+        178.66,
+        143.36,
+        307.05,
+        125.53
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "38979",
-    "big_blind": 0.5,
+    "player_small_blind": "graphicup",
+    "small_blind": 3.0,
+    "player_big_blind": "oleg_dagi",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6s",
-        "7h"
+        "Ah",
+        "10d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Qs",
+            "Js",
+            "Qd"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "10h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI"
+                "IlxxxlI",
+                "secretdonk",
+                "ShtrafBat",
+                "graphicup",
+                "oleg_dagi"
             ],
             "actions": [
-                "FOLD"
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
-                null
+                12.0,
+                null,
+                null,
+                null,
+                6.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "oleg_dagi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "oleg_dagi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "oleg_dagi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
+        "Ah 10d",
         null,
         null,
-        null
+        null,
+        "Ac 6s"
     ],
     "finishing_stack": [
-        10.67,
-        11.75,
-        25.25
+        121.38,
+        178.66,
+        143.36,
+        304.05,
+        126.9
     ]
 }

@@ -1,0 +1,134 @@
+{
+    "date": "2016/12/8 15:12:43",
+    "game_id": "793414455",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Maria_Pia",
+        "IlxxxlI",
+        "anokato",
+        "PhillipHellmuth",
+        "bigfeeesh",
+        "mugiwara_boy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        13.68,
+        37.14,
+        33.99,
+        12.69,
+        27.02
+    ],
+    "player_small_blind": "Maria_Pia",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "5h",
+            "Jd"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "PhillipHellmuth",
+                "bigfeeesh",
+                "mugiwara_boy",
+                "Maria_Pia",
+                "IlxxxlI",
+                "PhillipHellmuth"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.6,
+                1.25,
+                null,
+                null,
+                null,
+                0.65
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PhillipHellmuth",
+                "bigfeeesh",
+                "PhillipHellmuth",
+                "bigfeeesh",
+                "PhillipHellmuth"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.75,
+                6.0,
+                9.69,
+                5.44
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10h 7h",
+        "Ah Ad",
+        null
+    ],
+    "finishing_stack": [
+        9.9,
+        13.43,
+        37.14,
+        21.300000000000004,
+        24.45,
+        27.02
+    ]
+}

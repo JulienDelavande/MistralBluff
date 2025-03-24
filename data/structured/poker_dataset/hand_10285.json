@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/25 14:5:59",
+    "game_id": "805708718",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "dtnfk",
+        "anokato",
+        "IlxxxlI",
+        "MrTamPham",
+        "huiloputin",
+        "Sonic3Dblast"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        18.92,
+        42.87,
+        25.0,
+        29.35,
+        25.6,
+        28.18
+    ],
+    "player_small_blind": "dtnfk",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "9d",
+            "10d"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "MrTamPham",
+                "huiloputin",
+                "Sonic3Dblast",
+                "dtnfk",
+                "anokato"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.55,
+                0.45,
+                0.3
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dtnfk",
+                "anokato",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dtnfk",
+                "anokato",
+                "Sonic3Dblast",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.78,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        18.37,
+        43.89,
+        25.0,
+        29.35,
+        25.6,
+        27.63
+    ]
+}

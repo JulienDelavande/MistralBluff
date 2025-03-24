@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/5 11:47:31",
+    "game_id": "791380154",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "IlxxxlI",
+        "Thefisherman90",
+        "Polar1z1ng",
+        "suited97",
+        "BiGFck"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        53.91,
+        20.0,
+        50.0,
+        68.72,
+        80.55,
+        18.75
+    ],
+    "player_small_blind": "BiGFck",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "6c",
+            "7d"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Thefisherman90",
+                "Polar1z1ng",
+                "suited97",
+                "BiGFck",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                1.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Thefisherman90",
+                "suited97"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Thefisherman90",
+                "suited97"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Thefisherman90",
+                "suited97",
+                "Thefisherman90"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "As Ah",
+        null,
+        "Jd Qc",
+        null
+    ],
+    "finishing_stack": [
+        53.41,
+        20.0,
+        53.42,
+        68.72,
+        77.55,
+        18.5
+    ]
+}

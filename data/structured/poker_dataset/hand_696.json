@@ -1,125 +1,110 @@
 {
-    "date": "2016/11/29 13:13:10",
-    "game_id": "786970673",
+    "date": "2016/9/6 0:11:51",
+    "game_id": "720617963",
     "variant": "PRR",
-    "table_name": "Gorgons-10",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "WeakAndWeary",
-        "foreseen",
         "IlxxxlI",
-        "Beep_Beep",
-        "yigbn1",
-        "xROCKETMANx"
+        "Leatherass9",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
-        1,
-        2,
         3,
         4,
-        5,
         6
     ],
     "starting_stacks": [
-        50.0,
-        161.51,
-        20.0,
-        50.0,
-        63.92,
-        56.01
+        42.6,
+        199.42,
+        155.93
     ],
-    "player_small_blind": "foreseen",
-    "small_blind": 0.25,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "4c"
+        "10d",
+        "Qh"
     ],
     "dealed_cards": {
         "flop": [
-            "Ad",
-            "4h",
-            "7d"
+            "Kd",
+            "Qd",
+            "Ks"
         ],
         "turn": [
-            "2d"
+            "4h"
         ],
         "river": [
-            "3d"
+            "5h"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Beep_Beep",
-                "yigbn1",
-                "xROCKETMANx",
-                "WeakAndWeary",
-                "foreseen",
+                "Leatherass9",
+                "VegetablesArentYummy",
                 "IlxxxlI"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "RAISE",
                 "CALL",
-                "CHECK"
+                "CALL"
             ],
             "values": [
-                null,
-                null,
-                null,
-                null,
-                0.25,
-                null
+                4.0,
+                3.0,
+                2.0
             ]
         },
         "post-flop": {
             "players": [
-                "foreseen",
-                "IlxxxlI"
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "Leatherass9"
             ],
             "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                0.5,
-                0.5
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "foreseen",
-                "IlxxxlI"
-            ],
-            "actions": [
+                "CHECK",
                 "CHECK",
                 "CHECK"
             ],
             "values": [
                 null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "Leatherass9"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                7.6,
+                7.6,
                 null
             ]
         },
         "post-river": {
             "players": [
-                "foreseen",
-                "IlxxxlI",
-                "foreseen"
+                "VegetablesArentYummy",
+                "IlxxxlI"
             ],
             "actions": [
-                "CHECK",
-                "BET",
+                "ALLIN",
                 "FOLD"
             ],
             "values": [
-                null,
-                4.0,
+                144.33,
                 null
             ]
         }
@@ -127,17 +112,11 @@
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        50.0,
-        160.51,
-        20.9,
-        50.0,
-        63.92,
-        56.01
+        31.0,
+        195.42,
+        170.53
     ]
 }

@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/25 22:12:59",
+    "game_id": "805812085",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "mikeymikedc",
+        "Old Biker",
+        "viLLaiN1gPILLivey"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        25.28,
+        12.98,
+        19.01,
+        6.26
+    ],
+    "player_small_blind": "Old Biker",
+    "small_blind": 0.1,
+    "player_big_blind": "viLLaiN1gPILLivey",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "4d",
+            "10d"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "mikeymikedc",
+                "Old Biker",
+                "viLLaiN1gPILLivey",
+                "mikeymikedc",
+                "Old Biker"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.15,
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Old Biker",
+                "viLLaiN1gPILLivey",
+                "mikeymikedc",
+                "Old Biker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "viLLaiN1gPILLivey",
+                "mikeymikedc"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "viLLaiN1gPILLivey",
+                "mikeymikedc"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kd As",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.28,
+        14.58,
+        18.51,
+        5.01
+    ]
+}

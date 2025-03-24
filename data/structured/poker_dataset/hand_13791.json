@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 0:46:1",
+    "game_id": "804611845",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "itsmejdg",
+        "IlxxxlI",
+        "SkaHot",
+        "Sonic3Dblast",
+        "serial28",
+        "marcelosan"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        38.77,
+        27.02,
+        29.44,
+        45.15,
+        64.38,
+        20.16
+    ],
+    "player_small_blind": "serial28",
+    "small_blind": 0.1,
+    "player_big_blind": "marcelosan",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "3d",
+            "4s"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "itsmejdg",
+                "IlxxxlI",
+                "SkaHot",
+                "Sonic3Dblast",
+                "serial28",
+                "marcelosan"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "marcelosan",
+                "itsmejdg",
+                "marcelosan"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.76,
+                0.76
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "marcelosan",
+                "itsmejdg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "marcelosan",
+                "itsmejdg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "7s 7c",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.230000000000004,
+        27.02,
+        29.44,
+        45.15,
+        64.28,
+        18.65
+    ]
+}

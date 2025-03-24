@@ -1,18 +1,20 @@
 {
-    "date": "2016/11/29 11:14:31",
-    "game_id": "786888288",
+    "date": "2016/9/13 13:26:33",
+    "game_id": "726613230",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "short",
-    "button_seat": 3,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "Gargantuatua",
-        "AironVega",
-        "Ksowas",
+        "Wei2huge",
         "IlxxxlI",
-        "89_suited"
+        "DOR1",
+        "uncle_argyle",
+        "PANDAisEVIL",
+        "ravenh94"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
@@ -20,73 +22,90 @@
         6
     ],
     "starting_stacks": [
-        166.64,
-        52.2,
-        50.5,
-        20.0,
-        57.75
+        152.97,
+        72.0,
+        39.73,
+        104.94,
+        105.0,
+        53.31
     ],
-    "player_small_blind": "Ksowas",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "ravenh94",
+    "small_blind": 1.0,
+    "player_big_blind": "Wei2huge",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qs",
-        "As"
+        "10c",
+        "3c"
     ],
     "dealed_cards": {
         "flop": [
-            "Kh",
-            "5c",
-            "2c"
+            "9c",
+            "8s",
+            "4s"
         ],
         "turn": [
-            "5s"
+            "Qd"
         ],
-        "river": [
-            "7c"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "89_suited",
-                "Gargantuatua",
-                "AironVega",
-                "Ksowas",
                 "IlxxxlI",
-                "Gargantuatua",
-                "Ksowas"
+                "DOR1",
+                "uncle_argyle",
+                "PANDAisEVIL",
+                "ravenh94",
+                "Wei2huge",
+                "DOR1"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
+                "CALL",
                 "FOLD",
                 "RAISE",
-                "ALLIN",
+                "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
-                2.5,
+                2.0,
                 null,
-                8.5,
-                19.0,
+                6.0,
                 null,
-                11.0
+                null,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "DOR1",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "DOR1",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                9.5,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -97,15 +116,17 @@
     "card_shown_by_players": [
         null,
         null,
-        "Qh Qc",
-        "Qs As",
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        164.14,
-        52.2,
-        70.88,
-        0.0,
-        57.75
+        150.97,
+        72.0,
+        47.98,
+        104.94,
+        99.0,
+        52.31
     ]
 }

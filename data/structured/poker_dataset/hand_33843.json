@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/5 12:33:5",
+    "game_id": "791407579",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "XGXOFFX82",
+        "Run Forrest",
+        "FirstClan",
+        "rudyru"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        23.75,
+        15.5,
+        32.86,
+        24.25
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "XGXOFFX82",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "9h",
+            "2h"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Run Forrest",
+                "FirstClan",
+                "rudyru",
+                "IlxxxlI",
+                "XGXOFFX82"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "XGXOFFX82",
+                "rudyru",
+                "XGXOFFX82"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.54,
+                1.54
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "XGXOFFX82",
+                "rudyru",
+                "XGXOFFX82",
+                "rudyru"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.5,
+                10.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.75,
+        29.880000000000003,
+        15.5,
+        32.86,
+        17.71
+    ]
+}

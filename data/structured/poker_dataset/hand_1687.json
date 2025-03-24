@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 20:18:29",
-    "game_id": "786372170",
+    "date": "2016/9/18 7:57:28",
+    "game_id": "730204224",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 3,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 4,
     "players": [
+        "A",
         "IlxxxlI",
-        "38979",
-        "BBDub27",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "utormico",
+        "Cellar door",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
@@ -19,66 +21,120 @@
         3,
         4,
         5,
-        6
+        6,
+        8,
+        9
     ],
     "starting_stacks": [
-        45.0,
-        218.52,
-        120.8,
-        127.7,
-        113.14,
-        72.73
+        307.24,
+        98.0,
+        80.0,
+        200.0,
+        168.34,
+        200.0,
+        301.81,
+        279.16
     ],
-    "player_small_blind": "Wollverin",
+    "player_small_blind": "utormico",
     "small_blind": 1.0,
-    "player_big_blind": "meandkids",
+    "player_big_blind": "Cellar door",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3s",
-        "8c"
+        "9c",
+        "9d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "3h",
+            "Qd",
+            "7c"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "2d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Are you with me",
+                "UrSoDumb",
+                "KeepKalm",
+                "A",
                 "IlxxxlI",
-                "38979",
-                "BBDub27",
-                "Wollverin",
-                "meandkids"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "utormico",
+                "Cellar door"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                6.0,
+                6.0,
+                6.0,
+                null,
+                5.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "utormico",
+                "Cellar door",
+                "A",
+                "IlxxxlI",
+                "Pimpika",
+                "utormico",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
+                16.0,
                 null,
+                16.0,
                 null,
-                3.5,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "A",
+                "Pimpika",
+                "A"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                29.5,
+                58.0,
+                28.5
+            ]
         },
         "post-river": {
             "players": [],
@@ -87,7 +143,9 @@
         }
     },
     "card_shown_by_players": [
+        "9s Qs",
         null,
+        "Ad Qc",
         null,
         null,
         null,
@@ -95,11 +153,13 @@
         null
     ],
     "finishing_stack": [
-        45.0,
-        218.52,
-        120.8,
-        129.7,
-        111.14,
-        72.73
+        227.24,
+        92.0,
+        175.0,
+        200.0,
+        162.34,
+        194.0,
+        301.81,
+        279.16
     ]
 }

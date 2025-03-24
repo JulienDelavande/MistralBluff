@@ -1,79 +1,104 @@
 {
-    "date": "2016/11/29 12:44:24",
-    "game_id": "786954590",
+    "date": "2016/9/6 0:51:9",
+    "game_id": "720652301",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 9,
     "players": [
-        "KingGuciGuci",
-        "IbetUmuck",
+        "PANDAisEVIL",
+        "RMCG01",
+        "VegetablesArentYummy",
+        "Im Don King",
         "IlxxxlI",
-        "MadLifeGrinder",
-        "LazyFish"
+        "cuzyagood",
+        "Leatherass9",
+        "PandaWang"
     ],
     "players_seats": [
+        1,
         2,
-        3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        217.76,
-        489.73,
-        80.0,
+        224.0,
         200.0,
-        275.37
+        205.4,
+        206.0,
+        80.0,
+        327.96,
+        407.0,
+        240.45
     ],
-    "player_small_blind": "MadLifeGrinder",
-    "small_blind": 1.0,
-    "player_big_blind": "LazyFish",
-    "big_blind": 2.0,
+    "player_small_blind": "PANDAisEVIL",
+    "small_blind": 2.0,
+    "player_big_blind": "RMCG01",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8s",
-        "10s"
+        "4c",
+        "Jd"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Kc",
+            "Ac",
+            "7h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "KingGuciGuci",
-                "IbetUmuck",
+                "VegetablesArentYummy",
+                "Im Don King",
                 "IlxxxlI",
-                "MadLifeGrinder",
-                "LazyFish",
-                "KingGuciGuci",
-                "IlxxxlI"
+                "cuzyagood",
+                "Leatherass9",
+                "PandaWang",
+                "PANDAisEVIL",
+                "RMCG01"
             ],
             "actions": [
                 "RAISE",
                 "FOLD",
-                "RAISE",
+                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "ALLIN",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                5.0,
-                null,
-                12.15,
+                10.0,
                 null,
                 null,
-                212.76,
+                10.0,
+                null,
+                null,
+                null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "VegetablesArentYummy",
+                "cuzyagood"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                12.87,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -91,13 +116,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        232.91,
-        489.73,
-        67.85,
-        199.0,
-        273.37
+        222.0,
+        196.0,
+        221.15,
+        206.0,
+        80.0,
+        317.96,
+        407.0,
+        240.45
     ]
 }

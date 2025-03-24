@@ -1,0 +1,146 @@
+{
+    "date": "2016/9/22 9:27:46",
+    "game_id": "733354952",
+    "variant": "PRR",
+    "table_name": "Karkadann-5",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "VegetablesArentYummy",
+        "BigBlat",
+        "FirstClan",
+        "mistaMK",
+        "gosu36484",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        100.0,
+        138.16,
+        109.05,
+        103.67,
+        41.0,
+        40.0
+    ],
+    "player_small_blind": "mistaMK",
+    "small_blind": 0.5,
+    "player_big_blind": "gosu36484",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "9c",
+            "4h"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "BigBlat",
+                "FirstClan",
+                "mistaMK",
+                "gosu36484"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "gosu36484",
+                "BigBlat",
+                "gosu36484"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "gosu36484",
+                "BigBlat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "gosu36484",
+                "BigBlat",
+                "gosu36484"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.49,
+                3.49
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ac Kd",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        144.86,
+        109.05,
+        103.17,
+        34.09,
+        40.0
+    ]
+}

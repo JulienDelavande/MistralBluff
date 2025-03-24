@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 16:19:39",
+    "game_id": "792157035",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Maria_Pia",
+        "Log_in",
+        "imperceptible",
+        "IlxxxlI",
+        "WomboComboAA"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.28,
+        25.92,
+        19.48,
+        20.77,
+        50.84
+    ],
+    "player_small_blind": "Log_in",
+    "small_blind": 0.25,
+    "player_big_blind": "imperceptible",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "6c",
+            "Kc"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "WomboComboAA",
+                "Maria_Pia",
+                "Log_in",
+                "imperceptible"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "imperceptible",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "imperceptible",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "imperceptible",
+                "Maria_Pia",
+                "imperceptible"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.95,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.42,
+        25.67,
+        18.48,
+        20.77,
+        50.84
+    ]
+}

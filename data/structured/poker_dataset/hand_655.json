@@ -1,139 +1,140 @@
 {
-    "date": "2016/11/29 13:19:29",
-    "game_id": "786974310",
+    "date": "2016/9/5 13:2:16",
+    "game_id": "720274754",
     "variant": "PRR",
-    "table_name": "Gorgons-10",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "WeakAndWeary",
-        "foreseen",
+        "SheppyPOO!!",
         "IlxxxlI",
-        "Beep_Beep"
+        "whitnez33",
+        "ShtrafBat",
+        "RapaNui",
+        "St3p04ka"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6
     ],
     "starting_stacks": [
-        50.0,
-        159.76,
-        20.0,
-        68.98
+        250.15,
+        80.0,
+        524.47,
+        156.2,
+        200.0,
+        237.6
     ],
-    "player_small_blind": "Beep_Beep",
-    "small_blind": 0.25,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 0.5,
+    "player_small_blind": "RapaNui",
+    "small_blind": 2.0,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5c",
-        "7c"
+        "Qd",
+        "10h"
     ],
     "dealed_cards": {
         "flop": [
-            "5s",
-            "Ks",
-            "8d"
+            "Kc",
+            "5c",
+            "3d"
         ],
         "turn": [
-            "8h"
+            "3h"
         ],
         "river": [
-            "Ad"
+            "3c"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "foreseen",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "Beep_Beep",
-                "WeakAndWeary",
-                "IlxxxlI",
-                "Beep_Beep"
+                "whitnez33",
+                "ShtrafBat",
+                "RapaNui",
+                "St3p04ka"
             ],
             "actions": [
+                "RAISE",
                 "FOLD",
                 "CALL",
-                "CALL",
-                "RAISE",
-                "CALL",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
+                12.0,
                 null,
-                0.5,
-                0.25,
-                1.25,
-                1.25,
-                1.25
+                12.0,
+                null,
+                null,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "Beep_Beep",
-                "WeakAndWeary",
-                "IlxxxlI"
+                "SheppyPOO!!",
+                "whitnez33"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null,
-                null
+                20.0,
+                20.0
             ]
         },
         "post-turn": {
             "players": [
-                "Beep_Beep",
-                "WeakAndWeary",
-                "IlxxxlI"
+                "SheppyPOO!!",
+                "whitnez33"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null,
-                null
+                52.0,
+                52.0
             ]
         },
         "post-river": {
             "players": [
-                "Beep_Beep",
-                "WeakAndWeary",
-                "IlxxxlI"
+                "SheppyPOO!!",
+                "whitnez33"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
+                "ALLIN",
+                "FOLD"
             ],
             "values": [
-                null,
-                null,
+                166.15,
                 null
             ]
         }
     },
     "card_shown_by_players": [
-        "Ah Qh",
         null,
-        "5c 7c",
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        53.24,
-        159.76,
-        18.25,
-        67.23
+        338.45000000000005,
+        80.0,
+        440.47,
+        156.2,
+        198.0,
+        233.6
     ]
 }

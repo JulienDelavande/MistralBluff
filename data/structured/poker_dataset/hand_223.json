@@ -1,127 +1,83 @@
 {
-    "date": "2016/11/29 14:46:37",
-    "game_id": "787014069",
+    "date": "2016/9/4 10:9:41",
+    "game_id": "719287748",
     "variant": "PRR",
-    "table_name": "Lakhey-2",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "IlxxxlI",
-        "gust",
-        "joonjoonjoon",
         "VegetablesArentYummy",
-        "JoeRockwell"
+        "IlxxxlI",
+        "ConstanceHarm",
+        "St3p04ka",
+        "AironVega"
     ],
     "players_seats": [
+        1,
         2,
-        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        82.0,
-        106.3,
-        212.25,
-        406.34,
-        332.17
+        109.45,
+        43.0,
+        120.09,
+        114.23,
+        170.53
     ],
-    "player_small_blind": "gust",
+    "player_small_blind": "ConstanceHarm",
     "small_blind": 1.0,
-    "player_big_blind": "joonjoonjoon",
+    "player_big_blind": "St3p04ka",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jd",
-        "4h"
+        "4s",
+        "As"
     ],
     "dealed_cards": {
-        "flop": [
-            "3h",
-            "2s",
-            "Qs"
-        ],
-        "turn": [
-            "Jh"
-        ],
-        "river": [
-            "9d"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "AironVega",
                 "VegetablesArentYummy",
-                "JoeRockwell",
                 "IlxxxlI",
-                "gust",
-                "joonjoonjoon"
+                "ConstanceHarm",
+                "St3p04ka"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                5.0,
-                null,
-                null,
-                null,
-                3.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "joonjoonjoon",
-                "VegetablesArentYummy",
-                "joonjoonjoon"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                4.22,
-                4.22
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "joonjoonjoon",
-                "VegetablesArentYummy",
-                "joonjoonjoon"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                14.31,
-                14.31
-            ]
-        },
-        "post-river": {
-            "players": [
-                "joonjoonjoon",
-                "VegetablesArentYummy",
-                "joonjoonjoon"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                38.44,
+                null,
+                4.0,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -132,10 +88,10 @@
         null
     ],
     "finishing_stack": [
-        82.0,
-        105.3,
-        188.72,
-        428.4699999999999,
-        332.17
+        109.45,
+        46.0,
+        119.09,
+        112.23,
+        170.53
     ]
 }

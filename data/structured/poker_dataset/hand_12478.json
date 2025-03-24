@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/24 21:27:4",
+    "game_id": "805229579",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "d4av",
+        "narrowrange",
+        "Indigol",
+        "Katoosi"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        51.09,
+        134.29,
+        50.0,
+        53.57,
+        54.8
+    ],
+    "player_small_blind": "narrowrange",
+    "small_blind": 0.25,
+    "player_big_blind": "Indigol",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "4c",
+            "5c"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Katoosi",
+                "IlxxxlI",
+                "d4av",
+                "narrowrange",
+                "Indigol",
+                "Katoosi"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                null,
+                3.25,
+                null,
+                2.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "narrowrange",
+                "Katoosi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "narrowrange",
+                "Katoosi",
+                "narrowrange"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                2.37,
+                4.74,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        51.09,
+        134.29,
+        44.13,
+        53.07,
+        60.56
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/1 10:59:32",
+    "game_id": "788513414",
+    "variant": "PRR",
+    "table_name": "Gorgons-2",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "iKaBiNK",
+        "Xobkcul",
+        "lordboroda",
+        "momma_bear",
+        "GagaPoker",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        50.75,
+        50.0,
+        58.85,
+        67.59,
+        20.77
+    ],
+    "player_small_blind": "GagaPoker",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "Kd",
+            "2s"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "iKaBiNK",
+                "Xobkcul",
+                "lordboroda",
+                "momma_bear",
+                "GagaPoker",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                null,
+                null,
+                1.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "iKaBiNK",
+                "momma_bear"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "iKaBiNK",
+                "momma_bear",
+                "iKaBiNK"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.14,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        47.5,
+        50.75,
+        50.0,
+        61.82,
+        67.34,
+        20.27
+    ]
+}

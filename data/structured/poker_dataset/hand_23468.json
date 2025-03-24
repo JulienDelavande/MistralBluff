@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 17:52:8",
+    "game_id": "793450755",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "ftwjester",
+        "IampokerKidd",
+        "Bokmal",
+        "IlxxxlI",
+        "Mr.Excel"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        56.56,
+        43.81,
+        50.0,
+        73.78,
+        20.0,
+        71.29
+    ],
+    "player_small_blind": "ftwjester",
+    "small_blind": 0.25,
+    "player_big_blind": "IampokerKidd",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "8h",
+            "3c"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bokmal",
+                "IlxxxlI",
+                "Mr.Excel",
+                "WeakAndWeary",
+                "ftwjester",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ftwjester",
+                "IampokerKidd",
+                "ftwjester"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ftwjester",
+                "IampokerKidd",
+                "ftwjester"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.56,
+        40.89,
+        52.629999999999995,
+        73.78,
+        20.0,
+        71.29
+    ]
+}

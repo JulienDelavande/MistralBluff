@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/19 20:26:43",
+    "game_id": "801723908",
+    "variant": "PRR",
+    "table_name": "Bahamut",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "doctor rick",
+        "Tolstobrov E",
+        "JohnnyB3692",
+        "IlxxxlI",
+        "Serb1one"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        1.78,
+        1.08,
+        2.28,
+        2.1,
+        0.78
+    ],
+    "player_small_blind": "Serb1one",
+    "small_blind": 0.01,
+    "player_big_blind": "doctor rick",
+    "big_blind": 0.02,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "5s",
+            "8h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Tolstobrov E",
+                "JohnnyB3692",
+                "IlxxxlI",
+                "Serb1one",
+                "doctor rick"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.06,
+                null,
+                0.05,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Serb1one",
+                "JohnnyB3692"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.08,
+                0.08
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Serb1one",
+                "JohnnyB3692",
+                "Serb1one"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.14,
+                0.14
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Serb1one",
+                "JohnnyB3692",
+                "Serb1one"
+            ],
+            "actions": [
+                "CHECK",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.32,
+                0.32
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ad 9s",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        1.76,
+        1.08,
+        2.84,
+        2.1,
+        0.18000000000000005
+    ]
+}

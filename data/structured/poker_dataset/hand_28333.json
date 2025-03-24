@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/7 10:33:45",
+    "game_id": "792545870",
+    "variant": "PRR",
+    "table_name": "Ekek-5",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "ABMTLQC",
+        "TerryBall",
+        "DiiMinores"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.1,
+        46.01,
+        25.59,
+        33.87
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "ABMTLQC",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "9h",
+            "Ac"
+        ],
+        "turn": [
+            "Jh"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TerryBall",
+                "DiiMinores",
+                "IlxxxlI",
+                "ABMTLQC",
+                "DiiMinores"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ABMTLQC",
+                "DiiMinores"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.91,
+                2.91
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ABMTLQC",
+                "DiiMinores"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ABMTLQC",
+                "DiiMinores",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.95,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.0,
+        40.849999999999994,
+        25.59,
+        38.61
+    ]
+}

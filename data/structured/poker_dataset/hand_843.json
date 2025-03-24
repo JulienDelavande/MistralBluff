@@ -1,140 +1,89 @@
 {
-    "date": "2016/11/29 12:52:48",
-    "game_id": "786959828",
+    "date": "2016/9/6 0:41:15",
+    "game_id": "720643918",
     "variant": "PRR",
-    "table_name": "Kraken-9",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "WeakAndWeary",
-        "LloydXmas",
-        "GagaPoker",
-        "Beep_Beep",
-        "MadLifeGrinder",
-        "IlxxxlI"
+        "Leatherass9",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "gfclbv"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        5,
         6
     ],
     "starting_stacks": [
-        112.55,
-        105.0,
-        100.0,
-        100.0,
-        100.0,
-        40.0
+        273.2,
+        249.96,
+        153.34,
+        239.2
     ],
-    "player_small_blind": "Beep_Beep",
-    "small_blind": 0.5,
-    "player_big_blind": "MadLifeGrinder",
-    "big_blind": 1.0,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5h",
-        "10d"
+        "Qs",
+        "2c"
     ],
     "dealed_cards": {
-        "flop": [
-            "Qh",
-            "8d",
-            "2c"
-        ],
-        "turn": [
-            "6c"
-        ],
-        "river": [
-            "8h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "WeakAndWeary",
-                "LloydXmas",
-                "GagaPoker",
-                "Beep_Beep",
-                "MadLifeGrinder"
+                "gfclbv",
+                "Leatherass9",
+                "VegetablesArentYummy",
+                "IlxxxlI"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
+                8.0,
                 null,
                 null,
-                null,
-                null,
-                2.5,
-                2.0
+                null
             ]
         },
         "post-flop": {
-            "players": [
-                "Beep_Beep",
-                "MadLifeGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "Beep_Beep",
-                "MadLifeGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "Beep_Beep",
-                "MadLifeGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        "6h Kh",
-        null,
         null
     ],
     "finishing_stack": [
-        112.55,
-        105.0,
-        100.0,
-        102.7,
-        97.0,
-        40.0
+        273.2,
+        247.96,
+        149.34,
+        245.2
     ]
 }

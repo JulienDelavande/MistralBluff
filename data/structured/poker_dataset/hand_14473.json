@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/23 13:5:32",
+    "game_id": "804406917",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "CroMagnons",
+        "IlxxxlI",
+        "GrnManalishi",
+        "ImYourFriend1996",
+        "BoardGame08"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        26.16,
+        27.11,
+        23.1,
+        45.27,
+        38.72
+    ],
+    "player_small_blind": "ImYourFriend1996",
+    "small_blind": 0.1,
+    "player_big_blind": "BoardGame08",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "6h",
+            "6s"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CroMagnons",
+                "IlxxxlI",
+                "GrnManalishi",
+                "ImYourFriend1996",
+                "BoardGame08"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BoardGame08",
+                "CroMagnons",
+                "BoardGame08"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BoardGame08",
+                "CroMagnons",
+                "BoardGame08"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                2.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BoardGame08",
+                "CroMagnons",
+                "BoardGame08"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "As Ac",
+        null,
+        null,
+        null,
+        "6c Ah"
+    ],
+    "finishing_stack": [
+        18.16,
+        27.11,
+        23.1,
+        45.17,
+        46.019999999999996
+    ]
+}

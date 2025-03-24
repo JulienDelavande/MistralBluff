@@ -1,105 +1,112 @@
 {
-    "date": "2016/11/28 19:34:40",
-    "game_id": "786363181",
+    "date": "2016/9/18 8:32:58",
+    "game_id": "730226167",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 2,
     "players": [
-        "legenda99",
-        "Goomashroom",
-        "lovecola",
+        "LuckyBoy1980",
+        "BadBeat79",
+        "Cellar door",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "caballeroXXX"
+        "utormico"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        50.0,
-        56.88,
-        68.43,
-        20.0,
-        128.73
+        212.05,
+        276.58,
+        200.0,
+        269.65,
+        179.15,
+        203.4,
+        123.3,
+        110.05
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "caballeroXXX",
-    "big_blind": 0.5,
+    "player_small_blind": "Cellar door",
+    "small_blind": 1.0,
+    "player_big_blind": "FatSkinnyGuy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "6c"
+        "10d",
+        "3s"
     ],
     "dealed_cards": {
         "flop": [
-            "6d",
-            "7s",
-            "7c"
+            "8s",
+            "Ac",
+            "Js"
         ],
-        "turn": [
-            "7h"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "legenda99",
-                "Goomashroom",
-                "lovecola",
+                "Pimpika",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "caballeroXXX"
+                "utormico",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "Cellar door",
+                "FatSkinnyGuy"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
+                "CALL",
+                "CALL",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                1.5,
                 null,
                 null,
                 null,
-                1.0
+                6.0,
+                6.0,
+                6.0,
+                null,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "caballeroXXX",
-                "legenda99"
+                "utormico",
+                "LuckyBoy1980",
+                "BadBeat79"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
+                13.3,
                 null,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "caballeroXXX",
-                "legenda99",
-                "caballeroXXX"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                1.54,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -112,13 +119,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        51.59,
-        56.88,
-        68.43,
-        19.75,
-        127.22999999999999
+        206.05,
+        270.58,
+        199.0,
+        267.65,
+        179.15,
+        203.4,
+        123.3,
+        124.0
     ]
 }

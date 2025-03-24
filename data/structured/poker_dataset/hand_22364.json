@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/8 21:51:21",
+    "game_id": "793501662",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "Kovrol99",
+        "CallMePAPA",
+        "burikman",
+        "IlxxxlI",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        9.84,
+        25.64,
+        14.54,
+        5.85,
+        46.69
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "Ks",
+            "10d"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Kovrol99",
+                "CallMePAPA",
+                "burikman",
+                "IlxxxlI",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "CallMePAPA",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "5c Kc",
+        "6c 8h"
+    ],
+    "finishing_stack": [
+        9.84,
+        25.39,
+        14.54,
+        6.77,
+        45.94
+    ]
+}

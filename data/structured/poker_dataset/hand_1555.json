@@ -1,124 +1,121 @@
 {
-    "date": "2016/11/29 7:34:19",
-    "game_id": "786703700",
+    "date": "2016/9/18 7:36:16",
+    "game_id": "730190684",
     "variant": "PRR",
     "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 7,
+    "button_seat": 4,
     "players": [
+        "LuckyBoy1980",
+        "BadBeat79",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "shokerAAss",
-        "BigBlat",
-        "TonnaMunz"
+        "gosu36484"
     ],
     "players_seats": [
         1,
-        3,
+        2,
+        4,
+        5,
+        6,
         7,
+        8,
         9
     ],
     "starting_stacks": [
-        83.0,
-        255.35,
-        132.62,
-        245.03
+        217.35,
+        194.45,
+        305.6,
+        151.05,
+        139.01,
+        227.3,
+        105.45,
+        74.5
     ],
-    "player_small_blind": "TonnaMunz",
+    "player_small_blind": "Pimpika",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "ABCD123",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5c",
-        "Ah"
+        "Ac",
+        "6h"
     ],
     "dealed_cards": {
-        "flop": [
-            "Kc",
-            "6h",
-            "Qh"
-        ],
-        "turn": [
-            "8d"
-        ],
-        "river": [
-            "9c"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "shokerAAss",
-                "BigBlat",
-                "TonnaMunz",
-                "IlxxxlI"
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "gosu36484",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                5.0,
-                4.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "TonnaMunz",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "TonnaMunz",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "TonnaMunz",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
                 "FOLD"
             ],
             "values": [
-                7.6,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                4.0,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        77.0,
-        255.35,
-        132.62,
-        250.43
+        217.35,
+        194.45,
+        305.6,
+        153.05,
+        137.01,
+        227.3,
+        105.45,
+        74.5
     ]
 }

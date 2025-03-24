@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/25 23:1:6",
+    "game_id": "805825050",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "lukopti",
+        "d0nkeym0ney",
+        "Indigol",
+        "IlxxxlI",
+        "komar182",
+        "raraAvis8"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        47.96,
+        12.65,
+        61.5,
+        26.59,
+        25.55,
+        24.65
+    ],
+    "player_small_blind": "d0nkeym0ney",
+    "small_blind": 0.1,
+    "player_big_blind": "Indigol",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "As",
+            "3s"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "komar182",
+                "raraAvis8",
+                "lukopti",
+                "d0nkeym0ney",
+                "Indigol"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "d0nkeym0ney",
+                "komar182",
+                "d0nkeym0ney"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "d0nkeym0ney",
+                "komar182",
+                "d0nkeym0ney"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                2.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "d0nkeym0ney",
+                "komar182",
+                "d0nkeym0ney"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        47.96,
+        8.65,
+        61.25,
+        26.59,
+        29.39,
+        24.65
+    ]
+}

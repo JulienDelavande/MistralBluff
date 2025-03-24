@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/23 12:11:0",
+    "game_id": "804373268",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Ice Bank Mice Elf",
+        "Brucelegend",
+        "IlxxxlI",
+        "Parcker",
+        "dtnfk",
+        "chintrogdin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        66.26,
+        26.29,
+        25.57,
+        10.0,
+        31.08
+    ],
+    "player_small_blind": "dtnfk",
+    "small_blind": 0.1,
+    "player_big_blind": "chintrogdin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "8h",
+            "10h"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "Brucelegend",
+                "IlxxxlI",
+                "Parcker",
+                "dtnfk",
+                "chintrogdin"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                0.75,
+                null,
+                null,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dtnfk",
+                "Ice Bank Mice Elf",
+                "Brucelegend",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.79,
+                1.79,
+                1.79
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dtnfk",
+                "Ice Bank Mice Elf",
+                "Brucelegend",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.61,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        29.94,
+        63.720000000000006,
+        26.29,
+        25.57,
+        7.46,
+        30.83
+    ]
+}

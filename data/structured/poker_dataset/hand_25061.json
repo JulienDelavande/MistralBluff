@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 10:18:36",
+    "game_id": "793246171",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "jrczap630",
+        "IlxxxlI",
+        "Heksebrygg",
+        "Xobkcul",
+        "WomboComboAA",
+        "Pittsferg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        56.11,
+        20.5,
+        76.95,
+        54.72,
+        109.57,
+        97.19
+    ],
+    "player_small_blind": "Pittsferg",
+    "small_blind": 0.25,
+    "player_big_blind": "jrczap630",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "3c",
+            "4h"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Heksebrygg",
+                "Xobkcul",
+                "WomboComboAA",
+                "Pittsferg",
+                "jrczap630"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jrczap630",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.54,
+                1.54
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "jrczap630",
+                "Heksebrygg",
+                "jrczap630"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.01,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        53.07,
+        20.5,
+        79.92999999999999,
+        54.72,
+        109.57,
+        96.94
+    ]
+}

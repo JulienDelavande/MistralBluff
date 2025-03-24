@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 22:32:45",
+    "game_id": "805248653",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "Skoby101",
+        "bpk419",
+        "SkaHot",
+        "PersonaGrata2016",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        33.15,
+        11.9,
+        14.09,
+        13.31,
+        13.75
+    ],
+    "player_small_blind": "bpk419",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "9c",
+            "5h"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PersonaGrata2016",
+                "IlxxxlI",
+                "Skoby101",
+                "bpk419",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bpk419",
+                "SkaHot",
+                "bpk419"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bpk419",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "bpk419",
+                "SkaHot"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                0.75
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10d 5d",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.15,
+        13.030000000000001,
+        12.84,
+        13.31,
+        13.75
+    ]
+}

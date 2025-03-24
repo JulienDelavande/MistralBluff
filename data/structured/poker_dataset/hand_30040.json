@@ -1,0 +1,100 @@
+{
+    "date": "2016/12/6 17:30:8",
+    "game_id": "792172715",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "anokato",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2
+    ],
+    "starting_stacks": [
+        39.22,
+        10.1
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "5c",
+            "Kd"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "anokato",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.52,
+                1.5,
+                1.13
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "anokato",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "anokato",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null
+    ],
+    "finishing_stack": [
+        42.15,
+        6.85
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/10 9:19:54",
+    "game_id": "794553714",
+    "variant": "PRR",
+    "table_name": "Dilong",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "MickeyWins",
+        "IlxxxlI",
+        "titan of terror",
+        "bkr186227",
+        "JSattler"
+    ],
+    "players_seats": [
+        2,
+        3,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        2.15,
+        2.0,
+        4.45,
+        3.11,
+        2.94
+    ],
+    "player_small_blind": "bkr186227",
+    "small_blind": 0.05,
+    "player_big_blind": "JSattler",
+    "big_blind": 0.1,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "Jd",
+            "10s"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MickeyWins",
+                "IlxxxlI",
+                "titan of terror",
+                "bkr186227",
+                "JSattler"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.3,
+                0.25,
+                0.2
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bkr186227",
+                "JSattler",
+                "titan of terror",
+                "bkr186227"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.3,
+                0.3,
+                0.3
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bkr186227",
+                "JSattler",
+                "titan of terror"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.14,
+                1.14,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "bkr186227",
+                "JSattler"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "9h Jc",
+        null
+    ],
+    "finishing_stack": [
+        2.15,
+        2.0,
+        3.85,
+        5.25,
+        1.2
+    ]
+}

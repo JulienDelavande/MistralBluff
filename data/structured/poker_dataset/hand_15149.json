@@ -1,0 +1,148 @@
+{
+    "date": "2016/12/23 8:42:57",
+    "game_id": "804222521",
+    "variant": "PRR",
+    "table_name": "Ettin-3",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "ZabieramZielone",
+        "viva el ocho",
+        "IlxxxlI",
+        "ChapinAmericano",
+        "labnola",
+        "Flipassassin",
+        "bublejam_mn",
+        "Ksander"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        25.0,
+        25.0,
+        30.24,
+        26.74,
+        10.0,
+        25.78,
+        22.03,
+        29.99
+    ],
+    "player_small_blind": "bublejam_mn",
+    "small_blind": 0.1,
+    "player_big_blind": "Ksander",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "8c",
+            "Ad"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ZabieramZielone",
+                "viva el ocho",
+                "IlxxxlI",
+                "ChapinAmericano",
+                "labnola",
+                "Flipassassin",
+                "bublejam_mn",
+                "Ksander"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.75,
+                0.75,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "viva el ocho",
+                "ChapinAmericano",
+                "labnola"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.64,
+                null,
+                1.64
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "viva el ocho",
+                "labnola"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                22.61,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        28.2,
+        30.24,
+        25.99,
+        7.609999999999999,
+        25.78,
+        21.93,
+        29.74
+    ]
+}

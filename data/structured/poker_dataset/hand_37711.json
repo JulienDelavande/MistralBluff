@@ -1,0 +1,167 @@
+{
+    "date": "2016/12/3 10:12:4",
+    "game_id": "789825276",
+    "variant": "PRR",
+    "table_name": "Garuda-2",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "Buhasko",
+        "IlxxxlI",
+        "pingtennis",
+        "HoodedHarpoon",
+        "justchris",
+        "roftbr100k",
+        "GagaPoker",
+        "BiGFck",
+        "TheKingBigD"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        133.64,
+        26.11,
+        50.0,
+        116.68,
+        37.44,
+        63.84,
+        50.0,
+        20.45,
+        49.75
+    ],
+    "player_small_blind": "Buhasko",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "Ah",
+            "Jh"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "pingtennis",
+                "HoodedHarpoon",
+                "justchris",
+                "roftbr100k",
+                "GagaPoker",
+                "BiGFck",
+                "TheKingBigD",
+                "Buhasko",
+                "IlxxxlI",
+                "BiGFck"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                1.0,
+                2.5,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BiGFck",
+                "TheKingBigD",
+                "BiGFck"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BiGFck",
+                "TheKingBigD",
+                "BiGFck",
+                "TheKingBigD"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                14.95,
+                11.95
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Js As",
+        "Kd Ad"
+    ],
+    "finishing_stack": [
+        133.39,
+        25.61,
+        50.0,
+        116.68,
+        37.44,
+        63.84,
+        50.0,
+        0.0,
+        68.87
+    ]
+}

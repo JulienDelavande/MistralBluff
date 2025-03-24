@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/9 22:29:21",
+    "game_id": "794193319",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 1,
+    "players": [
+        "MadLifeGrinder",
+        "ElvenEyes",
+        "JackCooper",
+        "AironVega",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        55.82,
+        51.63,
+        50.0,
+        52.28,
+        20.0
+    ],
+    "player_small_blind": "ElvenEyes",
+    "small_blind": 0.5,
+    "player_big_blind": "JackCooper",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "3d",
+            "4d"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AironVega",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "ElvenEyes",
+                "JackCooper",
+                "AironVega"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                null,
+                6.5,
+                6.0,
+                5.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ElvenEyes",
+                "JackCooper",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ElvenEyes",
+                "JackCooper",
+                "AironVega",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                9.97,
+                9.97,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "JackCooper",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qs Ac",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        55.82,
+        44.63,
+        71.93,
+        35.31,
+        20.0
+    ]
+}

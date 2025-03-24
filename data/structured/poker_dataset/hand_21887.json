@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/9 0:6:47",
+    "game_id": "793544501",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "orgonox",
+        "HapKoTuk",
+        "IlxxxlI",
+        "GenosseGrasmeister",
+        "Sonic3Dblast",
+        "freshness911"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        8.09,
+        29.87,
+        10.0,
+        36.72,
+        30.8,
+        25.23
+    ],
+    "player_small_blind": "orgonox",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "8d",
+            "Jd"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "GenosseGrasmeister",
+                "Sonic3Dblast",
+                "freshness911",
+                "orgonox",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "orgonox",
+                "HapKoTuk",
+                "orgonox"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.32,
+                0.32
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "orgonox",
+                "HapKoTuk",
+                "orgonox"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.72,
+                0.72
+            ]
+        },
+        "post-river": {
+            "players": [
+                "orgonox",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.23,
+                1.23
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kd 5s",
+        "6c Jh",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        5.57,
+        32.14,
+        10.0,
+        36.72,
+        30.8,
+        25.23
+    ]
+}

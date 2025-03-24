@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/3 14:3:55",
+    "game_id": "789975474",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 3,
+    "players": [
+        "ShowStacky",
+        "Pimpika",
+        "hodisuda",
+        "gust",
+        "SISYPHUS100",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        78.17,
+        45.68,
+        52.8,
+        42.6,
+        62.08,
+        20.0
+    ],
+    "player_small_blind": "gust",
+    "small_blind": 0.5,
+    "player_big_blind": "SISYPHUS100",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "10c",
+            "9s"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "ShowStacky",
+                "Pimpika",
+                "hodisuda",
+                "gust",
+                "SISYPHUS100",
+                "ShowStacky"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                null,
+                3.5,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "gust",
+                "ShowStacky"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.7,
+                5.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "gust",
+                "ShowStacky"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                12.92,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        68.47,
+        45.68,
+        52.8,
+        52.28,
+        61.08,
+        20.0
+    ]
+}

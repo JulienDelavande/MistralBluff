@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/9 8:1:31",
+    "game_id": "793823741",
+    "variant": "PRR",
+    "table_name": "Ettin-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Ksander",
+        "Maria_Pia",
+        "humabi",
+        "Tzra1",
+        "IlxxxlI",
+        "viva el ocho",
+        "Captglen348"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        25.13,
+        10.0,
+        12.67,
+        11.58,
+        10.0,
+        25.0,
+        8.62
+    ],
+    "player_small_blind": "humabi",
+    "small_blind": 0.1,
+    "player_big_blind": "Tzra1",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Qc",
+            "3s"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "viva el ocho",
+                "Captglen348",
+                "Ksander",
+                "Maria_Pia",
+                "humabi",
+                "Tzra1"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "humabi",
+                "Tzra1",
+                "Captglen348"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "humabi",
+                "Tzra1",
+                "Captglen348",
+                "humabi"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.13,
+        10.0,
+        11.42,
+        13.9,
+        10.0,
+        25.0,
+        7.369999999999999
+    ]
+}

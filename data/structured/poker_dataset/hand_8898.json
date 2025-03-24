@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 23:10:39",
+    "game_id": "805828548",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "warrior1023",
+        "raraAvis8",
+        "IlxxxlI",
+        "Log_in",
+        "corporation 4"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        21.69,
+        14.34,
+        27.91,
+        13.88,
+        5.34
+    ],
+    "player_small_blind": "warrior1023",
+    "small_blind": 0.1,
+    "player_big_blind": "raraAvis8",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "4h",
+            "Kc"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "7c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Log_in",
+                "corporation 4",
+                "warrior1023",
+                "raraAvis8"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.9,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "warrior1023",
+                "raraAvis8"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "warrior1023",
+                "raraAvis8"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-river": {
+            "players": [
+                "warrior1023",
+                "raraAvis8",
+                "warrior1023"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                1.23,
+                3.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        18.51,
+        17.21,
+        27.91,
+        13.88,
+        5.34
+    ]
+}

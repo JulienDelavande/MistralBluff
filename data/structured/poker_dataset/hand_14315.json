@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/23 13:27:3",
+    "game_id": "804418686",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "thundahoof11",
+        "CroMagnons",
+        "IlxxxlI",
+        "DumberandStupid",
+        "raraAvis8"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.5,
+        29.23,
+        24.39,
+        18.34,
+        13.3
+    ],
+    "player_small_blind": "raraAvis8",
+    "small_blind": 0.1,
+    "player_big_blind": "thundahoof11",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "Kd",
+            "Ah"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CroMagnons",
+                "IlxxxlI",
+                "DumberandStupid",
+                "raraAvis8",
+                "thundahoof11"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.62,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "thundahoof11",
+                "IlxxxlI",
+                "thundahoof11"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.65,
+                0.65
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "thundahoof11",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "thundahoof11",
+                "IlxxxlI",
+                "thundahoof11"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Kc 10h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.73,
+        29.23,
+        26.080000000000002,
+        18.34,
+        13.200000000000001
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/23 11:16:3",
+    "game_id": "804335017",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "abdollars",
+        "Burger",
+        "xROCKETMANx",
+        "IlxxxlI",
+        "CroMagnons"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        12.5,
+        10.33,
+        11.86,
+        12.73,
+        30.97
+    ],
+    "player_small_blind": "CroMagnons",
+    "small_blind": 0.1,
+    "player_big_blind": "abdollars",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "Kc",
+            "Jc"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Burger",
+                "xROCKETMANx",
+                "IlxxxlI",
+                "CroMagnons",
+                "abdollars",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.58,
+                null,
+                0.96,
+                0.63
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "abdollars",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "abdollars",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.2,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        13.69,
+        10.33,
+        11.86,
+        11.52,
+        30.869999999999997
+    ]
+}

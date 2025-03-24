@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 23:56:32",
+    "game_id": "793540880",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "THEKELL",
+        "FatzPanda",
+        "freshness911",
+        "IlxxxlI",
+        "deviltrucker",
+        "RockE"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        9.16,
+        18.18,
+        22.6,
+        14.15,
+        7.18,
+        12.29
+    ],
+    "player_small_blind": "deviltrucker",
+    "small_blind": 0.1,
+    "player_big_blind": "RockE",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "5h",
+            "3c"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "THEKELL",
+                "FatzPanda",
+                "freshness911",
+                "IlxxxlI",
+                "deviltrucker",
+                "RockE"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "RockE",
+                "FatzPanda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RockE",
+                "FatzPanda",
+                "RockE"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.52,
+                1.56,
+                1.04
+            ]
+        },
+        "post-river": {
+            "players": [
+                "RockE",
+                "FatzPanda"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.16,
+        16.12,
+        22.6,
+        14.15,
+        7.08,
+        14.239999999999998
+    ]
+}

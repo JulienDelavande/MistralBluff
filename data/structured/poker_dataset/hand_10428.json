@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/25 13:51:44",
+    "game_id": "805703199",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "afvet333",
+        "dtnfk",
+        "IlxxxlI",
+        "Jui Kuen",
+        "paulk1234",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        28.48,
+        36.53,
+        12.5,
+        12.5,
+        36.55,
+        12.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Jui Kuen",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "7d",
+            "7h"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "paulk1234",
+                "Parcker",
+                "afvet333",
+                "dtnfk",
+                "IlxxxlI",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                0.25,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jui Kuen",
+                "paulk1234",
+                "afvet333",
+                "Jui Kuen",
+                "paulk1234"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                1.0,
+                null,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "paulk1234",
+                "afvet333",
+                "paulk1234"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "paulk1234",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qd 8h",
+        null,
+        null,
+        null,
+        "10c Js",
+        null
+    ],
+    "finishing_stack": [
+        25.23,
+        36.53,
+        12.4,
+        12.25,
+        39.809999999999995,
+        12.5
+    ]
+}

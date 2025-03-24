@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/12 9:41:47",
+    "game_id": "796159753",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "Steve540",
+        "Jui Kuen",
+        "IlxxxlI",
+        "PersonaGrata2016",
+        "UbertoSS"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        5.0,
+        12.85,
+        6.02,
+        12.5,
+        29.15
+    ],
+    "player_small_blind": "UbertoSS",
+    "small_blind": 0.1,
+    "player_big_blind": "Steve540",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "6d",
+            "9s"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jui Kuen",
+                "IlxxxlI",
+                "PersonaGrata2016",
+                "UbertoSS",
+                "Steve540"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Steve540",
+                "IlxxxlI",
+                "Steve540"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.38,
+                0.38
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Steve540",
+                "IlxxxlI",
+                "Steve540"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Steve540",
+                "IlxxxlI",
+                "Steve540"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                4.14,
+                3.12
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ks 8h",
+        null,
+        "Ac Ah",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        0.0,
+        12.85,
+        10.62,
+        12.5,
+        29.049999999999997
+    ]
+}

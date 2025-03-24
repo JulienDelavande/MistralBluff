@@ -1,16 +1,16 @@
 {
-    "date": "2016/11/29 13:18:13",
-    "game_id": "786973588",
+    "date": "2016/9/6 0:0:25",
+    "game_id": "720607973",
     "variant": "PRR",
-    "table_name": "Kraken-22",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 6,
     "players": [
-        "IlxxxlI",
-        "Beep_Beep",
-        "gust",
-        "MadLifeGrinder",
-        "WeakAndWeary"
+        "uncle_argyle",
+        "d1rector",
+        "Ksowas",
+        "Maria26years",
+        "IlxxxlI"
     ],
     "players_seats": [
         2,
@@ -20,56 +20,86 @@
         6
     ],
     "starting_stacks": [
-        40.0,
-        228.88,
-        42.28,
-        103.0,
-        263.42
+        114.16,
+        44.0,
+        182.74,
+        97.0,
+        92.23
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "Beep_Beep",
-    "big_blind": 1.0,
+    "player_small_blind": "uncle_argyle",
+    "small_blind": 1.0,
+    "player_big_blind": "Ksowas",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3d",
-        "9s"
+        "4d",
+        "Ad"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "Ac",
+            "9d",
+            "5h"
+        ],
+        "turn": [
+            "3h"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "gust",
-                "MadLifeGrinder",
-                "WeakAndWeary",
+                "Maria26years",
+                "IlxxxlI",
+                "uncle_argyle",
+                "Ksowas",
+                "Maria26years"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                8.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Maria26years",
                 "IlxxxlI"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                null,
-                null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Maria26years",
+                "IlxxxlI",
+                "Maria26years"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                9.02,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -85,10 +115,10 @@
         null
     ],
     "finishing_stack": [
-        39.5,
-        229.38,
-        42.28,
-        103.0,
-        263.42
+        113.16,
+        44.0,
+        180.74,
+        89.0,
+        102.28
     ]
 }

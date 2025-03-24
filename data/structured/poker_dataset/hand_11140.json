@@ -1,0 +1,159 @@
+{
+    "date": "2016/12/24 23:44:41",
+    "game_id": "805275607",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "shim123",
+        "Log_in",
+        "IlxxxlI",
+        "JetRex",
+        "THeNyConnect",
+        "MrCat",
+        "Blakemoneous",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        71.43,
+        20.74,
+        47.38,
+        42.07,
+        30.0,
+        49.25,
+        53.68,
+        69.7
+    ],
+    "player_small_blind": "Blakemoneous",
+    "small_blind": 0.25,
+    "player_big_blind": "so_it_goes",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "Qh",
+            "6s"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "shim123",
+                "Log_in",
+                "IlxxxlI",
+                "JetRex",
+                "THeNyConnect",
+                "MrCat",
+                "Blakemoneous",
+                "so_it_goes",
+                "THeNyConnect"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "THeNyConnect",
+                "MrCat"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "THeNyConnect",
+                "MrCat"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "THeNyConnect",
+                "MrCat"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                5.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "8h 7h",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        71.43,
+        20.74,
+        47.38,
+        42.07,
+        39.72,
+        39.25,
+        53.43,
+        69.2
+    ]
+}

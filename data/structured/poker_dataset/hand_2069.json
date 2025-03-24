@@ -1,108 +1,96 @@
 {
-    "date": "2016/11/28 18:49:8",
-    "game_id": "786355008",
+    "date": "2016/9/18 8:44:37",
+    "game_id": "730233163",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 1,
+    "button_seat": 7,
     "players": [
-        "SenNoSen",
-        "eu4ria",
+        "LuckyBoy1980",
+        "Cellar door",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ACES6176",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "Goomashroom",
-        "GreinSeint",
-        "wethco"
+        "utormico"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        50.0,
-        235.71,
-        22.07,
-        102.2,
-        36.57,
-        70.38
+        215.15,
+        200.0,
+        309.35,
+        173.15,
+        103.0,
+        200.0,
+        117.3,
+        119.0
     ],
-    "player_small_blind": "eu4ria",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "utormico",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9h",
-        "Ah"
+        "2s",
+        "9h"
     ],
     "dealed_cards": {
-        "flop": [
-            "5d",
-            "Qc",
-            "4h"
-        ],
-        "turn": [
-            "3h"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
-                "GreinSeint",
-                "wethco",
-                "SenNoSen",
-                "eu4ria",
-                "IlxxxlI"
+                "LuckyBoy1980",
+                "Cellar door",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ACES6176",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "utormico"
             ],
             "actions": [
+                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.5,
-                null,
-                null,
-                null,
-                1.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "GreinSeint"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "GreinSeint"
-            ],
-            "actions": [
-                "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
+                null,
+                null,
                 6.0,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -116,14 +104,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        50.0,
-        235.46,
-        23.66,
-        102.2,
-        35.07,
-        70.38
+        215.15,
+        200.0,
+        312.35,
+        173.15,
+        103.0,
+        200.0,
+        116.3,
+        117.0
     ]
 }

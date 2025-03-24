@@ -1,0 +1,159 @@
+{
+    "date": "2016/12/9 23:28:11",
+    "game_id": "794210466",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "TheKingBigD",
+        "Mike77799",
+        "Azaladog",
+        "MadLifeGrinder",
+        "IlxxxlI",
+        "PANDAisEVIL",
+        "lordboroda",
+        "ElvenEyes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        103.8,
+        96.5,
+        100.0,
+        122.32,
+        50.53,
+        105.5,
+        100.0,
+        182.79
+    ],
+    "player_small_blind": "lordboroda",
+    "small_blind": 0.5,
+    "player_big_blind": "ElvenEyes",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "3h",
+            "Qd"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TheKingBigD",
+                "Mike77799",
+                "Azaladog",
+                "MadLifeGrinder",
+                "IlxxxlI",
+                "PANDAisEVIL",
+                "lordboroda",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ElvenEyes",
+                "Azaladog",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.06,
+                2.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ElvenEyes",
+                "Azaladog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ElvenEyes",
+                "Azaladog"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                10.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        103.8,
+        96.5,
+        94.94,
+        122.32,
+        50.53,
+        105.5,
+        99.5,
+        187.82
+    ]
+}

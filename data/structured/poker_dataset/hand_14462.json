@@ -1,0 +1,131 @@
+{
+    "date": "2016/12/23 13:7:6",
+    "game_id": "804407836",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "dtnfk",
+        "bclever",
+        "CroMagnons",
+        "IlxxxlI",
+        "DumberandStupid",
+        "raraAvis8"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.23,
+        15.98,
+        16.01,
+        12.73,
+        17.59,
+        12.5
+    ],
+    "player_small_blind": "dtnfk",
+    "small_blind": 0.1,
+    "player_big_blind": "bclever",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "5c",
+            "10s"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CroMagnons",
+                "IlxxxlI",
+                "DumberandStupid",
+                "raraAvis8",
+                "dtnfk",
+                "bclever",
+                "CroMagnons",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                2.0,
+                null,
+                null,
+                null,
+                null,
+                3.0,
+                1.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CroMagnons",
+                "IlxxxlI",
+                "CroMagnons"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                3.75,
+                8.98,
+                5.23
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "As Ah",
+        "Kd Ad",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.13,
+        15.73,
+        27.8,
+        0.0,
+        17.59,
+        12.5
+    ]
+}

@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:40:39",
-    "game_id": "786353504",
+    "date": "2016/9/18 8:50:8",
+    "game_id": "730236328",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
     "button_seat": 2,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "Hakuna_Matata777",
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "PolitcallyiC2.0",
+        "Frisconar",
+        "Pablo46",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
@@ -19,63 +22,108 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        41.71,
-        76.72,
-        62.0,
-        22.08,
-        76.36,
-        53.86
+        101.5,
+        197.16,
+        40.0,
+        107.5,
+        37.0,
+        100.0,
+        100.0,
+        37.45,
+        240.51
     ],
-    "player_small_blind": "Hakuna_Matata777",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "PolitcallyiC2.0",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9c",
-        "10h"
+        "2s",
+        "10s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "10c",
+            "9d",
+            "2d"
+        ],
+        "turn": [
+            "5h"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "BoTPuMHeDichBro",
-                "eu4ria",
-                "Smok5 Js",
-                "SenNoSen",
-                "Hakuna_Matata777"
+                "Frisconar",
+                "Pablo46",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
+                "IlxxxlI",
+                "PolitcallyiC2.0",
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
                 null,
-                null
+                null,
+                null,
+                2.0,
+                null,
+                4.0,
+                3.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "PolitcallyiC2.0",
+                "Pimpika"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.49,
+                7.49
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "PolitcallyiC2.0",
+                "Pimpika"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                24.21,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -89,14 +137,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        41.71,
-        76.72,
-        61.75,
-        22.33,
-        76.36,
-        53.86
+        101.5,
+        184.67,
+        39.5,
+        119.22,
+        37.0,
+        100.0,
+        100.0,
+        37.45,
+        240.51
     ]
 }

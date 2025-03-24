@@ -1,118 +1,99 @@
 {
-    "date": "2016/11/29 13:2:40",
-    "game_id": "786964521",
+    "date": "2016/9/6 0:30:16",
+    "game_id": "720634589",
     "variant": "PRR",
-    "table_name": "Gorgons-9",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "xROCKETMANx",
-        "Jui Kuen",
-        "IlxxxlI",
-        "foreseen",
-        "GagaPoker"
+        "Ksowas",
+        "DTownDieselZZ",
+        "The_Toast",
+        "oddsonfav",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        86.96,
-        50.0,
-        20.25,
-        50.0,
-        60.81
+        178.07,
+        111.83,
+        100.0,
+        74.95,
+        85.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "Ksowas",
+    "small_blind": 1.0,
+    "player_big_blind": "DTownDieselZZ",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6s",
-        "2c"
+        "9d",
+        "Js"
     ],
     "dealed_cards": {
         "flop": [
-            "2d",
-            "Ad",
-            "Kh"
+            "10h",
+            "3d",
+            "Jd"
         ],
-        "turn": [
-            "Jc"
-        ],
-        "river": [
-            "7s"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "GagaPoker",
-                "xROCKETMANx",
-                "Jui Kuen",
+                "The_Toast",
+                "oddsonfav",
                 "IlxxxlI",
-                "foreseen"
+                "Ksowas",
+                "DTownDieselZZ"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
                 "FOLD",
+                "RAISE",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
-                1.0,
                 null,
-                0.5
+                5.0,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "foreseen",
-                "Jui Kuen"
+                "Ksowas",
+                "DTownDieselZZ",
+                "Ksowas"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "foreseen",
-                "Jui Kuen"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                1.65,
-                1.65
-            ]
-        },
-        "post-river": {
-            "players": [
-                "foreseen",
-                "Jui Kuen"
-            ],
-            "actions": [
                 "BET",
                 "FOLD"
             ],
             "values": [
-                1.76,
+                null,
+                7.6,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -123,10 +104,10 @@
         null
     ],
     "finishing_stack": [
-        86.96,
-        47.35,
-        20.0,
-        52.63,
-        60.81
+        172.07,
+        117.23,
+        100.0,
+        74.95,
+        85.0
     ]
 }

@@ -1,61 +1,98 @@
 {
-    "date": "2016/11/28 19:58:8",
-    "game_id": "786367466",
+    "date": "2016/9/18 8:11:53",
+    "game_id": "730213001",
     "variant": "PRR",
-    "table_name": "Gorgons-3",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "Goomashroom",
-        "Cinch23",
-        "IlxxxlI"
+        "38979",
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "Cellar door",
+        "wjb024"
     ],
     "players_seats": [
         1,
         2,
+        3,
+        4,
+        5,
         6
     ],
     "starting_stacks": [
-        50.0,
-        48.5,
-        28.53
+        102.0,
+        48.1,
+        100.0,
+        164.62,
+        100.0,
+        83.85
     ],
-    "player_small_blind": "Cinch23",
-    "small_blind": 0.25,
+    "player_small_blind": "38979",
+    "small_blind": 1.0,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4d",
-        "7s"
+        "Qd",
+        "4c"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "10h",
+            "Ac",
+            "10c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
-                "Cinch23",
+                "VegetablesArentYummy",
+                "KeepKalm",
+                "Cellar door",
+                "wjb024",
+                "38979",
                 "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
                 "FOLD"
             ],
             "values": [
-                1.13,
                 null,
+                null,
+                6.0,
+                6.0,
+                5.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "38979",
+                "Cellar door",
+                "wjb024",
+                "38979"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.66,
+                null,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -71,11 +108,17 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        50.75,
-        48.25,
-        28.03
+        96.0,
+        46.1,
+        100.0,
+        164.62,
+        113.0,
+        77.85
     ]
 }

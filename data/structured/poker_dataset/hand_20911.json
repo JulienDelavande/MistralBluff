@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/9 9:26:46",
+    "game_id": "793904752",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Polar1z1ng",
+        "IgLa",
+        "Arabella505",
+        "LionHeart76",
+        "meandkids",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        116.36,
+        54.74,
+        50.0,
+        51.89,
+        66.59,
+        20.0
+    ],
+    "player_small_blind": "IgLa",
+    "small_blind": 0.25,
+    "player_big_blind": "Arabella505",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "4s",
+            "Jc"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "2s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LionHeart76",
+                "meandkids",
+                "IlxxxlI",
+                "Polar1z1ng",
+                "IgLa",
+                "Arabella505"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.75,
+                null,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Arabella505",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Arabella505",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Arabella505",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                45.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        116.36,
+        54.49,
+        54.07,
+        51.89,
+        66.59,
+        15.75
+    ]
+}

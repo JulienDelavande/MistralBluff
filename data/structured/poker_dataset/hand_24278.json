@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 14:40:49",
+    "game_id": "793404267",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "SpoogeMcDuck",
+        "FirstClan",
+        "IlxxxlI",
+        "Parcker",
+        "Hakuna_Matata777"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        14.58,
+        25.5,
+        10.0,
+        26.3,
+        34.2
+    ],
+    "player_small_blind": "Hakuna_Matata777",
+    "small_blind": 0.25,
+    "player_big_blind": "SpoogeMcDuck",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "Ah",
+            "As"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": [
+            "7c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FirstClan",
+                "IlxxxlI",
+                "Parcker",
+                "Hakuna_Matata777",
+                "SpoogeMcDuck"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.2,
+                null,
+                0.7
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SpoogeMcDuck",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SpoogeMcDuck",
+                "Parcker"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.26,
+                1.26
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SpoogeMcDuck",
+                "Parcker"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.64,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        17.04,
+        25.5,
+        10.0,
+        23.84,
+        33.95
+    ]
+}

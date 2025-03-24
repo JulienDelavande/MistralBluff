@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/12 10:51:6",
+    "game_id": "796224334",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 6,
+    "players": [
+        "sanchez73",
+        "RedJJ",
+        "aquamarin",
+        "Gargantuatua",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        99.18,
+        43.24,
+        59.58,
+        134.41,
+        20.0
+    ],
+    "player_small_blind": "sanchez73",
+    "small_blind": 0.5,
+    "player_big_blind": "RedJJ",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "2d",
+            "8d"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aquamarin",
+                "Gargantuatua",
+                "IlxxxlI",
+                "sanchez73",
+                "RedJJ"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "RedJJ",
+                "aquamarin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RedJJ",
+                "aquamarin"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "RedJJ",
+                "aquamarin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "5c 4h",
+        "10c Jd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        98.68,
+        37.24,
+        65.46,
+        134.41,
+        20.0
+    ]
+}

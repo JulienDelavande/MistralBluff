@@ -1,82 +1,85 @@
 {
-    "date": "2016/11/29 11:41:0",
-    "game_id": "786908817",
+    "date": "2016/9/12 12:0:17",
+    "game_id": "725843463",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
+    "table_name": "Medusa",
+    "type_game": "Short",
     "button_seat": 1,
     "players": [
-        "mueef",
+        "ImUsingYourWifi",
+        "uncle_argyle",
+        "Leatherass9",
         "IlxxxlI",
-        "beachrog",
-        "Maria_Pia",
-        "imperceptible"
+        "Anastasia31",
+        "plin777"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        9.46,
-        44.34,
-        26.44,
-        25.53,
-        19.4
+        510.6,
+        476.11,
+        237.15,
+        95.8,
+        345.39,
+        126.55
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "beachrog",
-    "big_blind": 0.5,
+    "player_small_blind": "uncle_argyle",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "As"
+        "Qd",
+        "Kc"
     ],
     "dealed_cards": {
         "flop": [
-            "7d",
-            "9c",
-            "Kc"
+            "Jh",
+            "3c",
+            "4h"
         ],
         "turn": [
-            "10s"
+            "Jc"
         ],
         "river": [
-            "2h"
+            "Ah"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Maria_Pia",
-                "imperceptible",
-                "mueef",
-                "IlxxxlI",
-                "beachrog"
+                "Anastasia31",
+                "plin777",
+                "ImUsingYourWifi",
+                "uncle_argyle",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "CALL",
+                "RAISE",
                 "FOLD",
-                "CHECK"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                0.5,
+                12.0,
                 null,
-                null
+                8.0
             ]
         },
         "post-flop": {
             "players": [
-                "beachrog",
-                "mueef",
-                "beachrog"
+                "IlxxxlI",
+                "ImUsingYourWifi",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
@@ -85,57 +88,53 @@
             ],
             "values": [
                 null,
-                0.5,
-                0.5
+                14.88,
+                14.88
             ]
         },
         "post-turn": {
             "players": [
-                "beachrog",
-                "mueef",
-                "beachrog"
+                "IlxxxlI",
+                "ImUsingYourWifi"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
-                1.42,
-                1.42
+                null
             ]
         },
         "post-river": {
             "players": [
-                "beachrog",
-                "mueef",
-                "beachrog"
+                "IlxxxlI",
+                "ImUsingYourWifi"
             ],
             "actions": [
                 "CHECK",
-                "ALLIN",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
-                7.04,
-                7.04
+                null
             ]
         }
     },
     "card_shown_by_players": [
-        "9d 7h",
+        "Ad 6d",
         null,
-        "6d 10d",
+        null,
+        "Qd Kc",
         null,
         null
     ],
     "finishing_stack": [
-        18.22,
-        44.09,
-        16.98,
-        25.53,
-        19.4
+        538.9300000000001,
+        474.11,
+        237.15,
+        68.92,
+        345.39,
+        126.55
     ]
 }

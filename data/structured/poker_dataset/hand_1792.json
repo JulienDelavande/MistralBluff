@@ -1,70 +1,156 @@
 {
-    "date": "2016/11/28 19:59:29",
-    "game_id": "786367697",
+    "date": "2016/9/18 8:10:16",
+    "game_id": "730211953",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
+    "table_name": "Monopod",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "Orondi"
+        "wishyouhadnot"
     ],
     "players_seats": [
+        1,
         2,
-        5
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        87.02,
-        443.13
+        176.67,
+        249.0,
+        320.3,
+        588.98,
+        200.0,
+        293.65,
+        159.12,
+        196.94
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "Orondi",
-    "big_blind": 2.0,
+    "player_small_blind": "Cellar door",
+    "small_blind": 2.0,
+    "player_big_blind": "TryNotToTilt",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "Ks"
+        "5c",
+        "Qc"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "6h",
+            "9c",
+            "Ks"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "2h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI"
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
+                "IlxxxlI",
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt"
             ],
             "actions": [
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
             ],
             "values": [
-                null
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                10.0,
+                8.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Cellar door",
+                "TryNotToTilt"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Cellar door",
+                "TryNotToTilt"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Cellar door",
+                "TryNotToTilt"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
+        null,
+        "As 8c",
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        86.02,
-        444.13
+        176.67,
+        249.0,
+        332.1,
+        576.98,
+        200.0,
+        293.65,
+        159.12,
+        196.94
     ]
 }

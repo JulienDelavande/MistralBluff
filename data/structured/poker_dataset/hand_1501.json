@@ -1,25 +1,23 @@
 {
-    "date": "2016/11/29 7:49:37",
-    "game_id": "786716053",
+    "date": "2016/9/18 7:26:50",
+    "game_id": "730184054",
     "variant": "PRR",
-    "table_name": "Karkadann-2",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 7,
+    "button_seat": 2,
     "players": [
-        "MadLifeGrinder",
-        "shokerAAss",
-        "St3p04ka",
+        "LuckyBoy1980",
+        "BadBeat79",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "Iia007",
-        "Winter is here",
-        "aleaga",
-        "Qrenor",
-        "Log_in"
+        "gosu36484"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
         6,
@@ -28,77 +26,120 @@
         9
     ],
     "starting_stacks": [
-        100.0,
-        104.44,
-        185.39,
-        40.0,
-        102.0,
-        175.16,
-        202.25,
-        250.15,
-        40.0
+        220.35,
+        197.45,
+        277.4,
+        165.05,
+        126.64,
+        203.0,
+        100.85,
+        82.5
     ],
-    "player_small_blind": "Qrenor",
-    "small_blind": 0.5,
-    "player_big_blind": "MadLifeGrinder",
-    "big_blind": 1.0,
+    "player_small_blind": "FatSkinnyGuy",
+    "small_blind": 1.0,
+    "player_big_blind": "Pimpika",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "Jc"
+        "Qs",
+        "9c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "2s",
+            "10s",
+            "Ad"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "8c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "shokerAAss",
-                "St3p04ka",
+                "ABCD123",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "Iia007",
-                "Winter is here",
-                "aleaga",
-                "Qrenor",
-                "MadLifeGrinder"
+                "gosu36484",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "FatSkinnyGuy",
+                "Pimpika"
             ],
             "actions": [
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL",
+                "CHECK"
             ],
             "values": [
+                2.0,
                 null,
                 null,
                 null,
-                3.0,
                 null,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.8,
+                null,
+                3.8
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FatSkinnyGuy",
+                "ABCD123",
+                "FatSkinnyGuy"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                10.0,
+                120.84,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -109,18 +150,16 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        99.0,
-        104.44,
-        185.39,
-        40.0,
-        103.5,
-        175.16,
-        202.25,
-        249.65,
-        40.0
+        220.35,
+        197.45,
+        261.59999999999997,
+        163.05,
+        142.76,
+        203.0,
+        100.85,
+        82.5
     ]
 }

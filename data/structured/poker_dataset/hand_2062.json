@@ -1,79 +1,99 @@
 {
-    "date": "2016/11/28 18:51:26",
-    "game_id": "786355403",
+    "date": "2016/9/18 8:43:55",
+    "game_id": "730232758",
     "variant": "PRR",
-    "table_name": "Lakhey-10",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "DonCesarGrinder",
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "KingGuciGuci",
-        "JJaromir",
-        "bunchy"
+        "wishyouhadnot"
     ],
     "players_seats": [
+        1,
         2,
         3,
-        4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        439.49,
-        80.0,
+        68.0,
+        217.7,
+        273.1,
+        500.91,
+        281.83,
         200.0,
-        496.7,
-        407.81
+        166.3,
+        263.28
     ],
-    "player_small_blind": "KingGuciGuci",
-    "small_blind": 1.0,
-    "player_big_blind": "JJaromir",
-    "big_blind": 2.0,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "LuckyBoy1980",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7d",
-        "7c"
+        "9d",
+        "5s"
     ],
     "dealed_cards": {
         "flop": [
-            "6c",
-            "3c",
-            "Qd"
+            "Ac",
+            "5h",
+            "Ks"
         ],
         "turn": [
-            "7s"
+            "8c"
         ],
-        "river": []
+        "river": [
+            "2s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "bunchy",
-                "DonCesarGrinder",
                 "IlxxxlI",
-                "KingGuciGuci",
-                "JJaromir"
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang",
+                "Cellar door",
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "LuckyBoy1980"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
+                "FOLD",
+                "FOLD",
                 "CALL",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
-                5.0,
-                5.0,
+                null,
+                null,
+                4.0,
+                null,
+                null,
                 null,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "DonCesarGrinder",
-                "IlxxxlI"
+                "LuckyBoy1980",
+                "liniang"
             ],
             "actions": [
                 "CHECK",
@@ -86,28 +106,37 @@
         },
         "post-turn": {
             "players": [
-                "DonCesarGrinder",
-                "IlxxxlI",
-                "DonCesarGrinder"
+                "LuckyBoy1980",
+                "liniang"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
-                12.0,
                 null
             ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "LuckyBoy1980",
+                "liniang"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
+        null,
+        "8h 7h",
+        null,
         null,
         null,
         null,
@@ -115,10 +144,13 @@
         null
     ],
     "finishing_stack": [
-        434.49,
-        87.35,
-        199.0,
-        494.7,
-        407.81
+        68.0,
+        223.6,
+        273.1,
+        500.91,
+        279.83,
+        196.0,
+        166.3,
+        263.28
     ]
 }

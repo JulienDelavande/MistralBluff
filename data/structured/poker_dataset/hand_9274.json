@@ -1,0 +1,131 @@
+{
+    "date": "2016/12/25 22:17:30",
+    "game_id": "805813299",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "lukopti",
+        "d0nkeym0ney",
+        "Indigol",
+        "IlxxxlI",
+        "whitebeaver77",
+        "spewbacca"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        54.86,
+        10.0,
+        61.73,
+        25.14,
+        14.83,
+        6.26
+    ],
+    "player_small_blind": "lukopti",
+    "small_blind": 0.1,
+    "player_big_blind": "d0nkeym0ney",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "Js",
+            "Jd"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Indigol",
+                "IlxxxlI",
+                "whitebeaver77",
+                "spewbacca",
+                "lukopti",
+                "d0nkeym0ney",
+                "lukopti",
+                "d0nkeym0ney"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                1.5,
+                3.5,
+                2.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lukopti",
+                "d0nkeym0ney",
+                "lukopti"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                3.8,
+                6.0,
+                2.2
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Ks Kc",
+        "Qd Ad",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        44.86,
+        19.0,
+        61.73,
+        25.14,
+        14.83,
+        6.26
+    ]
+}

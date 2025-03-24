@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 15:53:41",
+    "game_id": "805743462",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "afvet333",
+        "ImYourFriend1996",
+        "Sonic3Dblast",
+        "fourplay"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        28.83,
+        25.0,
+        25.0,
+        54.0,
+        19.99
+    ],
+    "player_small_blind": "ImYourFriend1996",
+    "small_blind": 0.1,
+    "player_big_blind": "Sonic3Dblast",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "Qc",
+            "6c"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "fourplay",
+                "IlxxxlI",
+                "afvet333",
+                "ImYourFriend1996",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "afvet333",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Sonic3Dblast",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Sonic3Dblast",
+                "afvet333"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.4,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        28.83,
+        23.8,
+        24.9,
+        55.18,
+        19.99
+    ]
+}

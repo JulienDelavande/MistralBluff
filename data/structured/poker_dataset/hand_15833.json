@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/22 22:54:49",
+    "game_id": "803853192",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "SkaHot",
+        "MikiFinn",
+        "HapKoTuk",
+        "IlxxxlI",
+        "booya25",
+        "mce86"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        36.83,
+        25.0,
+        33.01,
+        25.24,
+        34.1,
+        29.81
+    ],
+    "player_small_blind": "booya25",
+    "small_blind": 0.1,
+    "player_big_blind": "mce86",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "Ah",
+            "7h"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SkaHot",
+                "MikiFinn",
+                "HapKoTuk",
+                "IlxxxlI",
+                "booya25",
+                "mce86",
+                "IlxxxlI",
+                "booya25"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.58,
+                0.48,
+                1.65,
+                null,
+                1.32
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "booya25",
+                "mce86"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "booya25",
+                "mce86",
+                "booya25"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.39,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        36.83,
+        25.0,
+        33.01,
+        24.66,
+        32.2,
+        32.08
+    ]
+}

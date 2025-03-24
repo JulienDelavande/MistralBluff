@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/1 21:10:50",
+    "game_id": "788732756",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "sucazappa",
+        "sp1ros",
+        "odel_nadel",
+        "WeakAndWeary",
+        "38979",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        76.98,
+        57.8,
+        73.63,
+        121.1,
+        52.12,
+        20.0
+    ],
+    "player_small_blind": "sp1ros",
+    "small_blind": 0.25,
+    "player_big_blind": "odel_nadel",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "8s",
+            "9h"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "38979",
+                "IlxxxlI",
+                "sucazappa",
+                "sp1ros",
+                "odel_nadel"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "odel_nadel",
+                "WeakAndWeary",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.06,
+                2.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "odel_nadel",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "odel_nadel",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qh Ks",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        76.98,
+        57.55,
+        77.08,
+        117.53999999999999,
+        52.12,
+        20.0
+    ]
+}

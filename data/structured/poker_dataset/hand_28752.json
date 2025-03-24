@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/7 10:0:45",
+    "game_id": "792527074",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "Bigteezoe",
+        "IlxxxlI",
+        "imightbebluffing",
+        "BiGFck",
+        "NanielDegreanu"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6,
+        7
+    ],
+    "starting_stacks": [
+        10.0,
+        5.0,
+        10.78,
+        3.05,
+        16.01
+    ],
+    "player_small_blind": "imightbebluffing",
+    "small_blind": 0.1,
+    "player_big_blind": "BiGFck",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "6d",
+            "9c"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "NanielDegreanu",
+                "Bigteezoe",
+                "IlxxxlI",
+                "imightbebluffing",
+                "BiGFck",
+                "Bigteezoe"
+            ],
+            "actions": [
+                "FOLD",
+                "CHECK",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.4,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "imightbebluffing",
+                "Bigteezoe",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "imightbebluffing",
+                "Bigteezoe",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.11,
+                1.11,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "imightbebluffing",
+                "Bigteezoe",
+                "imightbebluffing"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                8.39,
+                5.39
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10s 7c",
+        null,
+        "5c 7h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        19.72,
+        4.5,
+        0.7799999999999994,
+        2.8,
+        16.01
+    ]
+}

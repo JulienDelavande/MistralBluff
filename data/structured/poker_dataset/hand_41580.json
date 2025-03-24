@@ -1,0 +1,158 @@
+{
+    "date": "2016/12/2 11:21:31",
+    "game_id": "789205220",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Jui Kuen",
+        "so_it_goes",
+        "simzny34",
+        "Edicted",
+        "rudyru"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        15.72,
+        42.47,
+        53.88,
+        25.61,
+        15.35,
+        38.72
+    ],
+    "player_small_blind": "Edicted",
+    "small_blind": 0.25,
+    "player_big_blind": "rudyru",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "As",
+            "7d"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "7c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Jui Kuen",
+                "so_it_goes",
+                "simzny34",
+                "Edicted",
+                "rudyru"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Edicted",
+                "rudyru",
+                "simzny34",
+                "Edicted",
+                "rudyru",
+                "simzny34"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                3.0,
+                3.0,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Edicted",
+                "rudyru",
+                "simzny34"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Edicted",
+                "rudyru",
+                "simzny34"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10h Ah",
+        null,
+        "10c Ad"
+    ],
+    "finishing_stack": [
+        15.72,
+        42.47,
+        53.88,
+        27.1,
+        11.85,
+        40.21
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "date": "2016/10/13 10:31:20",
+    "game_id": "749617434",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Bluffing Every Hand",
+        "Radenmyer24",
+        "ali23imsirovic",
+        "deddycool",
+        "Huang0508",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        90.58,
+        153.8,
+        52.25,
+        57.47,
+        28.36,
+        50.75
+    ],
+    "player_small_blind": "deddycool",
+    "small_blind": 0.25,
+    "player_big_blind": "Huang0508",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "Js",
+            "As"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Bluffing Every Hand",
+                "Radenmyer24",
+                "ali23imsirovic",
+                "deddycool",
+                "Huang0508"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Huang0508",
+                "Radenmyer24",
+                "Huang0508"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Huang0508",
+                "Radenmyer24",
+                "Huang0508"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Huang0508",
+                "Radenmyer24"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10s 10c",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        90.58,
+        160.79000000000002,
+        52.25,
+        57.22,
+        20.86,
+        50.75
+    ]
+}

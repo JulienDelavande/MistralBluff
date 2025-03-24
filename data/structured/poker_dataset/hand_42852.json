@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/1 20:58:59",
+    "game_id": "788730201",
+    "variant": "PRR",
+    "table_name": "Lakhey-10",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "ALLad_IN101",
+        "IlxxxlI",
+        "Chubrica",
+        "MikeMitch",
+        "gfclbv"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        378.0,
+        80.0,
+        324.33,
+        203.45,
+        99.69
+    ],
+    "player_small_blind": "ALLad_IN101",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "Ks",
+            "10h"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Chubrica",
+                "MikeMitch",
+                "gfclbv",
+                "ALLad_IN101",
+                "IlxxxlI",
+                "Chubrica"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                null,
+                null,
+                null,
+                8.32,
+                6.32
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Chubrica"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                13.7,
+                13.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Chubrica"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Chubrica",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                58.0,
+                55.98
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "6d 8d",
+        "Jc 9c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        377.0,
+        0.0,
+        402.33,
+        203.45,
+        99.69
+    ]
+}

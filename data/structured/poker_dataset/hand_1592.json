@@ -1,109 +1,133 @@
 {
-    "date": "2016/11/28 20:40:45",
-    "game_id": "786376680",
+    "date": "2016/9/18 7:42:18",
+    "game_id": "730194774",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
     "players": [
+        "LuckyBoy1980",
+        "BadBeat79",
+        "322xxx",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "gfclbv",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "gosu36484"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        43.53,
-        83.0,
-        163.7,
-        86.44,
-        81.9
+        224.35,
+        190.45,
+        200.0,
+        291.6,
+        153.05,
+        298.7,
+        207.64,
+        98.45,
+        71.5
     ],
-    "player_small_blind": "Are you with me",
+    "player_small_blind": "BadBeat79",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "322xxx",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Js",
-        "Qh"
+        "2c",
+        "Qc"
     ],
     "dealed_cards": {
         "flop": [
             "8h",
-            "8s",
-            "5h"
+            "6d",
+            "6h"
         ],
         "turn": [
-            "8c"
+            "4c"
         ],
         "river": [
-            "3c"
+            "6c"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "gfclbv",
-                "Wollverin",
-                "meandkids",
-                "Are you with me",
-                "IlxxxlI"
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "gosu36484",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "322xxx"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "CALL"
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
+                6.0,
+                null,
+                6.0,
                 null,
                 null,
                 null,
-                3.4,
-                2.4
+                null,
+                null,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "Are you with me",
-                "IlxxxlI"
+                "FatSkinnyGuy",
+                "ABCD123"
             ],
             "actions": [
                 "BET",
                 "CALL"
             ],
             "values": [
-                3.0,
-                3.0
+                8.0,
+                8.0
             ]
         },
         "post-turn": {
             "players": [
-                "Are you with me",
-                "IlxxxlI"
+                "FatSkinnyGuy",
+                "ABCD123"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null
+                14.0,
+                14.0
             ]
         },
         "post-river": {
             "players": [
-                "Are you with me",
-                "IlxxxlI"
+                "FatSkinnyGuy",
+                "ABCD123"
             ],
             "actions": [
                 "CHECK",
@@ -116,17 +140,25 @@
         }
     },
     "card_shown_by_players": [
-        "Js Qh",
         null,
         null,
         null,
-        "Kh As"
+        "7c 7h",
+        null,
+        "8d Jd",
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        36.13,
-        83.0,
-        163.7,
-        86.44,
-        88.56
+        224.35,
+        189.45,
+        198.0,
+        263.6,
+        153.05,
+        326.75,
+        207.64,
+        98.45,
+        71.5
     ]
 }

@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 20:6:36",
-    "game_id": "786369338",
+    "date": "2016/9/18 8:4:27",
+    "game_id": "730208185",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 4,
+    "table_name": "Karkadann-3",
+    "type_game": "Hold'em",
+    "button_seat": 8,
     "players": [
-        "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "Are you with me",
-        "Wollverin",
-        "dscshift"
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "BiggestFan07",
+        "BullsNationBitch",
+        "Pimpika",
+        "gosu36484",
+        "Mightyquinny",
+        "FirstClan",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -19,82 +22,105 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.0,
-        183.39,
-        100.79,
-        70.0,
-        112.24,
-        112.8
+        100.0,
+        104.56,
+        72.19,
+        52.14,
+        76.51,
+        39.5,
+        115.18,
+        140.82,
+        41.8
     ],
-    "player_small_blind": "Wollverin",
-    "small_blind": 1.0,
-    "player_big_blind": "dscshift",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3s",
-        "Jd"
+        "8c",
+        "9s"
     ],
     "dealed_cards": {
         "flop": [
-            "As",
-            "Ah",
-            "8s"
+            "6h",
+            "6c",
+            "10d"
         ],
-        "turn": [],
+        "turn": [
+            "As"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "VegetablesArentYummy",
+                "BiggestFan07",
+                "BullsNationBitch",
+                "Pimpika",
+                "gosu36484",
+                "Mightyquinny",
+                "FirstClan",
                 "IlxxxlI",
-                "38979",
-                "sheenius81",
-                "Are you with me",
-                "Wollverin",
-                "dscshift"
+                "BlitzWaut"
             ],
             "actions": [
                 "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "RAISE",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
+                1.0,
                 null,
                 null,
-                6.0,
                 null,
-                4.0
+                null,
+                null,
+                null,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "dscshift",
-                "Are you with me",
-                "dscshift"
+                "BlitzWaut",
+                "BiggestFan07"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
-                6.17,
                 null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BlitzWaut",
+                "BiggestFan07"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.19,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -108,14 +134,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.0,
-        183.39,
-        100.79,
-        76.35,
-        111.24,
-        106.8
+        101.38,
+        104.56,
+        71.19,
+        52.14,
+        76.51,
+        39.5,
+        115.18,
+        140.82,
+        41.3
     ]
 }

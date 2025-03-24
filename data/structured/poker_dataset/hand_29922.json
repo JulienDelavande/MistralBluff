@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/6 17:41:24",
+    "game_id": "792174794",
+    "variant": "PRR",
+    "table_name": "Ettin-2",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "kidsquid",
+        "Br4dy12",
+        "luanjunyi",
+        "IlxxxlI",
+        "Conan el barbaro",
+        "Poteplie",
+        "jObOkO"
+    ],
+    "players_seats": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        25.7,
+        25.35,
+        25.91,
+        10.0,
+        31.43,
+        52.05,
+        52.15
+    ],
+    "player_small_blind": "jObOkO",
+    "small_blind": 0.1,
+    "player_big_blind": "kidsquid",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "4s",
+            "6s"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Br4dy12",
+                "luanjunyi",
+                "IlxxxlI",
+                "Conan el barbaro",
+                "Poteplie",
+                "jObOkO",
+                "kidsquid",
+                "Conan el barbaro"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                1.0,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "kidsquid",
+                "Conan el barbaro"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.64,
+                1.64
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "kidsquid",
+                "Conan el barbaro"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.72,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        28.4,
+        25.35,
+        25.91,
+        10.0,
+        28.54,
+        52.05,
+        52.05
+    ]
+}

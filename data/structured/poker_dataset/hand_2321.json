@@ -1,157 +1,133 @@
 {
-    "date": "2016/11/21 11:59:7",
-    "game_id": "781005018",
+    "date": "2016/9/18 9:31:3",
+    "game_id": "730257444",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Short",
-    "button_seat": 8,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 2,
     "players": [
-        "sr86",
+        "Lewass99",
         "IlxxxlI",
-        "hotshothotgg",
-        "Spagetti1",
-        "parmele",
-        "ChrisNola",
-        "Parcker",
-        "FirstClan"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "kalabanaspirit",
+        "aquamarin"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
         5,
         6,
-        7,
-        8,
         9
     ],
     "starting_stacks": [
-        48.09,
-        23.18,
-        22.06,
-        25.84,
-        26.95,
-        42.77,
-        25.0,
-        30.02
+        231.5,
+        80.0,
+        464.0,
+        200.0,
+        80.86,
+        196.0,
+        148.08
     ],
-    "player_small_blind": "FirstClan",
-    "small_blind": 0.25,
-    "player_big_blind": "sr86",
-    "big_blind": 0.5,
+    "player_small_blind": "Pimpika",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ac",
-        "10d"
+        "7h",
+        "Js"
     ],
     "dealed_cards": {
         "flop": [
-            "8h",
-            "Qc",
-            "8s"
+            "2d",
+            "As",
+            "Qs"
         ],
         "turn": [
-            "5c"
+            "8d"
         ],
-        "river": [
-            "3c"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "GARY888",
+                "kalabanaspirit",
+                "aquamarin",
+                "Lewass99",
                 "IlxxxlI",
-                "hotshothotgg",
-                "Spagetti1",
-                "parmele",
-                "ChrisNola",
-                "Parcker",
-                "FirstClan",
-                "sr86"
+                "Pimpika",
+                "VegetablesArentYummy"
             ],
             "actions": [
+                "CALL",
+                "FOLD",
                 "FOLD",
                 "CALL",
                 "FOLD",
                 "FOLD",
-                "CHECK",
-                "FOLD",
-                "CALL",
                 "CHECK"
             ],
             "values": [
-                null,
-                0.5,
-                null,
+                2.0,
                 null,
                 null,
+                2.0,
                 null,
-                0.25,
+                null,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "FirstClan",
-                "sr86",
-                "hotshothotgg",
-                "ChrisNola",
-                "FirstClan",
-                "sr86"
+                "VegetablesArentYummy",
+                "GARY888",
+                "Lewass99"
             ],
             "actions": [
                 "CHECK",
-                "CHECK",
-                "BET",
-                "FOLD",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                0.71,
-                null,
-                null,
-                0.71
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "sr86",
-                "hotshothotgg"
-            ],
-            "actions": [
                 "CHECK",
                 "CHECK"
             ],
             "values": [
                 null,
+                null,
                 null
             ]
         },
-        "post-river": {
+        "post-turn": {
             "players": [
-                "sr86",
-                "hotshothotgg",
-                "sr86"
+                "VegetablesArentYummy",
+                "GARY888",
+                "Lewass99",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "CALL"
+                "FOLD",
+                "FOLD"
             ],
             "values": [
                 null,
-                1.16,
-                1.16
+                4.43,
+                null,
+                null
             ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "Qd Ks",
         null,
         null,
         null,
@@ -159,13 +135,12 @@
         null
     ],
     "finishing_stack": [
-        45.720000000000006,
-        23.18,
-        25.389999999999997,
-        25.84,
-        26.95,
-        42.02,
-        25.0,
-        29.52
+        229.5,
+        80.0,
+        463.0,
+        198.0,
+        85.51,
+        196.0,
+        148.08
     ]
 }

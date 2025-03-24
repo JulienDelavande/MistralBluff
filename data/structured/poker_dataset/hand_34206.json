@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/5 11:38:26",
+    "game_id": "791374344",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "St3p04ka",
+        "IlxxxlI",
+        "woodstj",
+        "38979"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        64.11,
+        40.0,
+        52.44,
+        100.5
+    ],
+    "player_small_blind": "38979",
+    "small_blind": 0.5,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "9h",
+            "7s"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "woodstj",
+                "38979",
+                "St3p04ka",
+                "woodstj",
+                "38979"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                0.5,
+                4.55,
+                4.55,
+                4.55
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "38979",
+                "St3p04ka",
+                "woodstj"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "38979",
+                "St3p04ka",
+                "woodstj"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                10.54,
+                null,
+                10.54
+            ]
+        },
+        "post-river": {
+            "players": [
+                "38979",
+                "woodstj"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                84.41,
+                36.35
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Js Qh",
+        "7c 7d"
+    ],
+    "finishing_stack": [
+        58.56,
+        40.0,
+        0.0,
+        156.49
+    ]
+}

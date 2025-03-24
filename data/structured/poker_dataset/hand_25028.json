@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 10:21:38",
+    "game_id": "793248968",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "FirstClan",
+        "IlxxxlI",
+        "SurfinSafari",
+        "xxRepoManxx",
+        "2Joes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        12.5,
+        5.0,
+        21.43,
+        50.32,
+        39.71
+    ],
+    "player_small_blind": "xxRepoManxx",
+    "small_blind": 0.1,
+    "player_big_blind": "FirstClan",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "Kc",
+            "10h"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "SurfinSafari",
+                "xxRepoManxx",
+                "FirstClan"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FirstClan",
+                "SurfinSafari"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FirstClan",
+                "SurfinSafari"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.25,
+                2.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FirstClan",
+                "SurfinSafari",
+                "FirstClan"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.9,
+                2.9
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10c Ah",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        6.6,
+        5.0,
+        26.84,
+        50.22,
+        39.71
+    ]
+}

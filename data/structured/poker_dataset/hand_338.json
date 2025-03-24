@@ -1,24 +1,22 @@
 {
-    "date": "2016/11/29 14:31:48",
-    "game_id": "787007858",
+    "date": "2016/9/5 11:45:10",
+    "game_id": "720252467",
     "variant": "PRR",
-    "table_name": "Karkadann-3",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 5,
     "players": [
-        "zboiii",
-        "ElvenEyes",
-        "StephCurry",
-        "gust",
-        "pineapplesand",
+        "RapaNui",
+        "SheppyPOO!!",
         "IlxxxlI",
-        "dankmann",
-        "VegetablesArentYummy"
+        "Sailor1704",
+        "ShtrafBat",
+        "follower1",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
         7,
@@ -26,71 +24,94 @@
         9
     ],
     "starting_stacks": [
-        119.62,
-        157.3,
-        101.5,
-        52.95,
-        50.46,
-        41.0,
-        160.51,
-        254.4
+        626.85,
+        601.3,
+        143.65,
+        1171.87,
+        161.3,
+        338.12,
+        246.0
     ],
-    "player_small_blind": "ElvenEyes",
-    "small_blind": 0.5,
-    "player_big_blind": "StephCurry",
-    "big_blind": 1.0,
+    "player_small_blind": "ShtrafBat",
+    "small_blind": 3.0,
+    "player_big_blind": "follower1",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4d",
-        "3h"
+        "Qd",
+        "5s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "10s",
+            "9h",
+            "4c"
+        ],
+        "turn": [
+            "9s"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "gust",
-                "pineapplesand",
+                "TheManiac89",
+                "RapaNui",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "dankmann",
-                "VegetablesArentYummy",
-                "zboiii",
-                "ElvenEyes",
-                "StephCurry"
+                "Sailor1704",
+                "ShtrafBat",
+                "follower1",
+                "Sailor1704"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                2.0,
                 null,
                 null,
                 null,
                 null,
+                6.0,
                 null,
-                null,
-                null
+                18.0,
+                18.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "follower1",
+                "Sailor1704"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                33.66,
+                33.66
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "follower1",
+                "Sailor1704"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                72.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -105,17 +126,15 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        119.62,
-        156.8,
-        100.5,
-        54.45,
-        50.46,
-        41.0,
-        160.51,
-        254.4
+        626.85,
+        601.3,
+        143.65,
+        1114.2099999999998,
+        158.3,
+        397.63000000000005,
+        246.0
     ]
 }

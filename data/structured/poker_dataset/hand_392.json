@@ -1,22 +1,24 @@
 {
-    "date": "2016/11/29 14:25:15",
-    "game_id": "787004970",
+    "date": "2016/9/5 11:59:45",
+    "game_id": "720257329",
     "variant": "PRR",
     "table_name": "Longana",
     "type_game": "Short",
     "button_seat": 1,
     "players": [
-        "actionjax24",
-        "VegetablesArentYummy",
-        "gust",
-        "thimk",
+        "UrSoDumb",
+        "St3p04ka",
         "IlxxxlI",
-        "pineapplesand",
-        "StephCurry",
-        "hotshothotgg"
+        "AironVega",
+        "gust",
+        "Marketsniper",
+        "jtee95",
+        "pokerpokeronthewall",
+        "lars76"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
@@ -26,118 +28,124 @@
         9
     ],
     "starting_stacks": [
-        92.51,
-        133.53,
-        80.0,
-        67.02,
+        258.28,
+        137.66,
         40.0,
-        42.0,
-        109.5,
-        71.19
+        277.34,
+        102.0,
+        78.55,
+        88.0,
+        132.75,
+        57.97
     ],
-    "player_small_blind": "VegetablesArentYummy",
+    "player_small_blind": "St3p04ka",
     "small_blind": 1.0,
-    "player_big_blind": "gust",
+    "player_big_blind": "IlxxxlI",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "Ks"
+        "9d",
+        "2c"
     ],
     "dealed_cards": {
         "flop": [
-            "4h",
-            "9c",
-            "2h"
+            "8d",
+            "Jh",
+            "Jd"
         ],
         "turn": [
-            "2d"
+            "Ac"
         ],
-        "river": []
+        "river": [
+            "5s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "thimk",
-                "IlxxxlI",
-                "pineapplesand",
-                "StephCurry",
-                "hotshothotgg",
-                "actionjax24",
-                "VegetablesArentYummy",
-                "gust"
+                "AironVega",
+                "gust",
+                "Marketsniper",
+                "jtee95",
+                "pokerpokeronthewall",
+                "lars76",
+                "UrSoDumb",
+                "St3p04ka",
+                "IlxxxlI"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
                 "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "CALL",
-                "CALL",
-                "FOLD",
-                "CHECK"
+                "FOLD"
             ],
             "values": [
-                2.0,
                 null,
                 null,
+                4.0,
                 null,
-                2.0,
-                2.0,
+                4.0,
+                4.0,
+                null,
                 null,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "gust",
-                "thimk",
-                "hotshothotgg",
-                "actionjax24",
-                "gust",
-                "thimk",
-                "hotshothotgg"
+                "Marketsniper",
+                "pokerpokeronthewall",
+                "lars76",
+                "Marketsniper",
+                "pokerpokeronthewall"
             ],
             "actions": [
                 "CHECK",
                 "CHECK",
-                "CHECK",
                 "BET",
-                "FOLD",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                6.0,
-                null,
-                null,
-                6.0
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "hotshothotgg",
-                "actionjax24",
-                "hotshothotgg"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
-                11.0,
+                null,
+                6.0,
+                6.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Marketsniper",
+                "lars76"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
                 null
             ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Marketsniper",
+                "lars76"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -146,18 +154,20 @@
         null,
         null,
         null,
+        "8c Kd",
         null,
         null,
-        null
+        "8h 9s"
     ],
     "finishing_stack": [
-        104.46000000000001,
-        132.53,
-        78.0,
-        65.02,
-        40.0,
-        42.0,
-        109.5,
-        63.19
+        258.28,
+        136.66,
+        38.0,
+        277.34,
+        102.0,
+        81.38,
+        88.0,
+        128.75,
+        60.79
     ]
 }

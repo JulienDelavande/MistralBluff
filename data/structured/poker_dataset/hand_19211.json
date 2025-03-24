@@ -1,0 +1,157 @@
+{
+    "date": "2016/12/9 20:25:11",
+    "game_id": "794165481",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "imb",
+        "Hakuna_Matata777",
+        "Maria_Pia",
+        "IgLa",
+        "noamit1",
+        "so_it_goes",
+        "IlxxxlI",
+        "mcguns45"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        16.0,
+        51.15,
+        20.0,
+        50.0,
+        55.79,
+        55.82,
+        23.84,
+        56.25
+    ],
+    "player_small_blind": "noamit1",
+    "small_blind": 0.25,
+    "player_big_blind": "so_it_goes",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "7h",
+            "7s"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "mcguns45",
+                "imb",
+                "Hakuna_Matata777",
+                "Maria_Pia",
+                "IgLa",
+                "noamit1",
+                "so_it_goes"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.75,
+                1.75,
+                null,
+                null,
+                null,
+                null,
+                1.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "noamit1",
+                "IlxxxlI",
+                "mcguns45",
+                "noamit1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "noamit1",
+                "IlxxxlI",
+                "noamit1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.5,
+                7.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        16.0,
+        51.15,
+        20.0,
+        50.0,
+        65.36,
+        55.32,
+        15.59,
+        54.5
+    ]
+}

@@ -1,71 +1,73 @@
 {
-    "date": "2016/11/29 14:47:43",
-    "game_id": "787014510",
+    "date": "2016/9/4 10:8:9",
+    "game_id": "719287022",
     "variant": "PRR",
-    "table_name": "Lakhey-3",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
         "IlxxxlI",
-        "AironVega"
+        "SheppyPOO!!",
+        "VegetablesArentYummy",
+        "bet2000",
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
+        2,
+        3,
+        4,
         6
     ],
     "starting_stacks": [
-        81.0,
-        204.5
+        184.0,
+        523.2,
+        200.0,
+        479.07,
+        219.58
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "AironVega",
-    "big_blind": 2.0,
+    "player_small_blind": "ConstanceHarm",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8c",
-        "Qh"
+        "7c",
+        "4s"
     ],
     "dealed_cards": {
-        "flop": [
-            "9d",
-            "Js",
-            "Kc"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "AironVega"
+                "SheppyPOO!!",
+                "VegetablesArentYummy",
+                "bet2000",
+                "ConstanceHarm",
+                "IlxxxlI"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
-                "CALL"
-            ],
-            "values": [
-                4.0,
-                3.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "AironVega",
-                "IlxxxlI",
-                "AironVega"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                4.94,
+                10.0,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -80,10 +82,16 @@
     },
     "card_shown_by_players": [
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        85.5,
-        199.5
+        180.0,
+        523.2,
+        206.0,
+        479.07,
+        217.58
     ]
 }

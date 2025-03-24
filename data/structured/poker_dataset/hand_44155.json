@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/1 13:51:14",
+    "game_id": "788623684",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "AironVega",
+        "MadLifeGrinder",
+        "CattleCorner",
+        "BingBingBopBop",
+        "IlxxxlI",
+        "Goomashroom"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.05,
+        109.34,
+        162.99,
+        100.0,
+        40.0,
+        103.0
+    ],
+    "player_small_blind": "CattleCorner",
+    "small_blind": 0.5,
+    "player_big_blind": "BingBingBopBop",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "Qs",
+            "5h"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Goomashroom",
+                "AironVega",
+                "MadLifeGrinder",
+                "CattleCorner",
+                "BingBingBopBop"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BingBingBopBop",
+                "Goomashroom",
+                "BingBingBopBop"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.75,
+                3.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BingBingBopBop",
+                "Goomashroom",
+                "BingBingBopBop",
+                "Goomashroom"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.75,
+                31.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.05,
+        109.34,
+        162.49,
+        113.53,
+        40.0,
+        88.5
+    ]
+}

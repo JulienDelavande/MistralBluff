@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/8 7:13:55",
+    "game_id": "793085595",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "LazyFish",
+        "rorakin",
+        "IlxxxlI",
+        "MadLifeGrinder",
+        "speechboy71",
+        "Eddk4"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        103.78,
+        111.59,
+        44.73,
+        154.78,
+        107.48,
+        40.5
+    ],
+    "player_small_blind": "Eddk4",
+    "small_blind": 0.5,
+    "player_big_blind": "LazyFish",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "Qs",
+            "6s"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "rorakin",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "speechboy71",
+                "Eddk4",
+                "LazyFish"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "LazyFish",
+                "speechboy71",
+                "LazyFish",
+                "speechboy71"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.14,
+                8.0,
+                5.86
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "LazyFish",
+                "speechboy71"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                12.98,
+                12.98
+            ]
+        },
+        "post-river": {
+            "players": [
+                "LazyFish",
+                "speechboy71",
+                "LazyFish"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                30.0,
+                30.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Kc Kd",
+        null
+    ],
+    "finishing_stack": [
+        50.800000000000004,
+        111.59,
+        44.73,
+        154.78,
+        157.96,
+        40.0
+    ]
+}

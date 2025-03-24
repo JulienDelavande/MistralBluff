@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/25 16:12:30",
+    "game_id": "805747359",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Phildurrrhelmuth",
+        "dasani777",
+        "Sonic3Dblast",
+        "Count Chipula",
+        "IlxxxlI",
+        "holdme7"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.52,
+        11.69,
+        26.33,
+        34.15,
+        29.67,
+        124.15
+    ],
+    "player_small_blind": "Sonic3Dblast",
+    "small_blind": 0.1,
+    "player_big_blind": "Count Chipula",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "5s",
+            "8s"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "holdme7",
+                "Phildurrrhelmuth",
+                "dasani777",
+                "Sonic3Dblast",
+                "Count Chipula"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Count Chipula",
+                "Phildurrrhelmuth",
+                "dasani777"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Count Chipula",
+                "Phildurrrhelmuth",
+                "dasani777",
+                "Count Chipula",
+                "Phildurrrhelmuth"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "ALLIN",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                10.94,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.77,
+        13.18,
+        26.229999999999997,
+        33.4,
+        29.67,
+        124.15
+    ]
+}

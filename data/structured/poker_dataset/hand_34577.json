@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/5 10:50:3",
+    "game_id": "791342463",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Aslargs",
+        "Jui Kuen",
+        "Heksebrygg",
+        "IlxxxlI",
+        "Beep_Beep"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        51.5,
+        150.2,
+        50.25,
+        20.0,
+        68.19
+    ],
+    "player_small_blind": "Beep_Beep",
+    "small_blind": 0.25,
+    "player_big_blind": "Aslargs",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "5s",
+            "3h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jui Kuen",
+                "Heksebrygg",
+                "IlxxxlI",
+                "Beep_Beep",
+                "Aslargs"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.15,
+                0.9,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Beep_Beep",
+                "IlxxxlI",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.38,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        51.0,
+        150.2,
+        50.25,
+        21.51,
+        67.03999999999999
+    ]
+}

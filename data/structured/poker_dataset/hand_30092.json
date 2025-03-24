@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/6 17:25:54",
+    "game_id": "792171855",
+    "variant": "PRR",
+    "table_name": "Gorgons-14",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "IgLa",
+        "aleks0v",
+        "IlxxxlI",
+        "IampokerKidd",
+        "WomboComboAA"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        64.65,
+        50.0,
+        20.75,
+        53.32,
+        110.49
+    ],
+    "player_small_blind": "WomboComboAA",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "5c",
+            "9s"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "aleks0v",
+                "IlxxxlI",
+                "IampokerKidd",
+                "WomboComboAA",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                1.25,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "IlxxxlI",
+                "IampokerKidd",
+                "WeakAndWeary",
+                "IlxxxlI",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.9,
+                1.9,
+                7.2,
+                null,
+                5.3
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                19.29,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        60.839999999999996,
+        64.65,
+        50.0,
+        17.6,
+        44.870000000000005,
+        110.24
+    ]
+}

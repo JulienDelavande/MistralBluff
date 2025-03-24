@@ -1,20 +1,17 @@
 {
-    "date": "2016/11/21 11:45:12",
-    "game_id": "780995843",
+    "date": "2016/9/18 9:35:5",
+    "game_id": "730259411",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Medusa",
     "type_game": "Short",
-    "button_seat": 4,
+    "button_seat": 3,
     "players": [
-        "haroldbb",
-        "sr86",
-        "IlxxxlI",
-        "hotshothotgg",
-        "Brucelegend",
-        "parmele",
-        "ChrisNola",
-        "Parcker",
-        "FirstClan"
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -22,111 +19,82 @@
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        32.28,
-        26.0,
-        23.93,
-        21.71,
-        24.42,
-        28.2,
-        43.37,
-        26.5,
-        32.7
+        75.87,
+        324.44,
+        574.45,
+        297.02,
+        200.0,
+        80.0
     ],
-    "player_small_blind": "Brucelegend",
-    "small_blind": 0.25,
-    "player_big_blind": "parmele",
-    "big_blind": 0.5,
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "hangiie",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "4s"
+        "As",
+        "5c"
     ],
     "dealed_cards": {
         "flop": [
-            "9s",
-            "3s",
-            "Ac"
+            "7h",
+            "8h",
+            "10c"
         ],
-        "turn": [
-            "4c"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "ChrisNola",
-                "Parcker",
-                "FirstClan",
-                "haroldbb",
-                "sr86",
                 "IlxxxlI",
-                "hotshothotgg",
-                "Brucelegend",
-                "parmele",
-                "sr86"
+                "winchy21",
+                "VegetablesArentYummy",
+                "flyzlcomb07",
+                "Pureprofit4",
+                "hangiie"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "RAISE",
-                "FOLD",
-                "CALL"
+                "FOLD"
             ],
             "values": [
                 null,
+                8.0,
                 null,
+                8.0,
                 null,
-                null,
-                1.0,
-                null,
-                null,
-                2.75,
-                null,
-                2.0
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "Brucelegend",
-                "sr86"
+                "winchy21",
+                "flyzlcomb07",
+                "winchy21"
             ],
             "actions": [
                 "BET",
-                "CALL"
-            ],
-            "values": [
-                4.12,
-                4.12
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Brucelegend",
-                "sr86",
-                "Brucelegend"
-            ],
-            "actions": [
-                "BET",
-                "RAISE",
+                "ALLIN",
                 "ALLIN"
             ],
             "values": [
-                9.34,
-                18.68,
-                7.96
+                14.53,
+                566.45,
+                53.34
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -135,25 +103,19 @@
         }
     },
     "card_shown_by_players": [
+        "8d 9d",
         null,
-        "9h 9d",
-        null,
-        null,
-        "As Qs",
-        null,
+        "Js 9s",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        32.28,
-        48.46,
-        23.93,
-        21.71,
         0.0,
-        27.7,
-        43.37,
-        26.5,
-        32.7
+        324.44,
+        654.77,
+        295.02,
+        196.0,
+        80.0
     ]
 }

@@ -1,0 +1,105 @@
+{
+    "date": "2016/12/6 13:41:38",
+    "game_id": "792099227",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "AironVega",
+        "IlxxxlI",
+        "GautamaBuddha",
+        "GT-R37"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        100.0,
+        43.0,
+        113.66,
+        166.56
+    ],
+    "player_small_blind": "AironVega",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "Ac",
+            "Ad"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GautamaBuddha",
+                "GT-R37",
+                "AironVega",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "IlxxxlI",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.9,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        98.0,
+        44.8,
+        113.66,
+        166.56
+    ]
+}

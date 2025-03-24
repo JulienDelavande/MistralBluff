@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/5 11:14:56",
+    "game_id": "791358931",
+    "variant": "PRR",
+    "table_name": "Gorgons-26",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "ocg123",
+        "Xobkcul",
+        "welld0ne",
+        "so_it_goes",
+        "IlxxxlI",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        44.29,
+        56.55,
+        100.82,
+        51.5,
+        22.97,
+        57.14
+    ],
+    "player_small_blind": "Jui Kuen",
+    "small_blind": 0.25,
+    "player_big_blind": "ocg123",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "10c",
+            "Qh"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Xobkcul",
+                "welld0ne",
+                "so_it_goes",
+                "IlxxxlI",
+                "Jui Kuen",
+                "ocg123"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jui Kuen",
+                "ocg123"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jui Kuen",
+                "ocg123",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                6.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        47.44,
+        56.55,
+        100.82,
+        51.5,
+        22.97,
+        53.64
+    ]
+}

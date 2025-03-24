@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/5 23:9:49",
+    "game_id": "791577012",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "krazeeeyz",
+        "IlxxxlI",
+        "Maria_Pia",
+        "Aslargs",
+        "WomboComboAA"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        54.23,
+        21.59,
+        29.14,
+        59.36,
+        50.0
+    ],
+    "player_small_blind": "WomboComboAA",
+    "small_blind": 0.25,
+    "player_big_blind": "krazeeeyz",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "5s",
+            "10s"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Maria_Pia",
+                "Aslargs",
+                "WomboComboAA",
+                "krazeeeyz"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.05,
+                1.05,
+                null,
+                0.55
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "krazeeeyz",
+                "Maria_Pia",
+                "Aslargs"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                2.15,
+                2.15,
+                2.15
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "krazeeeyz",
+                "Maria_Pia",
+                "Aslargs"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                6.24,
+                null,
+                6.24
+            ]
+        },
+        "post-river": {
+            "players": [
+                "krazeeeyz",
+                "Aslargs"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "5h 6c",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        66.00999999999999,
+        21.59,
+        25.94,
+        49.92,
+        49.75
+    ]
+}

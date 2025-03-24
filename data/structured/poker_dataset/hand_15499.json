@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/23 7:26:42",
+    "game_id": "804160191",
+    "variant": "PRR",
+    "table_name": "Ekek-18",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "10071995",
+        "IlxxxlI",
+        "Ratbastrd",
+        "ImYourFriend1996",
+        "konarstl",
+        "hobbslima"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.0,
+        25.0,
+        32.22,
+        25.0,
+        14.23,
+        23.45
+    ],
+    "player_small_blind": "Ratbastrd",
+    "small_blind": 0.1,
+    "player_big_blind": "ImYourFriend1996",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "Jd",
+            "8c"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "konarstl",
+                "hobbslima",
+                "10071995",
+                "IlxxxlI",
+                "Ratbastrd",
+                "ImYourFriend1996"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                0.75,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "konarstl",
+                "hobbslima",
+                "konarstl"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.17,
+                5.85,
+                4.68
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "konarstl",
+                "hobbslima"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "konarstl",
+                "hobbslima"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                7.63,
+                7.63
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "4d Ad",
+        "Js 10h"
+    ],
+    "finishing_stack": [
+        27.0,
+        25.0,
+        32.12,
+        24.75,
+        0.0,
+        36.59
+    ]
+}

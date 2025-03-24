@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/9 14:14:56",
+    "game_id": "794096398",
+    "variant": "PRR",
+    "table_name": "Gorgons-19",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "hoocher",
+        "iDawg",
+        "IlxxxlI",
+        "Heksebrygg",
+        "Hawkbacker",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.44,
+        91.78,
+        20.0,
+        56.03,
+        47.81,
+        52.25
+    ],
+    "player_small_blind": "Heksebrygg",
+    "small_blind": 0.25,
+    "player_big_blind": "Hawkbacker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "5c",
+            "6d"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jui Kuen",
+                "hoocher",
+                "iDawg",
+                "IlxxxlI",
+                "Heksebrygg",
+                "Hawkbacker"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Hawkbacker",
+                "hoocher",
+                "Hawkbacker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Hawkbacker",
+                "hoocher",
+                "Hawkbacker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        43.83,
+        91.78,
+        20.0,
+        55.78,
+        44.31,
+        52.25
+    ]
+}

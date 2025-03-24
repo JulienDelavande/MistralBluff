@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/3 15:47:35",
+    "game_id": "790014062",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "AironVega",
+        "Azaladog",
+        "IlxxxlI",
+        "WeakAndWeary",
+        "HomoPokerus",
+        "radrn22"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        163.71,
+        112.15,
+        43.4,
+        113.29,
+        101.33,
+        19.36
+    ],
+    "player_small_blind": "radrn22",
+    "small_blind": 0.5,
+    "player_big_blind": "AironVega",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "10h",
+            "6h"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Azaladog",
+                "IlxxxlI",
+                "WeakAndWeary",
+                "HomoPokerus",
+                "radrn22",
+                "AironVega"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "radrn22",
+                "AironVega",
+                "Azaladog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "radrn22",
+                "AironVega",
+                "Azaladog",
+                "radrn22",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                7.0,
+                7.0,
+                7.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "radrn22",
+                "AironVega",
+                "Azaladog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ks 6s",
+        "Ad Jc",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        182.21,
+        102.15,
+        43.4,
+        113.29,
+        101.33,
+        9.36
+    ]
+}

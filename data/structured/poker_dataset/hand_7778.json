@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/27 16:9:58",
+    "game_id": "807102344",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "heraklinos89",
+        "IlxxxlI",
+        "FIVETEN",
+        "DHD"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        29.26,
+        48.73,
+        7.22,
+        70.43
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "FIVETEN",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "3h",
+            "5d"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DHD",
+                "heraklinos89",
+                "IlxxxlI",
+                "FIVETEN"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FIVETEN",
+                "DHD"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FIVETEN",
+                "DHD"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FIVETEN",
+                "DHD",
+                "FIVETEN"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                68.43,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        29.26,
+        48.48,
+        5.22,
+        72.47000000000001
+    ]
+}

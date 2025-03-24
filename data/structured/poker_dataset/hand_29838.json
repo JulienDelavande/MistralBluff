@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/7 8:19:3",
+    "game_id": "792438110",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "ABMTLQC",
+        "GiveMeYourMoney9",
+        "Irene13",
+        "t0x1cAce",
+        "IlxxxlI",
+        "FTHater"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.55,
+        27.09,
+        64.34,
+        26.85,
+        10.0,
+        69.21
+    ],
+    "player_small_blind": "t0x1cAce",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "7c",
+            "Qc"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FTHater",
+                "ABMTLQC",
+                "GiveMeYourMoney9",
+                "Irene13",
+                "t0x1cAce",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FTHater",
+                "GiveMeYourMoney9",
+                "Irene13"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                1.64,
+                1.64,
+                1.64
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FTHater",
+                "GiveMeYourMoney9",
+                "Irene13"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                4.76,
+                null,
+                4.76
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FTHater",
+                "Irene13"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                10.79,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.55,
+        24.7,
+        57.190000000000005,
+        26.75,
+        9.75,
+        78.25
+    ]
+}

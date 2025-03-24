@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 22:20:54",
+    "game_id": "805814165",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "mikeymikedc",
+        "warrior1023",
+        "Old Biker",
+        "lukopti"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        24.68,
+        15.73,
+        13.44,
+        21.6,
+        16.79
+    ],
+    "player_small_blind": "mikeymikedc",
+    "small_blind": 0.1,
+    "player_big_blind": "warrior1023",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "Ah",
+            "Ks"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Old Biker",
+                "lukopti",
+                "IlxxxlI",
+                "mikeymikedc",
+                "warrior1023"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "mikeymikedc",
+                "warrior1023",
+                "mikeymikedc"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.5,
+                1.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mikeymikedc",
+                "warrior1023"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "mikeymikedc",
+                "warrior1023"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qc Qd",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.68,
+        17.310000000000002,
+        11.69,
+        21.6,
+        16.79
+    ]
+}

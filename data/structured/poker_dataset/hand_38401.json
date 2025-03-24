@@ -1,0 +1,175 @@
+{
+    "date": "2016/12/3 8:29:22",
+    "game_id": "789743869",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "betcat",
+        "everglo5",
+        "biloxiRiver",
+        "boourgone",
+        "IlxxxlI",
+        "or3o1990",
+        "foldemfoley"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        40.0,
+        142.39,
+        134.41,
+        152.87,
+        95.54,
+        162.3,
+        95.5
+    ],
+    "player_small_blind": "biloxiRiver",
+    "small_blind": 0.5,
+    "player_big_blind": "boourgone",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "8s",
+            "7d"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "2s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "or3o1990",
+                "foldemfoley",
+                "betcat",
+                "everglo5",
+                "biloxiRiver",
+                "boourgone"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CHECK",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "biloxiRiver",
+                "boourgone",
+                "foldemfoley",
+                "biloxiRiver",
+                "boourgone"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "biloxiRiver",
+                "boourgone",
+                "foldemfoley",
+                "biloxiRiver",
+                "boourgone"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                6.0,
+                6.0,
+                6.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "biloxiRiver",
+                "boourgone",
+                "foldemfoley",
+                "biloxiRiver",
+                "boourgone"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                15.0,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.0,
+        142.39,
+        125.41,
+        143.87,
+        95.54,
+        162.3,
+        112.13
+    ]
+}

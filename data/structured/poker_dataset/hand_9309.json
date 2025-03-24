@@ -1,0 +1,139 @@
+{
+    "date": "2016/12/25 22:13:47",
+    "game_id": "805812301",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "wwww111",
+        "Limp_IN",
+        "warrior1023",
+        "IlxxxlI",
+        "filtro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        9.52,
+        11.5,
+        24.65,
+        12.5,
+        38.89
+    ],
+    "player_small_blind": "warrior1023",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "Jc",
+            "Kc"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "filtro",
+                "wwww111",
+                "Limp_IN",
+                "warrior1023",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CALL",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                0.25,
+                0.25,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "filtro",
+                "wwww111",
+                "Limp_IN"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "filtro",
+                "wwww111",
+                "Limp_IN",
+                "IlxxxlI",
+                "filtro"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.32,
+        11.25,
+        24.549999999999997,
+        12.25,
+        38.64
+    ]
+}

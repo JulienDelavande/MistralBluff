@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/25 22:50:53",
+    "game_id": "805822373",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "wwww111",
+        "IlxxxlI",
+        "naprimer",
+        "Log_in",
+        "tmoney84",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        42.72,
+        62.97,
+        25.0,
+        20.79,
+        22.17,
+        32.91
+    ],
+    "player_small_blind": "tmoney84",
+    "small_blind": 0.25,
+    "player_big_blind": "so_it_goes",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "5c",
+            "Ks"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "wwww111",
+                "IlxxxlI",
+                "naprimer",
+                "Log_in",
+                "tmoney84",
+                "so_it_goes"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.1,
+                0.85,
+                0.6
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "tmoney84",
+                "so_it_goes",
+                "Log_in",
+                "tmoney84",
+                "so_it_goes"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.57,
+                1.57,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "tmoney84",
+                "Log_in",
+                "tmoney84"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "tmoney84",
+                "Log_in"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "8h Ac",
+        "Ad 8c",
+        null
+    ],
+    "finishing_stack": [
+        42.72,
+        62.97,
+        25.0,
+        21.06,
+        22.43,
+        31.809999999999995
+    ]
+}

@@ -1,116 +1,113 @@
 {
-    "date": "2016/11/29 8:22:0",
-    "game_id": "786742769",
+    "date": "2016/9/17 15:26:31",
+    "game_id": "729615053",
     "variant": "PRR",
-    "table_name": "Karkadann-2",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "shokerAAss",
+        "jbaker10031",
+        "38979",
         "IlxxxlI",
-        "Iia007",
-        "Qrenor",
-        "PeLanpapa"
+        "Fuck-P-Stars",
+        "elpasoafera",
+        "gust"
     ],
     "players_seats": [
+        1,
         2,
+        3,
         4,
         5,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        115.11,
-        75.42,
-        100.0,
-        271.17,
-        195.0
+        45.3,
+        122.41,
+        88.12,
+        135.12,
+        56.13,
+        80.0
     ],
-    "player_small_blind": "Qrenor",
-    "small_blind": 0.5,
-    "player_big_blind": "PeLanpapa",
-    "big_blind": 1.0,
+    "player_small_blind": "jbaker10031",
+    "small_blind": 1.0,
+    "player_big_blind": "38979",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2c",
-        "10c"
+        "7h",
+        "9h"
     ],
     "dealed_cards": {
         "flop": [
-            "Qs",
-            "9s",
-            "8c"
+            "7c",
+            "2c",
+            "4c"
         ],
         "turn": [
-            "6c"
+            "4d"
         ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "shokerAAss",
                 "IlxxxlI",
-                "Iia007",
-                "Qrenor",
-                "PeLanpapa"
+                "Fuck-P-Stars",
+                "elpasoafera",
+                "gust",
+                "jbaker10031",
+                "38979"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "RAISE",
+                "FOLD",
                 "CALL",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
-                2.0,
-                1.5,
-                1.0
+                4.52,
+                null,
+                3.52,
+                2.52
             ]
         },
         "post-flop": {
             "players": [
-                "Qrenor",
-                "PeLanpapa",
-                "Iia007",
-                "Qrenor",
-                "PeLanpapa"
+                "jbaker10031",
+                "38979",
+                "elpasoafera"
             ],
             "actions": [
                 "CHECK",
                 "CHECK",
-                "BET",
-                "FOLD",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
-                4.0,
-                null,
-                4.0
+                null
             ]
         },
         "post-turn": {
             "players": [
-                "PeLanpapa",
-                "Iia007",
-                "PeLanpapa",
-                "Iia007"
+                "jbaker10031",
+                "38979",
+                "elpasoafera"
             ],
             "actions": [
-                "CHECK",
                 "BET",
-                "RAISE",
-                "ALLIN"
+                "FOLD",
+                "FOLD"
             ],
             "values": [
+                6.44,
                 null,
-                20.0,
-                100.0,
-                74.0
+                null
             ]
         },
         "post-river": {
@@ -122,15 +119,17 @@
     "card_shown_by_players": [
         null,
         null,
-        "Kd Kh",
         null,
-        "10s Js"
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        115.11,
-        75.42,
-        0.0,
-        269.17,
-        294.0
+        53.67,
+        117.89,
+        88.12,
+        135.12,
+        51.61,
+        80.0
     ]
 }

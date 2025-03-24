@@ -1,19 +1,17 @@
 {
-    "date": "2016/11/29 7:57:57",
-    "game_id": "786722067",
+    "date": "2016/9/18 7:20:30",
+    "game_id": "730179495",
     "variant": "PRR",
-    "table_name": "Karkadann-2",
+    "table_name": "Kraken-6",
     "type_game": "Hold'em",
     "button_seat": 6,
     "players": [
-        "MadLifeGrinder",
-        "shokerAAss",
-        "St3p04ka",
+        "iDawg",
+        "jackson319",
         "IlxxxlI",
-        "Iia007",
-        "Winter is here",
-        "aleaga",
-        "Qrenor"
+        "Gargantuatua",
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
@@ -21,45 +19,47 @@
         3,
         4,
         5,
-        6,
-        7,
-        8
+        6
     ],
     "starting_stacks": [
-        100.0,
-        104.44,
-        183.39,
+        146.66,
+        100.88,
         40.0,
         100.0,
-        199.49,
-        207.96,
-        251.15
+        128.21,
+        42.5
     ],
-    "player_small_blind": "aleaga",
+    "player_small_blind": "iDawg",
     "small_blind": 0.5,
-    "player_big_blind": "Qrenor",
+    "player_big_blind": "jackson319",
     "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "Js"
+        "4d",
+        "Kh"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "2d",
+            "6h",
+            "9d"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "4s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "shokerAAss",
-                "St3p04ka",
                 "IlxxxlI",
-                "Iia007",
-                "Winter is here",
-                "aleaga",
-                "Qrenor"
+                "Gargantuatua",
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg",
+                "jackson319"
             ],
             "actions": [
                 "FOLD",
@@ -67,35 +67,61 @@
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                3.5,
+                2.0,
                 null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jackson319",
+                "Pimpika",
+                "jackson319"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
                 null,
+                2.85,
+                2.85
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "jackson319",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "jackson319",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -104,18 +130,14 @@
         null,
         null,
         null,
-        null,
-        null,
-        null
+        "6c Ah"
     ],
     "finishing_stack": [
+        146.16,
+        96.03,
+        40.0,
         100.0,
-        104.44,
-        183.39,
-        41.5,
-        100.0,
-        199.49,
-        207.46,
-        250.15
+        128.21,
+        47.339999999999996
     ]
 }

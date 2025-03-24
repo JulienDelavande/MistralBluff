@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/9 9:16:41",
+    "game_id": "793895295",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "critical Eros",
+        "rwnad",
+        "SeemsLegit",
+        "IlxxxlI",
+        "Heksebrygg",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        53.47,
+        60.41,
+        87.27,
+        22.08,
+        54.28,
+        53.18
+    ],
+    "player_small_blind": "rwnad",
+    "small_blind": 0.25,
+    "player_big_blind": "SeemsLegit",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "As",
+            "10d"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Heksebrygg",
+                "so_it_goes",
+                "critical Eros",
+                "rwnad",
+                "SeemsLegit"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "rwnad",
+                "SeemsLegit",
+                "rwnad",
+                "SeemsLegit"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                1.5,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "rwnad",
+                "SeemsLegit"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "rwnad",
+                "SeemsLegit"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                5.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10h 5h",
+        "10s 6h",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        53.47,
+        50.41,
+        96.27,
+        22.08,
+        54.28,
+        53.18
+    ]
+}

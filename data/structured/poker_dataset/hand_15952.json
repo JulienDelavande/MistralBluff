@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/22 22:33:52",
+    "game_id": "803821208",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "HapKoTuk",
+        "sikilocci",
+        "SkaHot",
+        "afvet333",
+        "booya25",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        55.35,
+        18.82,
+        25.0,
+        54.19,
+        25.32,
+        31.41
+    ],
+    "player_small_blind": "afvet333",
+    "small_blind": 0.1,
+    "player_big_blind": "booya25",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "7d",
+            "8c"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "9c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "sikilocci",
+                "SkaHot",
+                "afvet333",
+                "booya25",
+                "sikilocci"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                0.75,
+                0.65,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "afvet333",
+                "sikilocci",
+                "SkaHot",
+                "afvet333",
+                "sikilocci"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "sikilocci",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "sikilocci",
+                "SkaHot"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        55.35,
+        21.35,
+        23.25,
+        53.44,
+        25.07,
+        31.41
+    ]
+}

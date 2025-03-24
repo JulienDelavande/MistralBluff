@@ -1,0 +1,158 @@
+{
+    "date": "2016/12/26 12:57:8",
+    "game_id": "806336829",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "constant revelation",
+        "IlxxxlI",
+        "lablador1010",
+        "OMG_VanCandy",
+        "HapKoTuk",
+        "SamuelLJackson"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.57,
+        23.39,
+        19.2,
+        12.15,
+        24.2,
+        16.99
+    ],
+    "player_small_blind": "lablador1010",
+    "small_blind": 0.1,
+    "player_big_blind": "OMG_VanCandy",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "Kd",
+            "2d"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "SamuelLJackson",
+                "constant revelation",
+                "IlxxxlI",
+                "lablador1010",
+                "OMG_VanCandy",
+                "constant revelation"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                0.82,
+                0.72,
+                null,
+                0.57
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lablador1010",
+                "constant revelation",
+                "IlxxxlI",
+                "lablador1010",
+                "constant revelation"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.29,
+                null,
+                1.29
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "constant revelation",
+                "IlxxxlI",
+                "constant revelation",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                6.0,
+                3.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "constant revelation",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "6d Qd",
+        "Qc Ad",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.89,
+        15.280000000000001,
+        18.38,
+        11.9,
+        24.2,
+        16.99
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/27 15:56:28",
+    "game_id": "807098953",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "HapKoTuk",
+        "stone1974",
+        "alasku",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        71.32,
+        14.51,
+        10.39,
+        12.5
+    ],
+    "player_small_blind": "alasku",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "4c",
+            "2c"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "stone1974",
+                "alasku",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "alasku",
+                "IlxxxlI",
+                "alasku"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.27,
+                0.27
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "alasku",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "alasku",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "As Kd",
+        "10c 9h"
+    ],
+    "finishing_stack": [
+        71.32,
+        14.51,
+        8.870000000000001,
+        13.870000000000001
+    ]
+}

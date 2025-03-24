@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/5 21:13:24",
+    "game_id": "791548402",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Orondi",
+        "38979",
+        "Hakuna_Matata777",
+        "Chubrica",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        108.97,
+        133.41,
+        152.49,
+        100.0,
+        40.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Orondi",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "8h",
+            "Qs"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "38979",
+                "Hakuna_Matata777",
+                "Chubrica",
+                "IlxxxlI",
+                "Orondi"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Orondi",
+                "Chubrica",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Orondi",
+                "Chubrica"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Orondi",
+                "Chubrica"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.49,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        112.53,
+        133.41,
+        152.49,
+        96.58,
+        40.0
+    ]
+}

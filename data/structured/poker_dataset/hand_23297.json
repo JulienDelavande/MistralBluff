@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 19:54:23",
+    "game_id": "793474878",
+    "variant": "PRR",
+    "table_name": "Gorgons-19",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "illoke",
+        "odel_nadel",
+        "WeakAndWeary",
+        "IgLa",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        50.22,
+        111.04,
+        50.5,
+        20.0
+    ],
+    "player_small_blind": "WeakAndWeary",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "3s",
+            "8s"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "illoke",
+                "odel_nadel",
+                "WeakAndWeary",
+                "IgLa"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "illoke",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "illoke",
+                "odel_nadel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.78,
+                1.78
+            ]
+        },
+        "post-river": {
+            "players": [
+                "illoke",
+                "odel_nadel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.47,
+                3.47
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10h Ac",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.79,
+        43.47,
+        110.79,
+        50.0,
+        20.0
+    ]
+}

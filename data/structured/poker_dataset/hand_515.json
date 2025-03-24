@@ -1,127 +1,105 @@
 {
-    "date": "2016/11/29 14:8:55",
-    "game_id": "786998211",
+    "date": "2016/9/5 12:27:46",
+    "game_id": "720265765",
     "variant": "PRR",
-    "table_name": "Kraken-23",
-    "type_game": "Hold'em",
+    "table_name": "Medusa",
+    "type_game": "Short",
     "button_seat": 5,
     "players": [
-        "WeakAndWeary",
-        "gust",
-        "LloydXmas",
-        "Sephiroth1",
-        "ElvenEyes",
-        "IlxxxlI"
+        "bigrpk22",
+        "lars76",
+        "IlxxxlI",
+        "St3p04ka",
+        "RapaNui"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        101.5,
-        49.0,
-        104.45,
-        100.0,
-        119.45,
-        40.0
+        163.95,
+        341.68,
+        80.0,
+        80.0,
+        241.4
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 1.0,
+    "player_small_blind": "RapaNui",
+    "small_blind": 2.0,
+    "player_big_blind": "bigrpk22",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "Qc"
+        "3s",
+        "Ac"
     ],
     "dealed_cards": {
         "flop": [
-            "9c",
-            "2c",
-            "5h"
+            "9s",
+            "7h",
+            "4h"
         ],
-        "turn": [
-            "3s"
-        ],
-        "river": [
-            "4c"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "gust",
-                "LloydXmas",
-                "Sephiroth1",
-                "ElvenEyes",
+                "lars76",
                 "IlxxxlI",
-                "WeakAndWeary"
+                "St3p04ka",
+                "RapaNui",
+                "bigrpk22"
             ],
             "actions": [
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "RAISE",
-                "CALL"
+                "CALL",
+                "CHECK"
             ],
             "values": [
-                null,
-                null,
+                4.0,
                 null,
                 null,
                 2.0,
-                1.5
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                3.16,
-                3.16
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                2.0,
-                2.0
-            ]
-        },
-        "post-river": {
-            "players": [
-                "IlxxxlI",
-                "WeakAndWeary",
-                "IlxxxlI"
+                "RapaNui",
+                "bigrpk22",
+                "lars76",
+                "RapaNui",
+                "bigrpk22"
             ],
             "actions": [
                 "CHECK",
+                "CHECK",
                 "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                21.84,
+                null,
+                11.0,
+                null,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -129,15 +107,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        108.4,
-        49.0,
-        104.45,
-        100.0,
-        119.45,
-        32.34
+        159.95,
+        349.58,
+        80.0,
+        80.0,
+        237.4
     ]
 }

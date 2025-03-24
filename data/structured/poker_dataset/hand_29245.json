@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/7 9:13:28",
+    "game_id": "792487189",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "peetrius",
+        "PhillyPoker19",
+        "Ice Bank Mice Elf",
+        "idontknowu"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        10.0,
+        30.13,
+        23.72,
+        37.1,
+        10.0
+    ],
+    "player_small_blind": "Ice Bank Mice Elf",
+    "small_blind": 0.1,
+    "player_big_blind": "idontknowu",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "4c",
+            "Qs"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "4h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "peetrius",
+                "PhillyPoker19",
+                "Ice Bank Mice Elf",
+                "idontknowu",
+                "peetrius"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                1.5,
+                null,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "peetrius",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.59,
+                1.59
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "peetrius",
+                "PhillyPoker19",
+                "peetrius"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                3.1,
+                4.41,
+                1.31
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ad Qc",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.0,
+        22.63,
+        30.81,
+        37.0,
+        9.75
+    ]
+}

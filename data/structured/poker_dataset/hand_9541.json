@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 15:59:57",
+    "game_id": "805744630",
+    "variant": "PRR",
+    "table_name": "Gorgons-16",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "unicellular",
+        "Xamroll",
+        "Indigol",
+        "IlxxxlI",
+        "Ryax14"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        61.59,
+        53.17,
+        87.31,
+        50.25,
+        79.79
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Ryax14",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "3c",
+            "Jc"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "unicellular",
+                "Xamroll",
+                "Indigol",
+                "IlxxxlI",
+                "Ryax14"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ryax14"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Ryax14"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Ryax14",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        61.59,
+        53.17,
+        87.31,
+        48.25,
+        81.59
+    ]
+}

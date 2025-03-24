@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 9:52:11",
+    "game_id": "792521835",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "annaroyer",
+        "PhillyPoker19",
+        "Ice Bank Mice Elf",
+        "marcapp"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        10.23,
+        6.87,
+        27.77,
+        42.22,
+        11.86
+    ],
+    "player_small_blind": "annaroyer",
+    "small_blind": 0.1,
+    "player_big_blind": "PhillyPoker19",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "7h",
+            "6c"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "marcapp",
+                "IlxxxlI",
+                "annaroyer",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "annaroyer",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "annaroyer",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "annaroyer",
+                "PhillyPoker19",
+                "annaroyer"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.32,
+                0.32
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ks 5h",
+        "2d 4c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.23,
+        7.39,
+        27.2,
+        42.22,
+        11.86
+    ]
+}

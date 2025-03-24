@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/23 7:49:23",
+    "game_id": "804177328",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "elpez60",
+        "booya25",
+        "IlxxxlI",
+        "Msbhvntwin",
+        "DonkeyPlaya",
+        "i fked YB"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        9.25,
+        24.65,
+        31.08,
+        15.94,
+        5.85,
+        21.86
+    ],
+    "player_small_blind": "Msbhvntwin",
+    "small_blind": 0.1,
+    "player_big_blind": "DonkeyPlaya",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "9d",
+            "Kc"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "i fked YB",
+                "elpez60",
+                "booya25",
+                "IlxxxlI",
+                "Msbhvntwin",
+                "DonkeyPlaya"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                1.0,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DonkeyPlaya",
+                "i fked YB",
+                "booya25"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DonkeyPlaya",
+                "i fked YB",
+                "booya25"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DonkeyPlaya",
+                "i fked YB",
+                "booya25",
+                "DonkeyPlaya",
+                "i fked YB"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.45,
+                1.45,
+                6.0,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.25,
+        30.21,
+        31.08,
+        15.84,
+        2.8999999999999995,
+        18.91
+    ]
+}

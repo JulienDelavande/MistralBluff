@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/9 10:29:0",
+    "game_id": "793957770",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 4,
+    "players": [
+        "mr.fargo",
+        "MikeSIg",
+        "IlxxxlI",
+        "CrocaLYLE31",
+        "IgLa",
+        "constant revelation"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        65.32,
+        99.69,
+        20.0,
+        49.26,
+        50.5,
+        65.1
+    ],
+    "player_small_blind": "IgLa",
+    "small_blind": 0.5,
+    "player_big_blind": "constant revelation",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "6s",
+            "8d"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mr.fargo",
+                "MikeSIg",
+                "IlxxxlI",
+                "CrocaLYLE31",
+                "IgLa",
+                "constant revelation",
+                "MikeSIg"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                null,
+                6.0,
+                null,
+                5.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "constant revelation",
+                "MikeSIg",
+                "CrocaLYLE31",
+                "constant revelation",
+                "MikeSIg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MikeSIg",
+                "CrocaLYLE31"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MikeSIg",
+                "CrocaLYLE31",
+                "MikeSIg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                17.0,
+                17.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "As 2s",
+        null,
+        "Qd Kd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        65.32,
+        129.26999999999998,
+        20.0,
+        23.259999999999998,
+        50.0,
+        59.099999999999994
+    ]
+}

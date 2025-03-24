@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 16:49:54",
+    "game_id": "792164448",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "aleks0v",
+        "Evilclown",
+        "IampokerKidd",
+        "Goomashroom",
+        "IlxxxlI",
+        "WomboComboAA"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        16.43,
+        50.0,
+        59.9,
+        34.18,
+        52.1
+    ],
+    "player_small_blind": "Evilclown",
+    "small_blind": 0.25,
+    "player_big_blind": "IampokerKidd",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "Kh",
+            "8h"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Goomashroom",
+                "IlxxxlI",
+                "WomboComboAA",
+                "aleks0v",
+                "Evilclown",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Evilclown",
+                "WomboComboAA",
+                "Evilclown"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.22,
+                2.22
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Evilclown",
+                "WomboComboAA",
+                "Evilclown"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                48.38,
+                12.71
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10d Qc",
+        null,
+        null,
+        null,
+        "Js Kc"
+    ],
+    "finishing_stack": [
+        50.0,
+        0.0,
+        49.5,
+        59.9,
+        34.18,
+        67.37
+    ]
+}

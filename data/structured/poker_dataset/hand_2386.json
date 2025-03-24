@@ -1,64 +1,73 @@
 {
-    "date": "2016/11/21 10:57:38",
-    "game_id": "780957114",
+    "date": "2016/9/18 9:49:50",
+    "game_id": "730266585",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Longana",
     "type_game": "Hold'em",
     "button_seat": 9,
     "players": [
-        "Haid Dasalami",
-        "BBDub27",
-        "sr86",
-        "pineapplesand",
+        "Lewass99",
         "IlxxxlI",
-        "Daggens",
-        "VegasMike420",
-        "solasso"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "cracypoker",
+        "kalabanaspirit",
+        "sobrr",
+        "xx_HaZ"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
+        5,
         6,
-        7,
         8,
         9
     ],
     "starting_stacks": [
-        49.23,
-        76.85,
-        96.84,
-        21.45,
-        23.74,
-        55.02,
-        56.06,
-        23.25
+        187.1,
+        101.68,
+        450.0,
+        298.83,
+        220.03,
+        218.76,
+        77.0,
+        200.0
     ],
-    "player_small_blind": "Haid Dasalami",
-    "small_blind": 0.25,
-    "player_big_blind": "BBDub27",
-    "big_blind": 0.5,
+    "player_small_blind": "Lewass99",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "Kh"
+        "4d",
+        "10c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "5s",
+            "4s",
+            "Qd"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "Jc"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "sr86",
-                "pineapplesand",
-                "IlxxxlI",
-                "Daggens",
-                "VegasMike420",
-                "solasso",
-                "Haid Dasalami"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "cracypoker",
+                "kalabanaspirit",
+                "sobrr",
+                "xx_HaZ",
+                "Lewass99",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
@@ -67,7 +76,8 @@
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
@@ -76,28 +86,59 @@
                 null,
                 null,
                 null,
+                1.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Lewass99",
+                "IlxxxlI",
+                "Lewass99"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Lewass99",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Lewass99",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
-        null,
-        null,
+        "9d Js",
+        "4d 10c",
         null,
         null,
         null,
@@ -106,13 +147,13 @@
         null
     ],
     "finishing_stack": [
-        48.98,
-        77.1,
-        96.84,
-        21.45,
-        23.74,
-        55.02,
-        56.06,
-        23.25
+        190.7,
+        97.68,
+        450.0,
+        298.83,
+        220.03,
+        218.76,
+        77.0,
+        200.0
     ]
 }

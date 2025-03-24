@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 6:58:52",
+    "game_id": "793074508",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "fortecco",
+        "FirstClan",
+        "foldemfoley",
+        "BeatsHappen",
+        "strodawg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        5.25,
+        28.39,
+        12.5,
+        3.76,
+        14.13,
+        35.76
+    ],
+    "player_small_blind": "FirstClan",
+    "small_blind": 0.1,
+    "player_big_blind": "foldemfoley",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "Kc",
+            "4c"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BeatsHappen",
+                "strodawg",
+                "IlxxxlI",
+                "fortecco",
+                "FirstClan",
+                "foldemfoley"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.62,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "foldemfoley",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "foldemfoley",
+                "IlxxxlI",
+                "foldemfoley"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        5.91,
+        28.39,
+        12.4,
+        3.1399999999999997,
+        14.13,
+        35.76
+    ]
+}

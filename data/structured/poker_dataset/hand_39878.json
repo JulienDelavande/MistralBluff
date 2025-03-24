@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/2 16:24:24",
+    "game_id": "789347673",
+    "variant": "PRR",
+    "table_name": "Kraken-4",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "HomoPokerus",
+        "WeakAndWeary",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        110.9,
+        276.69,
+        190.05
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "HomoPokerus",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "6s",
+            "Jd"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "HomoPokerus",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                5.5,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.11,
+                4.11
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                9.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ah Ad",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        58.15,
+        109.9,
+        257.58,
+        190.05
+    ]
+}

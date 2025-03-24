@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/8 21:1:29",
+    "game_id": "793488498",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "WeakAndWeary",
+        "Hawkbacker",
+        "mightydark",
+        "Bokmal",
+        "DonkReaper",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        54.9,
+        50.0,
+        53.45,
+        66.27,
+        55.98,
+        24.47
+    ],
+    "player_small_blind": "Bokmal",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "Qs",
+            "4d"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Hawkbacker",
+                "mightydark",
+                "Bokmal",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Hawkbacker",
+                "mightydark"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.25,
+                2.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Hawkbacker",
+                "mightydark",
+                "Hawkbacker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.92,
+                3.92
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Hawkbacker",
+                "mightydark"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qc 6c",
+        "Ac 9c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        54.9,
+        57.62,
+        45.78,
+        66.02,
+        55.98,
+        23.97
+    ]
+}

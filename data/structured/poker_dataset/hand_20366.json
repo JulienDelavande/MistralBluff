@@ -1,0 +1,137 @@
+{
+    "date": "2016/12/9 11:26:12",
+    "game_id": "794003614",
+    "variant": "PRR",
+    "table_name": "Gorgons-15",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "Bluffing Every Hand",
+        "IgLa",
+        "Hawkbacker",
+        "Jui Kuen",
+        "MirrorZrorriM"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        64.92,
+        55.65,
+        48.16,
+        68.12,
+        60.64
+    ],
+    "player_small_blind": "Hawkbacker",
+    "small_blind": 0.25,
+    "player_big_blind": "MirrorZrorriM",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "3d",
+            "3c"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Bluffing Every Hand",
+                "IgLa",
+                "Hawkbacker",
+                "MirrorZrorriM"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MirrorZrorriM",
+                "IgLa"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.31,
+                1.31
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MirrorZrorriM",
+                "IgLa"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.56,
+                2.56
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MirrorZrorriM",
+                "IgLa"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.99,
+                4.99
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Qs As"
+    ],
+    "finishing_stack": [
+        20.0,
+        64.92,
+        45.54,
+        47.91,
+        68.12,
+        69.98
+    ]
+}

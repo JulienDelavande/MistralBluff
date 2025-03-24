@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 21:31:46",
+    "game_id": "793496342",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Kovrol99",
+        "burikman",
+        "SkaHot",
+        "Moryak999",
+        "IlxxxlI",
+        "FetusMunch"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        24.65,
+        29.27,
+        34.41,
+        12.66,
+        16.72
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "Moryak999",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "3d",
+            "5h"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "FetusMunch",
+                "Kovrol99",
+                "burikman",
+                "SkaHot",
+                "Moryak999"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.75,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "burikman",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "burikman",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.69,
+                2.69
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "burikman"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Jd Ks",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.0,
+        29.11,
+        24.58,
+        34.16,
+        12.66,
+        16.72
+    ]
+}

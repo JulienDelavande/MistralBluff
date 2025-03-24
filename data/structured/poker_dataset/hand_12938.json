@@ -1,0 +1,114 @@
+{
+    "date": "2016/12/24 10:53:35",
+    "game_id": "805004483",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "Parcker",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        3,
+        6
+    ],
+    "starting_stacks": [
+        12.5,
+        12.77
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Parcker",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "5d",
+            "3s"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Parcker"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.72,
+                0.57
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Parcker",
+                "IlxxxlI",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.79,
+                0.79
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Parcker",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Parcker",
+                "IlxxxlI",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.04,
+                2.04
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ks 7s",
+        "9c Ac"
+    ],
+    "finishing_stack": [
+        15.79,
+        9.12
+    ]
+}

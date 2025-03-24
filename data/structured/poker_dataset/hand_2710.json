@@ -1,0 +1,113 @@
+{
+    "date": "2016/9/18 23:55:49",
+    "game_id": "730625674",
+    "variant": "PRR",
+    "table_name": "Medusa-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "gfclbv",
+        "Vaishravana",
+        "IlxxxlI",
+        "wolfeating"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        160.0,
+        395.34,
+        181.5,
+        892.06
+    ],
+    "player_small_blind": "gfclbv",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "5d",
+            "7d"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "wolfeating",
+                "gfclbv",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                10.0,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "wolfeating"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "wolfeating",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                6.0,
+                28.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        158.0,
+        395.34,
+        165.5,
+        909.76
+    ]
+}

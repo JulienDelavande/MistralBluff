@@ -1,0 +1,114 @@
+{
+    "date": "2016/12/25 22:53:43",
+    "game_id": "805823218",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "raraAvis8"
+    ],
+    "players_seats": [
+        1,
+        3
+    ],
+    "starting_stacks": [
+        11.6,
+        12.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "raraAvis8",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "Kc",
+            "6s"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "raraAvis8",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.15,
+                0.25,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "raraAvis8",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.52,
+                0.52
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "raraAvis8",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "raraAvis8",
+                "IlxxxlI",
+                "raraAvis8"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.97,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.52,
+        11.48
+    ]
+}

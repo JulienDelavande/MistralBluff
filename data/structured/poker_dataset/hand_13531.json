@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/24 9:51:8",
+    "game_id": "804957997",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "dtnfk",
+        "Ksander",
+        "njiegw",
+        "unprecedented",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        28.32,
+        25.77,
+        17.9,
+        12.5
+    ],
+    "player_small_blind": "dtnfk",
+    "small_blind": 0.1,
+    "player_big_blind": "Ksander",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "Kd",
+            "6c"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "njiegw",
+                "unprecedented",
+                "IlxxxlI",
+                "dtnfk",
+                "Ksander"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.6,
+                null,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dtnfk",
+                "njiegw",
+                "dtnfk",
+                "njiegw"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.85,
+                2.25,
+                1.4
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dtnfk",
+                "njiegw"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.77,
+                3.77
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dtnfk",
+                "njiegw"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                3.38,
+                3.38
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kh Jd",
+        null,
+        "8c Qc",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        19.24,
+        28.07,
+        15.77,
+        17.9,
+        12.5
+    ]
+}

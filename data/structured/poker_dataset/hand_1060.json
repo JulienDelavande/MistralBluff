@@ -1,75 +1,99 @@
 {
-    "date": "2016/11/29 11:32:59",
-    "game_id": "786902578",
+    "date": "2016/9/13 13:7:38",
+    "game_id": "726609296",
     "variant": "PRR",
-    "table_name": "Gorgons-13",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
+        "Wei2huge",
         "IlxxxlI",
-        "Maria_Pia",
-        "Xobkcul",
-        "528 Hertz",
-        "foreseen"
+        "DOR1",
+        "uncle_argyle"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
-        5
+        4
     ],
     "starting_stacks": [
-        22.27,
-        22.49,
-        55.29,
-        87.63,
-        84.45
+        153.27,
+        40.0,
+        39.75,
+        96.0
     ],
-    "player_small_blind": "528 Hertz",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "DOR1",
+    "small_blind": 1.0,
+    "player_big_blind": "uncle_argyle",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "6h"
+        "Jh",
+        "6d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "2d",
+            "6c",
+            "Kc"
+        ],
+        "turn": [
+            "Qc"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "Wei2huge",
                 "IlxxxlI",
-                "Maria_Pia",
-                "Xobkcul",
-                "528 Hertz"
+                "DOR1",
+                "uncle_argyle"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                null,
-                null
+                3.0,
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "DOR1",
+                "uncle_argyle"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.8,
+                3.8
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "DOR1",
+                "uncle_argyle",
+                "DOR1"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                88.2,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -81,14 +105,12 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        22.27,
-        22.49,
-        55.29,
-        87.38,
-        84.7
+        153.27,
+        40.0,
+        27.95,
+        106.62
     ]
 }

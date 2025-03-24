@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 21:14:30",
+    "game_id": "793491651",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "ForcedToPortray",
+        "erotomania",
+        "SkaHot",
+        "Moryak999",
+        "IlxxxlI",
+        "FetusMunch"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        32.0,
+        25.23,
+        32.97,
+        30.86,
+        11.24,
+        12.21
+    ],
+    "player_small_blind": "FetusMunch",
+    "small_blind": 0.1,
+    "player_big_blind": "ForcedToPortray",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "Js",
+            "9c"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "erotomania",
+                "SkaHot",
+                "Moryak999",
+                "IlxxxlI",
+                "FetusMunch",
+                "ForcedToPortray"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                0.75,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "erotomania",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "erotomania",
+                "SkaHot",
+                "erotomania"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        31.75,
+        24.48,
+        33.98,
+        30.86,
+        11.24,
+        12.110000000000001
+    ]
+}

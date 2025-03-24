@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/1 11:9:39",
+    "game_id": "788521403",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "BiGFck",
+        "imperceptible",
+        "IlxxxlI",
+        "braaaap",
+        "beachrog"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.31,
+        13.85,
+        20.75,
+        28.37,
+        23.39
+    ],
+    "player_small_blind": "beachrog",
+    "small_blind": 0.25,
+    "player_big_blind": "BiGFck",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "Jh",
+            "8h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "imperceptible",
+                "IlxxxlI",
+                "braaaap",
+                "beachrog",
+                "BiGFck"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "beachrog",
+                "BiGFck",
+                "beachrog"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.63,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.209999999999997,
+        13.85,
+        20.75,
+        28.37,
+        22.39
+    ]
+}

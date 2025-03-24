@@ -1,79 +1,101 @@
 {
-    "date": "2016/11/28 19:20:18",
-    "game_id": "786360141",
+    "date": "2016/9/18 8:36:49",
+    "game_id": "730228563",
     "variant": "PRR",
-    "table_name": "Lakhey",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 1,
     "players": [
-        "JJaromir",
-        "dscshift",
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "Are you with me",
-        "Orondi",
-        "38979"
+        "Frisconar",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        224.77,
-        34.98,
-        88.0,
-        92.58,
-        200.0,
-        200.0
+        100.0,
+        196.7,
+        40.0,
+        38.5,
+        100.0,
+        20.13,
+        242.01
     ],
-    "player_small_blind": "Are you with me",
-    "small_blind": 1.0,
-    "player_big_blind": "Orondi",
-    "big_blind": 2.0,
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5c",
-        "Kh"
+        "Ac",
+        "7d"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "9s",
+            "Jc",
+            "Qs"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "38979",
-                "JJaromir",
-                "dscshift",
-                "IlxxxlI",
-                "Are you with me",
-                "Orondi"
+                "Frisconar",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                1.5,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Pimpika",
+                "IlxxxlI",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                6.0,
-                null,
-                null,
-                null,
+                1.9,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-turn": {
             "players": [],
@@ -92,14 +114,16 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        227.77,
-        34.98,
-        88.0,
-        91.58,
-        198.0,
-        200.0
+        100.0,
+        194.7,
+        41.8,
+        38.5,
+        100.0,
+        20.13,
+        242.01
     ]
 }

@@ -1,91 +1,107 @@
 {
-    "date": "2016/11/29 14:36:0",
-    "game_id": "787009668",
+    "date": "2016/9/5 1:5:41",
+    "game_id": "719772665",
     "variant": "PRR",
-    "table_name": "Karkadann-3",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 8,
     "players": [
-        "zboiii",
-        "ElvenEyes",
-        "StephCurry",
-        "gust",
-        "pineapplesand",
+        "pingtennis",
+        "plin777",
+        "natasha77",
+        "gfclbv",
+        "Leatherass9",
         "IlxxxlI",
-        "dankmann",
+        "slew111",
         "VegetablesArentYummy"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
         5,
+        6,
         7,
         8,
         9
     ],
     "starting_stacks": [
-        119.62,
-        156.8,
-        100.0,
-        52.95,
-        46.96,
-        40.0,
-        163.69,
-        257.13
+        200.0,
+        62.0,
+        230.14,
+        160.0,
+        238.5,
+        80.0,
+        498.17,
+        303.73
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "dankmann",
-    "big_blind": 1.0,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "pingtennis",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7s",
-        "Qd"
+        "8s",
+        "9h"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Jh",
+            "Kh",
+            "9d"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "VegetablesArentYummy",
-                "zboiii",
-                "ElvenEyes",
-                "StephCurry",
-                "gust",
-                "pineapplesand",
+                "plin777",
+                "natasha77",
+                "gfclbv",
+                "Leatherass9",
                 "IlxxxlI",
-                "dankmann"
+                "slew111",
+                "VegetablesArentYummy",
+                "pingtennis"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
-                2.5,
                 null,
                 null,
                 null,
                 null,
                 null,
+                4.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "pingtennis",
+                "slew111",
+                "pingtennis"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -109,13 +125,13 @@
         null
     ],
     "finishing_stack": [
-        119.62,
-        156.8,
-        100.0,
-        52.95,
-        46.96,
-        39.5,
-        162.69,
-        258.63
+        196.0,
+        62.0,
+        230.14,
+        160.0,
+        238.5,
+        80.0,
+        504.07,
+        301.73
     ]
 }

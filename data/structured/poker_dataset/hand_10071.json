@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/25 14:27:17",
+    "game_id": "805717420",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "Jui Kuen",
+        "anokato",
+        "CroMagnons",
+        "Sonic3Dblast",
+        "MrTamPham"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        25.0,
+        55.3,
+        25.66,
+        52.18,
+        44.74
+    ],
+    "player_small_blind": "Jui Kuen",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "Ks",
+            "Ad"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CroMagnons",
+                "Sonic3Dblast",
+                "MrTamPham",
+                "IlxxxlI",
+                "Jui Kuen",
+                "anokato"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jui Kuen",
+                "MrTamPham",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jui Kuen",
+                "MrTamPham"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Jui Kuen",
+                "MrTamPham"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        26.82,
+        55.05,
+        25.66,
+        52.18,
+        42.99
+    ]
+}

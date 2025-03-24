@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/5 12:26:23",
+    "game_id": "791403601",
+    "variant": "PRR",
+    "table_name": "Gorgons-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "rascaldog",
+        "IlxxxlI",
+        "Parcker",
+        "WeakAndWeary",
+        "welld0ne",
+        "Polar1z1ng"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        41.41,
+        20.0,
+        54.09,
+        61.0,
+        58.26,
+        57.86
+    ],
+    "player_small_blind": "welld0ne",
+    "small_blind": 0.25,
+    "player_big_blind": "rascaldog",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "7h",
+            "Jc"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Parcker",
+                "WeakAndWeary",
+                "welld0ne",
+                "rascaldog",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                1.0,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "rascaldog",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "rascaldog",
+                "WeakAndWeary",
+                "rascaldog"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.79,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        36.91,
+        20.0,
+        54.09,
+        65.28999999999999,
+        58.01,
+        57.86
+    ]
+}

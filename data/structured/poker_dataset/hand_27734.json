@@ -1,0 +1,148 @@
+{
+    "date": "2016/12/7 16:0:16",
+    "game_id": "792732142",
+    "variant": "PRR",
+    "table_name": "Ettin-8",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Maria_Pia",
+        "kidsquid",
+        "dankmann",
+        "anokato",
+        "IlxxxlI",
+        "Hakuna_Matata777",
+        "naprimer"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        11.49,
+        55.63,
+        25.0,
+        48.0,
+        10.0,
+        67.73,
+        25.35
+    ],
+    "player_small_blind": "dankmann",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "10h",
+            "3s"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Hakuna_Matata777",
+                "naprimer",
+                "Maria_Pia",
+                "kidsquid",
+                "dankmann",
+                "anokato"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "kidsquid"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.17,
+                1.17
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "kidsquid"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.75,
+                3.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "kidsquid"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                4.33,
+                4.33
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qh 9s",
+        null,
+        null,
+        "Ks Kd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.49,
+        45.63,
+        24.9,
+        47.75,
+        19.34,
+        67.73,
+        25.35
+    ]
+}

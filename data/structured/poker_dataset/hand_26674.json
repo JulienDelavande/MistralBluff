@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 6:56:59",
+    "game_id": "793073771",
+    "variant": "PRR",
+    "table_name": "Ekek-11",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "raraAvis8",
+        "IlxxxlI",
+        "FirstClan",
+        "iKaBiNK",
+        "bakso100"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        37.01,
+        10.0,
+        25.0,
+        25.0,
+        21.15
+    ],
+    "player_small_blind": "FirstClan",
+    "small_blind": 0.1,
+    "player_big_blind": "iKaBiNK",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "2d",
+            "10h"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bakso100",
+                "raraAvis8",
+                "IlxxxlI",
+                "FirstClan",
+                "iKaBiNK"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "iKaBiNK",
+                "bakso100"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "iKaBiNK",
+                "bakso100",
+                "iKaBiNK"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-river": {
+            "players": [
+                "iKaBiNK",
+                "bakso100",
+                "iKaBiNK"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.29,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        37.01,
+        10.0,
+        24.9,
+        23.24,
+        22.83
+    ]
+}

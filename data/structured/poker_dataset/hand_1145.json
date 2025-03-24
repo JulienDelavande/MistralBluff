@@ -1,132 +1,85 @@
 {
-    "date": "2016/11/29 9:21:47",
-    "game_id": "786795458",
+    "date": "2016/9/14 10:56:44",
+    "game_id": "727324471",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 9,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "akbrow",
+        "norcalho",
         "IlxxxlI",
-        "Ice Bank Mice Elf",
-        "Log_in",
-        "Midnight0489",
-        "XxDominationxX",
-        "coldkilla",
-        "gunnfarm",
-        "OmEGaKuSh"
+        "AK Played",
+        "UrSoDumb"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
+        4
     ],
     "starting_stacks": [
-        21.5,
-        20.0,
-        94.2,
-        19.75,
-        48.5,
-        97.93,
-        62.6,
-        42.5,
-        55.7
+        29.25,
+        41.8,
+        66.86,
+        174.39
     ],
-    "player_small_blind": "akbrow",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "AK Played",
+    "small_blind": 1.0,
+    "player_big_blind": "UrSoDumb",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "2h"
+        "Jc",
+        "3d"
     ],
     "dealed_cards": {
         "flop": [
-            "9c",
-            "3s",
-            "10h"
+            "Kd",
+            "Ad",
+            "2h"
         ],
-        "turn": [
-            "7s"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Ice Bank Mice Elf",
-                "Log_in",
-                "Midnight0489",
-                "XxDominationxX",
-                "coldkilla",
-                "gunnfarm",
-                "OmEGaKuSh",
-                "akbrow",
+                "norcalho",
                 "IlxxxlI",
-                "Ice Bank Mice Elf",
-                "Midnight0489"
+                "AK Played",
+                "UrSoDumb"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
-                "CALL",
                 "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                1.25,
-                null,
-                1.25,
-                null,
-                5.0,
                 null,
                 null,
-                null,
-                null,
-                3.75,
-                null
+                3.0,
+                2.0
             ]
         },
         "post-flop": {
             "players": [
-                "Ice Bank Mice Elf",
-                "coldkilla"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Ice Bank Mice Elf",
-                "coldkilla"
+                "AK Played",
+                "UrSoDumb"
             ],
             "actions": [
                 "BET",
                 "FOLD"
             ],
             "values": [
-                8.55,
+                5.7,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -138,22 +91,12 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        21.25,
-        19.5,
-        100.60000000000001,
-        19.75,
-        47.25,
-        97.93,
-        57.6,
-        42.5,
-        55.7
+        29.25,
+        41.8,
+        70.46,
+        170.39
     ]
 }

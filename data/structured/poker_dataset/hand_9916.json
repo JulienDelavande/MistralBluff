@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 14:53:41",
+    "game_id": "805726759",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "afvet333",
+        "FirstClan",
+        "IlxxxlI",
+        "Parcker",
+        "Tracyybabe"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        30.93,
+        17.01,
+        12.5,
+        13.28,
+        25.32
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.1,
+    "player_big_blind": "Tracyybabe",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "6c",
+            "9c"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "afvet333",
+                "FirstClan",
+                "IlxxxlI",
+                "Parcker",
+                "Tracyybabe"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Tracyybabe",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Tracyybabe",
+                "afvet333",
+                "Tracyybabe"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Tracyybabe",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8h 9h",
+        null,
+        null,
+        null,
+        "8c Js"
+    ],
+    "finishing_stack": [
+        30.18,
+        17.01,
+        12.5,
+        13.18,
+        26.09
+    ]
+}

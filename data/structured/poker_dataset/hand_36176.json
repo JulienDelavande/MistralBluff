@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/4 13:3:47",
+    "game_id": "790627539",
+    "variant": "PRR",
+    "table_name": "Gorgons-23",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Evilclown",
+        "IlxxxlI",
+        "flyshark01",
+        "socalphunk",
+        "Ice Bank Mice Elf"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        14.49,
+        21.0,
+        75.03,
+        53.98,
+        53.21
+    ],
+    "player_small_blind": "socalphunk",
+    "small_blind": 0.25,
+    "player_big_blind": "Ice Bank Mice Elf",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "2d",
+            "9c"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Evilclown",
+                "IlxxxlI",
+                "flyshark01",
+                "socalphunk",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "flyshark01",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.06,
+                2.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "flyshark01"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "flyshark01"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "7s 9d"
+    ],
+    "finishing_stack": [
+        14.49,
+        21.0,
+        71.47,
+        53.73,
+        56.66
+    ]
+}

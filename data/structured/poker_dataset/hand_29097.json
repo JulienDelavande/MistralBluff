@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/7 9:32:0",
+    "game_id": "792504146",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "annaroyer",
+        "PhillyPoker19",
+        "Ice Bank Mice Elf",
+        "marcapp",
+        "ghost1994"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        9.55,
+        26.49,
+        41.43,
+        10.19,
+        27.14
+    ],
+    "player_small_blind": "Ice Bank Mice Elf",
+    "small_blind": 0.1,
+    "player_big_blind": "marcapp",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "6d",
+            "Qd"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ghost1994",
+                "IlxxxlI",
+                "annaroyer",
+                "PhillyPoker19",
+                "Ice Bank Mice Elf",
+                "marcapp"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.7,
+                null,
+                null,
+                null,
+                null,
+                0.45
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "marcapp",
+                "ghost1994",
+                "marcapp"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.07,
+                1.07
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "marcapp",
+                "ghost1994",
+                "marcapp"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "marcapp",
+                "ghost1994"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "4h Qh",
+        "Js As"
+    ],
+    "finishing_stack": [
+        10.0,
+        9.55,
+        26.49,
+        41.33,
+        13.68,
+        23.37
+    ]
+}

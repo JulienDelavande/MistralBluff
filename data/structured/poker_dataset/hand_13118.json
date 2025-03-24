@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 10:35:0",
+    "game_id": "804989564",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "420_am",
+        "majomx",
+        "Nardicus62",
+        "Da Infamous",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        18.55,
+        10.2,
+        1.21,
+        4.4,
+        13.8
+    ],
+    "player_small_blind": "Da Infamous",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "Kh",
+            "8h"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "420_am",
+                "majomx",
+                "Nardicus62",
+                "Da Infamous",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Da Infamous",
+                "IlxxxlI",
+                "Nardicus62"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.36,
+                0.36,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Da Infamous",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.46,
+                0.46
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Da Infamous",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                3.33,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        18.55,
+        10.2,
+        0.96,
+        5.609999999999999,
+        12.73
+    ]
+}

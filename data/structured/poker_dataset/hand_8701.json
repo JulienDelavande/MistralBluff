@@ -1,0 +1,110 @@
+{
+    "date": "2016/12/25 23:42:7",
+    "game_id": "805839545",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "xFishookx",
+        "nemesh123",
+        "warrior1023",
+        "IlxxxlI",
+        "MAGNIT"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        13.9,
+        13.41,
+        44.95,
+        22.21,
+        32.21
+    ],
+    "player_small_blind": "nemesh123",
+    "small_blind": 0.1,
+    "player_big_blind": "warrior1023",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "Ks",
+            "5h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "MAGNIT",
+                "xFishookx",
+                "nemesh123",
+                "warrior1023"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "warrior1023",
+                "MAGNIT"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.01,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        13.9,
+        13.31,
+        45.720000000000006,
+        22.21,
+        31.46
+    ]
+}

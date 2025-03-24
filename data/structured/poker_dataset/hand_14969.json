@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/23 11:49:54",
+    "game_id": "804360023",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "chintrogdin",
+        "itsmejdg",
+        "Parcker",
+        "sycamoregolf"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        16.96,
+        11.36,
+        13.07,
+        15.9,
+        9.27
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.1,
+    "player_big_blind": "sycamoregolf",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "4c",
+            "6h"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "chintrogdin",
+                "itsmejdg",
+                "Parcker",
+                "sycamoregolf"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.6,
+                null,
+                null,
+                0.35
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "sycamoregolf",
+                "chintrogdin",
+                "sycamoregolf"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                1.74,
+                1.24
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "sycamoregolf",
+                "chintrogdin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "sycamoregolf",
+                "chintrogdin"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.27,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "2d 4d"
+    ],
+    "finishing_stack": [
+        16.96,
+        9.02,
+        13.07,
+        15.8,
+        11.48
+    ]
+}

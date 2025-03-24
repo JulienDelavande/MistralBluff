@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/8 15:16:53",
+    "game_id": "793415706",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "caballeroXXX",
+        "flyshark01",
+        "hoocher",
+        "rtk231",
+        "iDawg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        50.0,
+        93.89,
+        61.2,
+        26.53,
+        55.66
+    ],
+    "player_small_blind": "flyshark01",
+    "small_blind": 0.25,
+    "player_big_blind": "hoocher",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "3c",
+            "4s"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "rtk231",
+                "iDawg",
+                "IlxxxlI",
+                "caballeroXXX",
+                "flyshark01",
+                "hoocher",
+                "rtk231"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                1.75,
+                null,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "rtk231",
+                "caballeroXXX",
+                "rtk231",
+                "caballeroXXX"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                10.0,
+                7.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "rtk231",
+                "caballeroXXX"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                14.78,
+                14.78
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Js Ad",
+        null,
+        null,
+        "9s Jh",
+        null
+    ],
+    "finishing_stack": [
+        20.0,
+        74.59,
+        93.64,
+        60.7,
+        0.0,
+        55.66
+    ]
+}

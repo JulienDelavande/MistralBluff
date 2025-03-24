@@ -1,0 +1,125 @@
+{
+    "date": "2016/12/29 16:25:15",
+    "game_id": "808309766",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "GospelDeliverer",
+        "1jackoff1",
+        "IlxxxlI",
+        "STATEMENT39",
+        "DeBruin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        4.61,
+        7.64,
+        25.0,
+        23.25,
+        22.56
+    ],
+    "player_small_blind": "STATEMENT39",
+    "small_blind": 0.1,
+    "player_big_blind": "DeBruin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "Jc",
+            "Ad"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GospelDeliverer",
+                "1jackoff1",
+                "IlxxxlI",
+                "STATEMENT39",
+                "DeBruin"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "STATEMENT39",
+                "DeBruin",
+                "GospelDeliverer",
+                "1jackoff1",
+                "STATEMENT39",
+                "DeBruin",
+                "GospelDeliverer"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                null,
+                0.95,
+                null,
+                7.0,
+                null,
+                3.16
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Jd 3d",
+        null
+    ],
+    "finishing_stack": [
+        0.0,
+        7.14,
+        25.0,
+        28.35,
+        22.06
+    ]
+}

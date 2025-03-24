@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/19 20:33:36",
+    "game_id": "801725076",
+    "variant": "PRR",
+    "table_name": "Bahamut",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "Randy Tran",
+        "Tolstobrov E",
+        "JohnnyB3692",
+        "IlxxxlI",
+        "Serb1one"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        0.97,
+        1.02,
+        3.23,
+        2.0,
+        0.16
+    ],
+    "player_small_blind": "Serb1one",
+    "small_blind": 0.01,
+    "player_big_blind": "Randy Tran",
+    "big_blind": 0.02,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "4c",
+            "As"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Tolstobrov E",
+                "JohnnyB3692",
+                "IlxxxlI",
+                "Serb1one",
+                "Randy Tran",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.02,
+                0.04,
+                null,
+                null,
+                0.02,
+                0.02
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Randy Tran",
+                "Tolstobrov E",
+                "JohnnyB3692",
+                "Randy Tran",
+                "Tolstobrov E",
+                "JohnnyB3692"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.08,
+                null,
+                0.16,
+                0.08
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Tolstobrov E",
+                "JohnnyB3692"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Tolstobrov E",
+                "JohnnyB3692"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.21,
+                0.21
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qh Ah",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        0.9299999999999999,
+        1.44,
+        2.82,
+        2.0,
+        0.15
+    ]
+}

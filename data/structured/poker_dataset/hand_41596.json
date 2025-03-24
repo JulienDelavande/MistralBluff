@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/2 11:15:29",
+    "game_id": "789200781",
+    "variant": "PRR",
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "RunnerLucker",
+        "twinsRnuts",
+        "pingtennis",
+        "aleaga",
+        "AironVega",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        80.0,
+        200.0,
+        200.0,
+        80.0,
+        613.52,
+        236.37,
+        83.0
+    ],
+    "player_small_blind": "pingtennis",
+    "small_blind": 1.0,
+    "player_big_blind": "aleaga",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "8s",
+            "Qc"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AironVega",
+                "St3p04ka",
+                "IlxxxlI",
+                "RunnerLucker",
+                "twinsRnuts",
+                "pingtennis",
+                "aleaga"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                null,
+                null,
+                7.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "pingtennis",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "pingtennis",
+                "AironVega",
+                "pingtennis"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                17.1,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        80.0,
+        200.0,
+        200.0,
+        72.0,
+        611.52,
+        245.47,
+        83.0
+    ]
+}

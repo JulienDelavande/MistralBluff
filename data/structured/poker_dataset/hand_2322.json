@@ -1,19 +1,17 @@
 {
-    "date": "2016/11/21 11:57:50",
-    "game_id": "781004415",
+    "date": "2016/9/18 9:31:47",
+    "game_id": "730257811",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Medusa",
     "type_game": "Short",
-    "button_seat": 6,
+    "button_seat": 5,
     "players": [
-        "haroldbb",
-        "sr86",
-        "IlxxxlI",
-        "hotshothotgg",
-        "Spagetti1",
-        "parmele",
-        "Parcker",
-        "FirstClan"
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -21,53 +19,47 @@
         3,
         4,
         5,
-        6,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        36.45,
-        48.09,
-        23.18,
-        22.06,
-        24.25,
-        26.95,
-        25.25,
-        31.52
+        82.59,
+        305.94,
+        560.65,
+        321.6,
+        200.0,
+        80.0
     ],
-    "player_small_blind": "Parcker",
-    "small_blind": 0.25,
-    "player_big_blind": "FirstClan",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "winchy21",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6h",
-        "7c"
+        "10h",
+        "7h"
     ],
     "dealed_cards": {
         "flop": [
-            "Jd",
-            "Kh",
-            "10d"
+            "Ad",
+            "2d",
+            "7c"
         ],
-        "turn": [],
+        "turn": [
+            "3h"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "haroldbb",
-                "sr86",
+                "VegetablesArentYummy",
+                "flyzlcomb07",
+                "Pureprofit4",
+                "hangiie",
                 "IlxxxlI",
-                "hotshothotgg",
-                "Spagetti1",
-                "parmele",
-                "Parcker",
-                "FirstClan"
+                "winchy21"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
@@ -78,35 +70,42 @@
             "values": [
                 null,
                 null,
+                12.0,
                 null,
                 null,
-                1.5,
-                null,
-                null,
-                1.0
+                8.0
             ]
         },
         "post-flop": {
             "players": [
-                "FirstClan",
-                "Spagetti1",
-                "FirstClan"
+                "winchy21",
+                "Pureprofit4",
+                "winchy21"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                2.06,
-                null
+                8.58,
+                8.58
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "winchy21",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                21.38,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -120,18 +119,14 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        36.45,
-        48.09,
-        23.18,
-        22.06,
-        25.84,
-        26.95,
-        25.0,
-        30.02
+        104.77000000000001,
+        305.94,
+        560.65,
+        301.02000000000004,
+        200.0,
+        78.0
     ]
 }

@@ -1,67 +1,86 @@
 {
-    "date": "2016/11/29 11:34:36",
-    "game_id": "786903879",
+    "date": "2016/9/12 12:17:9",
+    "game_id": "725847198",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
+        "ImUsingYourWifi",
+        "uncle_argyle",
         "IlxxxlI",
-        "beachrog",
-        "Maria_Pia",
-        "imperceptible"
+        "Anastasia31",
+        "plin777"
     ],
     "players_seats": [
+        1,
         2,
-        3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        28.45,
-        35.48,
-        27.04,
-        18.6
+        74.12,
+        1055.99,
+        84.0,
+        308.99,
+        124.3
     ],
-    "player_small_blind": "Maria_Pia",
-    "small_blind": 0.25,
-    "player_big_blind": "imperceptible",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "Anastasia31",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ac",
-        "9d"
+        "8s",
+        "Kc"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "2h",
+            "2d",
+            "Jc"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "plin777",
+                "ImUsingYourWifi",
+                "uncle_argyle",
                 "IlxxxlI",
-                "beachrog",
-                "Maria_Pia",
-                "imperceptible"
+                "Anastasia31"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                1.2,
                 null,
                 null,
-                null
+                null,
+                6.0,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Anastasia31"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.28,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -78,12 +97,14 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        29.2,
-        35.48,
-        26.79,
-        18.1
+        74.12,
+        1055.99,
+        91.85,
+        300.99,
+        124.3
     ]
 }

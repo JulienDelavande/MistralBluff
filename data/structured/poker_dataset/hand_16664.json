@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/22 16:49:50",
+    "game_id": "803706388",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "ao10",
+        "Hakuna_Matata777",
+        "IlxxxlI",
+        "ImYourFriend1996",
+        "Jepare"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        13.1,
+        46.46,
+        30.16,
+        28.56,
+        27.09
+    ],
+    "player_small_blind": "Jepare",
+    "small_blind": 0.1,
+    "player_big_blind": "ao10",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "8d",
+            "9s"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Hakuna_Matata777",
+                "IlxxxlI",
+                "ImYourFriend1996",
+                "Jepare",
+                "ao10"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.62,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ao10",
+                "ImYourFriend1996",
+                "ao10"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.64,
+                0.64
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ao10",
+                "ImYourFriend1996",
+                "ao10"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.75,
+                1.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ao10",
+                "ImYourFriend1996",
+                "ao10"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.09,
+        46.46,
+        30.16,
+        31.369999999999997,
+        26.99
+    ]
+}

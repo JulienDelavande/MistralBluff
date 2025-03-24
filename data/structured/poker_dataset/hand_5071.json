@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/28 11:31:55",
+    "game_id": "737943822",
+    "variant": "PRR",
+    "table_name": "Lakhey-13",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "WarrenBluffett",
+        "IlxxxlI",
+        "dresden3",
+        "AironVega",
+        "Anastasia31"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        78.0,
+        81.0,
+        110.0,
+        439.75,
+        228.8
+    ],
+    "player_small_blind": "WarrenBluffett",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "Ad",
+            "Kc"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dresden3",
+                "AironVega",
+                "Anastasia31",
+                "WarrenBluffett",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.0,
+                8.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "Anastasia31"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                11.91,
+                11.91
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AironVega",
+                "Anastasia31",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                27.12,
+                27.12
+            ]
+        },
+        "post-river": {
+            "players": [
+                "AironVega",
+                "Anastasia31"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Jh Ac",
+        "10d Ah"
+    ],
+    "finishing_stack": [
+        77.0,
+        79.0,
+        110.0,
+        486.78000000000003,
+        181.77
+    ]
+}

@@ -1,17 +1,18 @@
 {
-    "date": "2016/11/29 13:52:4",
-    "game_id": "786991320",
+    "date": "2016/9/5 12:30:38",
+    "game_id": "720266541",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Short",
-    "button_seat": 1,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 4,
     "players": [
-        "Ball Crusher",
-        "Jui Kuen",
-        "PokerBrat1127",
-        "Hakuna_Matata777",
+        "RapaNui",
+        "St3p04ka",
+        "GranatoBetano",
         "IlxxxlI",
-        "anabeliangrape"
+        "SheppyPOO!!",
+        "markthegreat100",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
@@ -19,131 +20,127 @@
         3,
         4,
         5,
-        6
+        6,
+        9
     ],
     "starting_stacks": [
-        120.76,
-        38.64,
-        17.08,
-        47.74,
-        10.0,
-        25.75
+        654.61,
+        399.4,
+        336.76,
+        135.87,
+        701.94,
+        251.73,
+        231.45
     ],
-    "player_small_blind": "Jui Kuen",
-    "small_blind": 0.25,
-    "player_big_blind": "PokerBrat1127",
-    "big_blind": 0.5,
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 3.0,
+    "player_big_blind": "markthegreat100",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8d",
-        "Kc"
+        "3d",
+        "6h"
     ],
     "dealed_cards": {
         "flop": [
-            "Ks",
-            "5s",
-            "7h"
+            "Jd",
+            "Jh",
+            "9s"
         ],
         "turn": [
-            "8c"
+            "9h"
         ],
-        "river": [
-            "5d"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Hakuna_Matata777",
+                "TheManiac89",
+                "RapaNui",
+                "St3p04ka",
+                "GranatoBetano",
                 "IlxxxlI",
-                "anabeliangrape",
-                "Ball Crusher",
-                "Jui Kuen",
-                "PokerBrat1127"
+                "SheppyPOO!!",
+                "markthegreat100",
+                "TheManiac89"
             ],
             "actions": [
-                "FOLD",
+                "CALL",
                 "FOLD",
                 "RAISE",
-                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
+                6.0,
+                null,
+                21.0,
                 null,
                 null,
-                1.5,
-                1.5,
                 null,
-                1.0
+                null,
+                15.0
             ]
         },
         "post-flop": {
             "players": [
-                "PokerBrat1127",
-                "anabeliangrape",
-                "Ball Crusher",
-                "PokerBrat1127",
-                "anabeliangrape"
+                "TheManiac89",
+                "St3p04ka",
+                "TheManiac89"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "RAISE",
-                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
-                2.26,
-                6.78,
-                null,
-                4.52
+                21.3,
+                21.3
             ]
         },
         "post-turn": {
             "players": [
-                "anabeliangrape",
-                "Ball Crusher"
+                "TheManiac89",
+                "St3p04ka",
+                "TheManiac89"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "RAISE",
+                "FOLD"
             ],
             "values": [
-                null,
+                36.0,
+                78.0,
                 null
             ]
         },
         "post-river": {
-            "players": [
-                "anabeliangrape",
-                "Ball Crusher"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "7s 6s",
         null,
         null,
         null,
         null,
-        "Jc 7d"
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        121.18,
-        38.39,
-        15.579999999999998,
-        47.74,
-        10.0,
-        26.169999999999998
+        654.61,
+        485.04999999999995,
+        336.76,
+        135.87,
+        698.94,
+        245.73,
+        153.14999999999998
     ]
 }

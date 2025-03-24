@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/8 20:53:1",
+    "game_id": "793486747",
+    "variant": "PRR",
+    "table_name": "Gorgons-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "sinnedKK",
+        "odel_nadel",
+        "IgLa",
+        "lonleyronin",
+        "IlxxxlI",
+        "WeakAndWeary"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        48.25,
+        58.79,
+        55.22,
+        55.51,
+        24.02,
+        56.13
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "4c",
+            "6h"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "lonleyronin",
+                "IlxxxlI",
+                "WeakAndWeary",
+                "sinnedKK",
+                "odel_nadel",
+                "IgLa"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.5,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "odel_nadel",
+                "sinnedKK"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "odel_nadel",
+                "sinnedKK"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "odel_nadel",
+                "sinnedKK"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        45.25,
+        61.97,
+        54.72,
+        55.51,
+        24.02,
+        56.13
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/27 16:44:17",
+    "game_id": "807109506",
+    "variant": "PRR",
+    "table_name": "Ekek-19",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "N1cer1ver",
+        "wwww111",
+        "DGS1",
+        "IlxxxlI",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        34.38,
+        12.51,
+        14.51,
+        27.56,
+        25.0
+    ],
+    "player_small_blind": "wwww111",
+    "small_blind": 0.1,
+    "player_big_blind": "DGS1",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "Qc",
+            "2c"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "N1cer1ver",
+                "wwww111",
+                "DGS1"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.62,
+                0.62,
+                null,
+                0.52,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "wwww111",
+                "IlxxxlI",
+                "HapKoTuk",
+                "wwww111"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.67,
+                0.67,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ah Ad",
+        "Jd 10d"
+    ],
+    "finishing_stack": [
+        34.38,
+        11.89,
+        14.26,
+        30.9,
+        22.21
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "date": "2016/10/12 17:32:0",
+    "game_id": "748940821",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Orondi",
+        "IlxxxlI",
+        "valderama1980",
+        "KeepKalm",
+        "aleks0v"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        240.06,
+        104.9,
+        95.54,
+        103.5,
+        100.0
+    ],
+    "player_small_blind": "valderama1980",
+    "small_blind": 0.5,
+    "player_big_blind": "KeepKalm",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "6c",
+            "Qc"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aleks0v",
+                "Orondi",
+                "IlxxxlI",
+                "valderama1980",
+                "KeepKalm"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "KeepKalm",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "KeepKalm",
+                "aleks0v"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.09,
+                3.09
+            ]
+        },
+        "post-river": {
+            "players": [
+                "KeepKalm",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ks 7s",
+        null
+    ],
+    "finishing_stack": [
+        240.06,
+        104.9,
+        95.04,
+        109.46,
+        93.91
+    ]
+}

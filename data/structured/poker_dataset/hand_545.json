@@ -1,136 +1,119 @@
 {
-    "date": "2016/11/29 13:48:37",
-    "game_id": "786989670",
+    "date": "2016/9/5 12:34:22",
+    "game_id": "720267603",
     "variant": "PRR",
-    "table_name": "Karkadann-4",
-    "type_game": "Hold'em",
-    "button_seat": 7,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "AironVega",
-        "StephCurry",
-        "MadLifeGrinder",
-        "MaxWoof",
-        "Pla2Par",
+        "SheppyPOO!!",
         "IlxxxlI",
-        "VegetablesArentYummy",
-        "zboiii"
+        "whitnez33",
+        "bigrpk22",
+        "RapaNui",
+        "St3p04ka"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        101.5,
-        195.68,
-        110.88,
-        116.24,
-        26.19,
-        40.0,
-        153.47,
-        100.0
+        209.85,
+        142.13,
+        405.14,
+        168.6,
+        233.7,
+        99.2
     ],
-    "player_small_blind": "VegetablesArentYummy",
-    "small_blind": 0.5,
-    "player_big_blind": "zboiii",
-    "big_blind": 1.0,
+    "player_small_blind": "whitnez33",
+    "small_blind": 2.0,
+    "player_big_blind": "bigrpk22",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3s",
-        "4h"
+        "5h",
+        "6s"
     ],
     "dealed_cards": {
         "flop": [
-            "4d",
-            "Kh",
-            "5d"
+            "3c",
+            "4h",
+            "7h"
         ],
         "turn": [
-            "10h"
+            "6c"
         ],
-        "river": [
-            "Kd"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "AironVega",
-                "StephCurry",
-                "MadLifeGrinder",
-                "MaxWoof",
-                "Pla2Par",
+                "RapaNui",
+                "St3p04ka",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "VegetablesArentYummy",
-                "zboiii"
+                "whitnez33",
+                "bigrpk22"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "CALL",
-                "FOLD",
-                "FOLD",
-                "CHECK"
+                "FOLD"
             ],
             "values": [
                 null,
+                10.0,
                 null,
                 null,
-                null,
-                1.0,
-                null,
-                null,
+                8.0,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "zboiii",
-                "Pla2Par"
+                "whitnez33",
+                "St3p04ka",
+                "whitnez33"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
                 null,
-                null
+                14.28,
+                14.28
             ]
         },
         "post-turn": {
             "players": [
-                "zboiii",
-                "Pla2Par"
+                "whitnez33",
+                "St3p04ka",
+                "whitnez33"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD"
             ],
             "values": [
                 null,
+                17.35,
                 null
             ]
         },
         "post-river": {
-            "players": [
-                "zboiii",
-                "Pla2Par"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -138,19 +121,15 @@
         null,
         null,
         null,
-        "Qs 10d",
-        null,
         null,
         null
     ],
     "finishing_stack": [
-        101.5,
-        195.68,
-        110.88,
-        116.24,
-        27.57,
-        40.0,
-        152.97,
-        99.0
+        209.85,
+        142.13,
+        380.86,
+        164.6,
+        233.7,
+        126.98
     ]
 }

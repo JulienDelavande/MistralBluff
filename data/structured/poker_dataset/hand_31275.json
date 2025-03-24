@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/6 13:27:5",
+    "game_id": "792092010",
+    "variant": "PRR",
+    "table_name": "Kraken-8",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "FaceMelt",
+        "GautamaBuddha",
+        "gust",
+        "Doubletwentyone",
+        "imperceptible",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        105.13,
+        100.0,
+        40.0,
+        195.63,
+        40.0,
+        52.2
+    ],
+    "player_small_blind": "gust",
+    "small_blind": 0.5,
+    "player_big_blind": "Doubletwentyone",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "10d",
+            "5s"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "imperceptible",
+                "IlxxxlI",
+                "FaceMelt",
+                "GautamaBuddha",
+                "gust",
+                "Doubletwentyone"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Doubletwentyone",
+                "imperceptible",
+                "Doubletwentyone"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.12,
+                4.12
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Doubletwentyone",
+                "imperceptible"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Doubletwentyone",
+                "imperceptible"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.0,
+                7.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10s Qd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        105.13,
+        100.0,
+        39.5,
+        208.82,
+        25.880000000000003,
+        52.2
+    ]
+}

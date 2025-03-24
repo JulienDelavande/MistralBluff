@@ -1,134 +1,124 @@
 {
-    "date": "2016/11/28 18:15:25",
-    "game_id": "786348604",
+    "date": "2016/9/18 9:1:26",
+    "game_id": "730242242",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "Hakuna_Matata777",
-        "Ms.stone",
-        "smellskindyfishy",
-        "IlxxxlI",
-        "NoizeyCrckt",
-        "1jackoff1",
-        "haroldbb",
-        "rpportugal"
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "graphicup",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        93.42,
-        43.54,
-        18.25,
-        59.5,
-        49.5,
-        117.05,
-        87.21,
-        13.09
+        225.89,
+        335.87,
+        414.66,
+        182.14,
+        160.0,
+        80.0
     ],
-    "player_small_blind": "NoizeyCrckt",
-    "small_blind": 0.25,
-    "player_big_blind": "1jackoff1",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "flyzlcomb07",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9h",
-        "5d"
+        "3h",
+        "Kh"
     ],
     "dealed_cards": {
         "flop": [
-            "6s",
-            "7d",
-            "6c"
+            "10s",
+            "Jh",
+            "5c"
         ],
         "turn": [
-            "Ks"
+            "4c"
         ],
-        "river": []
+        "river": [
+            "3d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "haroldbb",
-                "rpportugal",
-                "Hakuna_Matata777",
-                "Ms.stone",
-                "smellskindyfishy",
+                "Pureprofit4",
+                "graphicup",
                 "IlxxxlI",
-                "NoizeyCrckt",
-                "1jackoff1",
-                "rpportugal"
+                "winchy21",
+                "VegetablesArentYummy",
+                "flyzlcomb07"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
-                "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
                 "CALL",
-                "CALL"
+                "FOLD",
+                "FOLD"
             ],
             "values": [
                 null,
-                0.5,
+                10.0,
                 null,
+                10.0,
                 null,
-                2.0,
-                null,
-                null,
-                1.5,
-                1.5
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "1jackoff1",
-                "rpportugal",
-                "smellskindyfishy"
+                "graphicup",
+                "winchy21"
             ],
             "actions": [
-                "CHECK",
                 "CHECK",
                 "CHECK"
             ],
             "values": [
-                null,
                 null,
                 null
             ]
         },
         "post-turn": {
             "players": [
-                "1jackoff1",
-                "rpportugal",
-                "smellskindyfishy"
+                "graphicup",
+                "winchy21"
             ],
             "actions": [
-                "BET",
-                "FOLD",
-                "FOLD"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                3.0,
                 null,
                 null
             ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "graphicup",
+                "winchy21"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -136,19 +126,15 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
+        "10h Qd",
         null
     ],
     "finishing_stack": [
-        93.42,
-        43.54,
-        16.25,
-        59.5,
-        49.25,
-        120.99,
-        87.21,
-        11.09
+        215.89,
+        333.87,
+        410.66,
+        182.14,
+        175.75,
+        80.0
     ]
 }

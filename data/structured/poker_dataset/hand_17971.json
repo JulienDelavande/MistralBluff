@@ -1,0 +1,162 @@
+{
+    "date": "2016/12/10 9:21:53",
+    "game_id": "794555645",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "MercyFlush",
+        "simzny34",
+        "steveg13",
+        "Dartvader67",
+        "Artemone",
+        "immagtchu",
+        "IlxxxlI",
+        "RunnerLucker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        36.25,
+        38.7,
+        21.39,
+        10.44,
+        25.0,
+        12.86,
+        26.65,
+        49.66
+    ],
+    "player_small_blind": "Artemone",
+    "small_blind": 0.25,
+    "player_big_blind": "immagtchu",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "2c",
+            "5h"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "RunnerLucker",
+                "MercyFlush",
+                "simzny34",
+                "steveg13",
+                "Dartvader67",
+                "Artemone",
+                "immagtchu"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "immagtchu",
+                "Dartvader67"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "immagtchu",
+                "Dartvader67",
+                "immagtchu"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "immagtchu",
+                "Dartvader67",
+                "immagtchu"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                1.42,
+                3.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        36.25,
+        38.7,
+        21.39,
+        12.86,
+        24.75,
+        10.44,
+        26.65,
+        49.66
+    ]
+}

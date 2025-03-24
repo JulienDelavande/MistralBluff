@@ -1,0 +1,138 @@
+{
+    "date": "2016/10/11 0:48:41",
+    "game_id": "747742722",
+    "variant": "PRR",
+    "table_name": "Kraken-10",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "v0landito",
+        "RockStarFish",
+        "BigBlat",
+        "doblezero",
+        "Maywood110",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        114.87,
+        100.0,
+        102.9,
+        100.0,
+        111.67,
+        100.0
+    ],
+    "player_small_blind": "Maywood110",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "2s",
+            "10d"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "v0landito",
+                "RockStarFish",
+                "BigBlat",
+                "doblezero",
+                "Maywood110",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                null,
+                2.25,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "RockStarFish",
+                "doblezero",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.45,
+                3.45,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RockStarFish",
+                "doblezero",
+                "RockStarFish"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                11.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        114.87,
+        94.3,
+        102.9,
+        107.75,
+        111.17,
+        97.75
+    ]
+}

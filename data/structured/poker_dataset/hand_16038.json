@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/22 22:20:9",
+    "game_id": "803805578",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "SkaHot",
+        "MikiFinn",
+        "HapKoTuk",
+        "IlxxxlI",
+        "booya25",
+        "enroute"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        26.92,
+        36.2,
+        31.74,
+        30.78,
+        16.95,
+        25.0
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "Ad",
+            "10d"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "booya25",
+                "enroute",
+                "SkaHot",
+                "MikiFinn",
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "booya25",
+                "IlxxxlI",
+                "booya25"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                1.75,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "booya25",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                3.75,
+                14.45,
+                10.7
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "8d 7d",
+        "Qd Kd",
+        null
+    ],
+    "finishing_stack": [
+        26.92,
+        36.2,
+        31.639999999999997,
+        13.830000000000002,
+        32.3,
+        25.0
+    ]
+}

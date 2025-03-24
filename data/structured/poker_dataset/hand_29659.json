@@ -1,0 +1,153 @@
+{
+    "date": "2016/12/7 8:37:43",
+    "game_id": "792455795",
+    "variant": "PRR",
+    "table_name": "Ekek-11",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "GiveMeYourMoney9",
+        "IlxxxlI",
+        "My1stMillion",
+        "sir.caffeine",
+        "ABMTLQC"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        10.0,
+        40.18,
+        31.53,
+        71.68
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "My1stMillion",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "9s",
+            "4s"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "sir.caffeine",
+                "ABMTLQC",
+                "GiveMeYourMoney9",
+                "IlxxxlI",
+                "My1stMillion"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.52,
+                0.52,
+                null,
+                0.42,
+                0.27
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "My1stMillion",
+                "sir.caffeine",
+                "ABMTLQC",
+                "IlxxxlI",
+                "My1stMillion",
+                "sir.caffeine",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.32,
+                1.32,
+                null,
+                4.0,
+                null,
+                2.68
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "My1stMillion",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.75,
+                5.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "My1stMillion",
+                "ABMTLQC",
+                "My1stMillion"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                9.0,
+                61.41,
+                20.91
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "4d Ah",
+        null,
+        "9c 9d"
+    ],
+    "finishing_stack": [
+        25.0,
+        9.48,
+        0.0,
+        29.69,
+        111.22
+    ]
+}

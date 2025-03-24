@@ -1,36 +1,39 @@
 {
-    "date": "2016/11/28 20:23:12",
-    "game_id": "786373141",
+    "date": "2016/9/18 7:53:36",
+    "game_id": "730202083",
     "variant": "PRR",
     "table_name": "Lakhey",
     "type_game": "Short",
-    "button_seat": 4,
+    "button_seat": 6,
     "players": [
+        "GreinSeint",
         "IlxxxlI",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "wjb024"
     ],
     "players_seats": [
         1,
+        2,
+        3,
         4,
-        5,
         6
     ],
     "starting_stacks": [
-        45.0,
-        128.7,
-        125.44,
-        70.0
+        197.85,
+        40.0,
+        100.0,
+        135.7,
+        79.0
     ],
-    "player_small_blind": "meandkids",
+    "player_small_blind": "GreinSeint",
     "small_blind": 1.0,
-    "player_big_blind": "Are you with me",
+    "player_big_blind": "IlxxxlI",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2s",
-        "8c"
+        "10c",
+        "6s"
     ],
     "dealed_cards": {
         "flop": [],
@@ -40,12 +43,14 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "Wollverin",
-                "meandkids",
-                "Are you with me"
+                "VegetablesArentYummy",
+                "KeepKalm",
+                "wjb024",
+                "GreinSeint",
+                "IlxxxlI"
             ],
             "actions": [
+                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
@@ -53,7 +58,8 @@
             ],
             "values": [
                 null,
-                4.0,
+                null,
+                6.0,
                 null,
                 null
             ]
@@ -78,12 +84,14 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        45.0,
-        131.7,
-        124.44,
-        68.0
+        196.85,
+        38.0,
+        100.0,
+        135.7,
+        82.0
     ]
 }

@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/5 11:50:3",
+    "game_id": "791381781",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "HomoPokerus",
+        "colethomas",
+        "meandkids",
+        "GautamaBuddha",
+        "IlxxxlI",
+        "WeakAndWeary"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        123.56,
+        122.28,
+        55.51,
+        228.65,
+        40.0,
+        146.36
+    ],
+    "player_small_blind": "WeakAndWeary",
+    "small_blind": 0.5,
+    "player_big_blind": "HomoPokerus",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "9s",
+            "5c"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "colethomas",
+                "meandkids",
+                "GautamaBuddha",
+                "IlxxxlI",
+                "WeakAndWeary",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                6.0,
+                null,
+                6.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "meandkids",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "meandkids",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.55,
+                8.55
+            ]
+        },
+        "post-river": {
+            "players": [
+                "meandkids",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                19.38,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        122.56,
+        122.28,
+        70.03,
+        228.65,
+        25.45,
+        145.86
+    ]
+}

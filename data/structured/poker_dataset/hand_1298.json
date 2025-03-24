@@ -1,126 +1,94 @@
 {
-    "date": "2016/11/29 8:49:34",
-    "game_id": "786768073",
+    "date": "2016/9/17 11:38:28",
+    "game_id": "729560713",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "Aquaman75",
+        "SheppyPOO!!",
+        "RCSOX",
         "IlxxxlI",
-        "Ice Bank Mice Elf",
-        "Log_in",
-        "CumBckMuny",
-        "XxDominationxX",
-        "coldkilla",
-        "Taxriverman"
+        "Johannah12",
+        "pokerhawk333"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
-        6,
-        7,
-        9
+        5
     ],
     "starting_stacks": [
-        64.53,
-        21.54,
-        63.93,
-        13.5,
-        31.39,
-        82.0,
-        60.16,
-        51.83
+        200.0,
+        99.44,
+        271.61,
+        200.0,
+        210.29
     ],
-    "player_small_blind": "coldkilla",
-    "small_blind": 0.25,
-    "player_big_blind": "Taxriverman",
-    "big_blind": 0.5,
+    "player_small_blind": "RCSOX",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8c",
-        "Qh"
+        "8h",
+        "Jh"
     ],
     "dealed_cards": {
         "flop": [
-            "5s",
-            "Jh",
-            "3c"
+            "3d",
+            "5h",
+            "3h"
         ],
-        "turn": [
-            "8h"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Aquaman75",
+                "Johannah12",
+                "pokerhawk333",
+                "SheppyPOO!!",
+                "RCSOX",
                 "IlxxxlI",
-                "Ice Bank Mice Elf",
-                "Log_in",
-                "CumBckMuny",
-                "XxDominationxX",
-                "coldkilla",
-                "Taxriverman"
+                "pokerhawk333"
             ],
             "actions": [
-                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "CALL",
+                "RAISE",
                 "CALL"
             ],
             "values": [
                 null,
-                null,
-                1.25,
-                null,
+                8.0,
                 null,
                 null,
-                1.0,
-                0.75
+                12.0,
+                8.0
             ]
         },
         "post-flop": {
             "players": [
-                "coldkilla",
-                "Taxriverman",
-                "Ice Bank Mice Elf"
+                "IlxxxlI",
+                "pokerhawk333"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD"
             ],
             "values": [
-                null,
-                null,
+                12.0,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "coldkilla",
-                "Taxriverman",
-                "Ice Bank Mice Elf"
-            ],
-            "actions": [
-                "BET",
-                "FOLD",
-                "FOLD"
-            ],
-            "values": [
-                0.5,
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -133,19 +101,13 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        64.53,
-        21.54,
-        62.68,
-        13.5,
-        31.39,
-        82.0,
-        62.48,
-        50.58
+        200.0,
+        97.44,
+        289.31,
+        200.0,
+        194.29
     ]
 }

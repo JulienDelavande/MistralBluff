@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/23 11:28:30",
+    "game_id": "804344175",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Cellar door",
+        "Boeing-747",
+        "threekingsriver",
+        "Maria_Pia",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.0,
+        47.59,
+        51.83,
+        27.62,
+        52.0
+    ],
+    "player_small_blind": "Cellar door",
+    "small_blind": 0.25,
+    "player_big_blind": "Boeing-747",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "2s",
+            "3d"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "threekingsriver",
+                "Maria_Pia",
+                "IlxxxlI",
+                "Cellar door",
+                "Boeing-747"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.05,
+                null,
+                null,
+                0.55
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Boeing-747",
+                "Maria_Pia",
+                "Boeing-747"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.8,
+                0.8
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Boeing-747",
+                "Maria_Pia",
+                "Boeing-747"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                2.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Boeing-747",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10c Ac",
+        null
+    ],
+    "finishing_stack": [
+        49.75,
+        43.49,
+        51.83,
+        31.550000000000004,
+        52.0
+    ]
+}

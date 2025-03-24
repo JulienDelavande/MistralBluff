@@ -1,70 +1,104 @@
 {
-    "date": "2016/11/28 20:19:35",
-    "game_id": "786372412",
+    "date": "2016/9/18 7:56:29",
+    "game_id": "730203734",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
     "button_seat": 3,
     "players": [
+        "A",
         "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "Wollverin",
-        "meandkids"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "utormico",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
-        6
+        8,
+        9
     ],
     "starting_stacks": [
-        49.8,
-        248.69,
-        189.7,
-        101.0,
-        100.0
+        307.24,
+        98.0,
+        87.05,
+        201.0,
+        158.66,
+        301.81,
+        279.16
     ],
-    "player_small_blind": "Wollverin",
+    "player_small_blind": "VegetablesArentYummy",
     "small_blind": 1.0,
-    "player_big_blind": "meandkids",
+    "player_big_blind": "utormico",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qs",
-        "4s"
+        "9c",
+        "8d"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "3h",
+            "4h",
+            "3d"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "UrSoDumb",
+                "KeepKalm",
+                "A",
                 "IlxxxlI",
-                "38979",
-                "sheenius81",
-                "Wollverin"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "utormico"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                null
+                null,
+                4.0,
+                null,
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "utormico",
+                "Pimpika",
+                "utormico",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.7,
+                11.4,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -82,13 +116,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        49.8,
-        248.69,
-        189.7,
-        100.0,
-        101.0
+        307.24,
+        98.0,
+        77.35,
+        200.0,
+        168.34,
+        301.81,
+        279.16
     ]
 }

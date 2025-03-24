@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 20:6:17",
+    "game_id": "793476941",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "huiloputin",
+        "IampokerKidd",
+        "SkaHot",
+        "Moryak999",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        42.85,
+        23.49,
+        25.0,
+        24.65,
+        11.19
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "huiloputin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "Kc",
+            "4h"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IampokerKidd",
+                "SkaHot",
+                "Moryak999",
+                "IlxxxlI",
+                "huiloputin"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "huiloputin",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.74,
+                0.74
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "huiloputin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "huiloputin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "4d 7d",
+        null,
+        null,
+        null,
+        "As 9c"
+    ],
+    "finishing_stack": [
+        44.08,
+        23.49,
+        25.0,
+        24.65,
+        9.83
+    ]
+}

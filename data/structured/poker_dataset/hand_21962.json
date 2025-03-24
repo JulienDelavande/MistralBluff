@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 23:59:19",
+    "game_id": "793541641",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "Immortal.",
+        "HapKoTuk",
+        "odel_nadel",
+        "IgLa",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        33.24,
+        83.36,
+        33.34,
+        26.0,
+        17.4
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "3h",
+            "4d"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Immortal.",
+                "HapKoTuk",
+                "odel_nadel",
+                "IgLa"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.25,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "odel_nadel",
+                "Immortal.",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "odel_nadel",
+                "Immortal.",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.5,
+                3.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "odel_nadel",
+                "Immortal."
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qs Jd",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        38.89,
+        83.36,
+        27.590000000000003,
+        25.5,
+        17.4
+    ]
+}

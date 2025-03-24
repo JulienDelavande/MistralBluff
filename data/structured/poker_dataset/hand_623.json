@@ -1,80 +1,139 @@
 {
-    "date": "2016/11/29 13:24:33",
-    "game_id": "786977226",
+    "date": "2016/9/5 12:53:16",
+    "game_id": "720272722",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "Abundance4All",
-        "xROCKETMANx",
+        "SheppyPOO!!",
         "IlxxxlI",
-        "GagaPoker",
-        "foreseen"
+        "whitnez33",
+        "ShtrafBat",
+        "RapaNui",
+        "St3p04ka"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        80.64,
-        68.4,
-        22.0,
-        82.78,
-        55.37
+        208.5,
+        80.0,
+        482.67,
+        102.0,
+        200.0,
+        117.53
     ],
-    "player_small_blind": "foreseen",
-    "small_blind": 0.25,
-    "player_big_blind": "Abundance4All",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "whitnez33",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "6s"
+        "10h",
+        "5s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Qc",
+            "2h",
+            "Jc"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "4s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "xROCKETMANx",
+                "ShtrafBat",
+                "RapaNui",
+                "St3p04ka",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "GagaPoker",
-                "foreseen"
+                "whitnez33"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                12.0,
+                null,
+                12.0,
+                null,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "whitnez33",
+                "RapaNui",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "whitnez33",
+                "RapaNui",
+                "SheppyPOO!!"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "whitnez33",
+                "RapaNui",
+                "SheppyPOO!!",
+                "whitnez33",
+                "RapaNui"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
+                28.0,
                 null,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
@@ -82,13 +141,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        80.89,
-        68.4,
-        22.0,
-        82.78,
-        55.12
+        234.15,
+        78.0,
+        470.67,
+        102.0,
+        188.0,
+        117.53
     ]
 }

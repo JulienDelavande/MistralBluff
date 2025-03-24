@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/3 11:46:0",
+    "game_id": "789894302",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Gordaken",
+        "IlxxxlI",
+        "eu4ria",
+        "Polar1z1ng",
+        "aleks0v",
+        "rudyru"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        44.45,
+        25.22,
+        134.39,
+        57.98,
+        56.46,
+        27.93
+    ],
+    "player_small_blind": "Polar1z1ng",
+    "small_blind": 0.25,
+    "player_big_blind": "aleks0v",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "5h",
+            "Jc"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "rudyru",
+                "Gordaken",
+                "IlxxxlI",
+                "eu4ria",
+                "Polar1z1ng",
+                "aleks0v"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "aleks0v",
+                "rudyru"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "aleks0v",
+                "rudyru",
+                "aleks0v"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                5.5,
+                3.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "aleks0v",
+                "rudyru",
+                "aleks0v"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                6.25,
+                20.93,
+                14.68
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Ah Jh",
+        "Js Jd"
+    ],
+    "finishing_stack": [
+        44.45,
+        25.22,
+        134.39,
+        57.73,
+        28.53,
+        53.31
+    ]
+}

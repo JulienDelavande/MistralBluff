@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 18:42:22",
-    "game_id": "786353834",
+    "date": "2016/9/18 8:47:40",
+    "game_id": "730234960",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
+    "table_name": "Karkadann",
     "type_game": "Hold'em",
     "button_seat": 6,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "Hakuna_Matata777",
         "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "0nlyDaNuts",
+        "VegetablesArentYummy",
+        "gosu36484",
+        "Pimpika",
+        "BlitzWaut",
+        "01001111",
+        "Frisconar"
     ],
     "players_seats": [
         1,
@@ -19,77 +21,71 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        9
     ],
     "starting_stacks": [
-        41.96,
-        76.72,
-        62.5,
-        22.08,
-        76.36,
-        53.11
+        54.2,
+        129.7,
+        144.69,
+        36.25,
+        116.04,
+        110.45,
+        99.38,
+        35.0
     ],
-    "player_small_blind": "Smok5 Js",
-    "small_blind": 0.25,
-    "player_big_blind": "SenNoSen",
-    "big_blind": 0.5,
+    "player_small_blind": "01001111",
+    "small_blind": 0.5,
+    "player_big_blind": "Frisconar",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "Kh"
+        "10s",
+        "7d"
     ],
     "dealed_cards": {
-        "flop": [
-            "Jd",
-            "2h",
-            "10c"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Hakuna_Matata777",
                 "IlxxxlI",
-                "BoTPuMHeDichBro",
-                "eu4ria",
-                "Smok5 Js",
-                "SenNoSen"
+                "0nlyDaNuts",
+                "VegetablesArentYummy",
+                "gosu36484",
+                "Pimpika",
+                "BlitzWaut",
+                "01001111",
+                "Frisconar"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CALL",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                null,
-                0.25,
-                null
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "Smok5 Js",
-                "SenNoSen",
-                "Smok5 Js"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                0.5,
+                3.0,
+                null,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -108,14 +104,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        41.46,
-        77.17,
-        62.5,
-        22.08,
-        76.36,
-        53.11
+        54.2,
+        131.2,
+        144.69,
+        36.25,
+        116.04,
+        110.45,
+        98.88,
+        34.0
     ]
 }

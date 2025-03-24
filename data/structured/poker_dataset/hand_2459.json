@@ -1,18 +1,17 @@
 {
-    "date": "2016/11/19 23:16:46",
-    "game_id": "779459360",
+    "date": "2016/9/18 10:12:5",
+    "game_id": "730276003",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "n0hvn",
-        "tbmfc",
-        "naprimer",
-        "Log_in",
+        "Cellar door",
         "IlxxxlI",
-        "gmjohn",
-        "BiGFck"
+        "Origins",
+        "xXCONMANXx",
+        "aquamarin",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
         1,
@@ -20,82 +19,61 @@
         3,
         4,
         5,
-        7,
-        9
+        6
     ],
     "starting_stacks": [
-        55.5,
-        29.97,
-        55.81,
-        13.32,
-        20.0,
-        28.76,
-        17.0
+        126.45,
+        90.88,
+        163.76,
+        170.25,
+        211.91,
+        100.0
     ],
-    "player_small_blind": "tbmfc",
-    "small_blind": 0.25,
-    "player_big_blind": "naprimer",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
+    "player_big_blind": "Cellar door",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9c",
-        "5c"
+        "5c",
+        "10c"
     ],
     "dealed_cards": {
-        "flop": [
-            "4s",
-            "Qs",
-            "Kd"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Log_in",
                 "IlxxxlI",
-                "gmjohn",
-                "BiGFck",
-                "n0hvn",
-                "tbmfc",
-                "naprimer"
+                "Origins",
+                "xXCONMANXx",
+                "aquamarin",
+                "VegetablesArentYummy",
+                "Cellar door"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL",
                 "FOLD"
             ],
             "values": [
-                1.5,
                 null,
                 null,
+                6.0,
                 null,
                 null,
-                1.25,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "tbmfc",
-                "Log_in",
-                "tbmfc"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                1.66,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -114,16 +92,14 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        55.5,
-        28.47,
-        55.31,
-        15.15,
-        20.0,
-        28.76,
-        17.0
+        124.45,
+        90.88,
+        163.76,
+        173.25,
+        211.91,
+        99.0
     ]
 }

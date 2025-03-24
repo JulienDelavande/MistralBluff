@@ -1,149 +1,97 @@
 {
-    "date": "2016/11/29 13:1:34",
-    "game_id": "786963917",
+    "date": "2016/9/6 0:32:36",
+    "game_id": "720636557",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "WeakAndWeary",
-        "MadLifeGrinder",
-        "JoeRockwell",
-        "LloydXmas",
-        "Hakuna_Matata777",
+        "Ksowas",
+        "DTownDieselZZ",
+        "The_Toast",
+        "oddsonfav",
         "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        126.96,
-        120.76,
-        23.12,
-        130.87,
+        172.07,
+        96.13,
         100.0,
-        48.53
+        74.95,
+        105.89
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 1.0,
+    "player_small_blind": "The_Toast",
+    "small_blind": 1.0,
+    "player_big_blind": "oddsonfav",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "9d"
+        "5h",
+        "10c"
     ],
     "dealed_cards": {
-        "flop": [
-            "3h",
-            "8s",
-            "6d"
-        ],
-        "turn": [
-            "Qs"
-        ],
-        "river": [
-            "7s"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "JoeRockwell",
-                "LloydXmas",
-                "Hakuna_Matata777",
                 "IlxxxlI",
-                "WeakAndWeary"
+                "Ksowas",
+                "DTownDieselZZ",
+                "The_Toast",
+                "oddsonfav"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "CALL",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
-                2.5,
-                2.5,
                 null,
                 null,
+                12.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "MadLifeGrinder",
-                "JoeRockwell",
-                "MadLifeGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                4.12,
-                4.12
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "MadLifeGrinder",
-                "JoeRockwell",
-                "MadLifeGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                7.0,
-                7.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "MadLifeGrinder",
-                "JoeRockwell",
-                "MadLifeGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "ALLIN",
-                "CALL"
-            ],
-            "values": [
-                null,
-                9.5,
-                9.5
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
-        "6h 5h",
-        "Jd Jh",
+        null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        125.96,
-        97.64,
-        45.36,
-        130.87,
-        100.0,
-        48.03
+        172.07,
+        99.13,
+        99.0,
+        72.95,
+        105.89
     ]
 }

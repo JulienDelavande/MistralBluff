@@ -1,63 +1,111 @@
 {
-    "date": "2016/11/28 20:7:14",
-    "game_id": "786369488",
+    "date": "2016/9/18 8:3:44",
+    "game_id": "730207706",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "Cinch23",
+        "38979",
         "IlxxxlI",
-        "caballeroXXX"
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "Cellar door",
+        "wjb024"
     ],
     "players_seats": [
+        1,
         2,
+        3,
+        4,
         5,
         6
     ],
     "starting_stacks": [
-        51.6,
-        20.5,
-        150.37
+        100.0,
+        45.55,
+        105.45,
+        156.2,
+        100.0,
+        80.35
     ],
-    "player_small_blind": "Cinch23",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9h",
-        "Qd"
+        "Kc",
+        "9s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "Ks",
+            "Jc",
+            "3h"
+        ],
+        "turn": [
+            "5s"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "caballeroXXX",
-                "Cinch23"
+                "KeepKalm",
+                "Cellar door",
+                "wjb024",
+                "38979",
+                "IlxxxlI",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                6.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "wjb024"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
             ],
             "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "VegetablesArentYummy",
+                "wjb024",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.85,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -68,11 +116,17 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        51.35,
-        20.75,
-        150.37
+        100.0,
+        44.55,
+        99.45,
+        156.2,
+        100.0,
+        86.69999999999999
     ]
 }

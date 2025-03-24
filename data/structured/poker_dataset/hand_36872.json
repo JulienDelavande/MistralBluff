@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/3 14:25:35",
+    "game_id": "789985391",
+    "variant": "PRR",
+    "table_name": "Ekek-27",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Ksander",
+        "Parcker",
+        "theMaverickk",
+        "IlxxxlI",
+        "Donkey_Hunter",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        32.57,
+        26.36,
+        25.97,
+        10.0,
+        5.36,
+        25.2
+    ],
+    "player_small_blind": "Ksander",
+    "small_blind": 0.1,
+    "player_big_blind": "Parcker",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "8d",
+            "9c"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "theMaverickk",
+                "IlxxxlI",
+                "Donkey_Hunter",
+                "Jui Kuen",
+                "Ksander",
+                "Parcker"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.88,
+                null,
+                0.88,
+                null,
+                0.63
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Parcker",
+                "IlxxxlI",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Parcker",
+                "IlxxxlI",
+                "Jui Kuen",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                null,
+                2.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Parcker",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10c As",
+        null,
+        "Ac Kc",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        32.47,
+        30.11,
+        25.97,
+        6.87,
+        5.36,
+        24.32
+    ]
+}

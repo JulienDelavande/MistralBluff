@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/8 20:2:34",
+    "game_id": "793476274",
+    "variant": "PRR",
+    "table_name": "Gorgons-19",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "lonleyronin",
+        "bakso100",
+        "odel_nadel",
+        "WeakAndWeary",
+        "IgLa",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        20.0,
+        50.75,
+        114.03,
+        50.0,
+        26.05
+    ],
+    "player_small_blind": "WeakAndWeary",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "10d",
+            "5d"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "lonleyronin",
+                "bakso100",
+                "odel_nadel",
+                "WeakAndWeary",
+                "IgLa"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CHECK",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IgLa",
+                "bakso100",
+                "IgLa"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.79,
+                0.79
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IgLa",
+                "bakso100",
+                "IgLa"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.79,
+                1.79
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IgLa",
+                "bakso100",
+                "IgLa"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.06,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        23.01,
+        50.75,
+        113.78,
+        46.92,
+        26.05
+    ]
+}

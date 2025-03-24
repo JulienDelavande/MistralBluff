@@ -1,58 +1,107 @@
 {
-    "date": "2016/11/28 19:35:43",
-    "game_id": "786363380",
+    "date": "2016/9/18 8:32:53",
+    "game_id": "730226119",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "meandkids",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "caballeroXXX",
-        "Goomashroom",
-        "allaebalaamballa"
+        "wishyouhadnot"
     ],
     "players_seats": [
         2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        47.25,
-        27.77,
-        50.0,
-        51.22,
-        20.0
+        200.0,
+        295.1,
+        518.98,
+        614.29,
+        246.05,
+        353.32,
+        166.3,
+        174.94
     ],
-    "player_small_blind": "meandkids",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "TryNotToTilt",
+    "small_blind": 2.0,
+    "player_big_blind": "flyzlcomb07",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ah",
-        "7c"
+        "6s",
+        "4h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "7c",
+            "Qs",
+            "8s"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "10s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "caballeroXXX",
-                "Goomashroom",
-                "allaebalaamballa",
-                "meandkids"
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
+                "IlxxxlI",
+                "wishyouhadnot",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt",
+                "flyzlcomb07"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
                 "FOLD",
+                "CALL",
+                "CALL",
+                "CALL",
                 "FOLD"
+            ],
+            "values": [
+                null,
+                12.0,
+                null,
+                null,
+                12.0,
+                12.0,
+                10.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "TryNotToTilt",
+                "LuckyBoy1980",
+                "liniang",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK"
             ],
             "values": [
                 null,
@@ -61,34 +110,62 @@
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TryNotToTilt",
+                "LuckyBoy1980",
+                "liniang",
+                "Cellar door"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                40.0,
+                40.0,
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TryNotToTilt",
+                "LuckyBoy1980",
+                "TryNotToTilt"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                65.35,
+                65.35
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
+        "8d 8c",
         null,
+        null,
+        "Kh Ks",
         null,
         null
     ],
     "finishing_stack": [
-        47.0,
-        28.02,
-        50.0,
-        51.22,
-        20.0
+        188.0,
+        283.1,
+        661.73,
+        610.29,
+        246.05,
+        235.97,
+        166.3,
+        174.94
     ]
 }

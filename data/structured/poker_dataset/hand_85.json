@@ -1,19 +1,17 @@
 {
-    "date": "2016/11/29 15:10:35",
-    "game_id": "787022567",
+    "date": "2016/9/4 9:44:16",
+    "game_id": "719276070",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
+    "table_name": "Pegasus",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "choiCES",
-        "hoocher",
-        "Parcker",
-        "IlxxxlI",
-        "VamosRafaFTW",
-        "dankmann",
-        "BlueSmoke",
-        "Spagetti1"
+        "Martyrs",
+        "bet2000",
+        "Pureprofit4",
+        "Kak_Ded_Y4il",
+        "SheppyPOO!!",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -21,128 +19,87 @@
         3,
         4,
         5,
-        6,
-        7,
-        9
+        6
     ],
     "starting_stacks": [
-        62.67,
-        59.62,
-        114.53,
-        20.0,
-        48.25,
-        95.81,
-        47.7,
-        52.19
+        401.49,
+        300.0,
+        380.6,
+        478.92,
+        300.0,
+        146.55
     ],
-    "player_small_blind": "Parcker",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 3.0,
+    "player_big_blind": "Kak_Ded_Y4il",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qh",
-        "7s"
+        "7c",
+        "Ac"
     ],
     "dealed_cards": {
         "flop": [
-            "2s",
-            "Qc",
-            "Qs"
+            "3s",
+            "9c",
+            "Jc"
         ],
-        "turn": [
-            "2d"
-        ],
-        "river": [
-            "4d"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "VamosRafaFTW",
-                "dankmann",
-                "BlueSmoke",
-                "Spagetti1",
-                "choiCES",
-                "hoocher",
-                "Parcker",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "VamosRafaFTW",
-                "BlueSmoke",
-                "choiCES"
+                "Martyrs",
+                "bet2000",
+                "Pureprofit4",
+                "Kak_Ded_Y4il"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
+                "FOLD",
                 "FOLD",
                 "CALL",
-                "FOLD",
-                "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "RAISE",
-                "FOLD",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                1.5,
                 null,
-                1.5,
-                null,
-                3.5,
+                12.0,
                 null,
                 null,
-                null,
-                6.75,
-                null,
-                4.75
+                9.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "VamosRafaFTW",
-                "choiCES"
+                "Pureprofit4",
+                "IlxxxlI",
+                "Pureprofit4"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD"
             ],
             "values": [
                 null,
+                14.85,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "VamosRafaFTW",
-                "choiCES"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "VamosRafaFTW",
-                "choiCES",
-                "VamosRafaFTW"
-            ],
-            "actions": [
-                "BET",
-                "ALLIN",
-                "FOLD"
-            ],
-            "values": [
-                11.0,
-                54.42,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -151,18 +108,14 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        82.14,
-        59.62,
-        114.28,
-        19.5,
-        29.0,
-        95.81,
-        46.2,
-        52.19
+        401.49,
+        300.0,
+        368.6,
+        472.92,
+        300.0,
+        164.25
     ]
 }

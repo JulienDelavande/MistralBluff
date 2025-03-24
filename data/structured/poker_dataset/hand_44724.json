@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 10:41:3",
+    "game_id": "788499330",
+    "variant": "PRR",
+    "table_name": "Kraken-3",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "rook_",
+        "mr.fargo",
+        "PANKLER",
+        "HomoPokerus",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        100.5,
+        41.5,
+        248.6,
+        101.5,
+        44.14
+    ],
+    "player_small_blind": "PANKLER",
+    "small_blind": 0.5,
+    "player_big_blind": "HomoPokerus",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "4c",
+            "8h"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "rook_",
+                "mr.fargo",
+                "PANKLER",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HomoPokerus",
+                "rook_",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.09,
+                3.09
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HomoPokerus",
+                "rook_"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HomoPokerus",
+                "rook_"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.02,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        94.41,
+        41.5,
+        248.1,
+        107.46,
+        44.14
+    ]
+}

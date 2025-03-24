@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/23 13:13:32",
+    "game_id": "804411538",
+    "variant": "PRR",
+    "table_name": "Ekek-22",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Sonic3Dblast",
+        "itsfuzzy",
+        "ImYourFriend1996",
+        "anokato"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.25,
+        25.25,
+        28.0,
+        25.0,
+        25.25
+    ],
+    "player_small_blind": "itsfuzzy",
+    "small_blind": 0.1,
+    "player_big_blind": "ImYourFriend1996",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "6s",
+            "2d"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "IlxxxlI",
+                "Sonic3Dblast",
+                "itsfuzzy",
+                "ImYourFriend1996",
+                "itsfuzzy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                0.5,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "itsfuzzy",
+                "ImYourFriend1996",
+                "itsfuzzy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "itsfuzzy",
+                "ImYourFriend1996",
+                "itsfuzzy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.75,
+                1.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "itsfuzzy",
+                "ImYourFriend1996",
+                "itsfuzzy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.5,
+                3.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "7s As",
+        null
+    ],
+    "finishing_stack": [
+        25.25,
+        25.25,
+        21.25,
+        31.08,
+        25.25
+    ]
+}

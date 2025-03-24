@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/4 10:46:21",
+    "game_id": "790543480",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "rivergods",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "BingBingBopBop",
+        "38979",
+        "YouWork4MeNow"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        101.5,
+        158.35,
+        42.73,
+        100.0,
+        100.0,
+        239.05
+    ],
+    "player_small_blind": "rivergods",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "2h",
+            "5c"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "BingBingBopBop",
+                "38979",
+                "YouWork4MeNow",
+                "rivergods",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                3.5,
+                null,
+                null,
+                3.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "YouWork4MeNow",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.38,
+                5.38
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "YouWork4MeNow"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "YouWork4MeNow"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ah Kc",
+        null,
+        null,
+        "10d Kh"
+    ],
+    "finishing_stack": [
+        101.0,
+        157.35,
+        33.849999999999994,
+        100.0,
+        100.0,
+        248.47000000000003
+    ]
+}

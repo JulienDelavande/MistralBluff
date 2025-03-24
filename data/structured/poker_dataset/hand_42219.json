@@ -1,0 +1,158 @@
+{
+    "date": "2016/12/2 9:26:45",
+    "game_id": "789118678",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "St3p04ka",
+        "CoconutCrackers510",
+        "AironVega",
+        "so_it_goes",
+        "Fetters10",
+        "IlxxxlI",
+        "dankmann"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+    ],
+    "starting_stacks": [
+        66.26,
+        34.93,
+        172.4,
+        100.0,
+        70.7,
+        41.5,
+        106.94
+    ],
+    "player_small_blind": "so_it_goes",
+    "small_blind": 0.5,
+    "player_big_blind": "Fetters10",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "10s",
+            "6s"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "dankmann",
+                "St3p04ka",
+                "CoconutCrackers510",
+                "AironVega",
+                "so_it_goes",
+                "Fetters10"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.1,
+                2.1,
+                null,
+                1.6,
+                1.1
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "so_it_goes",
+                "Fetters10",
+                "St3p04ka",
+                "CoconutCrackers510"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "so_it_goes",
+                "Fetters10",
+                "St3p04ka",
+                "CoconutCrackers510",
+                "so_it_goes",
+                "Fetters10",
+                "CoconutCrackers510"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.0,
+                null,
+                16.0,
+                null,
+                63.6,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        64.16000000000001,
+        16.83,
+        172.4,
+        97.9,
+        90.98,
+        41.5,
+        106.94
+    ]
+}

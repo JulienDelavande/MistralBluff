@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 18:19:58",
-    "game_id": "786349529",
+    "date": "2016/9/18 8:58:28",
+    "game_id": "730240743",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 3,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "pokanaktus",
+        "gosu36484",
         "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "Torinsurance",
+        "FishinChips",
+        "Crabbapple"
     ],
     "players_seats": [
         1,
@@ -19,52 +21,79 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        22.58,
-        84.97,
-        50.0,
-        20.0,
-        59.48,
-        83.81
+        206.5,
+        80.0,
+        149.16,
+        239.91,
+        56.89,
+        83.31,
+        90.28,
+        44.16
     ],
-    "player_small_blind": "BoTPuMHeDichBro",
-    "small_blind": 0.25,
-    "player_big_blind": "eu4ria",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
+    "player_big_blind": "GARY888",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "7s"
+        "5d",
+        "6s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Ks",
+            "3h",
+            "9h"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "8s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Smok5 Js",
-                "SenNoSen",
-                "pokanaktus",
+                "Torinsurance",
+                "FishinChips",
+                "Crabbapple",
+                "gosu36484",
                 "IlxxxlI",
-                "BoTPuMHeDichBro"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "GARY888",
+                "Crabbapple",
+                "gosu36484"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "RAISE",
+                "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "ALLIN",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                8.0,
+                20.0,
                 null,
                 null,
-                null
+                null,
+                null,
+                36.16,
+                24.16
             ]
         },
         "post-flop": {
@@ -84,19 +113,23 @@
         }
     },
     "card_shown_by_players": [
+        "Kd Ac",
         null,
         null,
         null,
         null,
         null,
-        null
+        null,
+        "7h Qh"
     ],
     "finishing_stack": [
-        22.58,
-        84.97,
-        50.0,
-        20.0,
-        59.23,
-        84.06
+        250.66,
+        80.0,
+        149.16,
+        238.91,
+        54.89,
+        83.31,
+        90.28,
+        0.0
     ]
 }

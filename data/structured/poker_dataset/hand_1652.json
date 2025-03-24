@@ -1,16 +1,16 @@
 {
-    "date": "2016/11/28 20:28:23",
-    "game_id": "786374145",
+    "date": "2016/9/18 7:51:26",
+    "game_id": "730200718",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 1,
     "players": [
+        "iDawg",
         "IlxxxlI",
-        "BBDub27",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "gosu36484",
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
@@ -20,78 +20,113 @@
         6
     ],
     "starting_stacks": [
-        53.53,
-        141.5,
-        128.7,
-        111.44,
-        70.0
+        116.09,
+        43.4,
+        42.53,
+        100.0,
+        134.96
     ],
-    "player_small_blind": "Are you with me",
-    "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "gosu36484",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "2s"
+        "Jc",
+        "Qc"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "8h",
+            "10c",
+            "7c"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "6h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "BBDub27",
-                "Wollverin",
-                "meandkids",
-                "Are you with me",
-                "IlxxxlI"
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg",
+                "IlxxxlI",
+                "gosu36484"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                4.0,
                 null,
                 null,
-                null
+                1.5,
+                1.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "gosu36484"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "gosu36484"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.47,
+                2.47
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "gosu36484"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
-        null,
-        null,
+        "Jc Qc",
+        "Qh 10d",
         null,
         null
     ],
     "finishing_stack": [
-        51.53,
-        141.5,
-        131.7,
-        111.44,
-        69.0
+        116.09,
+        37.03,
+        48.27,
+        100.0,
+        134.96
     ]
 }

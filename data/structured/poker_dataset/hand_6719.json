@@ -1,0 +1,138 @@
+{
+    "date": "2016/10/13 10:27:9",
+    "game_id": "749615777",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Bluffing Every Hand",
+        "ROCKYII",
+        "Namu0124",
+        "EQUITYisnotEV",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        58.49,
+        58.68,
+        61.12,
+        65.26
+    ],
+    "player_small_blind": "Bluffing Every Hand",
+    "small_blind": 0.25,
+    "player_big_blind": "ROCKYII",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "2c",
+            "Kd"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Namu0124",
+                "EQUITYisnotEV",
+                "IlxxxlI",
+                "Bluffing Every Hand",
+                "ROCKYII"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ROCKYII",
+                "IlxxxlI",
+                "ROCKYII"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.17,
+                1.17
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ROCKYII",
+                "IlxxxlI",
+                "ROCKYII"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ROCKYII",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "5d 5h",
+        null,
+        null,
+        "10s Js"
+    ],
+    "finishing_stack": [
+        49.75,
+        62.04,
+        58.68,
+        61.12,
+        61.59
+    ]
+}

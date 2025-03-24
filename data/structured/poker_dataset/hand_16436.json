@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/22 20:55:9",
+    "game_id": "803770484",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "HapKoTuk",
+        "SkaHot",
+        "IlxxxlI",
+        "afvet333",
+        "Cef539",
+        "MikiFinn"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        28.5,
+        72.74,
+        28.83,
+        44.61,
+        19.42,
+        25.5
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "4h",
+            "Kd"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "afvet333",
+                "Cef539",
+                "MikiFinn",
+                "HapKoTuk",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5,
+                0.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "afvet333",
+                "Cef539",
+                "MikiFinn",
+                "afvet333",
+                "Cef539",
+                "MikiFinn"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25,
+                1.25,
+                1.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "afvet333",
+                "Cef539"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "afvet333",
+                "Cef539"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ks 4s",
+        "Ah Kh",
+        null
+    ],
+    "finishing_stack": [
+        28.4,
+        72.49,
+        28.83,
+        40.36,
+        24.29,
+        24.75
+    ]
+}
