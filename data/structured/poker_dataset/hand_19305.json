@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/9 19:52:27",
+    "game_id": "794160912",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "RRapt09",
+        "IlxxxlI",
+        "IgLa",
+        "wethco"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.87,
+        20.0,
+        62.56,
+        63.09
+    ],
+    "player_small_blind": "RRapt09",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "8c",
+            "6s"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "wethco",
+                "RRapt09",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.25,
+                1.25,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IgLa",
+                "wethco"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IgLa",
+                "wethco"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IgLa",
+                "wethco",
+                "IgLa"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.03,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.62,
+        19.5,
+        61.31,
+        64.93
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "date": "2016/9/22 15:47:51",
+    "game_id": "733465198",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "Anastasia31",
+        "TuxoH",
+        "T0ny Adams",
+        "TATKO"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        206.12,
+        502.96,
+        400.0,
+        540.21,
+        445.18
+    ],
+    "player_small_blind": "Anastasia31",
+    "small_blind": 2.0,
+    "player_big_blind": "TuxoH",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "6c",
+            "10s"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "T0ny Adams",
+                "TATKO",
+                "IlxxxlI",
+                "Anastasia31",
+                "TuxoH",
+                "T0ny Adams"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                32.0,
+                null,
+                null,
+                null,
+                23.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "T0ny Adams",
+                "TATKO"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "T0ny Adams",
+                "TATKO"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                46.2,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        206.12,
+        500.96,
+        396.0,
+        577.51,
+        413.18
+    ]
+}

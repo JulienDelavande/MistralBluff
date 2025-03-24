@@ -1,36 +1,42 @@
 {
-    "date": "2016/11/29 11:27:7",
-    "game_id": "786897999",
+    "date": "2016/9/13 13:23:44",
+    "game_id": "726612652",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 3,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
+        "Wei2huge",
         "IlxxxlI",
-        "beachrog",
-        "Maria_Pia",
-        "imperceptible"
+        "DOR1",
+        "uncle_argyle",
+        "PANDAisEVIL",
+        "ravenh94"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        28.31,
-        30.85,
-        32.5,
-        21.38
+        153.97,
+        75.0,
+        36.73,
+        107.94,
+        102.0,
+        55.31
     ],
-    "player_small_blind": "Maria_Pia",
-    "small_blind": 0.25,
-    "player_big_blind": "imperceptible",
-    "big_blind": 0.5,
+    "player_small_blind": "Wei2huge",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "9c"
+        "8h",
+        "6h"
     ],
     "dealed_cards": {
         "flop": [],
@@ -40,16 +46,25 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "beachrog",
-                "Maria_Pia"
+                "DOR1",
+                "uncle_argyle",
+                "PANDAisEVIL",
+                "ravenh94",
+                "Wei2huge",
+                "IlxxxlI"
             ],
             "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
+                6.0,
+                null,
+                null,
                 null,
                 null,
                 null
@@ -75,12 +90,16 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        28.31,
-        30.85,
-        32.25,
-        21.63
+        152.97,
+        73.0,
+        39.73,
+        107.94,
+        102.0,
+        55.31
     ]
 }

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 22:36:32",
+    "game_id": "805249961",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "Novassman",
+        "jedlsd",
+        "booya25",
+        "IlxxxlI",
+        "FatzPanda",
+        "shocktheworld"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.42,
+        16.32,
+        26.16,
+        31.85,
+        26.0,
+        41.69
+    ],
+    "player_small_blind": "shocktheworld",
+    "small_blind": 0.1,
+    "player_big_blind": "Novassman",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Kc",
+            "8c"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "7c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "jedlsd",
+                "booya25",
+                "IlxxxlI",
+                "FatzPanda",
+                "shocktheworld",
+                "Novassman"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Novassman",
+                "FatzPanda",
+                "Novassman"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.76,
+                0.76
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Novassman",
+                "FatzPanda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Novassman",
+                "FatzPanda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kh Jd",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.88,
+        16.32,
+        26.16,
+        31.85,
+        24.49,
+        41.589999999999996
+    ]
+}

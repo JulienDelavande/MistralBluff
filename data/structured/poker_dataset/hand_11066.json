@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 23:53:56",
+    "game_id": "805279358",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "booya25",
+        "PokerLver420",
+        "SkaHot",
+        "Nicos_Baba",
+        "IlxxxlI",
+        "majomx"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.5,
+        15.01,
+        33.63,
+        14.13,
+        15.42,
+        5.0
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "Nicos_Baba",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "Kh",
+            "10d"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "majomx",
+                "booya25",
+                "PokerLver420",
+                "SkaHot",
+                "Nicos_Baba"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "Nicos_Baba",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.59,
+                0.59
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "Nicos_Baba"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "Nicos_Baba"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "8d Qs",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.5,
+        15.01,
+        32.42,
+        15.220000000000002,
+        15.42,
+        5.0
+    ]
+}

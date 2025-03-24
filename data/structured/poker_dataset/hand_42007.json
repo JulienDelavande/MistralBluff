@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/2 9:57:52",
+    "game_id": "789142884",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "GautamaBuddha",
+        "IlxxxlI",
+        "Orondi",
+        "Gronkowski69",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        111.14,
+        43.0,
+        121.93,
+        106.41,
+        40.5
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "GautamaBuddha",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "4d",
+            "Js"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Orondi",
+                "Gronkowski69",
+                "St3p04ka",
+                "GautamaBuddha",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                10.0,
+                null,
+                null,
+                null,
+                7.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Orondi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.22,
+                10.22
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Orondi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                101.71,
+                22.78
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ac As",
+        "Qc Qs",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        110.14,
+        84.5,
+        78.93,
+        106.41,
+        40.0
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/23 11:37:14",
+    "game_id": "804350703",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "Ice Bank Mice Elf",
+        "IlxxxlI",
+        "chintrogdin",
+        "Parcker",
+        "PHillyPHever"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.5,
+        12.5,
+        11.85,
+        15.59,
+        18.6
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.1,
+    "player_big_blind": "PHillyPHever",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "9c",
+            "9s"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "IlxxxlI",
+                "chintrogdin",
+                "Parcker",
+                "PHillyPHever"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.6,
+                null,
+                0.35
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PHillyPHever",
+                "chintrogdin",
+                "PHillyPHever"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.62,
+                0.62
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PHillyPHever",
+                "chintrogdin"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.21,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.5,
+        12.5,
+        10.629999999999999,
+        15.49,
+        19.800000000000004
+    ]
+}

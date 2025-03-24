@@ -1,0 +1,134 @@
+{
+    "date": "2016/12/8 14:52:15",
+    "game_id": "793408332",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "SpoogeMcDuck",
+        "FirstClan",
+        "JoeRockwell",
+        "IlxxxlI",
+        "Parcker",
+        "Hakuna_Matata777"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.04,
+        26.5,
+        7.21,
+        12.75,
+        25.0,
+        37.7
+    ],
+    "player_small_blind": "FirstClan",
+    "small_blind": 0.25,
+    "player_big_blind": "JoeRockwell",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "6h",
+            "7h"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Parcker",
+                "Hakuna_Matata777",
+                "SpoogeMcDuck",
+                "FirstClan",
+                "JoeRockwell"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JoeRockwell",
+                "Parcker",
+                "JoeRockwell"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.16,
+                2.16
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "JoeRockwell",
+                "Parcker"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                3.55,
+                3.55
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ac 10h",
+        null,
+        "Ks Kh",
+        null
+    ],
+    "finishing_stack": [
+        20.04,
+        26.25,
+        13.94,
+        12.75,
+        17.79,
+        37.7
+    ]
+}

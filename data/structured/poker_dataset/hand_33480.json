@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/5 21:2:44",
+    "game_id": "791546038",
+    "variant": "PRR",
+    "table_name": "Kraken-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Orondi",
+        "38979",
+        "Oral-Bet",
+        "IlxxxlI",
+        "bicccper",
+        "Azaladog"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        172.13,
+        104.05,
+        40.0,
+        42.73,
+        40.75,
+        105.54
+    ],
+    "player_small_blind": "38979",
+    "small_blind": 0.5,
+    "player_big_blind": "Oral-Bet",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "7c",
+            "9s"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "bicccper",
+                "Azaladog",
+                "Orondi",
+                "38979",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Oral-Bet",
+                "Azaladog",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.06,
+                2.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Oral-Bet",
+                "Azaladog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Oral-Bet",
+                "Azaladog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "As Jh",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        172.13,
+        103.55,
+        45.03,
+        42.73,
+        40.75,
+        100.48
+    ]
+}

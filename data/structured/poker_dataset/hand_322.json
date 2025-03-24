@@ -1,42 +1,42 @@
 {
-    "date": "2016/11/29 14:33:18",
-    "game_id": "787008516",
+    "date": "2016/9/5 1:19:43",
+    "game_id": "719792677",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 7,
     "players": [
-        "VegetablesArentYummy",
+        "pingtennis",
+        "Randall5",
+        "natasha77",
+        "Leatherass9",
         "IlxxxlI",
-        "IbetUmuck",
-        "DonCesarGrinder",
-        "MadLifeGrinder",
-        "LloydXmas"
+        "TrillyWilly"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
-        5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        229.65,
-        93.13,
-        854.15,
-        262.02,
-        215.06,
-        230.73
+        200.0,
+        160.0,
+        225.34,
+        232.2,
+        80.0,
+        192.0
     ],
-    "player_small_blind": "IbetUmuck",
-    "small_blind": 1.0,
-    "player_big_blind": "DonCesarGrinder",
-    "big_blind": 2.0,
+    "player_small_blind": "TrillyWilly",
+    "small_blind": 2.0,
+    "player_big_blind": "pingtennis",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2c",
-        "Qh"
+        "As",
+        "Qd"
     ],
     "dealed_cards": {
         "flop": [],
@@ -46,23 +46,32 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "LloydXmas",
-                "VegetablesArentYummy",
+                "Randall5",
+                "natasha77",
+                "Leatherass9",
                 "IlxxxlI",
-                "IbetUmuck"
+                "TrillyWilly",
+                "pingtennis",
+                "Randall5",
+                "Leatherass9"
             ],
             "actions": [
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
+                "ALLIN",
+                "ALLIN",
+                "ALLIN",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
+                10.0,
                 null,
-                null,
-                null,
+                10.0,
+                80.0,
+                190.0,
+                196.0,
                 null,
                 null
             ]
@@ -84,19 +93,19 @@
         }
     },
     "card_shown_by_players": [
+        "Kh Kc",
         null,
         null,
         null,
-        null,
-        null,
-        null
+        "As Qd",
+        "Ad Qh"
     ],
     "finishing_stack": [
-        229.65,
-        93.13,
-        853.15,
-        263.02,
-        215.06,
-        230.73
+        489.0,
+        150.0,
+        225.34,
+        222.2,
+        0.0,
+        0.0
     ]
 }

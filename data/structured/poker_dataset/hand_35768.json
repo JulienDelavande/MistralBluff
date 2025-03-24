@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/4 23:0:21",
+    "game_id": "790793087",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "WomboComboAA",
+        "charhawk",
+        "IlxxxlI",
+        "d0minata",
+        "IHaveToFold",
+        "WhiteAAEagle"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.75,
+        24.21,
+        10.0,
+        135.39,
+        43.25,
+        70.23
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "d0minata",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "7d",
+            "3h"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IHaveToFold",
+                "WhiteAAEagle",
+                "WomboComboAA",
+                "charhawk",
+                "IlxxxlI",
+                "d0minata"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "d0minata",
+                "WhiteAAEagle",
+                "charhawk",
+                "d0minata"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.26,
+                2.26,
+                2.26
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "d0minata",
+                "WhiteAAEagle",
+                "charhawk",
+                "d0minata",
+                "WhiteAAEagle"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                6.0,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.75,
+        31.410000000000004,
+        9.75,
+        131.63,
+        43.25,
+        66.47
+    ]
+}

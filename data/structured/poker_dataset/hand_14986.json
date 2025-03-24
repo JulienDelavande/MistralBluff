@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/23 11:47:9",
+    "game_id": "804358036",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Cellar door",
+        "Boeing-747",
+        "threekingsriver",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        50.0,
+        59.5,
+        50.0,
+        60.57
+    ],
+    "player_small_blind": "Boeing-747",
+    "small_blind": 0.25,
+    "player_big_blind": "threekingsriver",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "5d",
+            "Ah"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Cellar door",
+                "Boeing-747",
+                "threekingsriver",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.25,
+                4.25,
+                null,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qc Qh",
+        null,
+        null,
+        "9h 9s"
+    ],
+    "finishing_stack": [
+        54.54,
+        59.25,
+        49.5,
+        56.32
+    ]
+}

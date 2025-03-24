@@ -1,33 +1,42 @@
 {
-    "date": "2016/11/28 20:1:9",
-    "game_id": "786368024",
+    "date": "2016/9/18 8:8:57",
+    "game_id": "730211095",
     "variant": "PRR",
-    "table_name": "Gorgons-3",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 1,
     "players": [
-        "Goomashroom",
-        "Cinch23",
-        "IlxxxlI"
+        "38979",
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "Cellar door",
+        "wjb024"
     ],
     "players_seats": [
         1,
         2,
+        3,
+        4,
+        5,
         6
     ],
     "starting_stacks": [
-        72.12,
-        50.5,
-        27.78
+        104.0,
+        43.1,
+        103.0,
+        168.62,
+        100.0,
+        72.85
     ],
-    "player_small_blind": "Cinch23",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "5s"
+        "10c",
+        "Kh"
     ],
     "dealed_cards": {
         "flop": [],
@@ -37,20 +46,26 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
-                "Cinch23",
+                "KeepKalm",
+                "Cellar door",
+                "wjb024",
+                "38979",
                 "IlxxxlI",
-                "Goomashroom"
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "RAISE",
-                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
-                1.13,
-                4.25,
+                6.0,
+                null,
+                null,
+                null,
                 null,
                 null
             ]
@@ -74,11 +89,17 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        70.99000000000001,
-        52.129999999999995,
-        27.28
+        104.0,
+        42.1,
+        101.0,
+        171.62,
+        100.0,
+        72.85
     ]
 }

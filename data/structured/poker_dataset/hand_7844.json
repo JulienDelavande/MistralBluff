@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/27 15:58:40",
+    "game_id": "807099457",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "Njakka",
+        "HapKoTuk",
+        "stone1974",
+        "alasku",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        19.76,
+        70.57,
+        14.51,
+        10.36,
+        13.77
+    ],
+    "player_small_blind": "Njakka",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "8d",
+            "5s"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "stone1974",
+                "alasku",
+                "IlxxxlI",
+                "Njakka",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Njakka",
+                "HapKoTuk",
+                "stone1974",
+                "alasku",
+                "Njakka"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.26,
+                null,
+                1.26,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "alasku"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HapKoTuk",
+                "alasku",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.15,
+                2.15
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "5d 6s",
+        null
+    ],
+    "finishing_stack": [
+        19.26,
+        66.66,
+        14.01,
+        14.83,
+        13.77
+    ]
+}

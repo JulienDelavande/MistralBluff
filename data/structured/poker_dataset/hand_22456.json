@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 21:43:33",
+    "game_id": "793499600",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "Kovrol99",
+        "uziDDDD",
+        "CallMePAPA",
+        "burikman",
+        "IlxxxlI",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.9,
+        13.85,
+        17.88,
+        13.79,
+        6.1,
+        54.07
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "Kovrol99",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "6c",
+            "9h"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "uziDDDD",
+                "CallMePAPA",
+                "burikman",
+                "IlxxxlI",
+                "HapKoTuk",
+                "Kovrol99",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null,
+                1.15,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.74,
+                1.74
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HapKoTuk",
+                "CallMePAPA",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.65,
+        13.85,
+        24.409999999999997,
+        13.79,
+        6.1,
+        47.08
+    ]
+}

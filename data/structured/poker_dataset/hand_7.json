@@ -1,89 +1,136 @@
 {
-    "date": "2016/11/29 15:23:26",
-    "game_id": "787026888",
+    "date": "2016/9/4 1:54:5",
+    "game_id": "718932964",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "hoocher",
+        "BIGRAISE",
+        "tcoll16",
+        "cracypoker",
+        "bjv1105",
         "IlxxxlI",
-        "Beep_Beep",
-        "IampokerKidd",
-        "Jui Kuen",
-        "foreseen"
+        "WalterBlack",
+        "TheFront7"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        80.93,
-        20.25,
-        105.65,
-        50.0,
-        54.5,
-        158.08
+        186.22,
+        218.0,
+        231.55,
+        522.98,
+        80.0,
+        105.0,
+        263.95
     ],
-    "player_small_blind": "Jui Kuen",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "tcoll16",
+    "small_blind": 2.0,
+    "player_big_blind": "cracypoker",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7d",
-        "Kh"
+        "9c",
+        "Ad"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "3d",
+            "Js",
+            "9s"
+        ],
+        "turn": [
+            "Jh"
+        ],
+        "river": [
+            "Ks"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "hoocher",
+                "bjv1105",
                 "IlxxxlI",
-                "Beep_Beep",
-                "IampokerKidd",
-                "Jui Kuen",
-                "foreseen"
+                "WalterBlack",
+                "TheFront7",
+                "BIGRAISE",
+                "tcoll16",
+                "cracypoker",
+                "WalterBlack"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "CALL",
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                1.5,
+                4.0,
                 null,
+                12.4,
+                null,
+                null,
+                8.4
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WalterBlack",
+                "BIGRAISE",
+                "WalterBlack"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                20.33,
+                20.33
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WalterBlack",
+                "BIGRAISE"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "WalterBlack",
+                "BIGRAISE"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                37.27,
+                37.27
+            ]
         }
     },
     "card_shown_by_players": [
@@ -92,14 +139,16 @@
         null,
         null,
         null,
+        "10s 8s",
         null
     ],
     "finishing_stack": [
-        80.93,
-        20.25,
-        106.4,
-        50.0,
-        54.25,
-        157.58
+        116.22,
+        216.0,
+        227.55,
+        522.98,
+        80.0,
+        179.55,
+        263.95
     ]
 }

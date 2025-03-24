@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/23 12:24:39",
+    "game_id": "804382693",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Ice Bank Mice Elf",
+        "Brucelegend",
+        "IlxxxlI",
+        "Parcker",
+        "dtnfk",
+        "chintrogdin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        33.75,
+        59.17,
+        33.23,
+        25.0,
+        10.0,
+        30.72
+    ],
+    "player_small_blind": "Ice Bank Mice Elf",
+    "small_blind": 0.1,
+    "player_big_blind": "Brucelegend",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "Jh",
+            "8c"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Parcker",
+                "dtnfk",
+                "chintrogdin",
+                "Ice Bank Mice Elf",
+                "Brucelegend"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Brucelegend",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Brucelegend",
+                "IlxxxlI",
+                "Brucelegend"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                1.01,
+                5.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.65,
+        57.410000000000004,
+        34.91,
+        25.0,
+        10.0,
+        30.72
+    ]
+}

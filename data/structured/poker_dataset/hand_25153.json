@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/8 10:11:8",
+    "game_id": "793239236",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "BiGFck",
+        "FirstClan",
+        "IlxxxlI",
+        "cdelzafiro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        5.0,
+        18.86,
+        11.1,
+        9.62
+    ],
+    "player_small_blind": "FirstClan",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "5s",
+            "5d"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "cdelzafiro",
+                "BiGFck",
+                "FirstClan",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "BiGFck",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.35,
+                0.35
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "BiGFck"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "BiGFck",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.57,
+                2.0,
+                1.43
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qs 10c",
+        null,
+        "9s Kh",
+        null
+    ],
+    "finishing_stack": [
+        2.15,
+        18.759999999999998,
+        13.76,
+        9.62
+    ]
+}

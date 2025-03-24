@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 14:20:23",
+    "game_id": "794098722",
+    "variant": "PRR",
+    "table_name": "Gorgons-19",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "iDawg",
+        "IlxxxlI",
+        "Heksebrygg",
+        "Hawkbacker",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        91.28,
+        20.0,
+        53.38,
+        47.87,
+        51.5
+    ],
+    "player_small_blind": "Hawkbacker",
+    "small_blind": 0.25,
+    "player_big_blind": "Jui Kuen",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "2s",
+            "3h"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "iDawg",
+                "IlxxxlI",
+                "Heksebrygg",
+                "Hawkbacker",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Hawkbacker",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Hawkbacker",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Hawkbacker",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Qd 3d",
+        null
+    ],
+    "finishing_stack": [
+        91.28,
+        20.0,
+        52.38,
+        49.25,
+        51.0
+    ]
+}

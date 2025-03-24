@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 22:20:14",
+    "game_id": "805244401",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "SkaHot",
+        "ramieliasov",
+        "booya25",
+        "IlxxxlI",
+        "AcesHigh14",
+        "Pro-Bro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.01,
+        27.72,
+        19.21,
+        43.38,
+        13.55,
+        59.97
+    ],
+    "player_small_blind": "AcesHigh14",
+    "small_blind": 0.1,
+    "player_big_blind": "Pro-Bro",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "10h",
+            "6c"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SkaHot",
+                "ramieliasov",
+                "booya25",
+                "IlxxxlI",
+                "AcesHigh14",
+                "Pro-Bro"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Pro-Bro",
+                "booya25",
+                "Pro-Bro",
+                "booya25"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                4.04,
+                3.03
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Pro-Bro",
+                "booya25"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                7.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.01,
+        27.72,
+        14.420000000000002,
+        43.38,
+        13.450000000000001,
+        64.38
+    ]
+}

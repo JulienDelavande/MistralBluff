@@ -1,0 +1,164 @@
+{
+    "date": "2016/12/9 7:49:56",
+    "game_id": "793816154",
+    "variant": "PRR",
+    "table_name": "Gorgons-17",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "LionHeart76",
+        "avamole",
+        "IlxxxlI",
+        "GreinSeint",
+        "Maria_Pia"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        58.16,
+        50.0,
+        10.5,
+        21.49,
+        20.0,
+        31.5
+    ],
+    "player_small_blind": "LionHeart76",
+    "small_blind": 0.25,
+    "player_big_blind": "avamole",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "9c",
+            "Ah"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "GreinSeint",
+                "Maria_Pia",
+                "WeakAndWeary",
+                "LionHeart76",
+                "avamole"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.25,
+                1.25,
+                1.0,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "LionHeart76",
+                "avamole",
+                "GreinSeint",
+                "Maria_Pia",
+                "WeakAndWeary",
+                "LionHeart76",
+                "avamole"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                3.09,
+                3.09,
+                3.09,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "GreinSeint",
+                "Maria_Pia",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "GreinSeint",
+                "Maria_Pia",
+                "WeakAndWeary",
+                "GreinSeint"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                4.91,
+                null,
+                53.82,
+                10.75
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qd 9d",
+        null,
+        null,
+        null,
+        "Qc Ad",
+        null
+    ],
+    "finishing_stack": [
+        38.16,
+        48.75,
+        9.25,
+        21.49,
+        44.5,
+        27.16
+    ]
+}

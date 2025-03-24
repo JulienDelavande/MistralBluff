@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/27 16:27:59",
+    "game_id": "807106329",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "N1cer1ver",
+        "HapKoTuk",
+        "wwww111",
+        "shimonish",
+        "heraklinos89",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.02,
+        66.79,
+        11.19,
+        6.34,
+        17.74,
+        15.08
+    ],
+    "player_small_blind": "N1cer1ver",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "6c",
+            "7c"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "wwww111",
+                "shimonish",
+                "heraklinos89",
+                "IlxxxlI",
+                "N1cer1ver",
+                "HapKoTuk",
+                "wwww111"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "wwww111",
+                "heraklinos89",
+                "wwww111"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "wwww111",
+                "heraklinos89",
+                "wwww111"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.92,
+        66.54,
+        9.44,
+        6.34,
+        19.65,
+        15.08
+    ]
+}

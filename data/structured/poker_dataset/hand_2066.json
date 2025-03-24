@@ -1,108 +1,72 @@
 {
-    "date": "2016/11/28 18:49:54",
-    "game_id": "786355153",
+    "date": "2016/9/18 8:44:20",
+    "game_id": "730233003",
     "variant": "PRR",
-    "table_name": "Lakhey-10",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "DonCesarGrinder",
+        "graphicup",
         "IlxxxlI",
-        "KingGuciGuci",
-        "JJaromir",
-        "bunchy"
+        "KeepKalm",
+        "gosu36484"
     ],
     "players_seats": [
+        1,
         2,
-        3,
         4,
-        5,
-        6
+        5
     ],
     "starting_stacks": [
-        426.11,
-        80.0,
-        200.0,
-        496.7,
-        407.81
+        87.0,
+        80.2,
+        217.95,
+        85.93
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "gosu36484",
     "small_blind": 1.0,
-    "player_big_blind": "KingGuciGuci",
+    "player_big_blind": "graphicup",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ah",
-        "Qd"
+        "4c",
+        "Ks"
     ],
     "dealed_cards": {
-        "flop": [
-            "9s",
-            "10c",
-            "7h"
-        ],
-        "turn": [
-            "9c"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "JJaromir",
-                "bunchy",
-                "DonCesarGrinder",
                 "IlxxxlI",
-                "KingGuciGuci",
-                "DonCesarGrinder"
+                "KeepKalm",
+                "gosu36484",
+                "graphicup"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "RAISE",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                5.0,
-                11.75,
-                null,
-                7.75
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "DonCesarGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "DonCesarGrinder",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                14.29,
+                null,
+                4.0,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -114,14 +78,12 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        439.49,
-        67.25,
-        198.0,
-        496.7,
-        407.81
+        85.0,
+        80.2,
+        217.95,
+        87.93
     ]
 }

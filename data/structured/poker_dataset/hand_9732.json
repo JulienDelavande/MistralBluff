@@ -1,0 +1,103 @@
+{
+    "date": "2016/12/25 15:31:4",
+    "game_id": "805737872",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Sonic3Dblast",
+        "IlxxxlI",
+        "MrTamPham"
+    ],
+    "players_seats": [
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        51.05,
+        26.45,
+        36.32
+    ],
+    "player_small_blind": "Sonic3Dblast",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "9s",
+            "10h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MrTamPham",
+                "Sonic3Dblast",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "MrTamPham",
+                "IlxxxlI",
+                "MrTamPham",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                3.5,
+                7.5,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.949999999999996,
+        22.2,
+        40.24
+    ]
+}

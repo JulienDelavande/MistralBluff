@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/23 12:55:33",
+    "game_id": "804402042",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "dtnfk",
+        "bclever",
+        "CroMagnons",
+        "IlxxxlI",
+        "DumberandStupid"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        19.99,
+        10.82,
+        12.5,
+        12.85,
+        19.43
+    ],
+    "player_small_blind": "bclever",
+    "small_blind": 0.1,
+    "player_big_blind": "CroMagnons",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "2d",
+            "8s"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "DumberandStupid",
+                "dtnfk",
+                "bclever",
+                "CroMagnons",
+                "dtnfk",
+                "bclever"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.4,
+                2.5,
+                null,
+                2.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bclever",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bclever",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "bclever",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "8c 7c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        19.49,
+        8.07,
+        15.45,
+        12.85,
+        19.43
+    ]
+}

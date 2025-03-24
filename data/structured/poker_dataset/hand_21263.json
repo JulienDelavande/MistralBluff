@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/9 8:58:51",
+    "game_id": "793879008",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "meandkids",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "MadLifeGrinder",
+        "g-vine"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        96.7,
+        125.97,
+        42.5,
+        107.48,
+        100.0
+    ],
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "Ah",
+            "9s"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "g-vine",
+                "meandkids",
+                "VegetablesArentYummy",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                null,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "3c Ad",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        96.7,
+        125.47,
+        47.93,
+        101.98,
+        100.0
+    ]
+}

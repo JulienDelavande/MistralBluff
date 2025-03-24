@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 21:38:54",
+    "game_id": "793498332",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "Kovrol99",
+        "uziDDDD",
+        "CallMePAPA",
+        "burikman",
+        "IlxxxlI",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.4,
+        12.6,
+        15.14,
+        12.5,
+        5.35,
+        59.72
+    ],
+    "player_small_blind": "uziDDDD",
+    "small_blind": 0.1,
+    "player_big_blind": "CallMePAPA",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "3s",
+            "5h"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "burikman",
+                "IlxxxlI",
+                "HapKoTuk",
+                "Kovrol99",
+                "uziDDDD",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.75,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "uziDDDD",
+                "CallMePAPA",
+                "Kovrol99",
+                "uziDDDD"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.07,
+                null,
+                1.07
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "uziDDDD",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "uziDDDD",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.09,
+                2.09
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "7s 4s",
+        "Jh 10c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.65,
+        8.69,
+        19.380000000000003,
+        12.5,
+        5.35,
+        59.72
+    ]
+}

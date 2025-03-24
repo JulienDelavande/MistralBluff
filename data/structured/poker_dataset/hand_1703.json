@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 20:13:55",
-    "game_id": "786371096",
+    "date": "2016/9/18 7:59:30",
+    "game_id": "730205206",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 1,
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 6,
     "players": [
         "IlxxxlI",
-        "38979",
-        "BBDub27",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "0nlyDaNuts",
+        "VegetablesArentYummy",
+        "gosu36484",
+        "Pimpika",
+        "BlitzWaut",
+        "Immortal.",
+        "dartx",
+        "Chicubs2016"
     ],
     "players_seats": [
         1,
@@ -19,61 +22,92 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        45.0,
-        222.52,
-        122.8,
-        113.15,
-        120.64,
-        74.73
+        78.69,
+        113.59,
+        100.0,
+        37.0,
+        49.09,
+        123.54,
+        100.0,
+        60.42,
+        45.09
     ],
-    "player_small_blind": "38979",
-    "small_blind": 1.0,
-    "player_big_blind": "BBDub27",
-    "big_blind": 2.0,
+    "player_small_blind": "Immortal.",
+    "small_blind": 0.5,
+    "player_big_blind": "dartx",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8s",
-        "Jh"
+        "7c",
+        "10c"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Qh",
+            "4d",
+            "7h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Wollverin",
-                "meandkids",
-                "Are you with me",
+                "Chicubs2016",
                 "IlxxxlI",
-                "38979",
-                "BBDub27"
+                "0nlyDaNuts",
+                "VegetablesArentYummy",
+                "gosu36484",
+                "Pimpika",
+                "BlitzWaut",
+                "Immortal.",
+                "dartx"
             ],
             "actions": [
+                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                5.0,
+                null,
+                2.5,
                 null,
                 null,
-                null
+                null,
+                null,
+                1.5
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "dartx",
+                "VegetablesArentYummy",
+                "dartx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.11,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -92,14 +126,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        45.0,
-        221.52,
-        120.8,
-        113.15,
-        120.64,
-        77.73
+        78.69,
+        113.59,
+        102.73,
+        37.0,
+        49.09,
+        123.54,
+        99.5,
+        57.92,
+        45.09
     ]
 }

@@ -1,73 +1,95 @@
 {
-    "date": "2016/11/29 12:3:34",
-    "game_id": "786924397",
+    "date": "2016/9/6 10:30:42",
+    "game_id": "721081845",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 8,
     "players": [
-        "kidpokerak",
         "IlxxxlI",
-        "foreseen",
-        "QDevilQ",
-        "imperceptible"
+        "SheppyPOO!!",
+        "Anastasia31",
+        "Im Don King",
+        "Silverchicken",
+        "Roxxxy"
     ],
     "players_seats": [
         1,
-        2,
-        3,
         4,
-        5
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        112.8,
-        20.0,
-        71.42,
-        102.36,
-        16.61
+        80.0,
+        238.37,
+        225.35,
+        204.0,
+        378.56,
+        390.04
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "Roxxxy",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8s",
-        "4c"
+        "Qs",
+        "Jh"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "6h",
+            "8d",
+            "4h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "QDevilQ",
-                "imperceptible",
-                "kidpokerak",
-                "IlxxxlI",
-                "foreseen"
+                "SheppyPOO!!",
+                "Anastasia31",
+                "Im Don King",
+                "Silverchicken",
+                "Roxxxy",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Anastasia31",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                null,
-                1.5,
-                null,
+                11.9,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-turn": {
             "players": [],
@@ -85,13 +107,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        113.55,
-        19.75,
-        70.92,
-        102.36,
-        16.61
+        72.0,
+        238.37,
+        235.2,
+        204.0,
+        378.56,
+        388.04
     ]
 }

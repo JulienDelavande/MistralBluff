@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:43:45",
-    "game_id": "786354061",
+    "date": "2016/9/18 8:47:20",
+    "game_id": "730234778",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 3,
     "players": [
-        "SenNoSen",
-        "eu4ria",
+        "gosu36484",
         "IlxxxlI",
-        "Goomashroom",
-        "GreinSeint",
-        "wethco"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "Torinsurance",
+        "FishinChips",
+        "Crabbapple",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
@@ -19,85 +22,81 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        112.46,
-        236.21,
-        24.25,
-        53.1,
-        19.25,
-        71.83
+        82.0,
+        80.0,
+        159.81,
+        234.91,
+        81.63,
+        123.7,
+        88.08,
+        109.88,
+        309.36
     ],
-    "player_small_blind": "SenNoSen",
-    "small_blind": 0.25,
-    "player_big_blind": "eu4ria",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
+    "player_big_blind": "GARY888",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ad",
-        "As"
+        "6s",
+        "10h"
     ],
     "dealed_cards": {
         "flop": [
-            "5s",
-            "3h",
-            "Kh"
+            "Jd",
+            "7c",
+            "Jh"
         ],
-        "turn": [
-            "Qh"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "Torinsurance",
+                "FishinChips",
+                "Crabbapple",
+                "KeepKalm",
+                "gosu36484",
                 "IlxxxlI",
-                "Goomashroom",
-                "GreinSeint",
-                "wethco",
-                "SenNoSen",
-                "eu4ria",
-                "IlxxxlI"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "GARY888"
             ],
             "actions": [
                 "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "RAISE",
+                "CALL",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
-                1.75,
+                6.0,
                 null,
                 null,
                 null,
-                5.25,
+                6.0,
                 null,
-                3.75
+                null,
+                null,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "SenNoSen",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                3.64,
-                3.64
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "SenNoSen",
-                "IlxxxlI",
-                "SenNoSen"
+                "Torinsurance",
+                "gosu36484",
+                "Torinsurance"
             ],
             "actions": [
                 "CHECK",
@@ -106,9 +105,14 @@
             ],
             "values": [
                 null,
-                5.95,
+                7.12,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -122,14 +126,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        103.32,
-        235.71,
-        32.96,
-        53.1,
-        19.25,
-        71.83
+        90.25,
+        80.0,
+        159.81,
+        233.91,
+        79.63,
+        117.7,
+        88.08,
+        109.88,
+        309.36
     ]
 }

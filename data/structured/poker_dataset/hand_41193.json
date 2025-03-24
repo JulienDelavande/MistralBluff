@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/2 12:19:22",
+    "game_id": "789244426",
+    "variant": "PRR",
+    "table_name": "Kraken-12",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Rishatra",
+        "LazyFish",
+        "VegetablesArentYummy",
+        "Ksowas",
+        "IlxxxlI",
+        "Johnyboy724"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        43.09,
+        147.85,
+        100.0,
+        199.61,
+        40.0,
+        40.0
+    ],
+    "player_small_blind": "Ksowas",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "5s",
+            "4c"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Johnyboy724",
+                "Rishatra",
+                "LazyFish",
+                "VegetablesArentYummy",
+                "Ksowas",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0,
+                null,
+                null,
+                1.5,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksowas",
+                "IlxxxlI",
+                "Johnyboy724",
+                "Rishatra",
+                "Ksowas",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Johnyboy724"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Johnyboy724"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.7,
+                5.7
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "4s 8s",
+        null
+    ],
+    "finishing_stack": [
+        41.09,
+        147.85,
+        100.0,
+        197.61,
+        52.53,
+        30.3
+    ]
+}

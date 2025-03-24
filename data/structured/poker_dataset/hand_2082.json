@@ -1,89 +1,91 @@
 {
-    "date": "2016/11/28 18:46:1",
-    "game_id": "786354463",
+    "date": "2016/9/18 8:46:17",
+    "game_id": "730234132",
     "variant": "PRR",
-    "table_name": "Lakhey-10",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 9,
     "players": [
-        "DonCesarGrinder",
+        "LuckyBoy1980",
+        "Cellar door",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ACES6176",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "KingGuciGuci",
-        "JJaromir",
-        "bunchy"
+        "utormico"
     ],
     "players_seats": [
-        2,
+        1,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        415.96,
-        80.0,
-        209.0,
-        499.7,
-        361.31
+        232.3,
+        200.0,
+        294.35,
+        173.15,
+        103.0,
+        200.0,
+        116.3,
+        116.0
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "LuckyBoy1980",
     "small_blind": 1.0,
-    "player_big_blind": "KingGuciGuci",
+    "player_big_blind": "Cellar door",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9s",
-        "4s"
+        "3s",
+        "2c"
     ],
     "dealed_cards": {
-        "flop": [
-            "5h",
-            "5d",
-            "Jh"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "JJaromir",
-                "bunchy",
-                "DonCesarGrinder",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ACES6176",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "KingGuciGuci"
+                "utormico",
+                "LuckyBoy1980",
+                "Cellar door"
             ],
             "actions": [
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CALL",
-                "CHECK"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
+                6.0,
                 null,
                 null,
                 null,
-                1.0,
+                null,
+                null,
+                null,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "KingGuciGuci",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
-                "RAISE",
-                "FOLD"
-            ],
-            "values": [
-                2.0,
-                7.9,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -101,13 +103,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        415.96,
-        76.0,
-        212.6,
-        499.7,
-        361.31
+        231.3,
+        198.0,
+        297.35,
+        173.15,
+        103.0,
+        200.0,
+        116.3,
+        116.0
     ]
 }

@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 14:18:40",
-    "game_id": "787002180",
+    "date": "2016/9/5 12:13:6",
+    "game_id": "720261399",
     "variant": "PRR",
-    "table_name": "Kraken-23",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "WeakAndWeary",
-        "gust",
-        "LloydXmas",
-        "Sephiroth1",
-        "ElvenEyes",
-        "IlxxxlI"
+        "follower1",
+        "IlxxxlI",
+        "whitnez33",
+        "bigrpk22",
+        "RapaNui",
+        "RumCola 86"
     ],
     "players_seats": [
         1,
@@ -22,47 +22,58 @@
         6
     ],
     "starting_stacks": [
-        101.9,
-        48.0,
-        123.23,
-        100.0,
-        119.45,
-        40.0
+        212.0,
+        168.3,
+        270.35,
+        240.85,
+        200.0,
+        53.22
     ],
-    "player_small_blind": "gust",
-    "small_blind": 0.5,
-    "player_big_blind": "LloydXmas",
-    "big_blind": 1.0,
+    "player_small_blind": "bigrpk22",
+    "small_blind": 2.0,
+    "player_big_blind": "RapaNui",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10d",
-        "8h"
+        "3h",
+        "6d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "10s",
+            "Kd",
+            "8d"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "7h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Sephiroth1",
-                "ElvenEyes",
+                "RumCola 86",
+                "follower1",
                 "IlxxxlI",
-                "WeakAndWeary",
-                "gust"
+                "whitnez33",
+                "bigrpk22",
+                "RapaNui"
             ],
             "actions": [
+                "ALLIN",
                 "FOLD",
                 "FOLD",
-                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
+                53.22,
                 null,
                 null,
-                null,
+                53.22,
                 null,
                 null
             ]
@@ -86,17 +97,17 @@
     "card_shown_by_players": [
         null,
         null,
+        "Kh Jh",
         null,
         null,
-        null,
-        null
+        "Qc Qd"
     ],
     "finishing_stack": [
-        101.9,
-        47.5,
-        123.73,
-        100.0,
-        119.45,
-        40.0
+        212.0,
+        168.3,
+        328.47,
+        238.85,
+        196.0,
+        0.0
     ]
 }

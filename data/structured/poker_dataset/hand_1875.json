@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 19:50:32",
-    "game_id": "786366162",
+    "date": "2016/9/18 8:21:21",
+    "game_id": "730219023",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 7,
     "players": [
         "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "brokenlucks",
-        "GamblerPaul",
-        "gfclbv"
+        "0nlyDaNuts",
+        "VegetablesArentYummy",
+        "gosu36484",
+        "Pimpika",
+        "BlitzWaut",
+        "Immortal.",
+        "dartx"
     ],
     "players_seats": [
         1,
@@ -19,46 +21,44 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        40.0,
-        103.0,
-        52.7,
-        209.18,
-        40.0,
-        115.0
+        66.52,
+        122.32,
+        196.34,
+        36.28,
+        60.68,
+        114.45,
+        107.96,
+        116.24
     ],
-    "player_small_blind": "gfclbv",
-    "small_blind": 1.0,
+    "player_small_blind": "dartx",
+    "small_blind": 0.5,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jd",
-        "Qc"
+        "10d",
+        "Jc"
     ],
     "dealed_cards": {
-        "flop": [
-            "Qh",
-            "5s",
-            "2h"
-        ],
-        "turn": [
-            "Js"
-        ],
-        "river": [
-            "Kh"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "38979",
-                "sheenius81",
-                "brokenlucks",
-                "GamblerPaul",
-                "gfclbv",
+                "0nlyDaNuts",
+                "VegetablesArentYummy",
+                "gosu36484",
+                "Pimpika",
+                "BlitzWaut",
+                "Immortal.",
+                "dartx",
                 "IlxxxlI"
             ],
             "actions": [
@@ -67,53 +67,30 @@
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
                 null,
-                4.0,
+                2.5,
                 null,
                 null,
                 null,
-                2.0
+                null,
+                null,
+                null
             ]
         },
         "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "sheenius81",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                5.7,
-                5.7
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "sheenius81",
-                "IlxxxlI",
-                "sheenius81"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "ALLIN",
-                "CALL"
-            ],
-            "values": [
-                null,
-                12.92,
-                30.3,
-                17.38
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -122,19 +99,23 @@
         }
     },
     "card_shown_by_players": [
-        "Jd Qc",
         null,
-        "Ah 5h",
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        0.0,
-        103.0,
-        90.7,
-        209.18,
-        40.0,
-        114.0
+        65.52,
+        122.32,
+        197.84,
+        36.28,
+        60.68,
+        114.45,
+        107.96,
+        115.74
     ]
 }

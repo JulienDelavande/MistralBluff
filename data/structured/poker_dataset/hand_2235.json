@@ -1,22 +1,26 @@
 {
-    "date": "2016/11/28 18:3:8",
-    "game_id": "786345959",
+    "date": "2016/9/18 9:7:41",
+    "game_id": "730245821",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 9,
     "players": [
-        "Hakuna_Matata777",
-        "Ms.stone",
+        "GranatoBetano",
+        "liniang",
+        "Cellar door",
+        "maxcady444",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "NoizeyCrckt",
-        "1jackoff1",
-        "haroldbb",
-        "rpportugal"
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
+        2,
         3,
+        4,
         5,
         6,
         7,
@@ -24,118 +28,140 @@
         9
     ],
     "starting_stacks": [
-        91.67,
-        30.23,
-        20.0,
-        48.5,
-        96.46,
-        87.56,
-        22.69
+        212.0,
+        262.77,
+        250.03,
+        144.6,
+        539.54,
+        202.45,
+        270.95,
+        172.17,
+        245.91
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "NoizeyCrckt",
-    "big_blind": 0.5,
+    "player_small_blind": "GranatoBetano",
+    "small_blind": 2.0,
+    "player_big_blind": "liniang",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "3d"
+        "3h",
+        "10h"
     ],
     "dealed_cards": {
         "flop": [
-            "5c",
-            "7s",
-            "As"
+            "7d",
+            "Kh",
+            "8c"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "3d"
+        ],
+        "river": [
+            "8s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "1jackoff1",
-                "haroldbb",
-                "rpportugal",
-                "Hakuna_Matata777",
-                "Ms.stone",
+                "Cellar door",
+                "maxcady444",
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "NoizeyCrckt"
+                "wishyouhadnot",
+                "GranatoBetano",
+                "liniang"
             ],
             "actions": [
-                "CALL",
-                "FOLD",
-                "CALL",
                 "FOLD",
                 "FOLD",
-                "CALL",
-                "CHECK"
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
-                0.5,
-                null,
-                0.5,
                 null,
                 null,
-                0.25,
-                null
+                null,
+                null,
+                12.0,
+                null,
+                null,
+                null,
+                8.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "NoizeyCrckt",
-                "1jackoff1",
-                "rpportugal",
-                "IlxxxlI",
-                "NoizeyCrckt",
-                "1jackoff1"
+                "liniang",
+                "LuckyBoy1980",
+                "liniang"
             ],
             "actions": [
                 "CHECK",
-                "CHECK",
-                "CHECK",
                 "BET",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                null,
-                null,
-                0.5,
-                null,
-                null,
-                null
+                16.0,
+                16.0
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "liniang",
+                "LuckyBoy1980"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                19.15,
+                19.15
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "liniang",
+                "LuckyBoy1980"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
+        "Kc 2c",
         null,
         null,
         null,
         null,
+        "Qh Kd",
         null,
         null
     ],
     "finishing_stack": [
-        91.67,
-        30.23,
-        19.5,
-        48.0,
-        95.96,
-        87.56,
-        24.09
+        210.0,
+        215.61999999999998,
+        250.03,
+        144.6,
+        539.54,
+        202.45,
+        319.15,
+        172.17,
+        245.91
     ]
 }

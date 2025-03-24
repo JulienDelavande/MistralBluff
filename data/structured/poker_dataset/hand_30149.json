@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/6 17:21:10",
+    "game_id": "792170840",
+    "variant": "PRR",
+    "table_name": "Ekek-19",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Poteplie",
+        "mcmetamon",
+        "IlxxxlI",
+        "anokato",
+        "IampokerKidd",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        32.82,
+        22.68,
+        10.0,
+        43.78,
+        50.67,
+        25.62
+    ],
+    "player_small_blind": "Poteplie",
+    "small_blind": 0.1,
+    "player_big_blind": "mcmetamon",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "Qd",
+            "8h"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "anokato",
+                "IampokerKidd",
+                "HapKoTuk",
+                "Poteplie",
+                "mcmetamon"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "IampokerKidd",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.25,
+                1.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                7.25,
+                7.25
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qs Qh",
+        null,
+        "6c 7c",
+        null
+    ],
+    "finishing_stack": [
+        32.72,
+        22.43,
+        19.34,
+        43.78,
+        40.67,
+        25.62
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/25 13:43:22",
+    "game_id": "805699482",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Jui Kuen",
+        "anokato",
+        "CroMagnons",
+        "Sonic3Dblast",
+        "MrTamPham"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.25,
+        35.48,
+        29.81,
+        25.0,
+        77.89,
+        28.47
+    ],
+    "player_small_blind": "anokato",
+    "small_blind": 0.1,
+    "player_big_blind": "CroMagnons",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "Ad",
+            "2s"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "MrTamPham",
+                "IlxxxlI",
+                "Jui Kuen",
+                "anokato",
+                "CroMagnons"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "anokato",
+                "CroMagnons"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.71,
+                0.71
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "anokato",
+                "CroMagnons",
+                "anokato"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "anokato",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "7h Ah",
+        "6h 9h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.25,
+        35.48,
+        32.25,
+        22.29,
+        77.89,
+        28.47
+    ]
+}

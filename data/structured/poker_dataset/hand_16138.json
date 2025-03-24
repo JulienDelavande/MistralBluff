@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/22 22:6:43",
+    "game_id": "803797772",
+    "variant": "PRR",
+    "table_name": "Ekek-5",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "HapKoTuk",
+        "SkaHot",
+        "itaibb8",
+        "Qennd",
+        "IlxxxlI",
+        "booya25"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        25.0,
+        77.14,
+        35.55,
+        25.0,
+        14.56
+    ],
+    "player_small_blind": "itaibb8",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "3d",
+            "Kh"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "booya25",
+                "HapKoTuk",
+                "SkaHot",
+                "itaibb8",
+                "IlxxxlI",
+                "SkaHot",
+                "itaibb8"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                1.03,
+                null,
+                2.5,
+                1.87
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "itaibb8",
+                "SkaHot"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.49,
+                1.49
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "itaibb8",
+                "SkaHot",
+                "itaibb8"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        29.279999999999998,
+        72.65,
+        35.55,
+        24.75,
+        14.56
+    ]
+}

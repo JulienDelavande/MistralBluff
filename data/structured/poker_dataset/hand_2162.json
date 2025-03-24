@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/28 18:20:33",
-    "game_id": "786349646",
+    "date": "2016/9/18 8:58:17",
+    "game_id": "730240659",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "SenNoSen",
-        "eu4ria",
+        "Cellar door",
         "IlxxxlI",
-        "dscshift",
-        "pokanaktus",
-        "wethco"
+        "38979",
+        "VVubanga",
+        "graphicup",
+        "Pimpika"
     ],
     "players_seats": [
         1,
@@ -22,77 +22,69 @@
         6
     ],
     "starting_stacks": [
-        107.21,
-        234.07,
-        24.0,
-        25.66,
-        54.52,
-        54.24
+        100.0,
+        40.0,
+        283.45,
+        134.89,
+        98.6,
+        82.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "dscshift",
-    "big_blind": 0.5,
+    "player_small_blind": "Cellar door",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4s",
-        "6c"
+        "Ah",
+        "8h"
     ],
     "dealed_cards": {
         "flop": [
-            "4d",
-            "3s",
-            "5d"
+            "2h",
+            "10d",
+            "Kc"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "5h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "pokanaktus",
-                "wethco",
-                "SenNoSen",
-                "eu4ria",
+                "38979",
+                "VVubanga",
+                "graphicup",
+                "Pimpika",
+                "Cellar door",
                 "IlxxxlI",
-                "dscshift",
-                "wethco"
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
+                "ALLIN",
                 "CALL"
             ],
             "values": [
                 null,
-                0.5,
-                2.5,
                 null,
                 null,
+                4.0,
                 null,
-                2.0
+                38.0,
+                36.0
             ]
         },
         "post-flop": {
-            "players": [
-                "wethco",
-                "SenNoSen",
-                "wethco"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                1.82,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -107,18 +99,18 @@
     },
     "card_shown_by_players": [
         null,
+        "Ah 8h",
         null,
         null,
         null,
-        null,
-        null
+        "9c As"
     ],
     "finishing_stack": [
-        110.17999999999999,
-        234.07,
-        23.75,
-        25.16,
-        54.52,
-        51.74
+        99.0,
+        39.0,
+        283.45,
+        134.89,
+        98.6,
+        81.0
     ]
 }

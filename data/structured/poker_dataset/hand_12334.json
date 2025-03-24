@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/24 21:43:0",
+    "game_id": "805233969",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "FatzPanda",
+        "samotiti",
+        "booya25",
+        "IlxxxlI",
+        "Hkb2145",
+        "shocktheworld"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.02,
+        7.95,
+        31.83,
+        44.19,
+        20.01,
+        25.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Hkb2145",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "4d",
+            "3c"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "shocktheworld",
+                "FatzPanda",
+                "samotiti",
+                "booya25",
+                "IlxxxlI",
+                "Hkb2145"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.72,
+                0.57
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Hkb2145"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Hkb2145",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                1.25,
+                2.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.02,
+        7.95,
+        31.83,
+        42.12,
+        21.880000000000003,
+        25.0
+    ]
+}

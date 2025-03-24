@@ -1,0 +1,108 @@
+{
+    "date": "2016/12/22 16:26:28",
+    "game_id": "803700569",
+    "variant": "PRR",
+    "table_name": "Ekek-14",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "ImYourFriend1996",
+        "Ratbastrd"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3
+    ],
+    "starting_stacks": [
+        25.25,
+        43.32,
+        25.0
+    ],
+    "player_small_blind": "ImYourFriend1996",
+    "small_blind": 0.1,
+    "player_big_blind": "Ratbastrd",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "2h",
+            "Kh"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "ImYourFriend1996",
+                "Ratbastrd"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.58,
+                null,
+                0.33
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ratbastrd",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ratbastrd",
+                "IlxxxlI",
+                "Ratbastrd"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.87,
+        43.22,
+        24.42
+    ]
+}

@@ -1,132 +1,89 @@
 {
-    "date": "2016/11/29 15:12:18",
-    "game_id": "787023149",
+    "date": "2016/9/4 9:41:42",
+    "game_id": "719274776",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 3,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
+        "St3p04ka",
+        "VanishingFlames",
         "IlxxxlI",
-        "jjeannin1",
-        "trader063",
-        "Parcker",
-        "Jui Kuen"
+        "ConstanceHarm"
     ],
     "players_seats": [
-        2,
-        3,
+        1,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        35.63,
-        36.64,
-        32.97,
-        88.71,
-        76.78
+        40.0,
+        148.13,
+        49.35,
+        104.0
     ],
-    "player_small_blind": "trader063",
-    "small_blind": 0.25,
-    "player_big_blind": "Parcker",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "ConstanceHarm",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qc",
-        "2h"
+        "7s",
+        "5c"
     ],
     "dealed_cards": {
-        "flop": [
-            "4s",
-            "3s",
-            "4h"
-        ],
-        "turn": [
-            "Qs"
-        ],
-        "river": [
-            "6s"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Jui Kuen",
+                "St3p04ka",
+                "VanishingFlames",
                 "IlxxxlI",
-                "jjeannin1",
-                "trader063",
-                "Parcker"
+                "ConstanceHarm"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "CALL",
-                "FOLD",
-                "CHECK"
+                "FOLD"
             ],
             "values": [
                 null,
-                null,
-                0.5,
+                4.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "Parcker",
-                "jjeannin1"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "Parcker",
-                "jjeannin1"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "Parcker",
-                "jjeannin1"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        "Jc 7s",
         null
     ],
     "finishing_stack": [
-        35.63,
-        36.14,
-        32.72,
-        89.39999999999999,
-        76.78
+        40.0,
+        151.13,
+        48.35,
+        102.0
     ]
 }

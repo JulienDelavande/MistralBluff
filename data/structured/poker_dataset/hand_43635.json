@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/1 15:1:32",
+    "game_id": "788652546",
+    "variant": "PRR",
+    "table_name": "Lakhey-7",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "flyshark01",
+        "LloydXmas",
+        "BigBlat",
+        "MadLifeGrinder",
+        "IlxxxlI",
+        "SHER1FFmd"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        192.5,
+        107.97,
+        308.43,
+        98.56,
+        326.01
+    ],
+    "player_small_blind": "SHER1FFmd",
+    "small_blind": 1.0,
+    "player_big_blind": "flyshark01",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "7s",
+            "3c"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LloydXmas",
+                "BigBlat",
+                "MadLifeGrinder",
+                "IlxxxlI",
+                "SHER1FFmd",
+                "flyshark01"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                5.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SHER1FFmd",
+                "flyshark01"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SHER1FFmd",
+                "flyshark01"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.7,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        194.0,
+        192.5,
+        107.97,
+        308.43,
+        98.56,
+        331.40999999999997
+    ]
+}

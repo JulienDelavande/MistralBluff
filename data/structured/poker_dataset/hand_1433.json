@@ -1,93 +1,108 @@
 {
-    "date": "2016/11/29 8:5:50",
-    "game_id": "786727993",
+    "date": "2016/9/17 16:10:53",
+    "game_id": "729625189",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
+        "jbaker10031",
+        "38979",
         "IlxxxlI",
-        "loolu",
-        "IamPhamous",
-        "Iia007",
-        "Gronkowski69",
-        "aleaga",
-        "shokerAAss"
+        "blaz77",
+        "Full Circle",
+        "gust"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
-        6,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        94.78,
-        214.4,
-        194.57,
-        258.86,
-        301.25,
-        339.24,
-        229.44
+        51.94,
+        116.24,
+        149.69,
+        76.34,
+        77.16,
+        85.41
     ],
-    "player_small_blind": "IamPhamous",
+    "player_small_blind": "blaz77",
     "small_blind": 1.0,
-    "player_big_blind": "Iia007",
+    "player_big_blind": "Full Circle",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ad",
-        "6d"
+        "6d",
+        "8c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "10d",
+            "Ac",
+            "3c"
+        ],
+        "turn": [
+            "7d"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Gronkowski69",
-                "aleaga",
-                "shokerAAss",
+                "gust",
+                "jbaker10031",
+                "38979",
                 "IlxxxlI",
-                "loolu",
-                "IamPhamous",
-                "Iia007",
-                "IlxxxlI"
+                "blaz77",
+                "Full Circle"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "RAISE",
-                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                4.8,
-                15.0,
                 null,
-                null,
-                null
+                3.0,
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "blaz77",
+                "Full Circle"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "blaz77",
+                "Full Circle"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -101,16 +116,14 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        89.98,
-        222.2,
-        193.57,
-        256.86,
-        301.25,
-        339.24,
-        229.44
+        51.94,
+        116.24,
+        149.69,
+        83.54,
+        69.16,
+        85.41
     ]
 }

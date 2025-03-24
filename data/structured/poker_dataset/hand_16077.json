@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/22 22:15:15",
+    "game_id": "803801867",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "38979",
+        "MrCRABS333",
+        "DonkReaper",
+        "IlxxxlI",
+        "aleks0v"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.75,
+        63.48,
+        57.46,
+        54.94,
+        109.07
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "aleks0v",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "6c",
+            "10h"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "38979",
+                "MrCRABS333",
+                "DonkReaper",
+                "IlxxxlI",
+                "aleks0v"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "aleks0v",
+                "MrCRABS333",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "aleks0v",
+                "MrCRABS333",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "aleks0v",
+                "MrCRABS333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Jc 8c",
+        null,
+        null,
+        "10s Jh"
+    ],
+    "finishing_stack": [
+        50.75,
+        55.98,
+        57.46,
+        54.69,
+        116.05999999999999
+    ]
+}

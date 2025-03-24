@@ -1,105 +1,159 @@
 {
-    "date": "2016/11/29 14:32:35",
-    "game_id": "787008210",
+    "date": "2016/9/5 11:42:37",
+    "game_id": "720251627",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "Hold'em",
+    "table_name": "Pegacorn",
+    "type_game": "short",
     "button_seat": 2,
     "players": [
-        "WeakAndWeary",
-        "MadLifeGrinder",
-        "Sephiroth1",
+        "RapaNui",
+        "SheppyPOO!!",
         "IlxxxlI",
-        "gust",
-        "ElvenEyes"
+        "Sailor1704",
+        "VegetablesArentYummy",
+        "ShtrafBat",
+        "follower1",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        189.51,
-        114.62,
-        138.83,
-        50.85,
-        40.0,
-        112.11
+        626.85,
+        616.3,
+        120.0,
+        1180.87,
+        300.0,
+        167.3,
+        300.0,
+        246.0
     ],
-    "player_small_blind": "Sephiroth1",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 3.0,
+    "player_big_blind": "Sailor1704",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "5s"
+        "Ad",
+        "4s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "10d",
+            "7c",
+            "4d"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "6d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "gust",
-                "ElvenEyes",
-                "WeakAndWeary",
-                "MadLifeGrinder",
-                "Sephiroth1",
-                "IlxxxlI"
+                "VegetablesArentYummy",
+                "ShtrafBat",
+                "follower1",
+                "TheManiac89",
+                "RapaNui",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "Sailor1704"
             ],
             "actions": [
+                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
-                2.0,
+                null,
+                15.0,
                 null,
                 null,
                 null,
+                12.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "follower1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                17.82,
+                17.82
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "follower1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "follower1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
+        "Ad 4s",
         null,
         null,
         null,
+        "8d 8s",
         null
     ],
     "finishing_stack": [
-        189.51,
-        114.62,
-        138.33,
-        49.85,
-        40.0,
-        113.61
+        626.85,
+        616.3,
+        87.18,
+        1174.87,
+        300.0,
+        167.3,
+        338.12,
+        246.0
     ]
 }

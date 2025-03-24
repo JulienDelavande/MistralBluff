@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/8 8:19:46",
+    "game_id": "793138913",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "BadOutfit",
+        "KOSHERVEGAN",
+        "IlxxxlI",
+        "WorthyBus04"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        15.05,
+        10.85,
+        10.66,
+        25.25
+    ],
+    "player_small_blind": "WorthyBus04",
+    "small_blind": 0.1,
+    "player_big_blind": "BadOutfit",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "8c",
+            "2h"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "KOSHERVEGAN",
+                "IlxxxlI",
+                "WorthyBus04",
+                "BadOutfit"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WorthyBus04",
+                "BadOutfit"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WorthyBus04",
+                "BadOutfit"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.63,
+                0.63
+            ]
+        },
+        "post-river": {
+            "players": [
+                "WorthyBus04",
+                "BadOutfit"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Jc 10d",
+        null,
+        null,
+        "10s 9c"
+    ],
+    "finishing_stack": [
+        16.07,
+        10.85,
+        10.66,
+        24.12
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/7 19:42:45",
+    "game_id": "792778958",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "38979",
+        "Oral-Bet",
+        "legenda99",
+        "FTHater",
+        "IampokerKidd"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        51.24,
+        20.25,
+        117.06,
+        76.17,
+        56.03
+    ],
+    "player_small_blind": "Oral-Bet",
+    "small_blind": 0.25,
+    "player_big_blind": "legenda99",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "9s",
+            "4s"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FTHater",
+                "IampokerKidd",
+                "IlxxxlI",
+                "38979",
+                "Oral-Bet",
+                "legenda99",
+                "FTHater"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                5.0,
+                null,
+                null,
+                null,
+                null,
+                3.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FTHater",
+                "IampokerKidd",
+                "FTHater",
+                "IampokerKidd",
+                "FTHater"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                10.5,
+                13.0,
+                6.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FTHater",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                54.17,
+                34.03
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Jh Jc",
+        "Qh Qc"
+    ],
+    "finishing_stack": [
+        20.0,
+        51.24,
+        20.0,
+        116.56,
+        20.14,
+        109.81
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/4 13:7:20",
+    "game_id": "790629665",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "lordboroda",
+        "Ice Bank Mice Elf",
+        "sportsguyscott",
+        "imperceptible",
+        "IlxxxlI",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        70.83,
+        97.31,
+        66.09,
+        22.99,
+        20.0,
+        50.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Jui Kuen",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "8h",
+            "Ah"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "lordboroda",
+                "Ice Bank Mice Elf",
+                "sportsguyscott",
+                "imperceptible",
+                "IlxxxlI",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                1.25,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "sportsguyscott",
+                "imperceptible",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "sportsguyscott",
+                "imperceptible"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                20.0,
+                18.74
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "4c Ad",
+        "Kh 10h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        70.83,
+        97.31,
+        43.10000000000001,
+        45.35,
+        18.75,
+        49.5
+    ]
+}

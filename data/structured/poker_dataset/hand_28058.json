@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/7 13:22:37",
+    "game_id": "792671061",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 5,
+    "players": [
+        "St3p04ka",
+        "Portly23",
+        "aquamarin",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        48.51,
+        43.3,
+        105.8,
+        40.87
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "Portly23",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "4s",
+            "Qh"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aquamarin",
+                "IlxxxlI",
+                "St3p04ka",
+                "Portly23"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.6,
+                2.1
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "St3p04ka",
+                "Portly23"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "St3p04ka",
+                "Portly23"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "St3p04ka",
+                "Portly23",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.92,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        45.41,
+        46.089999999999996,
+        105.8,
+        40.87
+    ]
+}

@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 18:26:29",
-    "game_id": "786350818",
+    "date": "2016/9/18 8:56:17",
+    "game_id": "730239734",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 1,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "Hakuna_Matata777",
+        "gosu36484",
         "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "Torinsurance",
+        "FishinChips",
+        "Crabbapple"
     ],
     "players_seats": [
         1,
@@ -19,66 +21,120 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        22.7,
-        83.47,
-        62.75,
-        21.0,
-        62.76,
-        83.81
+        98.25,
+        80.0,
+        152.16,
+        241.91,
+        78.63,
+        83.31,
+        100.28,
+        119.99
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "BoTPuMHeDichBro",
-    "big_blind": 0.5,
+    "small_blind": 1.0,
+    "player_big_blind": "Pimpika",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2c",
-        "5h"
+        "10c",
+        "3c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "2c",
+            "8s",
+            "Kd"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "7h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "eu4ria",
-                "Smok5 Js",
-                "SenNoSen",
-                "Hakuna_Matata777",
+                "VegetablesArentYummy",
+                "GARY888",
+                "Torinsurance",
+                "FishinChips",
+                "Crabbapple",
+                "gosu36484",
                 "IlxxxlI",
-                "BoTPuMHeDichBro"
+                "Pimpika",
+                "FishinChips",
+                "Crabbapple"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL",
+                "CALL"
             ],
             "values": [
-                1.5,
                 null,
                 null,
                 null,
+                2.0,
+                2.0,
+                10.0,
                 null,
-                null
+                null,
+                8.0,
+                8.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FishinChips",
+                "Crabbapple",
+                "gosu36484",
+                "FishinChips",
+                "Crabbapple"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                20.0,
+                null,
+                20.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Crabbapple",
+                "gosu36484",
+                "Crabbapple"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                68.25,
+                68.25
+            ]
         },
         "post-river": {
             "players": [],
@@ -87,19 +143,23 @@
         }
     },
     "card_shown_by_players": [
+        "As Ks",
         null,
         null,
         null,
         null,
         null,
-        null
+        null,
+        "8h 9h"
     ],
     "finishing_stack": [
-        22.7,
-        83.47,
-        62.75,
-        20.75,
-        62.26,
-        84.56
+        206.5,
+        79.0,
+        150.16,
+        241.91,
+        78.63,
+        83.31,
+        90.28,
+        21.739999999999995
     ]
 }

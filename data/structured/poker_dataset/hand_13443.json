@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/24 10:0:21",
+    "game_id": "804963105",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Quest4dAcAsh",
+        "Slamit111",
+        "huiloputin",
+        "dtnfk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        25.0,
+        28.66,
+        28.76,
+        28.66,
+        12.15
+    ],
+    "player_small_blind": "Slamit111",
+    "small_blind": 0.1,
+    "player_big_blind": "huiloputin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "4s",
+            "8s"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dtnfk",
+                "IlxxxlI",
+                "Quest4dAcAsh",
+                "Slamit111",
+                "huiloputin",
+                "Slamit111"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                0.5,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Slamit111",
+                "huiloputin",
+                "Slamit111"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.06,
+                1.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Slamit111",
+                "huiloputin",
+                "Slamit111"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.65,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        28.66,
+        26.950000000000003,
+        30.290000000000003,
+        12.15
+    ]
+}

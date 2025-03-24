@@ -1,0 +1,162 @@
+{
+    "date": "2016/12/2 10:52:23",
+    "game_id": "789185882",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "PANDAisEVIL",
+        "pingtennis",
+        "hodisuda",
+        "GautamaBuddha",
+        "Fetters10",
+        "IlxxxlI",
+        "aleaga",
+        "RunnerLucker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        100.0,
+        41.23,
+        100.63,
+        101.5,
+        112.45,
+        41.5,
+        125.05,
+        123.52
+    ],
+    "player_small_blind": "PANDAisEVIL",
+    "small_blind": 0.5,
+    "player_big_blind": "pingtennis",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "3d",
+            "2h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hodisuda",
+                "GautamaBuddha",
+                "Fetters10",
+                "IlxxxlI",
+                "aleaga",
+                "RunnerLucker",
+                "PANDAisEVIL",
+                "pingtennis"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "pingtennis",
+                "Fetters10",
+                "pingtennis"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.06,
+                2.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "pingtennis",
+                "Fetters10",
+                "pingtennis"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.0,
+                6.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "pingtennis",
+                "Fetters10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ah 5h",
+        null,
+        null,
+        "Qd 10h",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        99.5,
+        51.66,
+        100.63,
+        101.5,
+        101.39,
+        41.5,
+        125.05,
+        123.52
+    ]
+}

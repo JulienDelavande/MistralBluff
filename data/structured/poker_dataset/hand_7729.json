@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/27 16:18:6",
+    "game_id": "807104220",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "heraklinos89",
+        "IlxxxlI",
+        "FIVETEN",
+        "DHD"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        36.29,
+        39.23,
+        12.79,
+        85.73
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "FIVETEN",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "5h",
+            "Js"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DHD",
+                "heraklinos89",
+                "IlxxxlI",
+                "FIVETEN"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FIVETEN",
+                "DHD",
+                "heraklinos89"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                1.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FIVETEN",
+                "DHD",
+                "FIVETEN",
+                "DHD"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                4.0,
+                8.29,
+                6.29
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "8h Jc",
+        "5s 5d"
+    ],
+    "finishing_stack": [
+        34.79,
+        38.98,
+        0.0,
+        98.91
+    ]
+}

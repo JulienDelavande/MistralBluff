@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/24 20:49:10",
+    "game_id": "805220674",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "N1cer1ver",
+        "samotiti",
+        "IlxxxlI",
+        "BobbyJones1936",
+        "DarkStar24"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        33.92,
+        9.65,
+        35.84,
+        10.2,
+        9.75
+    ],
+    "player_small_blind": "BobbyJones1936",
+    "small_blind": 0.1,
+    "player_big_blind": "DarkStar24",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "4c",
+            "Kh"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "N1cer1ver",
+                "samotiti",
+                "IlxxxlI",
+                "BobbyJones1936",
+                "DarkStar24"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DarkStar24",
+                "N1cer1ver",
+                "DarkStar24"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DarkStar24",
+                "N1cer1ver",
+                "DarkStar24"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.72,
+                1.72
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DarkStar24",
+                "N1cer1ver"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10d Kd",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        37.15,
+        9.65,
+        35.84,
+        10.1,
+        6.27
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/2 16:19:15",
+    "game_id": "789346288",
+    "variant": "PRR",
+    "table_name": "Gorgons-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "DonkReaper",
+        "IlxxxlI",
+        "hoocher"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        62.46,
+        72.55,
+        21.5,
+        45.15
+    ],
+    "player_small_blind": "DonkReaper",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "9d",
+            "6s"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hoocher",
+                "WeakAndWeary",
+                "DonkReaper",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DonkReaper",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DonkReaper",
+                "WeakAndWeary",
+                "DonkReaper"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.67,
+                1.67
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DonkReaper",
+                "WeakAndWeary",
+                "DonkReaper"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                6.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        65.78999999999999,
+        69.38,
+        21.0,
+        45.15
+    ]
+}

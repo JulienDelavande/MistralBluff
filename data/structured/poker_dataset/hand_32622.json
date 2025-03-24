@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/5 23:32:40",
+    "game_id": "791584595",
+    "variant": "PRR",
+    "table_name": "Kraken-5",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "magicriver88",
+        "tali19977",
+        "binkblankboo",
+        "GagaPoker",
+        "IlxxxlI",
+        "MadLifeGrinder"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        40.0,
+        34.09,
+        170.83,
+        40.0,
+        206.88
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "MadLifeGrinder",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "5h",
+            "Qd"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "magicriver88",
+                "tali19977",
+                "binkblankboo",
+                "GagaPoker",
+                "IlxxxlI",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "tali19977",
+                "MadLifeGrinder",
+                "tali19977"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.85,
+                10.0,
+                7.15
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "tali19977"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                194.88,
+                28.0
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "7h Kh",
+        null,
+        null,
+        null,
+        "Qc As"
+    ],
+    "finishing_stack": [
+        100.0,
+        77.5,
+        34.09,
+        170.83,
+        39.5,
+        166.88
+    ]
+}

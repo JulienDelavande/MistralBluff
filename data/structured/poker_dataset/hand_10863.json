@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 0:16:31",
+    "game_id": "805289214",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "luckyfish777",
+        "Sonic3Dblast",
+        "anokato",
+        "IlxxxlI",
+        "shimon89"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        56.06,
+        25.35,
+        25.0,
+        25.0,
+        16.63
+    ],
+    "player_small_blind": "shimon89",
+    "small_blind": 0.1,
+    "player_big_blind": "Sonic3Dblast",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "5s",
+            "3s"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "IlxxxlI",
+                "shimon89",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.58,
+                0.48,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shimon89",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shimon89",
+                "IlxxxlI",
+                "shimon89"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.89,
+                0.89
+            ]
+        },
+        "post-river": {
+            "players": [
+                "shimon89",
+                "IlxxxlI",
+                "shimon89"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.52,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.06,
+        25.1,
+        25.0,
+        26.57,
+        15.159999999999998
+    ]
+}

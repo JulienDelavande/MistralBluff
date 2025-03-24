@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/1 15:11:38",
+    "game_id": "788656277",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "flyshark01",
+        "CattleCorner",
+        "MadLifeGrinder",
+        "GautamaBuddha",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        399.84,
+        134.31,
+        104.0,
+        118.57,
+        40.0
+    ],
+    "player_small_blind": "flyshark01",
+    "small_blind": 0.5,
+    "player_big_blind": "CattleCorner",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "7s",
+            "2c"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "GautamaBuddha",
+                "IlxxxlI",
+                "flyshark01",
+                "CattleCorner"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CattleCorner",
+                "GautamaBuddha"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CattleCorner",
+                "GautamaBuddha"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.48,
+                3.48
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CattleCorner",
+                "GautamaBuddha"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.89,
+                7.89
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qh 10d",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        399.34,
+        147.26999999999998,
+        104.0,
+        104.69999999999999,
+        40.0
+    ]
+}

@@ -1,32 +1,41 @@
 {
-    "date": "2016/11/29 11:54:0",
-    "game_id": "786918723",
+    "date": "2016/9/6 10:33:15",
+    "game_id": "721082729",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Monopod",
     "type_game": "Short",
-    "button_seat": 3,
+    "button_seat": 4,
     "players": [
         "IlxxxlI",
-        "BiGFck",
-        "38979"
+        "SheppyPOO!!",
+        "Anastasia31",
+        "Im Don King",
+        "Silverchicken",
+        "Roxxxy"
     ],
     "players_seats": [
-        2,
-        3,
-        6
+        1,
+        4,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        10.67,
-        11.75,
-        25.0
+        86.0,
+        262.74,
+        231.2,
+        204.0,
+        353.69,
+        388.04
     ],
-    "player_small_blind": "38979",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "Anastasia31",
+    "small_blind": 2.0,
+    "player_big_blind": "Im Don King",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jd",
+        "2h",
         "9h"
     ],
     "dealed_cards": {
@@ -37,14 +46,29 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "BiGFck",
-                "38979"
+                "Silverchicken",
+                "Roxxxy",
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "Anastasia31",
+                "Im Don King",
+                "Silverchicken"
             ],
             "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
+                8.0,
+                null,
+                null,
+                24.0,
+                null,
                 null,
                 null
             ]
@@ -68,11 +92,17 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        10.92,
-        11.75,
-        24.75
+        86.0,
+        276.74,
+        229.2,
+        200.0,
+        345.69,
+        388.04
     ]
 }

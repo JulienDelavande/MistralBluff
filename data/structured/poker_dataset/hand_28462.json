@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 10:24:39",
+    "game_id": "792537174",
+    "variant": "PRR",
+    "table_name": "Ekek-5",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "ABMTLQC",
+        "Cleveland23",
+        "TerryBall",
+        "DiiMinores"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        43.7,
+        8.66,
+        27.97,
+        25.0
+    ],
+    "player_small_blind": "TerryBall",
+    "small_blind": 0.1,
+    "player_big_blind": "DiiMinores",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "9h",
+            "8d"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "ABMTLQC",
+                "Cleveland23",
+                "TerryBall",
+                "DiiMinores",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.75,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ABMTLQC",
+                "Cleveland23"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ABMTLQC",
+                "Cleveland23"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.88,
+                0.88
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ABMTLQC",
+                "Cleveland23"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.71,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.0,
+        45.5,
+        7.03,
+        27.869999999999997,
+        24.75
+    ]
+}

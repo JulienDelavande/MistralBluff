@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/27 16:36:2",
+    "game_id": "807107912",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "N1cer1ver",
+        "HapKoTuk",
+        "wwww111",
+        "heraklinos89",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        16.06,
+        60.32,
+        14.44,
+        16.5,
+        16.61
+    ],
+    "player_small_blind": "wwww111",
+    "small_blind": 0.1,
+    "player_big_blind": "heraklinos89",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "2s",
+            "Js"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "7c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "N1cer1ver",
+                "HapKoTuk",
+                "wwww111",
+                "heraklinos89"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.62,
+                null,
+                0.62,
+                0.52,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "wwww111",
+                "IlxxxlI",
+                "HapKoTuk",
+                "wwww111",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.5,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "wwww111",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "wwww111",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        16.06,
+        58.2,
+        17.18,
+        16.25,
+        15.99
+    ]
+}

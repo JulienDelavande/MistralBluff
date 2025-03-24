@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/7 8:48:32",
+    "game_id": "792466340",
+    "variant": "PRR",
+    "table_name": "Ekek-11",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "raraAvis8",
+        "leftoverpizza",
+        "IlxxxlI",
+        "HERODOTUS",
+        "tszis",
+        "ABMTLQC"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.35,
+        25.0,
+        10.27,
+        25.8,
+        25.0,
+        109.59
+    ],
+    "player_small_blind": "HERODOTUS",
+    "small_blind": 0.1,
+    "player_big_blind": "tszis",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "7s",
+            "8d"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ABMTLQC",
+                "raraAvis8",
+                "leftoverpizza",
+                "IlxxxlI",
+                "HERODOTUS",
+                "tszis"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "tszis",
+                "leftoverpizza"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "tszis",
+                "leftoverpizza"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "tszis",
+                "leftoverpizza",
+                "tszis"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                0.76,
+                2.28,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.35,
+        26.459999999999997,
+        10.27,
+        25.7,
+        23.49,
+        109.59
+    ]
+}

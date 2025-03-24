@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/6 9:6:43",
+    "game_id": "791910595",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "MrHustle",
+        "JohnnyTwoShots",
+        "Haphazard",
+        "braaaap",
+        "jacksonrabbit"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.19,
+        21.9,
+        31.05,
+        25.35,
+        10.0,
+        35.71
+    ],
+    "player_small_blind": "JohnnyTwoShots",
+    "small_blind": 0.1,
+    "player_big_blind": "Haphazard",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "Qs",
+            "As"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "braaaap",
+                "jacksonrabbit",
+                "IlxxxlI",
+                "MrHustle",
+                "JohnnyTwoShots",
+                "Haphazard"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JohnnyTwoShots",
+                "Haphazard"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "JohnnyTwoShots",
+                "Haphazard"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "JohnnyTwoShots",
+                "Haphazard"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Kc Ah",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.19,
+        21.9,
+        33.53,
+        22.6,
+        10.0,
+        35.71
+    ]
+}

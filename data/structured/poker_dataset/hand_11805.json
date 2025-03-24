@@ -1,0 +1,162 @@
+{
+    "date": "2016/12/24 22:35:9",
+    "game_id": "805249487",
+    "variant": "PRR",
+    "table_name": "Ettin-2",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "shocktheworld",
+        "TheKingBigD",
+        "AcesHigh14",
+        "Helene91",
+        "IlxxxlI",
+        "Poteplie",
+        "kudos72off",
+        "Falcons99"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        26.45,
+        42.14,
+        23.57,
+        19.82,
+        25.0,
+        28.98,
+        35.6,
+        16.8
+    ],
+    "player_small_blind": "Falcons99",
+    "small_blind": 0.1,
+    "player_big_blind": "shocktheworld",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "7s",
+            "Ad"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TheKingBigD",
+                "AcesHigh14",
+                "Helene91",
+                "IlxxxlI",
+                "Poteplie",
+                "kudos72off",
+                "Falcons99",
+                "shocktheworld"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Falcons99",
+                "shocktheworld"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Falcons99",
+                "shocktheworld",
+                "Falcons99"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Falcons99",
+                "shocktheworld",
+                "Falcons99"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.95,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.13,
+        42.14,
+        23.57,
+        19.82,
+        25.0,
+        28.98,
+        35.6,
+        16.05
+    ]
+}

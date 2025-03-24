@@ -1,0 +1,165 @@
+{
+    "date": "2016/10/13 1:6:18",
+    "game_id": "749192206",
+    "variant": "PRR",
+    "table_name": "Karkadann-2",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "PANDAisEVIL",
+        "brainvape",
+        "IlxxxlI",
+        "ManiacForces",
+        "E_Hustler",
+        "Gargantuatua",
+        "VegetablesArentYummy",
+        "tomradi"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        100.0,
+        100.35,
+        100.0,
+        100.0,
+        169.1,
+        125.33,
+        100.0,
+        164.57
+    ],
+    "player_small_blind": "Gargantuatua",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "2c",
+            "9h"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "tomradi",
+                "PANDAisEVIL",
+                "brainvape",
+                "IlxxxlI",
+                "ManiacForces",
+                "E_Hustler",
+                "Gargantuatua",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "tomradi",
+                "E_Hustler",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                9.0,
+                9.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "tomradi",
+                "E_Hustler"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                20.0,
+                20.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "tomradi",
+                "E_Hustler",
+                "tomradi"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                21.5,
+                21.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Kc Qc",
+        null,
+        null,
+        "Jd Jc"
+    ],
+    "finishing_stack": [
+        100.0,
+        100.35,
+        100.0,
+        100.0,
+        115.6,
+        124.83,
+        97.0,
+        218.57
+    ]
+}

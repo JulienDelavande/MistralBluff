@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/9 11:29:58",
+    "game_id": "794006529",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "welld0ne",
+        "Heksebrygg",
+        "yumcumgetsum",
+        "machetemex",
+        "IlxxxlI",
+        "Hawkbacker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        64.85,
+        50.65,
+        40.75,
+        20.0,
+        51.09
+    ],
+    "player_small_blind": "Hawkbacker",
+    "small_blind": 0.25,
+    "player_big_blind": "welld0ne",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "4s",
+            "7d"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Heksebrygg",
+                "yumcumgetsum",
+                "machetemex",
+                "IlxxxlI",
+                "Hawkbacker",
+                "welld0ne"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Hawkbacker",
+                "welld0ne"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Hawkbacker",
+                "welld0ne"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.25,
+                3.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Hawkbacker",
+                "welld0ne"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        43.75,
+        64.85,
+        50.65,
+        40.75,
+        20.0,
+        56.720000000000006
+    ]
+}

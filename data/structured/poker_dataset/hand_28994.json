@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/7 9:41:48",
+    "game_id": "792512676",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "Tomorrow...",
+        "IlxxxlI",
+        "Ram1789",
+        "monster999",
+        "maxxxim"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.75,
+        5.0,
+        11.56,
+        4.53,
+        18.67
+    ],
+    "player_small_blind": "maxxxim",
+    "small_blind": 0.1,
+    "player_big_blind": "Tomorrow...",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "9s",
+            "Kd"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ram1789",
+                "monster999",
+                "maxxxim",
+                "Tomorrow...",
+                "Ram1789",
+                "monster999"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25,
+                1.4,
+                null,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "maxxxim",
+                "Ram1789"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "maxxxim",
+                "Ram1789"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.9,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.5,
+        5.0,
+        9.81,
+        4.28,
+        20.720000000000002
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 8:6:41",
+    "game_id": "793126794",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "BadOutfit",
+        "IlxxxlI",
+        "PhillyPoker19",
+        "Ksander",
+        "Ice Bank Mice Elf"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        6.67,
+        10.0,
+        54.51,
+        25.0,
+        31.64
+    ],
+    "player_small_blind": "PhillyPoker19",
+    "small_blind": 0.1,
+    "player_big_blind": "Ksander",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "6d",
+            "Jd"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "BadOutfit",
+                "IlxxxlI",
+                "PhillyPoker19",
+                "Ksander"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PhillyPoker19",
+                "Ksander"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.63,
+                0.63
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PhillyPoker19",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "PhillyPoker19",
+                "Ksander",
+                "PhillyPoker19"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.07,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        6.67,
+        10.0,
+        53.379999999999995,
+        26.02,
+        31.64
+    ]
+}

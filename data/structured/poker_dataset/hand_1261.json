@@ -1,20 +1,17 @@
 {
-    "date": "2016/11/29 8:58:15",
-    "game_id": "786774585",
+    "date": "2016/9/17 11:9:28",
+    "game_id": "729551875",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 9,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
+        "flyzlcomb07",
+        "RCSOX",
         "IlxxxlI",
-        "Tilt-A-Whirl",
-        "IamPhamous",
-        "PANDAisEVIL",
-        "Iia007",
-        "322xxx",
-        "L4zy_FiSh",
-        "mr.fargo",
-        "shokerAAss"
+        "graphicup",
+        "SheppyPOO!!",
+        "Pureprofit4"
     ],
     "players_seats": [
         1,
@@ -22,108 +19,122 @@
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        188.97,
-        220.96,
-        190.39,
-        200.0,
-        212.24,
-        200.0,
-        200.0,
-        143.55,
-        200.0
+        341.38,
+        181.87,
+        118.1,
+        160.0,
+        228.7,
+        281.81
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "Tilt-A-Whirl",
-    "big_blind": 2.0,
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "flyzlcomb07",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qs",
-        "2h"
+        "3s",
+        "10s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Ac",
+            "10c",
+            "5d"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "Qc"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IamPhamous",
-                "PANDAisEVIL",
-                "Iia007",
-                "322xxx",
-                "L4zy_FiSh",
-                "mr.fargo",
-                "shokerAAss",
+                "RCSOX",
                 "IlxxxlI",
-                "Tilt-A-Whirl"
+                "graphicup",
+                "SheppyPOO!!",
+                "Pureprofit4",
+                "flyzlcomb07"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
+                8.0,
                 null,
-                null,
-                6.0,
-                null,
-                null,
-                null,
+                8.0,
                 null,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "RCSOX",
+                "graphicup"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                10.9,
+                10.9
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "RCSOX",
+                "graphicup"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "RCSOX",
+                "graphicup"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
         }
     },
     "card_shown_by_players": [
         null,
+        "As Qs",
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        "Ad Jc",
         null,
         null
     ],
     "finishing_stack": [
-        187.97,
-        218.96,
-        190.39,
-        200.0,
-        215.24,
-        200.0,
-        200.0,
-        143.55,
-        200.0
+        337.38,
+        158.97,
+        118.1,
+        188.39999999999998,
+        228.7,
+        279.81
     ]
 }

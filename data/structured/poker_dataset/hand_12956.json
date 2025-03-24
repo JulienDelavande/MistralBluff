@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 10:51:47",
+    "game_id": "805003085",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "Ksander",
+        "Slamit111",
+        "huiloputin",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        25.74,
+        33.33,
+        18.36,
+        91.79,
+        25.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Ksander",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "Kc",
+            "As"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Slamit111",
+                "huiloputin",
+                "Parcker",
+                "IlxxxlI",
+                "Ksander"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksander",
+                "Slamit111",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksander",
+                "Slamit111"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ksander",
+                "Slamit111"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qh Kh",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.639999999999997,
+        34.51,
+        17.16,
+        91.79,
+        25.0
+    ]
+}

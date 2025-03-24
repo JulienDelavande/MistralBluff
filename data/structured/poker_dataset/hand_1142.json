@@ -1,94 +1,80 @@
 {
-    "date": "2016/11/29 9:22:9",
-    "game_id": "786795768",
+    "date": "2016/9/14 10:55:54",
+    "game_id": "727324307",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 8,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
+        "norcalho",
         "IlxxxlI",
-        "Tilt-A-Whirl",
-        "IamPhamous",
-        "PANDAisEVIL",
-        "Iia007",
-        "StephCurry",
-        "L4zy_FiSh",
-        "mr.fargo",
-        "shokerAAss"
+        "AK Played",
+        "UrSoDumb"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
+        4
     ],
     "starting_stacks": [
-        178.97,
-        200.0,
-        284.61,
-        222.82,
-        212.24,
-        200.0,
-        255.78,
-        122.51,
-        200.0
+        29.25,
+        40.0,
+        68.86,
+        174.39
     ],
-    "player_small_blind": "shokerAAss",
+    "player_small_blind": "IlxxxlI",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "AK Played",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "3d"
+        "9h",
+        "5d"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "8c",
+            "6c",
+            "9c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Tilt-A-Whirl",
-                "IamPhamous",
-                "PANDAisEVIL",
-                "Iia007",
-                "StephCurry",
-                "L4zy_FiSh",
-                "mr.fargo",
-                "shokerAAss"
+                "UrSoDumb",
+                "norcalho",
+                "IlxxxlI",
+                "AK Played"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
-                null,
-                null,
-                null,
-                null,
-                null,
+                1.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "AK Played"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.53,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -105,22 +91,12 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        179.97,
-        200.0,
-        284.61,
-        222.82,
-        212.24,
-        200.0,
-        255.78,
-        122.51,
-        199.0
+        29.25,
+        41.8,
+        66.86,
+        174.39
     ]
 }

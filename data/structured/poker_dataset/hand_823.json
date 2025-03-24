@@ -1,102 +1,133 @@
 {
-    "date": "2016/11/29 12:56:23",
-    "game_id": "786961700",
+    "date": "2016/9/6 0:37:44",
+    "game_id": "720640876",
     "variant": "PRR",
-    "table_name": "Kraken-7",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "gust",
-        "WeakAndWeary",
-        "Beep_Beep",
+        "TJoseph1",
         "IlxxxlI",
-        "Im Don King",
-        "MadLifeGrinder"
+        "Ksowas",
+        "Im Don King"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        5,
         6
     ],
     "starting_stacks": [
-        47.93,
-        101.22,
-        104.13,
-        41.0,
-        100.0,
+        98.0,
+        73.0,
+        223.79,
         100.0
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "Im Don King",
-    "big_blind": 1.0,
+    "small_blind": 1.0,
+    "player_big_blind": "Ksowas",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6s",
-        "8c"
+        "Kh",
+        "Jh"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Js",
+            "5s",
+            "3c"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "4d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "gust",
-                "WeakAndWeary",
-                "Beep_Beep",
-                "IlxxxlI"
+                "Im Don King",
+                "TJoseph1",
+                "IlxxxlI",
+                "Ksowas",
+                "TJoseph1"
             ],
             "actions": [
                 "FOLD",
+                "CALL",
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
+                2.0,
+                3.0,
                 null,
-                null,
-                null,
-                null
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "TJoseph1"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.75,
+                4.75
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "TJoseph1",
+                "IlxxxlI",
+                "TJoseph1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                13.9,
+                34.0,
+                20.1
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "TJoseph1"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                30.25,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        47.93,
-        101.22,
-        104.13,
-        40.5,
-        100.5,
+        55.25,
+        115.75,
+        221.79,
         100.0
     ]
 }

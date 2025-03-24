@@ -1,92 +1,139 @@
 {
-    "date": "2016/11/29 13:0:2",
-    "game_id": "786963156",
+    "date": "2016/9/6 0:33:48",
+    "game_id": "720637581",
     "variant": "PRR",
-    "table_name": "Garuda-4",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "wrongcolorchip",
-        "IlxxxlI",
-        "kid4life",
-        "MortalLock",
-        "Spagetti1",
-        "Hakuna_Matata777",
-        "constant revelation"
+        "Ksowas",
+        "HookahBOSS",
+        "DTownDieselZZ",
+        "The_Toast",
+        "oddsonfav",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        6,
-        7,
-        9
+        5,
+        6
     ],
     "starting_stacks": [
-        155.58,
-        25.02,
-        111.33,
-        50.0,
-        22.5,
-        93.92,
-        21.42
+        170.07,
+        70.0,
+        95.13,
+        100.0,
+        71.95,
+        112.44
     ],
-    "player_small_blind": "kid4life",
-    "small_blind": 0.25,
-    "player_big_blind": "MortalLock",
-    "big_blind": 0.5,
+    "player_small_blind": "Ksowas",
+    "small_blind": 1.0,
+    "player_big_blind": "HookahBOSS",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5c",
-        "7h"
+        "Js",
+        "5c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Kh",
+            "4d",
+            "2h"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "Qd"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Spagetti1",
-                "Hakuna_Matata777",
-                "constant revelation",
-                "wrongcolorchip",
+                "DTownDieselZZ",
+                "The_Toast",
+                "oddsonfav",
                 "IlxxxlI",
-                "kid4life"
+                "Ksowas",
+                "HookahBOSS"
             ],
             "actions": [
+                "CALL",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                2.0,
+                null,
+                2.0,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksowas",
+                "HookahBOSS",
+                "DTownDieselZZ",
+                "oddsonfav",
+                "Ksowas"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
-                null,
-                null,
+                5.0,
+                5.0,
+                5.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HookahBOSS",
+                "DTownDieselZZ",
+                "oddsonfav"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "HookahBOSS",
+                "DTownDieselZZ",
+                "oddsonfav"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                14.0,
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -95,16 +142,14 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        155.58,
-        25.02,
-        111.08,
-        50.25,
-        22.5,
-        93.92,
-        21.42
+        168.07,
+        84.85,
+        88.13,
+        100.0,
+        64.95,
+        112.44
     ]
 }

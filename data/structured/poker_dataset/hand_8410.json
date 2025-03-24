@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/26 12:44:29",
+    "game_id": "806329932",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Artemone",
+        "misky10",
+        "liusanity",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        25.0,
+        15.88,
+        26.02,
+        35.4
+    ],
+    "player_small_blind": "liusanity",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "3h",
+            "Jc"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Artemone",
+                "misky10",
+                "liusanity",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "Artemone",
+                "misky10",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.49,
+                null,
+                1.49
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "Artemone"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HapKoTuk",
+                "Artemone",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                1.69,
+                10.14,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        29.35,
+        15.13,
+        25.919999999999998,
+        31.47
+    ]
+}

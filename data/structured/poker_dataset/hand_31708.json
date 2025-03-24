@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/6 8:45:33",
+    "game_id": "791895103",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "bublejam_mn",
+        "Omfgdieahhh",
+        "Zzzzzzz10",
+        "maxxxim",
+        "IlxxxlI",
+        "Log_in"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        15.36,
+        25.93,
+        12.5,
+        17.9,
+        6.55,
+        7.98
+    ],
+    "player_small_blind": "Omfgdieahhh",
+    "small_blind": 0.1,
+    "player_big_blind": "Zzzzzzz10",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "7c",
+            "Kc"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "maxxxim",
+                "IlxxxlI",
+                "Log_in",
+                "bublejam_mn",
+                "Omfgdieahhh",
+                "Zzzzzzz10"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Zzzzzzz10",
+                "IlxxxlI",
+                "Zzzzzzz10"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Zzzzzzz10",
+                "IlxxxlI",
+                "Zzzzzzz10",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                2.75,
+                8.25,
+                2.6
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qc Ks",
+        null,
+        "Ah As",
+        null
+    ],
+    "finishing_stack": [
+        15.36,
+        25.83,
+        18.49,
+        17.9,
+        0.0,
+        7.98
+    ]
+}

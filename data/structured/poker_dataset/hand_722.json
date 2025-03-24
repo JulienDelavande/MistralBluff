@@ -1,89 +1,61 @@
 {
-    "date": "2016/11/29 13:10:21",
-    "game_id": "786969011",
+    "date": "2016/9/6 0:17:44",
+    "game_id": "720623391",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "Abundance4All",
-        "xROCKETMANx",
-        "IlxxxlI",
-        "GagaPoker",
-        "foreseen"
+        "Oldhandsir",
+        "Maria26years",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        90.07,
-        55.52,
-        20.0,
-        70.21,
-        68.97
+        143.63,
+        178.4,
+        88.15
     ],
-    "player_small_blind": "foreseen",
-    "small_blind": 0.25,
-    "player_big_blind": "Abundance4All",
-    "big_blind": 0.5,
+    "player_small_blind": "Maria26years",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "7d"
+        "6d",
+        "4s"
     ],
     "dealed_cards": {
-        "flop": [
-            "Jh",
-            "Qs",
-            "8d"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "xROCKETMANx",
-                "IlxxxlI",
-                "GagaPoker",
-                "foreseen",
-                "Abundance4All"
+                "Oldhandsir",
+                "Maria26years",
+                "IlxxxlI"
             ],
             "actions": [
-                "CALL",
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CHECK"
+                "FOLD"
             ],
             "values": [
-                0.5,
-                null,
-                null,
+                4.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "Abundance4All",
-                "xROCKETMANx",
-                "Abundance4All"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                0.79,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -99,15 +71,11 @@
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        89.57,
-        56.21,
-        20.0,
-        70.21,
-        68.72
+        146.63,
+        177.4,
+        86.15
     ]
 }

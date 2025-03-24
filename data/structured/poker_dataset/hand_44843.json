@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/1 10:27:32",
+    "game_id": "788487904",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "BlobberDobber",
+        "E-Slick",
+        "Jui Kuen",
+        "IlxxxlI",
+        "braaaap",
+        "beachrog"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        60.47,
+        18.5,
+        65.63,
+        24.78,
+        21.86,
+        24.7
+    ],
+    "player_small_blind": "BlobberDobber",
+    "small_blind": 0.25,
+    "player_big_blind": "E-Slick",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "4c",
+            "6h"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jui Kuen",
+                "IlxxxlI",
+                "braaaap",
+                "beachrog",
+                "BlobberDobber",
+                "E-Slick"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "E-Slick",
+                "braaaap",
+                "beachrog",
+                "E-Slick"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.06,
+                2.06,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "braaaap",
+                "beachrog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "braaaap",
+                "beachrog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Kc Kh",
+        null
+    ],
+    "finishing_stack": [
+        60.22,
+        17.5,
+        65.63,
+        24.78,
+        25.810000000000002,
+        21.64
+    ]
+}

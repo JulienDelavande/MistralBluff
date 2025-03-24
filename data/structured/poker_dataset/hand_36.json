@@ -1,83 +1,81 @@
 {
-    "date": "2016/11/29 15:18:28",
-    "game_id": "787025286",
+    "date": "2016/9/4 9:30:4",
+    "game_id": "719269052",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
+    "table_name": "Pegasus",
+    "type_game": "Short",
     "button_seat": 4,
     "players": [
-        "hoocher",
-        "IlxxxlI",
-        "Beep_Beep",
-        "IampokerKidd",
-        "Jui Kuen",
-        "foreseen"
+        "bet2000",
+        "OrionMaster",
+        "IlxxxlI"
     ],
     "players_seats": [
-        1,
         2,
-        3,
         4,
-        5,
         6
     ],
     "starting_stacks": [
-        81.68,
-        22.0,
-        104.78,
-        50.0,
-        50.0,
-        158.83
+        300.71,
+        93.0,
+        136.8
     ],
-    "player_small_blind": "Jui Kuen",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 3.0,
+    "player_big_blind": "OrionMaster",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jh",
-        "Ac"
+        "9s",
+        "Jc"
     ],
     "dealed_cards": {
         "flop": [
-            "7c",
+            "10d",
             "3h",
-            "4h"
+            "3s"
         ],
-        "turn": [],
+        "turn": [
+            "2d"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "hoocher",
                 "IlxxxlI",
-                "Beep_Beep",
-                "IampokerKidd",
-                "Jui Kuen",
-                "foreseen"
+                "OrionMaster",
+                "IlxxxlI"
             ],
             "actions": [
-                "FOLD",
-                "RAISE",
                 "CALL",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "RAISE",
+                "CALL"
             ],
             "values": [
-                null,
-                1.0,
-                1.0,
-                null,
-                null,
-                null
+                3.0,
+                6.0,
+                6.0
             ]
         },
         "post-flop": {
             "players": [
                 "IlxxxlI",
-                "Beep_Beep",
+                "OrionMaster"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                6.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "OrionMaster",
                 "IlxxxlI"
             ],
             "actions": [
@@ -87,14 +85,9 @@
             ],
             "values": [
                 null,
-                2.0,
+                11.88,
                 null
             ]
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-river": {
             "players": [],
@@ -105,17 +98,11 @@
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        81.68,
-        21.0,
-        106.4,
-        50.0,
-        49.75,
-        158.33
+        300.71,
+        110.65,
+        118.80000000000001
     ]
 }

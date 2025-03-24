@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/9 0:26:24",
+    "game_id": "793552431",
+    "variant": "PRR",
+    "table_name": "Ekek-5",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Macho Taco",
+        "FTHater",
+        "IlxxxlI",
+        "IgLa",
+        "Sonic3Dblast",
+        "PhillipHellmuth"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.54,
+        25.0,
+        10.91,
+        33.89,
+        74.5,
+        23.19
+    ],
+    "player_small_blind": "FTHater",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "6h",
+            "4s"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "Sonic3Dblast",
+                "PhillipHellmuth",
+                "Macho Taco",
+                "FTHater",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FTHater",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FTHater",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FTHater",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.15,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.54,
+        26.53,
+        9.21,
+        33.89,
+        74.5,
+        23.19
+    ]
+}

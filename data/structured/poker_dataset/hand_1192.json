@@ -1,174 +1,105 @@
 {
-    "date": "2016/11/29 9:11:24",
-    "game_id": "786785917",
+    "date": "2016/9/15 12:11:40",
+    "game_id": "728108634",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "IlxxxlI",
-        "Ice Bank Mice Elf",
-        "tutofu84",
-        "imperceptible",
-        "HanktheGrey",
-        "kid4life",
-        "Tilt-A-Whirl",
-        "EasyQQ"
+        "xx_HaZ",
+        "TuxoH",
+        "IlxxxlI"
     ],
     "players_seats": [
-        1,
         2,
         3,
-        4,
-        5,
-        6,
-        7,
-        8
+        6
     ],
     "starting_stacks": [
-        38.48,
-        87.48,
-        108.87,
-        22.71,
-        21.87,
-        171.86,
-        53.56,
-        53.25
+        200.0,
+        210.3,
+        216.9
     ],
-    "player_small_blind": "HanktheGrey",
-    "small_blind": 0.25,
-    "player_big_blind": "kid4life",
-    "big_blind": 0.5,
+    "player_small_blind": "xx_HaZ",
+    "small_blind": 2.0,
+    "player_big_blind": "TuxoH",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9s",
-        "Ah"
+        "3d",
+        "8d"
     ],
     "dealed_cards": {
         "flop": [
-            "Kh",
-            "8h",
-            "10d"
+            "2s",
+            "Jd",
+            "5s"
         ],
         "turn": [
-            "Jh"
+            "5d"
         ],
-        "river": [
-            "7d"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Tilt-A-Whirl",
-                "EasyQQ",
                 "IlxxxlI",
-                "Ice Bank Mice Elf",
-                "tutofu84",
-                "imperceptible",
-                "HanktheGrey",
-                "kid4life"
+                "xx_HaZ",
+                "TuxoH"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
-                "CALL",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL",
-                "CALL",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                1.0,
-                1.0,
                 null,
-                null,
-                null,
-                1.0,
-                0.75,
-                null
+                10.0,
+                8.0
             ]
         },
         "post-flop": {
             "players": [
-                "HanktheGrey",
-                "Tilt-A-Whirl",
-                "EasyQQ",
-                "imperceptible"
+                "xx_HaZ",
+                "TuxoH"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
                 "CHECK",
                 "CHECK"
             ],
             "values": [
-                null,
-                null,
                 null,
                 null
             ]
         },
         "post-turn": {
             "players": [
-                "HanktheGrey",
-                "Tilt-A-Whirl",
-                "EasyQQ",
-                "imperceptible",
-                "HanktheGrey",
-                "Tilt-A-Whirl"
+                "xx_HaZ",
+                "TuxoH"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
                 "BET",
-                "FOLD",
-                "CALL",
                 "FOLD"
             ],
             "values": [
-                null,
-                null,
-                2.14,
-                null,
-                2.14,
+                16.0,
                 null
             ]
         },
         "post-river": {
-            "players": [
-                "HanktheGrey",
-                "EasyQQ"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
-        "9h 7h",
-        null,
-        null,
-        "Js 3s"
+        null
     ],
     "finishing_stack": [
-        38.48,
-        87.48,
-        108.87,
-        21.71,
-        27.08,
-        171.36,
-        52.56,
-        50.11
+        211.8,
+        198.3,
+        216.9
     ]
 }

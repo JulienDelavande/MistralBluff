@@ -1,0 +1,135 @@
+{
+    "date": "2016/9/18 11:50:19",
+    "game_id": "730309126",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "Pureprofit4",
+        "Taino44",
+        "TuxoH",
+        "IlxxxlI",
+        "stevedavebob"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        195.13,
+        175.5,
+        243.22,
+        95.6,
+        556.79
+    ],
+    "player_small_blind": "stevedavebob",
+    "small_blind": 2.0,
+    "player_big_blind": "Pureprofit4",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "Jc",
+            "4d"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Taino44",
+                "TuxoH",
+                "IlxxxlI",
+                "stevedavebob",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "stevedavebob",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "stevedavebob",
+                "Pureprofit4",
+                "stevedavebob"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "stevedavebob",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                25.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        187.13,
+        175.5,
+        243.22,
+        95.6,
+        564.64
+    ]
+}

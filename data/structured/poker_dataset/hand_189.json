@@ -1,20 +1,17 @@
 {
-    "date": "2016/11/29 14:53:11",
-    "game_id": "787016611",
+    "date": "2016/9/4 10:2:47",
+    "game_id": "719284554",
     "variant": "PRR",
-    "table_name": "Karkadann",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "StephCurry",
-        "PANDAisEVIL",
-        "AironVega",
         "IlxxxlI",
-        "pineapplesand",
-        "dankmann",
-        "ElvenEyes",
-        "gust",
-        "VegetablesArentYummy"
+        "SheppyPOO!!",
+        "VegetablesArentYummy",
+        "bet2000",
+        "Anthony2287",
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
@@ -22,30 +19,24 @@
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        100.0,
-        106.14,
-        100.0,
-        40.0,
-        98.16,
-        111.36,
-        101.5,
-        50.0,
-        260.19
+        80.0,
+        506.6,
+        200.0,
+        499.0,
+        324.35,
+        209.2
     ],
-    "player_small_blind": "pineapplesand",
-    "small_blind": 0.5,
-    "player_big_blind": "dankmann",
-    "big_blind": 1.0,
+    "player_small_blind": "bet2000",
+    "small_blind": 2.0,
+    "player_big_blind": "Anthony2287",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "4c"
+        "Jd",
+        "Jc"
     ],
     "dealed_cards": {
         "flop": [],
@@ -55,37 +46,31 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "ElvenEyes",
-                "gust",
-                "VegetablesArentYummy",
-                "StephCurry",
-                "PANDAisEVIL",
-                "AironVega",
+                "ConstanceHarm",
                 "IlxxxlI",
-                "pineapplesand",
-                "dankmann"
+                "SheppyPOO!!",
+                "VegetablesArentYummy",
+                "bet2000",
+                "Anthony2287",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "FOLD"
+                "ALLIN"
             ],
             "values": [
                 null,
+                8.0,
                 null,
                 null,
                 null,
-                null,
-                null,
-                null,
-                2.5,
-                null
+                111.0,
+                72.0
             ]
         },
         "post-flop": {
@@ -105,25 +90,19 @@
         }
     },
     "card_shown_by_players": [
+        "Jd Jc",
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        "As Ks",
         null
     ],
     "finishing_stack": [
-        100.0,
-        106.14,
-        100.0,
-        40.0,
-        99.16,
-        110.36,
-        101.5,
-        50.0,
-        260.19
+        160.4,
+        506.6,
+        200.0,
+        497.0,
+        244.35000000000002,
+        209.2
     ]
 }

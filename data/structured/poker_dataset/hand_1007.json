@@ -1,104 +1,104 @@
 {
-    "date": "2016/11/29 11:45:31",
-    "game_id": "786912234",
+    "date": "2016/9/12 11:51:44",
+    "game_id": "725841560",
     "variant": "PRR",
-    "table_name": "Gorgons-13",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
+        "Leatherass9",
+        "vachips",
+        "Ksowas",
         "IlxxxlI",
-        "Maria_Pia",
-        "xROCKETMANx",
-        "528 Hertz",
-        "foreseen",
-        "38979"
+        "Anastasia31"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
         6
     ],
     "starting_stacks": [
-        23.71,
-        22.49,
-        50.0,
-        86.88,
-        84.32,
-        50.0
+        203.0,
+        127.64,
+        222.23,
+        40.0,
+        181.44
     ],
-    "player_small_blind": "528 Hertz",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "Leatherass9",
+    "small_blind": 1.0,
+    "player_big_blind": "vachips",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "6c"
+        "Ad",
+        "4d"
     ],
     "dealed_cards": {
         "flop": [
-            "7h",
-            "10d",
-            "Ad"
+            "5c",
+            "6s",
+            "Kc"
         ],
         "turn": [
             "10c"
         ],
         "river": [
-            "Qs"
+            "9s"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "38979",
+                "Ksowas",
                 "IlxxxlI",
-                "Maria_Pia",
-                "xROCKETMANx",
-                "528 Hertz",
-                "foreseen"
+                "Anastasia31",
+                "Leatherass9",
+                "vachips"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "RAISE",
+                "FOLD",
                 "CALL",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                1.5,
-                1.25,
-                null
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "528 Hertz",
-                "xROCKETMANx",
-                "528 Hertz"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
                 "CALL"
             ],
             "values": [
                 null,
-                1.66,
-                1.66
+                4.0,
+                null,
+                3.0,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Leatherass9",
+                "vachips",
+                "IlxxxlI",
+                "Leatherass9",
+                "vachips"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                2.0
             ]
         },
         "post-turn": {
             "players": [
-                "528 Hertz",
-                "xROCKETMANx"
+                "vachips",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
@@ -111,8 +111,8 @@
         },
         "post-river": {
             "players": [
-                "528 Hertz",
-                "xROCKETMANx"
+                "vachips",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
@@ -126,18 +126,16 @@
     },
     "card_shown_by_players": [
         null,
+        "4h 5d",
         null,
-        null,
-        "9c Ac",
-        null,
+        "Ad 4d",
         null
     ],
     "finishing_stack": [
-        23.71,
-        22.49,
-        46.84,
-        90.2,
-        83.82,
-        50.0
+        199.0,
+        136.84,
+        222.23,
+        34.0,
+        181.44
     ]
 }

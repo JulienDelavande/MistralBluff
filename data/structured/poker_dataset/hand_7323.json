@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/27 17:10:27",
+    "game_id": "807114743",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "N1cer1ver",
+        "OMG_VanCandy",
+        "shimonish",
+        "ester59",
+        "heraklinos89",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        17.94,
+        12.71,
+        7.18,
+        18.35,
+        40.15,
+        18.55
+    ],
+    "player_small_blind": "shimonish",
+    "small_blind": 0.1,
+    "player_big_blind": "ester59",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "Qh",
+            "2c"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI",
+                "N1cer1ver",
+                "OMG_VanCandy",
+                "shimonish",
+                "ester59"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.75,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shimonish",
+                "ester59",
+                "OMG_VanCandy",
+                "shimonish",
+                "ester59"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.07,
+                1.07,
+                1.07
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shimonish",
+                "ester59",
+                "OMG_VanCandy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "shimonish",
+                "ester59",
+                "OMG_VanCandy"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.59,
+                null,
+                2.59
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "5d 9d",
+        "2d Ah",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        17.94,
+        18.41,
+        2.7699999999999996,
+        16.53,
+        40.15,
+        18.55
+    ]
+}

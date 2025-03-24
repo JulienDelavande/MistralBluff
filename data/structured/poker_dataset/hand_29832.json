@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 8:20:26",
+    "game_id": "792439417",
+    "variant": "PRR",
+    "table_name": "Kraken-10",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "MadLifeGrinder",
+        "IlxxxlI",
+        "achillesME",
+        "LazyFish",
+        "Flitzmeister"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        145.82,
+        41.5,
+        80.59,
+        110.84,
+        100.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "achillesME",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "4c",
+            "Qd"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LazyFish",
+                "Flitzmeister",
+                "MadLifeGrinder",
+                "IlxxxlI",
+                "achillesME"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "achillesME"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "achillesME"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.0,
+                7.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "achillesME",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                9.0,
+                71.09,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        145.82,
+        23.0,
+        97.24000000000001,
+        110.84,
+        100.0
+    ]
+}

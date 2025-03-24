@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/6 8:7:17",
+    "game_id": "791862690",
+    "variant": "PRR",
+    "table_name": "Gorgons-22",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "MirrorZrorriM",
+        "Mr.Excel",
+        "Xobkcul",
+        "AbovedaR1m",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        57.81,
+        64.33,
+        59.75,
+        53.83,
+        71.39
+    ],
+    "player_small_blind": "AbovedaR1m",
+    "small_blind": 0.25,
+    "player_big_blind": "so_it_goes",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "10d",
+            "Jc"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "MirrorZrorriM",
+                "Mr.Excel",
+                "Xobkcul",
+                "AbovedaR1m",
+                "so_it_goes"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "so_it_goes",
+                "Mr.Excel",
+                "so_it_goes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.74,
+                1.74
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "so_it_goes",
+                "Mr.Excel"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "so_it_goes",
+                "Mr.Excel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.5,
+                4.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "8c Ac"
+    ],
+    "finishing_stack": [
+        20.0,
+        57.81,
+        56.839999999999996,
+        59.75,
+        53.58,
+        78.37
+    ]
+}

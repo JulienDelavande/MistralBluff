@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/29 7:55:48",
-    "game_id": "786720997",
+    "date": "2016/9/18 7:21:54",
+    "game_id": "730180486",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "short",
-    "button_seat": 2,
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 5,
     "players": [
-        "thethinmanlb",
-        "St3p04ka",
-        "BigBlat",
-        "IlxxxlI",
-        "Qrenor",
-        "badboy85"
+        "LuckyBoy1980",
+        "BadBeat79",
+        "Augusta_72",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -19,39 +21,50 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        62.76,
-        74.63,
-        49.07,
-        20.0,
-        76.74,
-        105.78
+        226.35,
+        210.41,
+        167.82,
+        279.4,
+        147.51,
+        112.88,
+        200.0,
+        103.85
     ],
-    "player_small_blind": "BigBlat",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "ABCD123",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "5s"
+        "6c",
+        "9c"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "8d",
+            "9d",
+            "Kd"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Qrenor",
-                "badboy85",
-                "thethinmanlb",
-                "St3p04ka",
-                "BigBlat",
-                "IlxxxlI"
+                "IlxxxlI",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "Augusta_72",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123",
+                "VegetablesArentYummy",
+                "Augusta_72"
             ],
             "actions": [
                 "FOLD",
@@ -59,21 +72,39 @@
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD"
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                3.1,
+                6.0,
                 null,
-                null
+                18.0,
+                null,
+                null,
+                12.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Augusta_72",
+                "Pimpika",
+                "Augusta_72"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                24.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -92,14 +123,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        62.76,
-        76.13,
-        48.57,
-        19.0,
-        76.74,
-        105.78
+        226.35,
+        210.41,
+        149.82,
+        279.4,
+        166.56,
+        111.88,
+        198.0,
+        103.85
     ]
 }

@@ -1,0 +1,119 @@
+{
+    "date": "2016/12/23 11:53:23",
+    "game_id": "804362521",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Boeing-747",
+        "threekingsriver",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        71.47,
+        49.75,
+        56.32
+    ],
+    "player_small_blind": "Boeing-747",
+    "small_blind": 0.25,
+    "player_big_blind": "threekingsriver",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "8s",
+            "9c"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Boeing-747",
+                "threekingsriver"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Boeing-747",
+                "threekingsriver"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Boeing-747",
+                "threekingsriver",
+                "Boeing-747"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.5,
+                3.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Boeing-747",
+                "threekingsriver"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8h 8c",
+        "Kc 9d",
+        null
+    ],
+    "finishing_stack": [
+        77.67999999999999,
+        42.85,
+        56.32
+    ]
+}

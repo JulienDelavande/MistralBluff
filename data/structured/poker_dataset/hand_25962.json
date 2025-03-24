@@ -1,0 +1,116 @@
+{
+    "date": "2016/12/8 8:14:59",
+    "game_id": "793134465",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "BadOutfit",
+        "KOSHERVEGAN",
+        "IlxxxlI",
+        "Ice Bank Mice Elf"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        13.68,
+        12.8,
+        10.35,
+        30.96
+    ],
+    "player_small_blind": "Ice Bank Mice Elf",
+    "small_blind": 0.1,
+    "player_big_blind": "BadOutfit",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "10c",
+            "Js"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "KOSHERVEGAN",
+                "IlxxxlI",
+                "Ice Bank Mice Elf",
+                "BadOutfit"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.58,
+                null,
+                0.33
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BadOutfit",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BadOutfit",
+                "IlxxxlI",
+                "BadOutfit"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                0.6,
+                1.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.5,
+        12.8,
+        11.51,
+        30.86
+    ]
+}

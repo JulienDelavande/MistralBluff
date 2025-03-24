@@ -1,0 +1,122 @@
+{
+    "date": "2016/12/8 16:27:1",
+    "game_id": "793434797",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "Shamp",
+        "IlxxxlI",
+        "ronirock57"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        23.85,
+        5.1,
+        9.93
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "ronirock57",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "6c",
+            "Kh"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Shamp",
+                "IlxxxlI",
+                "ronirock57",
+                "Shamp"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.7,
+                null,
+                1.8,
+                1.35
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ronirock57",
+                "Shamp"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ronirock57",
+                "Shamp"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ronirock57",
+                "Shamp",
+                "ronirock57"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Js 9d",
+        null,
+        "As Ks"
+    ],
+    "finishing_stack": [
+        19.8,
+        5.0,
+        13.67
+    ]
+}

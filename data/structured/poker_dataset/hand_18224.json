@@ -1,0 +1,171 @@
+{
+    "date": "2016/12/10 8:18:26",
+    "game_id": "794498979",
+    "variant": "PRR",
+    "table_name": "Karkadann-2",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "dankmann",
+        "St3p04ka",
+        "TheKingBigD",
+        "thasnowman1000",
+        "djthomas",
+        "mr.fargo",
+        "IlxxxlI",
+        "CrocaLYLE31"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        230.8,
+        89.29,
+        96.81,
+        117.91,
+        74.96,
+        98.46,
+        32.09,
+        158.59
+    ],
+    "player_small_blind": "thasnowman1000",
+    "small_blind": 0.5,
+    "player_big_blind": "djthomas",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "Js",
+            "9d"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mr.fargo",
+                "IlxxxlI",
+                "CrocaLYLE31",
+                "dankmann",
+                "St3p04ka",
+                "TheKingBigD",
+                "thasnowman1000",
+                "djthomas"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "djthomas",
+                "CrocaLYLE31",
+                "TheKingBigD",
+                "djthomas"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CrocaLYLE31",
+                "TheKingBigD",
+                "CrocaLYLE31"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.31,
+                8.31
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CrocaLYLE31",
+                "TheKingBigD",
+                "CrocaLYLE31",
+                "TheKingBigD"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                16.21,
+                43.0,
+                26.79
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Qh 10h"
+    ],
+    "finishing_stack": [
+        230.8,
+        89.29,
+        38.5,
+        117.41,
+        71.96,
+        98.46,
+        32.09,
+        217.4
+    ]
+}

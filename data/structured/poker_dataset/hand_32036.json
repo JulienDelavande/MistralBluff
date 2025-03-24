@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/6 8:18:29",
+    "game_id": "791871836",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "ABMTLQC",
+        "Almost Pat",
+        "IlxxxlI",
+        "virtualbox",
+        "turdfergusson1",
+        "Madd_Hatter"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        42.24,
+        10.35,
+        33.39,
+        38.45,
+        25.5
+    ],
+    "player_small_blind": "Almost Pat",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "4c",
+            "9s"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "virtualbox",
+                "turdfergusson1",
+                "Madd_Hatter",
+                "ABMTLQC",
+                "Almost Pat",
+                "IlxxxlI",
+                "Madd_Hatter"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                2.25,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Madd_Hatter",
+                "ABMTLQC",
+                "Madd_Hatter"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.3,
+                2.3
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Madd_Hatter",
+                "ABMTLQC",
+                "Madd_Hatter"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.49,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        29.43,
+        42.14,
+        10.1,
+        33.39,
+        38.45,
+        20.95
+    ]
+}

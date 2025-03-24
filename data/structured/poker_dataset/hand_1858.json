@@ -1,95 +1,97 @@
 {
-    "date": "2016/11/28 19:52:33",
-    "game_id": "786366515",
+    "date": "2016/9/18 8:19:3",
+    "game_id": "730217579",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 3,
     "players": [
-        "legenda99",
-        "Goomashroom",
-        "lovecola",
-        "IlxxxlI",
-        "caballeroXXX"
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "BiggestFan07",
+        "BullsNationBitch",
+        "Pimpika",
+        "gosu36484",
+        "Frisconar",
+        "FirstClan",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        110.93,
-        50.0,
-        50.0,
-        20.25,
-        126.71
+        100.0,
+        103.06,
+        76.87,
+        48.64,
+        80.79,
+        37.0,
+        36.5,
+        148.32,
+        44.6
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "caballeroXXX",
-    "big_blind": 0.5,
+    "player_small_blind": "BullsNationBitch",
+    "small_blind": 0.5,
+    "player_big_blind": "Pimpika",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "9s"
+        "2d",
+        "8h"
     ],
     "dealed_cards": {
-        "flop": [
-            "Ac",
-            "Jc",
-            "10c"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "legenda99",
-                "Goomashroom",
-                "lovecola",
+                "gosu36484",
+                "Frisconar",
+                "FirstClan",
                 "IlxxxlI",
-                "caballeroXXX",
-                "lovecola",
-                "IlxxxlI"
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "BiggestFan07",
+                "BullsNationBitch",
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
-                "RAISE",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                1.25,
-                1.75,
-                null,
-                3.75,
-                3.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "lovecola",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                8.0,
+                null,
+                null,
+                null,
+                null,
+                2.5,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -107,13 +109,21 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        110.93,
-        50.0,
-        54.980000000000004,
-        15.25,
-        126.21
+        100.0,
+        104.56,
+        76.87,
+        48.14,
+        79.79,
+        37.0,
+        36.5,
+        148.32,
+        44.6
     ]
 }

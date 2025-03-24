@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/7 8:38:7",
+    "game_id": "792456189",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "spewbacca",
+        "leftoverpizza",
+        "Ice Bank Mice Elf",
+        "Jaybe1012"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        10.3,
+        9.17,
+        32.35,
+        35.62,
+        10.0
+    ],
+    "player_small_blind": "Ice Bank Mice Elf",
+    "small_blind": 0.1,
+    "player_big_blind": "Jaybe1012",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "7h",
+            "6h"
+        ],
+        "turn": [
+            "Jh"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "spewbacca",
+                "leftoverpizza",
+                "Ice Bank Mice Elf",
+                "Jaybe1012"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jaybe1012",
+                "spewbacca",
+                "leftoverpizza",
+                "Jaybe1012",
+                "spewbacca"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.01,
+                1.01,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jaybe1012",
+                "leftoverpizza"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Jaybe1012",
+                "leftoverpizza"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "8d 7d"
+    ],
+    "finishing_stack": [
+        10.3,
+        8.67,
+        30.84,
+        35.519999999999996,
+        11.93
+    ]
+}

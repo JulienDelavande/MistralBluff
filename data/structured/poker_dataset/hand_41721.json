@@ -1,0 +1,137 @@
+{
+    "date": "2016/12/2 10:46:54",
+    "game_id": "789181801",
+    "variant": "PRR",
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "PANDAisEVIL",
+        "IlxxxlI",
+        "EstyzBallnn",
+        "pingtennis",
+        "aleaga",
+        "Julio Iglesias",
+        "dankmann"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        203.0,
+        81.35,
+        396.3,
+        80.0,
+        307.1,
+        95.0,
+        253.59
+    ],
+    "player_small_blind": "Julio Iglesias",
+    "small_blind": 1.0,
+    "player_big_blind": "PANDAisEVIL",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "8d",
+            "3c"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "EstyzBallnn",
+                "pingtennis",
+                "aleaga",
+                "Julio Iglesias",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                5.0,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Julio Iglesias",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.7,
+                5.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Julio Iglesias",
+                "PANDAisEVIL",
+                "Julio Iglesias"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                13.78,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        213.53,
+        81.35,
+        396.3,
+        80.0,
+        307.1,
+        83.3,
+        253.59
+    ]
+}

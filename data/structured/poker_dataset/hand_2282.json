@@ -1,168 +1,127 @@
 {
-    "date": "2016/11/21 14:52:50",
-    "game_id": "781105821",
+    "date": "2016/9/18 9:16:24",
+    "game_id": "730250236",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 6,
     "players": [
-        "GagaPoker",
-        "imperceptible",
-        "FirstClan",
-        "texaswarthog",
-        "Chipburnner",
-        "Parcker",
-        "ACESOVAKINGZ",
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "Pablo46",
+        "gosu36484",
         "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
-        5,
         6,
-        7,
         9
     ],
     "starting_stacks": [
-        50.0,
-        15.75,
-        50.0,
-        36.62,
-        26.3,
-        50.0,
-        72.56,
-        21.75
+        176.32,
+        105.76,
+        100.0,
+        37.53,
+        43.86
     ],
-    "player_small_blind": "texaswarthog",
-    "small_blind": 0.25,
-    "player_big_blind": "Chipburnner",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4d",
-        "2c"
+        "10h",
+        "9h"
     ],
     "dealed_cards": {
         "flop": [
-            "2h",
-            "10d",
-            "7h"
+            "4h",
+            "8c",
+            "Ac"
         ],
         "turn": [
-            "Jc"
+            "3s"
         ],
-        "river": [
-            "4c"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Parcker",
-                "ACESOVAKINGZ",
+                "VegetablesArentYummy",
+                "Pablo46",
+                "gosu36484",
                 "IlxxxlI",
-                "GagaPoker",
-                "imperceptible",
-                "FirstClan",
-                "texaswarthog",
-                "Chipburnner"
+                "BlitzWaut",
+                "gosu36484"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
                 "FOLD",
+                "RAISE",
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL",
-                "CHECK"
+                "CALL"
             ],
             "values": [
                 null,
-                0.5,
                 null,
+                2.0,
+                2.5,
                 null,
-                null,
-                null,
-                0.25,
-                null
+                1.0
             ]
         },
         "post-flop": {
             "players": [
-                "texaswarthog",
-                "Chipburnner",
-                "ACESOVAKINGZ"
+                "IlxxxlI",
+                "gosu36484"
             ],
             "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null,
-                null
+                3.32,
+                3.32
             ]
         },
         "post-turn": {
             "players": [
-                "texaswarthog",
-                "Chipburnner",
-                "ACESOVAKINGZ",
-                "texaswarthog",
-                "Chipburnner"
+                "IlxxxlI",
+                "gosu36484",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
-                "CHECK",
                 "BET",
-                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
-                null,
-                1.0,
-                1.0,
+                8.0,
                 null
             ]
         },
         "post-river": {
-            "players": [
-                "texaswarthog",
-                "ACESOVAKINGZ"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        "2d Kc",
         null,
-        null,
-        "9h Ac",
         null
     ],
     "finishing_stack": [
-        50.0,
-        15.75,
-        50.0,
-        38.449999999999996,
-        25.8,
-        50.0,
-        71.06,
-        21.75
+        175.32,
+        105.76,
+        100.0,
+        44.17,
+        37.54
     ]
 }

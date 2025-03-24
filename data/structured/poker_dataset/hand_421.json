@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 14:21:44",
-    "game_id": "787003436",
+    "date": "2016/9/5 12:6:28",
+    "game_id": "720259403",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "VegetablesArentYummy",
+        "bigrpk22",
+        "lars76",
         "IlxxxlI",
-        "IbetUmuck",
-        "DonCesarGrinder",
-        "MadLifeGrinder",
-        "LloydXmas"
+        "ShtrafBat",
+        "follower1",
+        "RapaNui"
     ],
     "players_seats": [
         1,
@@ -22,66 +22,99 @@
         6
     ],
     "starting_stacks": [
-        231.2,
-        82.55,
-        875.65,
-        249.14,
-        203.0,
-        232.03
+        162.0,
+        156.4,
+        80.0,
+        82.65,
+        345.48,
+        214.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "IbetUmuck",
-    "big_blind": 2.0,
+    "player_small_blind": "bigrpk22",
+    "small_blind": 2.0,
+    "player_big_blind": "lars76",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "9d"
+        "7s",
+        "Kc"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "Ks",
+            "9h",
+            "Ac"
+        ],
+        "turn": [
+            "7c"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "DonCesarGrinder",
-                "MadLifeGrinder",
-                "LloydXmas",
-                "VegetablesArentYummy",
                 "IlxxxlI",
-                "IbetUmuck",
-                "MadLifeGrinder"
+                "ShtrafBat",
+                "follower1",
+                "RapaNui",
+                "bigrpk22",
+                "lars76"
             ],
             "actions": [
                 "FOLD",
                 "RAISE",
-                "RAISE",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                5.0,
-                18.0,
+                8.0,
                 null,
+                8.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lars76",
+                "ShtrafBat",
+                "RapaNui"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "lars76",
+                "ShtrafBat",
+                "RapaNui",
+                "lars76",
+                "ShtrafBat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                20.0,
+                null,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -98,11 +131,11 @@
         null
     ],
     "finishing_stack": [
-        231.2,
-        81.55,
-        873.65,
-        249.14,
-        198.0,
-        240.03
+        160.0,
+        148.4,
+        80.0,
+        74.65,
+        345.48,
+        231.75
     ]
 }

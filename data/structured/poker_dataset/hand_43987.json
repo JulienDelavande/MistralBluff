@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/1 14:13:38",
+    "game_id": "788633587",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "WeakAndWeary",
+        "virtualbox",
+        "tachok77",
+        "QDevilQ",
+        "IlxxxlI",
+        "BHawk12"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        56.15,
+        50.0,
+        30.95,
+        50.0,
+        20.75,
+        75.8
+    ],
+    "player_small_blind": "tachok77",
+    "small_blind": 0.25,
+    "player_big_blind": "QDevilQ",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "5s",
+            "10h"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "BHawk12",
+                "WeakAndWeary",
+                "virtualbox",
+                "tachok77",
+                "QDevilQ"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "QDevilQ",
+                "virtualbox",
+                "QDevilQ",
+                "virtualbox"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.64,
+                2.0,
+                1.36
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "QDevilQ",
+                "virtualbox",
+                "QDevilQ"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.46,
+                4.46
+            ]
+        },
+        "post-river": {
+            "players": [
+                "QDevilQ",
+                "virtualbox",
+                "QDevilQ"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.33,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.15,
+        56.96,
+        30.7,
+        42.54,
+        20.75,
+        75.8
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "date": "2016/12/2 14:52:5",
+    "game_id": "789318900",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "StephCurry",
+        "hodisuda",
+        "IlxxxlI",
+        "BluffDoctor",
+        "kingkong508",
+        "ElvenEyes",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        100.0,
+        103.05,
+        51.12,
+        269.76,
+        92.01,
+        108.06,
+        118.53
+    ],
+    "player_small_blind": "ElvenEyes",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "Ad",
+            "8c"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "StephCurry",
+                "hodisuda",
+                "IlxxxlI",
+                "BluffDoctor",
+                "kingkong508",
+                "ElvenEyes",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.5,
+                null,
+                null,
+                null,
+                2.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.37,
+                2.37
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "VegetablesArentYummy",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "VegetablesArentYummy",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.75,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        103.05,
+        45.25,
+        269.76,
+        92.01,
+        107.56,
+        124.28999999999999
+    ]
+}

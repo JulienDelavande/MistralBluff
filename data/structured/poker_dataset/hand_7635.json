@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/27 16:31:24",
+    "game_id": "807107023",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "N1cer1ver",
+        "HapKoTuk",
+        "wwww111",
+        "heraklinos89",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.92,
+        65.07,
+        11.08,
+        18.9,
+        16.71
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "N1cer1ver",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "7d",
+            "7c"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "wwww111",
+                "heraklinos89",
+                "IlxxxlI",
+                "N1cer1ver"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "N1cer1ver",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "N1cer1ver",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.01,
+                1.01
+            ]
+        },
+        "post-river": {
+            "players": [
+                "N1cer1ver",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.29,
+                2.29
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ac 8c",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        16.66,
+        61.019999999999996,
+        11.08,
+        18.9,
+        16.61
+    ]
+}

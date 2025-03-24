@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 8:52:46",
-    "game_id": "786770923",
+    "date": "2016/9/17 11:26:15",
+    "game_id": "729557150",
     "variant": "PRR",
-    "table_name": "Gorgons-7",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "Evilclown",
-        "Heksebrygg",
-        "Dirty4skin",
-        "imperceptible",
-        "Tilt-A-Whirl",
-        "IlxxxlI"
+        "SheppyPOO!!",
+        "RCSOX",
+        "IlxxxlI",
+        "Johannah12",
+        "pokerhawk333",
+        "Pureprofit4"
     ],
     "players_seats": [
         1,
@@ -22,81 +22,109 @@
         6
     ],
     "starting_stacks": [
-        19.5,
-        51.59,
-        46.09,
-        21.28,
-        51.75,
-        23.48
+        212.7,
+        85.07,
+        273.08,
+        220.32,
+        89.86,
+        309.5
     ],
-    "player_small_blind": "Tilt-A-Whirl",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "RCSOX",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "8c"
+        "Qc",
+        "5s"
     ],
     "dealed_cards": {
         "flop": [
-            "6d",
-            "Kc",
-            "5c"
+            "Ah",
+            "Jh",
+            "10d"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "9h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Evilclown",
-                "Heksebrygg",
-                "Dirty4skin",
-                "imperceptible",
-                "Tilt-A-Whirl",
-                "IlxxxlI"
+                "IlxxxlI",
+                "Johannah12",
+                "pokerhawk333",
+                "Pureprofit4",
+                "SheppyPOO!!",
+                "RCSOX"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
+                "FOLD",
+                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
+                8.0,
                 null,
                 null,
-                1.25,
-                1.0
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "Tilt-A-Whirl",
-                "IlxxxlI"
+                "RCSOX",
+                "pokerhawk333",
+                "RCSOX"
             ],
             "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.92,
+                8.92
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "RCSOX",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "RCSOX",
+                "pokerhawk333",
+                "RCSOX"
+            ],
+            "actions": [
+                "CHECK",
                 "BET",
                 "FOLD"
             ],
             "values": [
-                1.42,
+                null,
+                17.74,
                 null
             ]
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
@@ -108,11 +136,11 @@
         null
     ],
     "finishing_stack": [
-        19.5,
-        51.59,
-        46.09,
-        21.28,
-        53.1,
-        21.98
+        210.7,
+        68.14999999999999,
+        273.08,
+        220.32,
+        108.43,
+        309.5
     ]
 }

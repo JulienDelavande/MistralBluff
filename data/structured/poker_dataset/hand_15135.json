@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/23 11:19:28",
+    "game_id": "804337481",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "virtualbox",
+        "Boeing-747",
+        "threekingsriver",
+        "Maria_Pia",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.25,
+        49.5,
+        51.59,
+        28.37,
+        50.75
+    ],
+    "player_small_blind": "Boeing-747",
+    "small_blind": 0.25,
+    "player_big_blind": "threekingsriver",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "8h",
+            "Jh"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Maria_Pia",
+                "IlxxxlI",
+                "virtualbox",
+                "Boeing-747",
+                "threekingsriver"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "threekingsriver",
+                "virtualbox"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "threekingsriver",
+                "virtualbox"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "threekingsriver",
+                "virtualbox"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qh Jd",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        51.39,
+        49.25,
+        50.59,
+        28.37,
+        50.75
+    ]
+}

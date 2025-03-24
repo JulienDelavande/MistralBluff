@@ -1,45 +1,42 @@
 {
-    "date": "2016/11/29 15:13:5",
-    "game_id": "787023410",
+    "date": "2016/9/4 9:41:18",
+    "game_id": "719274583",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
+        "SheppyPOO!!",
         "IlxxxlI",
-        "jjeannin1",
-        "trader063",
-        "Parcker",
-        "Jui Kuen"
+        "Kak_Ded_Y4il",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
+        1,
         2,
         3,
-        4,
-        5,
         6
     ],
     "starting_stacks": [
-        35.63,
-        36.14,
-        32.72,
-        89.4,
-        76.78
+        270.6,
+        98.0,
+        200.0,
+        200.0
     ],
-    "player_small_blind": "Parcker",
-    "small_blind": 0.25,
-    "player_big_blind": "Jui Kuen",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8s",
-        "4h"
+        "9s",
+        "Js"
     ],
     "dealed_cards": {
         "flop": [
-            "8h",
-            "3s",
-            "10d"
+            "10h",
+            "10s",
+            "8h"
         ],
         "turn": [],
         "river": []
@@ -48,31 +45,28 @@
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "jjeannin1",
-                "trader063",
-                "Parcker",
-                "Jui Kuen"
+                "Kak_Ded_Y4il",
+                "VegetablesArentYummy",
+                "SheppyPOO!!"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
                 "FOLD",
-                "FOLD",
-                "CHECK"
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
-                0.5,
                 null,
-                null,
-                null
+                8.0,
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "Jui Kuen",
-                "jjeannin1",
-                "Jui Kuen"
+                "VegetablesArentYummy",
+                "SheppyPOO!!",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "CHECK",
@@ -81,7 +75,7 @@
             ],
             "values": [
                 null,
-                0.5,
+                16.0,
                 null
             ]
         },
@@ -100,14 +94,12 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        35.63,
-        36.83,
-        32.72,
-        89.15,
-        76.28
+        280.40000000000003,
+        98.0,
+        200.0,
+        190.0
     ]
 }

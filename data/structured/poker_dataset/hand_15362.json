@@ -1,0 +1,115 @@
+{
+    "date": "2016/12/23 7:50:49",
+    "game_id": "804178416",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "nemesh123",
+        "Ksander",
+        "Irthe1"
+    ],
+    "players_seats": [
+        1,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.5,
+        8.06,
+        21.06,
+        10.43
+    ],
+    "player_small_blind": "Irthe1",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "7s",
+            "7h"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "nemesh123",
+                "Ksander",
+                "Irthe1",
+                "IlxxxlI",
+                "Irthe1"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.15,
+                1.0,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Irthe1",
+                "IlxxxlI",
+                "Irthe1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.58,
+                9.18,
+                7.6
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Ah Ad",
+        null,
+        null,
+        "10c Qd"
+    ],
+    "finishing_stack": [
+        21.89,
+        8.06,
+        21.06,
+        0.0
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "date": "2016/12/1 11:24:55",
+    "game_id": "788533807",
+    "variant": "PRR",
+    "table_name": "Lakhey-10",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "KingGuciGuci",
+        "AironVega",
+        "IlxxxlI",
+        "BeAboutIt"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        254.76,
+        308.51,
+        80.0,
+        200.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "BeAboutIt",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "5d",
+            "5s"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "KingGuciGuci",
+                "AironVega",
+                "IlxxxlI",
+                "BeAboutIt"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                4.4,
+                null,
+                null,
+                2.4
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BeAboutIt",
+                "KingGuciGuci",
+                "BeAboutIt"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.9,
+                4.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BeAboutIt",
+                "KingGuciGuci",
+                "BeAboutIt"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                33.9,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        264.08,
+        308.51,
+        79.0,
+        190.7
+    ]
+}

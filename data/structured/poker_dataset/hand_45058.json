@@ -1,0 +1,154 @@
+{
+    "date": "2016/12/1 9:45:51",
+    "game_id": "788453983",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "IlxxxlI",
+        "St3p04ka",
+        "VegetablesArentYummy",
+        "MadLifeGrinder",
+        "RunnerLucker",
+        "TonnaMunz",
+        "eagle0604",
+        "dankmann"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        80.0,
+        162.0,
+        227.27,
+        221.33,
+        273.99,
+        263.77,
+        165.39,
+        207.0
+    ],
+    "player_small_blind": "dankmann",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "5d",
+            "2s"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "St3p04ka",
+                "VegetablesArentYummy",
+                "MadLifeGrinder",
+                "RunnerLucker",
+                "TonnaMunz",
+                "eagle0604",
+                "dankmann",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "TonnaMunz"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                5.0,
+                null,
+                5.0,
+                null,
+                21.0,
+                null,
+                17.0,
+                17.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dankmann",
+                "MadLifeGrinder",
+                "TonnaMunz"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                34.0,
+                34.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dankmann",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                151.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        78.0,
+        162.0,
+        227.27,
+        165.33,
+        273.99,
+        241.76999999999998,
+        165.39,
+        284.0
+    ]
+}

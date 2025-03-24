@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/7 10:16:6",
+    "game_id": "792533976",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "BoTPuMHeDichBro",
+        "ABMTLQC",
+        "Amph1tryons",
+        "Irene13",
+        "IlxxxlI",
+        "bingobangobongo"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        41.7,
+        32.17,
+        50.64,
+        11.08,
+        30.68
+    ],
+    "player_small_blind": "BoTPuMHeDichBro",
+    "small_blind": 0.1,
+    "player_big_blind": "ABMTLQC",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "Ah",
+            "5c"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Amph1tryons",
+                "Irene13",
+                "IlxxxlI",
+                "bingobangobongo",
+                "BoTPuMHeDichBro",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BoTPuMHeDichBro",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.35,
+                0.35
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BoTPuMHeDichBro",
+                "ABMTLQC",
+                "BoTPuMHeDichBro"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.39,
+                1.39
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BoTPuMHeDichBro",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Jc Jd",
+        "8d 6d",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.25,
+        39.21,
+        32.17,
+        50.64,
+        11.08,
+        30.68
+    ]
+}

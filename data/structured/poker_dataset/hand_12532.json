@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/24 21:19:12",
+    "game_id": "805227268",
+    "variant": "PRR",
+    "table_name": "Ettin-5",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "luckytilt84",
+        "micromanaging",
+        "mugiwara_boy",
+        "IlxxxlI",
+        "TheBigALofVA",
+        "tartlain"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+    ],
+    "starting_stacks": [
+        10.36,
+        12.16,
+        25.0,
+        25.0,
+        25.33,
+        35.47
+    ],
+    "player_small_blind": "mugiwara_boy",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "10h",
+            "7c"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TheBigALofVA",
+                "tartlain",
+                "luckytilt84",
+                "micromanaging",
+                "mugiwara_boy",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "mugiwara_boy",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.71,
+                0.71
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mugiwara_boy",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "mugiwara_boy",
+                "IlxxxlI",
+                "mugiwara_boy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.39,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.36,
+        12.16,
+        23.54,
+        26.32,
+        25.33,
+        35.47
+    ]
+}

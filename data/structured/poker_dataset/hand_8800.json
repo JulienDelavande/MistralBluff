@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/25 23:27:30",
+    "game_id": "805834595",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "MAGNIT",
+        "raraAvis8",
+        "IlxxxlI",
+        "Log_in",
+        "FatzPanda"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.5,
+        40.7,
+        12.5,
+        14.66,
+        16.8
+    ],
+    "player_small_blind": "raraAvis8",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "9c",
+            "5h"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Log_in",
+                "FatzPanda",
+                "MAGNIT",
+                "raraAvis8",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "FatzPanda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "FatzPanda",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "FatzPanda",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.29,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.5,
+        40.6,
+        10.74,
+        14.66,
+        18.48
+    ]
+}

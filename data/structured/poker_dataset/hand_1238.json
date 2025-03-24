@@ -1,19 +1,17 @@
 {
-    "date": "2016/11/29 9:2:11",
-    "game_id": "786777126",
+    "date": "2016/9/17 10:54:7",
+    "game_id": "729546535",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "Aquaman75",
+        "flyzlcomb07",
+        "RCSOX",
         "IlxxxlI",
-        "Ice Bank Mice Elf",
-        "Log_in",
-        "CumBckMuny",
-        "XxDominationxX",
-        "coldkilla",
-        "gunnfarm"
+        "graphicup",
+        "784rim",
+        "Pureprofit4"
     ],
     "players_seats": [
         1,
@@ -21,122 +19,87 @@
         3,
         4,
         5,
-        6,
-        7,
-        8
+        6
     ],
     "starting_stacks": [
-        62.53,
-        20.04,
-        60.43,
-        13.5,
-        35.01,
-        82.58,
-        65.24,
-        47.25
+        324.63,
+        179.02,
+        80.0,
+        172.0,
+        261.44,
+        309.81
     ],
-    "player_small_blind": "Log_in",
-    "small_blind": 0.25,
-    "player_big_blind": "CumBckMuny",
-    "big_blind": 0.5,
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "flyzlcomb07",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4h",
-        "9c"
+        "10h",
+        "Qc"
     ],
     "dealed_cards": {
         "flop": [
-            "5c",
-            "2s",
-            "3s"
+            "9h",
+            "4h",
+            "As"
         ],
-        "turn": [
-            "10d"
-        ],
-        "river": [
-            "Js"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "XxDominationxX",
-                "coldkilla",
-                "gunnfarm",
-                "Aquaman75",
+                "RCSOX",
                 "IlxxxlI",
-                "Ice Bank Mice Elf",
-                "Log_in",
-                "CumBckMuny"
+                "graphicup",
+                "784rim",
+                "Pureprofit4",
+                "flyzlcomb07"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
+                "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
+                10.0,
                 null,
                 null,
-                null,
-                1.0,
-                null,
-                0.5
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "CumBckMuny",
-                "Ice Bank Mice Elf",
-                "CumBckMuny",
-                "Ice Bank Mice Elf"
+                "flyzlcomb07",
+                "graphicup",
+                "flyzlcomb07"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.61,
-                4.0,
-                2.39
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "CumBckMuny",
-                "Ice Bank Mice Elf"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                4.87,
-                4.87
-            ]
-        },
-        "post-river": {
-            "players": [
-                "CumBckMuny",
-                "Ice Bank Mice Elf"
-            ],
-            "actions": [
-                "BET",
                 "FOLD"
             ],
             "values": [
-                9.5,
+                null,
+                12.0,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -145,18 +108,14 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        62.53,
-        20.04,
-        50.56,
-        13.25,
-        44.14,
-        82.58,
-        65.24,
-        47.25
+        314.63,
+        179.02,
+        80.0,
+        183.8,
+        261.44,
+        307.81
     ]
 }

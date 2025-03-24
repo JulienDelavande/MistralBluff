@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/1 16:27:28",
+    "game_id": "788679485",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "DirtyDog98",
+        "DiiMinores",
+        "flyshark01",
+        "CattleCorner"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        104.12,
+        102.43,
+        108.01,
+        308.93
+    ],
+    "player_small_blind": "CattleCorner",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "4s",
+            "7h"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DirtyDog98",
+                "DiiMinores",
+                "flyshark01",
+                "CattleCorner",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                3.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CattleCorner",
+                "DiiMinores",
+                "CattleCorner"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.27,
+                4.27
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CattleCorner",
+                "DiiMinores",
+                "CattleCorner"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.11,
+                11.11
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CattleCorner",
+                "DiiMinores",
+                "CattleCorner"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                25.18,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        39.0,
+        104.12,
+        120.83000000000001,
+        108.01,
+        289.55
+    ]
+}

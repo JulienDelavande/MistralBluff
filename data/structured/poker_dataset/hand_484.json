@@ -1,83 +1,83 @@
 {
-    "date": "2016/11/29 14:15:28",
-    "game_id": "787000847",
+    "date": "2016/9/5 12:20:8",
+    "game_id": "720263588",
     "variant": "PRR",
-    "table_name": "Kraken-23",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "WeakAndWeary",
-        "LloydXmas",
-        "Sephiroth1",
-        "ElvenEyes",
-        "IlxxxlI"
+        "follower1",
+        "IlxxxlI",
+        "whitnez33",
+        "bigrpk22",
+        "RapaNui",
+        "St3p04ka"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        115.79,
-        101.55,
-        100.0,
-        119.95,
-        40.64
+        247.25,
+        152.35,
+        284.17,
+        256.35,
+        211.7,
+        80.0
     ],
-    "player_small_blind": "ElvenEyes",
-    "small_blind": 0.5,
+    "player_small_blind": "St3p04ka",
+    "small_blind": 2.0,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "Qd"
+        "8h",
+        "10h"
     ],
     "dealed_cards": {
         "flop": [
+            "3d",
             "8s",
-            "2d",
-            "6d"
+            "2d"
         ],
         "turn": [
-            "6c"
+            "2c"
         ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "WeakAndWeary",
-                "LloydXmas",
-                "Sephiroth1",
-                "ElvenEyes",
-                "IlxxxlI",
-                "WeakAndWeary"
+                "whitnez33",
+                "bigrpk22",
+                "RapaNui",
+                "St3p04ka",
+                "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
-                "RAISE",
                 "FOLD",
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
-                3.0,
-                10.5,
+                null,
+                10.0,
                 null,
                 null,
-                null,
-                7.5
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "WeakAndWeary",
-                "LloydXmas",
-                "WeakAndWeary"
+                "IlxxxlI",
+                "bigrpk22",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
@@ -92,9 +92,9 @@
         },
         "post-turn": {
             "players": [
-                "WeakAndWeary",
-                "LloydXmas",
-                "WeakAndWeary"
+                "IlxxxlI",
+                "bigrpk22",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
@@ -103,7 +103,7 @@
             ],
             "values": [
                 null,
-                32.0,
+                28.0,
                 null
             ]
         },
@@ -118,13 +118,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        93.29,
-        123.22999999999999,
-        100.0,
-        119.45,
-        39.64
+        247.25,
+        130.35,
+        284.17,
+        279.90000000000003,
+        211.7,
+        78.0
     ]
 }

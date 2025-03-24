@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/6 16:55:51",
+    "game_id": "792165673",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "Schmoops",
+        "IlxxxlI",
+        "gust",
+        "dkfoury",
+        "ThxBro"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        45.4,
+        93.21,
+        56.0,
+        127.23
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "gust",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "10d",
+            "10h"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dkfoury",
+                "ThxBro",
+                "Schmoops",
+                "IlxxxlI",
+                "gust"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                null,
+                1.5,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "gust",
+                "dkfoury"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "gust",
+                "dkfoury"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                14.0,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        52.62,
+        89.30999999999999,
+        52.1,
+        127.23
+    ]
+}

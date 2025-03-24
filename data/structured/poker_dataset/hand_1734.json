@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 20:7:35",
-    "game_id": "786369582",
+    "date": "2016/9/18 8:3:12",
+    "game_id": "730207377",
     "variant": "PRR",
-    "table_name": "Lakhey",
+    "table_name": "Monopod",
     "type_game": "Short",
-    "button_seat": 5,
+    "button_seat": 2,
     "players": [
-        "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "Are you with me",
-        "Wollverin",
-        "dscshift"
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "UrSoDumb",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -19,90 +21,76 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        40.0,
-        183.39,
-        100.79,
-        76.35,
-        111.24,
-        106.8
+        201.54,
+        243.0,
+        320.3,
+        594.98,
+        249.6,
+        205.8,
+        299.65,
+        114.9
     ],
-    "player_small_blind": "dscshift",
-    "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "player_small_blind": "Cellar door",
+    "small_blind": 2.0,
+    "player_big_blind": "TryNotToTilt",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jd",
-        "4s"
+        "Jc",
+        "Jh"
     ],
     "dealed_cards": {
-        "flop": [
-            "Qc",
-            "7c",
-            "Kd"
-        ],
-        "turn": [
-            "4h"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "38979",
-                "sheenius81",
-                "Are you with me",
-                "Wollverin",
-                "dscshift",
-                "IlxxxlI"
+                "UrSoDumb",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
+                "IlxxxlI",
+                "ABCD123",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
                 null,
-                4.0,
-                3.0,
+                8.0,
+                null,
+                null,
+                null,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "dscshift",
-                "Wollverin"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "dscshift",
-                "Wollverin"
-            ],
-            "actions": [
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                10.0,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -116,14 +104,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        38.0,
-        183.39,
-        100.79,
-        76.35,
-        107.24,
-        112.3
+        201.54,
+        243.0,
+        318.3,
+        590.98,
+        249.6,
+        205.8,
+        299.65,
+        120.9
     ]
 }

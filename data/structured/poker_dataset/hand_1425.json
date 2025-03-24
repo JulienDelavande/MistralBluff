@@ -1,81 +1,146 @@
 {
-    "date": "2016/11/29 8:7:20",
-    "game_id": "786729381",
+    "date": "2016/9/17 16:4:25",
+    "game_id": "729623493",
     "variant": "PRR",
-    "table_name": "Kraken-2",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "MrCRABS333",
-        "Qrenor",
-        "IlxxxlI"
+        "jbaker10031",
+        "38979",
+        "IlxxxlI",
+        "blaz77",
+        "Full Circle",
+        "gust"
     ],
     "players_seats": [
         1,
+        2,
+        3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        218.05,
-        338.94,
-        44.8
+        29.47,
+        100.0,
+        127.34,
+        105.0,
+        115.5,
+        88.41
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "MrCRABS333",
-    "big_blind": 1.0,
+    "player_small_blind": "38979",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9d",
-        "6c"
+        "Ah",
+        "9h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "3c",
+            "9s",
+            "3d"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "5d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Qrenor",
+                "blaz77",
+                "Full Circle",
+                "gust",
+                "jbaker10031",
+                "38979",
                 "IlxxxlI",
-                "MrCRABS333"
+                "Full Circle"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
-                "FOLD"
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
             ],
             "values": [
+                null,
                 2.0,
                 null,
-                null
+                null,
+                null,
+                4.0,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Full Circle"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.17,
+                6.17
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Full Circle",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                16.05,
+                16.05
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Full Circle"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
+        "Ah 9h",
+        null,
+        "2c Ac",
         null
     ],
     "finishing_stack": [
-        217.05,
-        340.44,
-        44.3
+        29.47,
+        99.0,
+        153.69,
+        105.0,
+        87.28,
+        88.41
     ]
 }

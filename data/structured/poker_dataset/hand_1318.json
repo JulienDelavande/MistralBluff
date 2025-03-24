@@ -1,88 +1,112 @@
 {
-    "date": "2016/11/29 8:45:17",
-    "game_id": "786764190",
+    "date": "2016/9/17 11:54:51",
+    "game_id": "729565456",
     "variant": "PRR",
-    "table_name": "Gorgons-7",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "Heksebrygg",
-        "Dirty4skin",
-        "IlxxxlI"
+        "SheppyPOO!!",
+        "RCSOX",
+        "IlxxxlI",
+        "Johannah12",
+        "pokerhawk333",
+        "xx_HaZ"
     ],
     "players_seats": [
+        1,
         2,
         3,
+        4,
+        5,
         6
     ],
     "starting_stacks": [
-        50.0,
-        50.25,
-        20.0
+        256.44,
+        140.51,
+        261.16,
+        202.0,
+        214.78,
+        200.0
     ],
-    "player_small_blind": "Dirty4skin",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "Johannah12",
+    "small_blind": 2.0,
+    "player_big_blind": "pokerhawk333",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7d",
-        "3h"
+        "Jd",
+        "2h"
     ],
     "dealed_cards": {
         "flop": [
+            "9s",
             "4d",
-            "Kc",
-            "10c"
+            "As"
         ],
         "turn": [
-            "2s"
+            "7h"
         ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Heksebrygg",
-                "Dirty4skin",
-                "IlxxxlI"
+                "xx_HaZ",
+                "SheppyPOO!!",
+                "RCSOX",
+                "IlxxxlI",
+                "Johannah12",
+                "pokerhawk333"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
-                "CALL",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
-                1.0,
-                0.75,
-                null
+                null,
+                10.0,
+                null,
+                null,
+                null,
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "Dirty4skin",
-                "Heksebrygg"
+                "pokerhawk333",
+                "SheppyPOO!!",
+                "pokerhawk333"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
                 null,
-                null
+                8.0,
+                8.0
             ]
         },
         "post-turn": {
             "players": [
-                "Dirty4skin",
-                "Heksebrygg"
+                "pokerhawk333",
+                "SheppyPOO!!",
+                "pokerhawk333"
             ],
             "actions": [
+                "CHECK",
                 "BET",
                 "FOLD"
             ],
             "values": [
-                1.58,
+                null,
+                23.0,
                 null
             ]
         },
@@ -95,11 +119,17 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        49.0,
-        51.63,
-        19.5
+        276.09,
+        140.51,
+        261.16,
+        200.0,
+        196.78,
+        200.0
     ]
 }

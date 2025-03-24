@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 19:55:9",
-    "game_id": "786366981",
+    "date": "2016/9/18 8:15:23",
+    "game_id": "730215248",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 3,
+    "table_name": "Karkadann-3",
+    "type_game": "Hold'em",
+    "button_seat": 8,
     "players": [
-        "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "brokenlucks",
-        "GamblerPaul",
-        "gfclbv"
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "BiggestFan07",
+        "BullsNationBitch",
+        "Pimpika",
+        "gosu36484",
+        "Frisconar",
+        "FirstClan",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -19,116 +22,127 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.0,
         100.0,
-        99.47,
-        93.18,
-        40.0,
-        236.0
+        104.56,
+        74.59,
+        49.64,
+        80.79,
+        35.0,
+        38.5,
+        143.82,
+        41.8
     ],
-    "player_small_blind": "brokenlucks",
-    "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8d",
-        "Jc"
+        "8h",
+        "Qh"
     ],
     "dealed_cards": {
         "flop": [
-            "10c",
-            "3c",
-            "5s"
+            "Kc",
+            "Ks",
+            "8d"
         ],
-        "turn": [
-            "2h"
-        ],
-        "river": [
-            "10s"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "38979",
-                "sheenius81",
-                "brokenlucks",
-                "IlxxxlI"
+                "VegetablesArentYummy",
+                "BiggestFan07",
+                "BullsNationBitch",
+                "Pimpika",
+                "gosu36484",
+                "Frisconar",
+                "FirstClan",
+                "IlxxxlI",
+                "BlitzWaut"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
+                "CALL",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
-                4.0,
+                1.0,
                 null,
-                2.0
+                null,
+                1.0,
+                null,
+                null,
+                0.5,
+                null
             ]
         },
         "post-flop": {
             "players": [
                 "IlxxxlI",
-                "sheenius81"
+                "BlitzWaut",
+                "BiggestFan07",
+                "gosu36484"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
+                1.9,
+                null,
                 null,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "sheenius81"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "IlxxxlI",
-                "sheenius81"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "8d Jc",
         null,
-        "8c As",
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        36.0,
-        100.0,
-        104.02,
-        92.18,
-        40.0,
-        236.0
+        99.0,
+        104.56,
+        73.59,
+        49.64,
+        80.79,
+        34.0,
+        38.5,
+        143.82,
+        44.599999999999994
     ]
 }

@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/8 6:54:37",
+    "game_id": "793072724",
+    "variant": "PRR",
+    "table_name": "Ekek-11",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "raraAvis8",
+        "IlxxxlI",
+        "FirstClan",
+        "shodan33",
+        "bakso100"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        37.01,
+        10.35,
+        25.0,
+        28.89,
+        20.25
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "FirstClan",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "10c",
+            "4s"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "shodan33",
+                "bakso100",
+                "raraAvis8",
+                "IlxxxlI",
+                "FirstClan"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "FirstClan",
+                "bakso100",
+                "IlxxxlI",
+                "FirstClan"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.48,
+                0.48,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "bakso100",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.08,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        37.01,
+        9.62,
+        24.75,
+        28.89,
+        21.15
+    ]
+}

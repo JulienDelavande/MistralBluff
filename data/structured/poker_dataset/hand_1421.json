@@ -1,61 +1,98 @@
 {
-    "date": "2016/11/29 8:7:57",
-    "game_id": "786729961",
+    "date": "2016/9/17 16:1:39",
+    "game_id": "729622765",
     "variant": "PRR",
-    "table_name": "Kraken-3",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "shokerAAss",
+        "jbaker10031",
+        "38979",
         "IlxxxlI",
-        "Qrenor"
+        "blaz77",
+        "Full Circle",
+        "gust"
     ],
     "players_seats": [
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        6
     ],
     "starting_stacks": [
+        46.74,
         100.0,
-        40.0,
-        292.15
+        127.34,
+        104.0,
+        100.0,
+        87.41
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "shokerAAss",
-    "big_blind": 1.0,
+    "player_small_blind": "blaz77",
+    "small_blind": 1.0,
+    "player_big_blind": "Full Circle",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8c",
-        "10d"
+        "Qd",
+        "6s"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "8s",
+            "2c",
+            "7d"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "gust",
+                "jbaker10031",
+                "38979",
                 "IlxxxlI",
-                "shokerAAss",
-                "IlxxxlI"
+                "blaz77",
+                "Full Circle"
             ],
             "actions": [
+                "FOLD",
                 "CALL",
-                "RAISE",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
             ],
             "values": [
-                0.5,
+                null,
                 2.0,
+                null,
+                null,
+                1.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "blaz77",
+                "Full Circle",
+                "jbaker10031",
+                "blaz77"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.8,
+                null,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -71,11 +108,17 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        101.0,
-        39.0,
-        292.15
+        44.74,
+        100.0,
+        127.34,
+        102.0,
+        103.7,
+        87.41
     ]
 }

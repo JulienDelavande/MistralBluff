@@ -1,0 +1,116 @@
+{
+    "date": "2016/12/7 9:1:19",
+    "game_id": "792475919",
+    "variant": "PRR",
+    "table_name": "Gorgons-12",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "THEKELL",
+        "GetPaidGetLaid",
+        "IlxxxlI",
+        "Stuck4Lyfe",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        37.04,
+        52.04,
+        20.0,
+        21.03,
+        96.92
+    ],
+    "player_small_blind": "THEKELL",
+    "small_blind": 0.25,
+    "player_big_blind": "GetPaidGetLaid",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "10s",
+            "7d"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Stuck4Lyfe",
+                "so_it_goes",
+                "THEKELL",
+                "GetPaidGetLaid"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "THEKELL",
+                "GetPaidGetLaid",
+                "so_it_goes",
+                "THEKELL"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                1.9,
+                null,
+                6.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        34.14,
+        51.04,
+        20.0,
+        21.03,
+        100.47999999999999
+    ]
+}

@@ -1,143 +1,92 @@
 {
-    "date": "2016/11/21 14:36:25",
-    "game_id": "781098742",
+    "date": "2016/9/18 9:20:1",
+    "game_id": "730252049",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
     "button_seat": 6,
     "players": [
-        "GagaPoker",
-        "imperceptible",
-        "MaxWoof",
-        "texaswarthog",
-        "Chipburnner",
-        "Parcker",
-        "ACESOVAKINGZ",
-        "Spagetti1",
+        "BlitzWaut",
+        "gosu36484",
         "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
-        3,
-        4,
-        5,
         6,
-        7,
-        8,
         9
     ],
     "starting_stacks": [
-        67.76,
-        17.42,
-        37.84,
-        20.31,
-        37.25,
-        50.0,
-        58.47,
-        91.59,
-        20.0
+        171.32,
+        49.17,
+        40.0
     ],
-    "player_small_blind": "ACESOVAKINGZ",
-    "small_blind": 0.25,
-    "player_big_blind": "Spagetti1",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3c",
+        "5h",
         "Qh"
     ],
     "dealed_cards": {
         "flop": [
-            "2c",
-            "5s",
-            "8s"
+            "3s",
+            "7h",
+            "9d"
         ],
         "turn": [
-            "6s"
+            "9s"
         ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "gosu36484",
                 "IlxxxlI",
-                "GagaPoker",
-                "imperceptible",
-                "MaxWoof",
-                "texaswarthog",
-                "Chipburnner",
-                "Parcker",
-                "ACESOVAKINGZ",
-                "Spagetti1"
+                "BlitzWaut"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL",
-                "FOLD",
-                "CALL",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                null,
-                2.0,
-                2.0,
-                null,
-                1.75,
-                null
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "ACESOVAKINGZ",
-                "texaswarthog",
-                "Chipburnner",
-                "ACESOVAKINGZ",
-                "texaswarthog"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "BET",
-                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
-                null,
                 1.5,
-                null,
-                1.5
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
             ]
         },
         "post-turn": {
             "players": [
-                "texaswarthog",
-                "Chipburnner",
-                "texaswarthog",
-                "Chipburnner",
-                "texaswarthog"
+                "IlxxxlI",
+                "BlitzWaut",
+                "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "RAISE",
-                "RAISE",
-                "ALLIN"
+                "FOLD"
             ],
             "values": [
                 null,
-                3.01,
-                6.02,
-                15.05,
-                10.79
+                4.0,
+                null
             ]
         },
         "post-river": {
@@ -149,23 +98,11 @@
     "card_shown_by_players": [
         null,
         null,
-        null,
-        "Js Ks",
-        "5d 5c",
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        67.76,
-        17.42,
-        37.84,
-        40.97,
-        16.94,
-        50.0,
-        56.47,
-        91.09,
-        20.0
+        174.82999999999998,
+        49.17,
+        36.1
     ]
 }

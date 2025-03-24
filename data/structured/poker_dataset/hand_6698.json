@@ -1,0 +1,119 @@
+{
+    "date": "2016/10/13 10:21:51",
+    "game_id": "749613767",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Bluffing Every Hand",
+        "ROCKYII",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        57.19,
+        72.66,
+        50.0
+    ],
+    "player_small_blind": "Bluffing Every Hand",
+    "small_blind": 0.25,
+    "player_big_blind": "ROCKYII",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "5h",
+            "5d"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Bluffing Every Hand",
+                "ROCKYII"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Bluffing Every Hand",
+                "ROCKYII",
+                "Bluffing Every Hand"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                6.0,
+                4.1
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Bluffing Every Hand",
+                "ROCKYII"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Bluffing Every Hand",
+                "ROCKYII"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                11.5,
+                11.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qs 10h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        75.19,
+        53.66,
+        50.0
+    ]
+}

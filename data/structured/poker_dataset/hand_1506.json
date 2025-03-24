@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 7:48:34",
-    "game_id": "786715210",
+    "date": "2016/9/18 7:28:4",
+    "game_id": "730184973",
     "variant": "PRR",
-    "table_name": "Kraken-2",
+    "table_name": "Karkadann",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 8,
     "players": [
-        "MrCRABS333",
-        "AironVega",
-        "St3p04ka",
-        "Qrenor",
-        "MadLifeGrinder",
-        "IlxxxlI"
+        "IlxxxlI",
+        "0nlyDaNuts",
+        "Gargantuatua",
+        "or3o1990",
+        "Pimpika",
+        "BlitzWaut",
+        "KillinOMG",
+        "dartx",
+        "Chicubs2016"
     ],
     "players_seats": [
         1,
@@ -19,106 +22,116 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        165.07,
-        118.32,
-        100.0,
-        440.11,
-        107.05,
-        40.0
+        46.5,
+        91.0,
+        104.62,
+        195.31,
+        62.26,
+        101.5,
+        52.22,
+        58.58,
+        84.23
     ],
-    "player_small_blind": "MadLifeGrinder",
+    "player_small_blind": "Chicubs2016",
     "small_blind": 0.5,
     "player_big_blind": "IlxxxlI",
     "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9c",
-        "Jc"
+        "8c",
+        "As"
     ],
     "dealed_cards": {
         "flop": [
-            "4c",
-            "7h",
-            "Qd"
+            "10s",
+            "4d",
+            "3h"
         ],
         "turn": [
-            "8h"
+            "6h"
         ],
-        "river": [
-            "10s"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MrCRABS333",
-                "AironVega",
-                "St3p04ka",
-                "Qrenor",
-                "MadLifeGrinder",
-                "IlxxxlI"
+                "0nlyDaNuts",
+                "Gargantuatua",
+                "or3o1990",
+                "Pimpika",
+                "BlitzWaut",
+                "KillinOMG",
+                "dartx",
+                "Chicubs2016",
+                "IlxxxlI",
+                "dartx"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
+                "RAISE",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                2.0,
                 null,
-                1.0
+                null,
+                null,
+                3.0,
+                null,
+                6.0,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
                 "IlxxxlI",
-                "Qrenor"
+                "dartx"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null
+                4.59,
+                4.59
             ]
         },
         "post-turn": {
             "players": [
                 "IlxxxlI",
-                "Qrenor"
+                "dartx",
+                "IlxxxlI"
             ],
             "actions": [
+                "CHECK",
                 "BET",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                1.0,
-                1.0
+                null,
+                11.25,
+                null
             ]
         },
         "post-river": {
-            "players": [
-                "IlxxxlI",
-                "Qrenor"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                10.0,
-                10.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -127,14 +140,20 @@
         null,
         null,
         null,
-        "9c Jc"
+        null,
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        165.07,
-        118.32,
-        100.0,
-        427.11,
-        106.55,
-        52.18
+        34.91,
+        91.0,
+        104.62,
+        195.31,
+        62.26,
+        101.5,
+        52.22,
+        69.49,
+        83.73
     ]
 }

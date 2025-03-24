@@ -1,96 +1,123 @@
 {
-    "date": "2016/11/29 13:52:39",
-    "game_id": "786991607",
+    "date": "2016/9/5 12:29:57",
+    "game_id": "720266361",
     "variant": "PRR",
-    "table_name": "Karkadann-4",
-    "type_game": "Hold'em",
-    "button_seat": 9,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "StephCurry",
-        "dankmann",
-        "MadLifeGrinder",
-        "MaxWoof",
-        "Pla2Par",
+        "UrSoDumb",
+        "St3p04ka",
         "IlxxxlI",
-        "VegetablesArentYummy",
-        "zboiii"
+        "pokerhawk333",
+        "gust",
+        "jtee95",
+        "lars76"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
         5,
-        6,
         7,
-        8,
         9
     ],
     "starting_stacks": [
-        194.68,
+        174.45,
+        124.25,
+        44.75,
         100.0,
-        101.55,
-        116.24,
-        27.57,
-        40.0,
-        126.65,
-        133.65
+        80.0,
+        207.57,
+        113.1
     ],
-    "player_small_blind": "StephCurry",
-    "small_blind": 0.5,
-    "player_big_blind": "dankmann",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "pokerhawk333",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jh",
-        "6c"
+        "5d",
+        "4d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "7h",
+            "2d",
+            "7d"
+        ],
+        "turn": [
+            "Kc"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "MaxWoof",
-                "Pla2Par",
+                "gust",
+                "jtee95",
+                "lars76",
+                "UrSoDumb",
+                "St3p04ka",
                 "IlxxxlI",
-                "VegetablesArentYummy",
-                "zboiii",
-                "StephCurry",
-                "dankmann"
+                "pokerhawk333"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "CALL",
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "RAISE",
-                "FOLD",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
+                2.0,
+                2.0,
                 null,
-                null,
-                null,
-                3.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "pokerhawk333",
+                "lars76",
+                "UrSoDumb",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                10.0,
+                8.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "pokerhawk333",
+                "UrSoDumb",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                17.1,
+                162.45,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -105,17 +132,15 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        194.18,
-        99.0,
-        101.55,
-        116.24,
-        27.57,
-        40.0,
-        126.65,
-        135.15
+        203.55,
+        124.25,
+        43.75,
+        70.9,
+        80.0,
+        207.57,
+        111.1
     ]
 }

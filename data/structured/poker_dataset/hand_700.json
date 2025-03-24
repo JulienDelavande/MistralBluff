@@ -1,79 +1,86 @@
 {
-    "date": "2016/11/29 13:13:2",
-    "game_id": "786970592",
+    "date": "2016/9/6 0:12:58",
+    "game_id": "720619004",
     "variant": "PRR",
     "table_name": "Lakhey",
-    "type_game": "Hold'em",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "bfish602",
-        "KingGuciGuci",
-        "IbetUmuck",
-        "IlxxxlI",
-        "MadLifeGrinder",
-        "LazyFish"
+        "Oldhandsir",
+        "uncle_argyle",
+        "Maria26years",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
-        3,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        201.0,
-        209.22,
-        713.42,
-        80.0,
-        210.21,
-        288.05
+        100.0,
+        104.2,
+        98.0,
+        118.18
     ],
-    "player_small_blind": "IbetUmuck",
+    "player_small_blind": "Maria26years",
     "small_blind": 1.0,
     "player_big_blind": "IlxxxlI",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2h",
-        "10s"
+        "8s",
+        "5d"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "5c",
+            "Js",
+            "7c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "LazyFish",
-                "bfish602",
-                "KingGuciGuci",
-                "IbetUmuck",
-                "IlxxxlI"
+                "Oldhandsir",
+                "uncle_argyle",
+                "Maria26years",
+                "IlxxxlI",
+                "Oldhandsir"
             ],
             "actions": [
                 "RAISE",
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                5.0,
+                6.0,
                 null,
+                17.0,
                 null,
-                null,
-                null,
-                null
+                12.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Maria26years",
+                "Oldhandsir",
+                "Maria26years"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                16.0,
+                82.0,
+                64.0
+            ]
         },
         "post-turn": {
             "players": [],
@@ -87,19 +94,15 @@
         }
     },
     "card_shown_by_players": [
+        "Jd Kd",
         null,
-        null,
-        null,
-        null,
-        null,
+        "Jh Jc",
         null
     ],
     "finishing_stack": [
-        201.0,
-        209.22,
-        712.42,
-        78.0,
-        213.21,
-        288.05
+        2.0,
+        104.2,
+        196.0,
+        116.18
     ]
 }

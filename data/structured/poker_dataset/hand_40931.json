@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/2 14:1:24",
+    "game_id": "789298389",
+    "variant": "PRR",
+    "table_name": "Lakhey-8",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "enron_kenlay",
+        "Sephiroth1",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "LuxuryMaster"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        311.87,
+        436.38,
+        363.7,
+        91.27,
+        197.0
+    ],
+    "player_small_blind": "Sephiroth1",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "10s",
+            "10h"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "LuxuryMaster",
+                "enron_kenlay",
+                "Sephiroth1",
+                "VegetablesArentYummy",
+                "Sephiroth1",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                5.0,
+                16.0,
+                44.0,
+                32.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Sephiroth1",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                32.33,
+                32.33
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Sephiroth1",
+                "VegetablesArentYummy",
+                "Sephiroth1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                80.83,
+                80.83
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Sephiroth1",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ac 10c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        311.87,
+        273.22,
+        523.86,
+        91.27,
+        197.0
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/5 21:31:9",
+    "game_id": "791552026",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Orondi",
+        "emmettbrow",
+        "Oral-Bet",
+        "Chubrica",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        134.11,
+        106.15,
+        42.25,
+        100.0,
+        40.0
+    ],
+    "player_small_blind": "Chubrica",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "Js",
+            "10s"
+        ],
+        "turn": [
+            "Jh"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Orondi",
+                "emmettbrow",
+                "Oral-Bet",
+                "Chubrica",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "emmettbrow",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "emmettbrow"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "emmettbrow"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        134.11,
+        99.15,
+        42.25,
+        99.5,
+        46.78
+    ]
+}

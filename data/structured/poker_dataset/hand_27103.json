@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/7 19:45:47",
+    "game_id": "792779460",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "huiloputin",
+        "IampokerKidd",
+        "SkaHot",
+        "Irene13",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        52.43,
+        48.13,
+        28.68,
+        26.56,
+        12.19
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "Irene13",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "Qh",
+            "6s"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "huiloputin",
+                "IampokerKidd",
+                "SkaHot",
+                "Irene13"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Irene13",
+                "IampokerKidd",
+                "Irene13"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Irene13",
+                "IampokerKidd",
+                "Irene13",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.72,
+                5.16,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.43,
+        44.650000000000006,
+        28.58,
+        29.79,
+        12.19
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/15 13:21:4",
+    "game_id": "798443446",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "MrWaffles44",
+        "FirstClan",
+        "derynimind"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        51.2,
+        67.42,
+        74.14,
+        28.18
+    ],
+    "player_small_blind": "derynimind",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "2c",
+            "7c"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MrWaffles44",
+                "FirstClan",
+                "derynimind",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.1,
+                null,
+                0.6
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "FirstClan",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.77,
+                0.77
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "FirstClan"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "FirstClan"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kh 7h",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        54.84,
+        67.42,
+        70.37,
+        27.93
+    ]
+}

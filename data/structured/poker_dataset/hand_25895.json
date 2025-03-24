@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/8 8:21:7",
+    "game_id": "793140124",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "ijhAA",
+        "1OR0",
+        "Justooy",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        16.97,
+        30.55,
+        12.85,
+        5.74
+    ],
+    "player_small_blind": "1OR0",
+    "small_blind": 0.1,
+    "player_big_blind": "Justooy",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "7s",
+            "Jd"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "ijhAA",
+                "1OR0",
+                "Justooy"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.62,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Justooy",
+                "IlxxxlI",
+                "Justooy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Justooy",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Justooy",
+                "IlxxxlI",
+                "Justooy"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.75,
+                0.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "5s 5c"
+    ],
+    "finishing_stack": [
+        16.97,
+        30.45,
+        11.23,
+        7.300000000000001
+    ]
+}

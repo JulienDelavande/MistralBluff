@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 17:40:57",
+    "game_id": "793448323",
+    "variant": "PRR",
+    "table_name": "Gorgons-16",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Beep_Beep",
+        "BillyBob234",
+        "WeakAndWeary",
+        "Azaladog",
+        "terminally chill",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        64.74,
+        19.28,
+        156.9,
+        50.0,
+        73.68,
+        20.0
+    ],
+    "player_small_blind": "BillyBob234",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "10d",
+            "9d"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Azaladog",
+                "terminally chill",
+                "IlxxxlI",
+                "Beep_Beep",
+                "BillyBob234",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BillyBob234",
+                "IlxxxlI",
+                "BillyBob234"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BillyBob234",
+                "IlxxxlI",
+                "BillyBob234"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BillyBob234",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        64.74,
+        25.830000000000002,
+        156.4,
+        50.0,
+        73.68,
+        13.25
+    ]
+}

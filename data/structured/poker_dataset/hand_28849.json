@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 9:52:57",
+    "game_id": "792522547",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "liusanity",
+        "Rabb1tH0le",
+        "xin1575",
+        "IlxxxlI",
+        "ABMTLQC",
+        "tszis"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.98,
+        67.17,
+        45.79,
+        10.0,
+        43.36,
+        29.97
+    ],
+    "player_small_blind": "liusanity",
+    "small_blind": 0.1,
+    "player_big_blind": "Rabb1tH0le",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Ah",
+            "As"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "xin1575",
+                "IlxxxlI",
+                "ABMTLQC",
+                "tszis",
+                "liusanity",
+                "Rabb1tH0le",
+                "liusanity"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.15,
+                0.5,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "liusanity",
+                "Rabb1tH0le"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "liusanity",
+                "Rabb1tH0le",
+                "liusanity"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.23,
+        67.85000000000001,
+        45.79,
+        10.0,
+        43.36,
+        29.97
+    ]
+}

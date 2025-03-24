@@ -1,0 +1,97 @@
+{
+    "date": "2016/12/23 11:38:17",
+    "game_id": "804351508",
+    "variant": "PRR",
+    "table_name": "Ekek-17",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "MrSrkn",
+        "Ratbastrd"
+    ],
+    "players_seats": [
+        1,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        59.63,
+        25.17
+    ],
+    "player_small_blind": "MrSrkn",
+    "small_blind": 0.1,
+    "player_big_blind": "Ratbastrd",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "8d",
+            "Qs"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "MrSrkn",
+                "Ratbastrd"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MrSrkn",
+                "Ratbastrd",
+                "MrSrkn"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.95,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        58.88,
+        25.85
+    ]
+}

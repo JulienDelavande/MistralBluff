@@ -1,0 +1,143 @@
+{
+    "date": "2016/9/27 7:36:24",
+    "game_id": "737091653",
+    "variant": "PRR",
+    "table_name": "Lakhey",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "TJD_NIH",
+        "IlxxxlI",
+        "AironVega",
+        "enron_kenlay",
+        "FlowerFay",
+        "DetectiveUA"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        222.63,
+        89.75,
+        389.73,
+        243.65,
+        211.0,
+        211.29
+    ],
+    "player_small_blind": "DetectiveUA",
+    "small_blind": 1.0,
+    "player_big_blind": "TJD_NIH",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "10d",
+            "Ad"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "AironVega",
+                "enron_kenlay",
+                "FlowerFay",
+                "DetectiveUA",
+                "TJD_NIH"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                null,
+                null,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "TJD_NIH",
+                "AironVega",
+                "TJD_NIH"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.65,
+                10.65
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "TJD_NIH",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "TJD_NIH",
+                "AironVega"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                27.29,
+                27.29
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Jc Kh",
+        null,
+        "As 7s",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        176.69,
+        89.75,
+        433.67,
+        243.65,
+        211.0,
+        210.29
+    ]
+}

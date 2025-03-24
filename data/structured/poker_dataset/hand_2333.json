@@ -1,176 +1,122 @@
 {
-    "date": "2016/11/21 11:43:53",
-    "game_id": "780994837",
+    "date": "2016/9/18 9:35:7",
+    "game_id": "730259434",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Lakhey",
     "type_game": "Short",
-    "button_seat": 3,
+    "button_seat": 6,
     "players": [
-        "haroldbb",
-        "sr86",
         "IlxxxlI",
-        "hotshothotgg",
-        "Brucelegend",
-        "parmele",
-        "ChrisNola",
-        "Parcker",
-        "FirstClan"
+        "Origins",
+        "xXCONMANXx",
+        "aquamarin",
+        "gosu36484"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        25.0,
-        26.0,
-        23.93,
-        21.96,
-        24.92,
-        28.2,
-        50.66,
-        26.5,
-        32.7
+        40.0,
+        209.05,
+        186.73,
+        219.36,
+        95.3
     ],
-    "player_small_blind": "hotshothotgg",
-    "small_blind": 0.25,
-    "player_big_blind": "Brucelegend",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "Origins",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ad",
-        "3h"
+        "8s",
+        "Qc"
     ],
     "dealed_cards": {
         "flop": [
-            "2s",
-            "5h",
-            "5c"
+            "7s",
+            "Ks",
+            "10h"
         ],
-        "turn": [
-            "Jd"
-        ],
-        "river": [
-            "5s"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "parmele",
-                "ChrisNola",
-                "Parcker",
-                "FirstClan",
-                "haroldbb",
-                "sr86",
+                "xXCONMANXx",
+                "aquamarin",
+                "gosu36484",
                 "IlxxxlI",
-                "hotshothotgg",
-                "Brucelegend",
-                "ChrisNola"
+                "Origins"
             ],
             "actions": [
-                "FOLD",
+                "CALL",
                 "CALL",
                 "FOLD",
                 "FOLD",
-                "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL"
+                "CHECK"
             ],
             "values": [
-                null,
-                0.5,
-                null,
-                null,
-                2.5,
+                2.0,
+                2.0,
                 null,
                 null,
-                null,
-                null,
-                2.0
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "ChrisNola",
-                "haroldbb",
-                "ChrisNola"
+                "Origins",
+                "xXCONMANXx",
+                "aquamarin",
+                "Origins",
+                "xXCONMANXx",
+                "aquamarin"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.82,
-                1.82
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "ChrisNola",
-                "haroldbb",
-                "ChrisNola"
-            ],
-            "actions": [
                 "CHECK",
                 "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                2.97,
-                2.97
-            ]
-        },
-        "post-river": {
-            "players": [
-                "ChrisNola",
-                "haroldbb",
-                "ChrisNola"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "FOLD",
+                "RAISE",
                 "FOLD"
             ],
             "values": [
                 null,
-                14.0,
+                null,
+                3.5,
+                null,
+                10.5,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        "Ah As",
         null,
         null
     ],
     "finishing_stack": [
-        32.28,
-        26.0,
-        23.93,
-        21.71,
-        24.42,
-        28.2,
-        43.37,
-        26.5,
-        32.7
+        39.0,
+        207.05,
+        194.53,
+        213.86,
+        95.3
     ]
 }

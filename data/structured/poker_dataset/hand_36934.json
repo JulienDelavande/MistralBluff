@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/3 14:13:49",
+    "game_id": "789980260",
+    "variant": "PRR",
+    "table_name": "Ekek-22",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Jui Kuen",
+        "Parcker",
+        "187flush",
+        "purecheto84",
+        "mollymack"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.69,
+        25.0,
+        25.78,
+        14.5,
+        33.02,
+        33.24
+    ],
+    "player_small_blind": "purecheto84",
+    "small_blind": 0.1,
+    "player_big_blind": "mollymack",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "3d",
+            "7d"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Jui Kuen",
+                "Parcker",
+                "187flush",
+                "purecheto84",
+                "mollymack"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.25,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "purecheto84",
+                "mollymack",
+                "187flush",
+                "purecheto84"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.48,
+                null,
+                0.48
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "purecheto84",
+                "mollymack",
+                "purecheto84"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.4,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.69,
+        25.0,
+        25.78,
+        14.25,
+        32.290000000000006,
+        34.14000000000001
+    ]
+}

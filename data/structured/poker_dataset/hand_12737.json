@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/24 20:42:14",
+    "game_id": "805219234",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "N1cer1ver",
+        "gipper PK",
+        "rochman23",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        32.01,
+        25.0,
+        24.75,
+        30.44
+    ],
+    "player_small_blind": "rochman23",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "8c",
+            "Ah"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "N1cer1ver",
+                "gipper PK",
+                "rochman23",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "gipper PK",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "gipper PK",
+                "IlxxxlI",
+                "gipper PK"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.29,
+                5.74,
+                3.45
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10s 9h"
+    ],
+    "finishing_stack": [
+        32.01,
+        17.5,
+        24.65,
+        37.29
+    ]
+}

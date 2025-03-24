@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/8 18:20:14",
+    "game_id": "793456233",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "ForcedToPortray",
+        "jjjjjpoker",
+        "KUSH_KING",
+        "IlxxxlI",
+        "Tolik89"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        38.65,
+        11.0,
+        25.87,
+        10.66,
+        25.0
+    ],
+    "player_small_blind": "jjjjjpoker",
+    "small_blind": 0.1,
+    "player_big_blind": "KUSH_KING",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "10h",
+            "Kd"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Tolik89",
+                "ForcedToPortray",
+                "jjjjjpoker",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jjjjjpoker",
+                "KUSH_KING",
+                "ForcedToPortray",
+                "jjjjjpoker"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                null,
+                3.8,
+                2.85
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "jjjjjpoker",
+                "ForcedToPortray",
+                "jjjjjpoker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                7.0,
+                6.7
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Qc 9s",
+        "9d Kc",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        49.03,
+        0.0,
+        25.37,
+        10.66,
+        25.0
+    ]
+}

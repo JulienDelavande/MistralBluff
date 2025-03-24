@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/6 8:42:48",
+    "game_id": "791892754",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "MrHustle",
+        "JohnnyTwoShots",
+        "Irene13",
+        "jacksonrabbit"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        11.17,
+        20.87,
+        27.14,
+        60.37,
+        24.07
+    ],
+    "player_small_blind": "jacksonrabbit",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "3d",
+            "Qd"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MrHustle",
+                "JohnnyTwoShots",
+                "Irene13",
+                "jacksonrabbit",
+                "IlxxxlI",
+                "MrHustle"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                2.0,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MrHustle",
+                "Irene13",
+                "MrHustle"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.25,
+                2.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MrHustle",
+                "Irene13",
+                "MrHustle"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.92,
+        16.62,
+        27.14,
+        64.53,
+        23.97
+    ]
+}

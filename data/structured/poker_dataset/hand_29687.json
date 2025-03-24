@@ -1,0 +1,97 @@
+{
+    "date": "2016/12/7 8:35:47",
+    "game_id": "792453943",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "spewbacca",
+        "leftoverpizza"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3
+    ],
+    "starting_stacks": [
+        10.2,
+        9.77,
+        31.65
+    ],
+    "player_small_blind": "spewbacca",
+    "small_blind": 0.1,
+    "player_big_blind": "leftoverpizza",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "10d",
+            "7h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "spewbacca",
+                "leftoverpizza"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "spewbacca",
+                "leftoverpizza",
+                "spewbacca"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.47,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.2,
+        9.27,
+        32.1
+    ]
+}

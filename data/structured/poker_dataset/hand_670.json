@@ -1,89 +1,168 @@
 {
-    "date": "2016/11/29 13:17:2",
-    "game_id": "786972919",
+    "date": "2016/9/6 0:6:20",
+    "game_id": "720612931",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 7,
     "players": [
-        "Abundance4All",
+        "BigLou1212",
+        "BIGRAISE",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
         "IlxxxlI",
-        "GagaPoker",
-        "foreseen"
+        "bustmynuts"
     ],
     "players_seats": [
         1,
+        2,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        89.32,
-        20.0,
-        70.71,
-        68.97
+        67.4,
+        188.85,
+        207.82,
+        319.49,
+        465.6,
+        414.85,
+        169.85,
+        249.54
     ],
-    "player_small_blind": "foreseen",
-    "small_blind": 0.25,
-    "player_big_blind": "Abundance4All",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "bustmynuts",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "2s"
+        "8s",
+        "3d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "2c",
+            "7c",
+            "Js"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "8c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "BigLou1212",
+                "BIGRAISE",
+                "HookahBOSS",
+                "Maria26years",
+                "gfclbv",
+                "Leatherass9",
                 "IlxxxlI",
-                "GagaPoker",
-                "foreseen",
-                "Abundance4All"
+                "bustmynuts"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
                 "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                8.5,
+                8.5,
+                null,
+                null,
+                null,
+                4.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bustmynuts",
+                "HookahBOSS",
+                "Maria26years"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bustmynuts",
+                "HookahBOSS",
+                "Maria26years"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "bustmynuts",
+                "HookahBOSS",
+                "Maria26years",
+                "bustmynuts"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                1.5,
+                18.0,
                 null,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        88.82,
-        20.0,
-        71.46,
-        68.72
+        67.4,
+        188.85,
+        226.57,
+        310.99,
+        465.6,
+        414.85,
+        167.85,
+        241.04
     ]
 }

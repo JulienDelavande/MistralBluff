@@ -1,167 +1,144 @@
 {
-    "date": "2016/11/21 10:49:53",
-    "game_id": "780950845",
+    "date": "2016/9/18 9:53:41",
+    "game_id": "730268441",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "Haid Dasalami",
-        "BBDub27",
-        "sr86",
-        "pineapplesand",
-        "PoePoe28",
-        "IlxxxlI",
-        "Daggens",
-        "VegasMike420",
-        "Mestre83"
+        "Bazuko",
+        "VegetablesArentYummy",
+        "Pureprofit4",
+        "hangiie",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        48.5,
-        82.6,
-        50.0,
-        22.2,
-        6.16,
-        24.49,
-        56.52,
-        52.04,
-        38.65
+        140.54,
+        344.13,
+        329.24,
+        189.8,
+        129.15
     ],
-    "player_small_blind": "sr86",
-    "small_blind": 0.25,
-    "player_big_blind": "pineapplesand",
-    "big_blind": 0.5,
+    "player_small_blind": "hangiie",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "Qc"
+        "Kh",
+        "2h"
     ],
     "dealed_cards": {
         "flop": [
-            "3d",
-            "2d",
-            "9c"
+            "4h",
+            "7c",
+            "7h"
         ],
         "turn": [
-            "7s"
+            "Ac"
         ],
         "river": [
-            "Ac"
+            "5h"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "PoePoe28",
-                "IlxxxlI",
-                "Daggens",
-                "VegasMike420",
-                "Mestre83",
-                "Haid Dasalami",
-                "BBDub27",
-                "sr86",
-                "pineapplesand",
-                "PoePoe28"
+                "Bazuko",
+                "VegetablesArentYummy",
+                "Pureprofit4",
+                "hangiie",
+                "IlxxxlI"
             ],
             "actions": [
-                "CALL",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
                 "CALL",
-                "CALL",
-                "FOLD",
                 "CALL"
             ],
             "values": [
-                0.5,
                 null,
+                10.0,
                 null,
-                null,
-                2.0,
-                null,
-                2.0,
-                1.75,
-                null,
-                1.5
+                8.0,
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "sr86",
-                "PoePoe28",
-                "Mestre83",
-                "BBDub27",
-                "sr86",
-                "PoePoe28",
-                "Mestre83",
-                "sr86"
+                "hangiie",
+                "IlxxxlI",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "CHECK",
                 "CHECK",
-                "BET",
-                "FOLD",
-                "RAISE",
-                "FOLD",
-                "ALLIN",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
-                4.5,
-                null,
-                15.5,
-                null,
-                32.15,
-                21.15
+                null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "hangiie",
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "hangiie",
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "hangiie"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                14.85,
+                14.85,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "5d Ad",
         null,
         null,
-        null,
-        null,
-        null,
-        "10s 10c"
+        "Kh 2h"
     ],
     "finishing_stack": [
-        48.5,
-        80.6,
-        90.15,
-        21.7,
-        4.16,
-        24.49,
-        56.52,
-        52.04,
-        0.0
+        140.54,
+        319.28,
+        329.24,
+        179.8,
+        163.45000000000002
     ]
 }

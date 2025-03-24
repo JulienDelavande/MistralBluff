@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/2 16:34:59",
+    "game_id": "789350368",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "nrey2831",
+        "1000_na_nl25_aga",
+        "hoocher",
+        "Xobkcul",
+        "IlxxxlI",
+        "imperceptible"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        48.21,
+        83.66,
+        56.01,
+        50.0,
+        24.49,
+        21.72
+    ],
+    "player_small_blind": "1000_na_nl25_aga",
+    "small_blind": 0.25,
+    "player_big_blind": "hoocher",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "Kh",
+            "5d"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Xobkcul",
+                "IlxxxlI",
+                "imperceptible",
+                "nrey2831",
+                "1000_na_nl25_aga",
+                "hoocher"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "1000_na_nl25_aga",
+                "hoocher",
+                "nrey2831",
+                "1000_na_nl25_aga"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "hoocher",
+                "nrey2831",
+                "hoocher"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.04,
+        83.16,
+        54.51,
+        50.0,
+        24.49,
+        21.72
+    ]
+}

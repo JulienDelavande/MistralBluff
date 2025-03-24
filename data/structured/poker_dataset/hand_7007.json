@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/29 16:37:41",
+    "game_id": "808312023",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "SoapMaker326",
+        "1jackoff1",
+        "bayuya",
+        "IlxxxlI",
+        "DeBruin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        22.84,
+        9.75,
+        26.15,
+        37.6,
+        19.9
+    ],
+    "player_small_blind": "DeBruin",
+    "small_blind": 0.1,
+    "player_big_blind": "SoapMaker326",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "6d",
+            "4h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "1jackoff1",
+                "bayuya",
+                "IlxxxlI",
+                "DeBruin",
+                "SoapMaker326",
+                "1jackoff1"
+            ],
+            "actions": [
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.25,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "1jackoff1",
+                "bayuya"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.35,
+                1.35
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "1jackoff1",
+                "bayuya",
+                "1jackoff1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        22.59,
+        7.15,
+        28.83,
+        37.6,
+        19.799999999999997
+    ]
+}

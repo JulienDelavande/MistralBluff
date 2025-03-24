@@ -1,126 +1,85 @@
 {
-    "date": "2016/11/29 9:7:36",
-    "game_id": "786782233",
+    "date": "2016/9/17 10:25:8",
+    "game_id": "729534558",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
+        "RCSOX",
         "IlxxxlI",
-        "Ice Bank Mice Elf",
-        "tutofu84",
-        "imperceptible",
-        "HanktheGrey",
-        "kid4life",
-        "Tilt-A-Whirl",
-        "EasyQQ"
+        "graphicup",
+        "Pureprofit4"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        5,
-        6,
-        7,
-        8
+        6
     ],
     "starting_stacks": [
-        38.48,
-        87.73,
-        106.76,
-        23.46,
-        22.87,
-        171.86,
-        50.0,
-        57.75
+        108.45,
+        82.0,
+        242.0,
+        292.07
     ],
-    "player_small_blind": "Ice Bank Mice Elf",
-    "small_blind": 0.25,
-    "player_big_blind": "tutofu84",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "graphicup",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6h",
-        "7s"
+        "9c",
+        "9h"
     ],
     "dealed_cards": {
         "flop": [
-            "Jc",
-            "6s",
-            "7c"
+            "6h",
+            "5c",
+            "6c"
         ],
-        "turn": [
-            "3s"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "imperceptible",
-                "HanktheGrey",
-                "kid4life",
-                "Tilt-A-Whirl",
-                "EasyQQ",
+                "Pureprofit4",
+                "RCSOX",
                 "IlxxxlI",
-                "Ice Bank Mice Elf",
-                "tutofu84"
+                "graphicup"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
-                null,
-                1.0,
-                null,
-                null,
-                null,
-                0.5
+                6.0,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "tutofu84",
-                "Tilt-A-Whirl",
-                "tutofu84"
+                "IlxxxlI",
+                "graphicup"
             ],
             "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.42,
-                1.42
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "tutofu84",
-                "Tilt-A-Whirl",
-                "tutofu84"
-            ],
-            "actions": [
-                "CHECK",
                 "BET",
                 "FOLD"
             ],
             "values": [
-                null,
-                3.22,
+                7.0,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -132,20 +91,12 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        38.48,
-        87.48,
-        104.34,
-        23.46,
-        22.87,
-        171.86,
-        52.42,
-        57.75
+        108.45,
+        89.85,
+        234.0,
+        292.07
     ]
 }

@@ -1,130 +1,89 @@
 {
-    "date": "2016/11/29 13:19:33",
-    "game_id": "786974350",
+    "date": "2016/9/5 13:2:9",
+    "game_id": "720274725",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "WeakAndWeary",
-        "MadLifeGrinder",
-        "Sephiroth1",
-        "LloydXmas",
-        "Im Don King",
-        "IlxxxlI"
+        "St3p04ka",
+        "IlxxxlI",
+        "pokerhawk333",
+        "gust",
+        "jtee95",
+        "PANDAisEVIL"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
         5,
-        6
+        7,
+        8
     ],
     "starting_stacks": [
-        123.16,
-        100.0,
-        107.39,
-        169.83,
-        111.83,
-        49.28
+        125.41,
+        48.3,
+        28.52,
+        80.0,
+        235.51,
+        133.77
     ],
-    "player_small_blind": "WeakAndWeary",
-    "small_blind": 0.5,
-    "player_big_blind": "MadLifeGrinder",
-    "big_blind": 1.0,
+    "player_small_blind": "pokerhawk333",
+    "small_blind": 1.0,
+    "player_big_blind": "gust",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jh",
-        "As"
+        "4h",
+        "6h"
     ],
     "dealed_cards": {
-        "flop": [
-            "Js",
-            "7d",
-            "Kc"
-        ],
-        "turn": [
-            "7h"
-        ],
-        "river": [
-            "8d"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Sephiroth1",
-                "LloydXmas",
-                "Im Don King",
+                "jtee95",
+                "PANDAisEVIL",
+                "St3p04ka",
                 "IlxxxlI",
-                "WeakAndWeary",
-                "MadLifeGrinder",
-                "IlxxxlI"
+                "pokerhawk333",
+                "gust"
             ],
             "actions": [
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                3.0,
-                10.5,
-                null,
-                8.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "WeakAndWeary",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "WeakAndWeary",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "WeakAndWeary",
-                "IlxxxlI",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                9.0,
+                null,
+                6.0,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -136,11 +95,11 @@
         null
     ],
     "finishing_stack": [
-        112.16,
-        99.0,
-        107.39,
-        169.83,
-        111.83,
-        60.13
+        128.41,
+        48.3,
+        27.52,
+        78.0,
+        235.51,
+        133.77
     ]
 }

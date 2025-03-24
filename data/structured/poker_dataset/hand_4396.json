@@ -1,0 +1,132 @@
+{
+    "date": "2016/9/27 7:10:41",
+    "game_id": "737073867",
+    "variant": "PRR",
+    "table_name": "Lakhey-10",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "stg",
+        "IlxxxlI",
+        "basic instinct",
+        "enron_kenlay",
+        "DetectiveUA"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        357.44,
+        88.4,
+        200.0,
+        240.07,
+        432.51
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "basic instinct",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "6h",
+            "8c"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "enron_kenlay",
+                "DetectiveUA",
+                "stg",
+                "IlxxxlI",
+                "basic instinct"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "basic instinct",
+                "DetectiveUA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "basic instinct",
+                "DetectiveUA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.41,
+                6.41
+            ]
+        },
+        "post-river": {
+            "players": [
+                "basic instinct",
+                "DetectiveUA"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                15.55,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        357.44,
+        87.4,
+        210.32,
+        240.07,
+        422.09999999999997
+    ]
+}

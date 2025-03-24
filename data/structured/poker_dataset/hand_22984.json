@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 20:33:56",
+    "game_id": "793482288",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "WeakAndWeary",
+        "zionnoiz",
+        "Bokmal",
+        "IgLa",
+        "Oral-Bet",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        50.0,
+        50.75,
+        167.7,
+        20.0,
+        21.49
+    ],
+    "player_small_blind": "WeakAndWeary",
+    "small_blind": 0.25,
+    "player_big_blind": "zionnoiz",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "9d",
+            "9s"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bokmal",
+                "IgLa",
+                "Oral-Bet",
+                "IlxxxlI",
+                "WeakAndWeary",
+                "zionnoiz"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.35,
+                null,
+                0.85
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "zionnoiz",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.87,
+                1.87
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "zionnoiz",
+                "IlxxxlI",
+                "zionnoiz"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                4.24,
+                18.27,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        49.75,
+        42.54,
+        50.75,
+        167.7,
+        20.0,
+        28.449999999999996
+    ]
+}

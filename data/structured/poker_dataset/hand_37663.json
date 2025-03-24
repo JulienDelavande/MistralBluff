@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/3 10:19:48",
+    "game_id": "789831293",
+    "variant": "PRR",
+    "table_name": "Kraken-5",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "mr.fargo",
+        "Ksowas",
+        "Gargantuatua",
+        "IlxxxlI",
+        "foldemfoley",
+        "aleks0v"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        189.91,
+        119.85,
+        40.0,
+        94.14,
+        112.63
+    ],
+    "player_small_blind": "aleks0v",
+    "small_blind": 0.5,
+    "player_big_blind": "mr.fargo",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "2h",
+            "2s"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ksowas",
+                "Gargantuatua",
+                "IlxxxlI",
+                "foldemfoley",
+                "aleks0v",
+                "mr.fargo"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                3.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksowas",
+                "foldemfoley",
+                "Ksowas"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                13.0,
+                8.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksowas",
+                "foldemfoley",
+                "Ksowas"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                21.0,
+                21.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ksowas",
+                "foldemfoley"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Jd Jc",
+        null,
+        null,
+        "7s 7c",
+        null
+    ],
+    "finishing_stack": [
+        39.0,
+        225.41,
+        119.85,
+        40.0,
+        57.14,
+        112.13
+    ]
+}

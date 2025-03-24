@@ -1,0 +1,121 @@
+{
+    "date": "2016/12/2 14:27:38",
+    "game_id": "789309544",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "WeakAndWeary",
+        "LuxuryMaster",
+        "Ksowas",
+        "ElvenEyes",
+        "IlxxxlI",
+        "BrokeForever"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        214.11,
+        88.09,
+        105.45,
+        123.48,
+        40.0,
+        50.1
+    ],
+    "player_small_blind": "Ksowas",
+    "small_blind": 0.5,
+    "player_big_blind": "ElvenEyes",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "3d",
+            "3s"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "BrokeForever",
+                "WeakAndWeary",
+                "LuxuryMaster",
+                "Ksowas",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ElvenEyes",
+                "LuxuryMaster",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.09,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        214.11,
+        91.27000000000001,
+        104.95,
+        120.48,
+        40.0,
+        50.1
+    ]
+}

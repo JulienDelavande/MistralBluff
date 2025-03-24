@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/29 14:17:38",
-    "game_id": "787001738",
+    "date": "2016/9/5 12:16:0",
+    "game_id": "720262354",
     "variant": "PRR",
-    "table_name": "Gorgons-15",
-    "type_game": "Hold'em",
+    "table_name": "Longana",
+    "type_game": "Short",
     "button_seat": 1,
     "players": [
-        "WeakAndWeary",
-        "IampokerKidd",
-        "imger8",
+        "UrSoDumb",
+        "St3p04ka",
         "IlxxxlI",
-        "foreseen",
-        "BiGFck"
+        "AironVega",
+        "gust",
+        "Marketsniper",
+        "jtee95",
+        "norcalho"
     ],
     "players_seats": [
         1,
@@ -19,109 +21,84 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        52.06,
-        99.52,
-        52.89,
-        20.75,
-        52.7,
-        11.5
+        237.55,
+        120.25,
+        43.0,
+        264.34,
+        92.0,
+        170.65,
+        160.42,
+        77.4
     ],
-    "player_small_blind": "IampokerKidd",
-    "small_blind": 0.25,
-    "player_big_blind": "imger8",
-    "big_blind": 0.5,
+    "player_small_blind": "St3p04ka",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9d",
-        "7h"
+        "Jh",
+        "Jc"
     ],
     "dealed_cards": {
-        "flop": [
-            "2s",
-            "3c",
-            "Qd"
-        ],
-        "turn": [
-            "Ah"
-        ],
-        "river": [
-            "6h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "AironVega",
+                "gust",
+                "Marketsniper",
+                "jtee95",
+                "norcalho",
+                "UrSoDumb",
+                "St3p04ka",
                 "IlxxxlI",
-                "foreseen",
-                "BiGFck",
-                "WeakAndWeary",
-                "IampokerKidd",
-                "imger8"
+                "norcalho"
             ],
             "actions": [
+                "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                1.0,
-                null,
-                0.5
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "imger8",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "imger8",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "imger8",
-                "WeakAndWeary",
-                "imger8"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "FOLD",
+                "ALLIN",
                 "FOLD"
             ],
             "values": [
                 null,
-                1.61,
+                null,
+                null,
+                null,
+                4.0,
+                null,
+                null,
+                41.0,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -130,14 +107,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        53.2,
-        99.27,
-        51.89,
-        20.75,
-        52.7,
-        11.5
+        237.55,
+        119.25,
+        48.0,
+        264.34,
+        92.0,
+        170.65,
+        160.42,
+        73.4
     ]
 }

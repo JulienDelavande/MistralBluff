@@ -1,68 +1,73 @@
 {
-    "date": "2016/11/29 14:36:41",
-    "game_id": "787009953",
+    "date": "2016/9/5 1:3:43",
+    "game_id": "719769782",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "VegetablesArentYummy",
+        "plin777",
+        "natasha77",
+        "gfclbv",
+        "Leatherass9",
         "IlxxxlI",
-        "IbetUmuck",
-        "DonCesarGrinder",
-        "MadLifeGrinder",
-        "LloydXmas"
+        "slew111",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
-        1,
-        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        221.65,
+        62.0,
+        189.71,
+        160.0,
+        250.5,
         80.0,
-        858.5,
-        265.02,
-        210.06,
-        252.48
+        486.17,
+        307.73
     ],
-    "player_small_blind": "IbetUmuck",
-    "small_blind": 1.0,
-    "player_big_blind": "DonCesarGrinder",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "slew111",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ah",
-        "Qs"
+        "Qs",
+        "7d"
     ],
     "dealed_cards": {
         "flop": [
-            "Kd",
-            "7c",
-            "Qc"
+            "As",
+            "8s",
+            "2s"
         ],
         "turn": [
-            "5s"
+            "4c"
         ],
         "river": [
-            "3h"
+            "4d"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "LloydXmas",
                 "VegetablesArentYummy",
+                "plin777",
+                "natasha77",
+                "gfclbv",
+                "Leatherass9",
                 "IlxxxlI",
-                "IbetUmuck",
-                "DonCesarGrinder",
-                "LloydXmas"
+                "slew111",
+                "natasha77"
             ],
             "actions": [
+                "FOLD",
                 "FOLD",
                 "RAISE",
                 "RAISE",
@@ -73,19 +78,20 @@
             ],
             "values": [
                 null,
-                5.75,
-                18.75,
+                null,
+                8.0,
+                20.0,
                 null,
                 null,
                 null,
-                13.0
+                12.0
             ]
         },
         "post-flop": {
             "players": [
-                "LloydXmas",
-                "VegetablesArentYummy",
-                "LloydXmas"
+                "natasha77",
+                "gfclbv",
+                "natasha77"
             ],
             "actions": [
                 "CHECK",
@@ -94,59 +100,55 @@
             ],
             "values": [
                 null,
-                13.82,
-                13.82
+                15.18,
+                15.18
             ]
         },
         "post-turn": {
             "players": [
-                "LloydXmas",
-                "VegetablesArentYummy",
-                "LloydXmas"
+                "natasha77",
+                "gfclbv"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
-                44.42,
-                44.42
+                null
             ]
         },
         "post-river": {
             "players": [
-                "LloydXmas",
-                "VegetablesArentYummy",
-                "LloydXmas"
+                "natasha77",
+                "gfclbv"
             ],
             "actions": [
                 "CHECK",
-                "ALLIN",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
-                144.66,
-                144.66
+                null
             ]
         }
     },
     "card_shown_by_players": [
-        "As Kc",
+        null,
+        "Kh 8h",
         null,
         null,
         null,
         null,
-        "Ad Kh"
+        null
     ],
     "finishing_stack": [
-        221.65,
-        80.0,
-        857.5,
-        263.02,
-        210.06,
-        252.48
+        62.0,
+        230.14,
+        124.82,
+        250.5,
+        78.0,
+        482.17,
+        307.73
     ]
 }

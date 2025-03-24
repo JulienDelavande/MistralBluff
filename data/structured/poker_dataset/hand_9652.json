@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/25 15:40:50",
+    "game_id": "805740464",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Sonic3Dblast",
+        "IlxxxlI",
+        "Phildurrrhelmuth",
+        "ImYourFriend1996"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        44.54,
+        25.56,
+        26.12,
+        60.27
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Phildurrrhelmuth",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "Ah",
+            "7c"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ImYourFriend1996",
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "Phildurrrhelmuth",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.55,
+                null,
+                1.2,
+                0.9
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Phildurrrhelmuth",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Phildurrrhelmuth",
+                "Sonic3Dblast",
+                "Phildurrrhelmuth"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.27,
+                3.27
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Phildurrrhelmuth",
+                "Sonic3Dblast",
+                "Phildurrrhelmuth"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.56,
+                8.56
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qd 9d",
+        null,
+        "Ac Jd",
+        null
+    ],
+    "finishing_stack": [
+        29.84,
+        25.459999999999997,
+        39.45,
+        60.27
+    ]
+}

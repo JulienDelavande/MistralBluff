@@ -1,67 +1,110 @@
 {
-    "date": "2016/11/28 19:57:49",
-    "game_id": "786367419",
+    "date": "2016/9/18 8:12:4",
+    "game_id": "730213099",
     "variant": "PRR",
-    "table_name": "Gorgons-3",
+    "table_name": "Karkadann-2",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 8,
     "players": [
-        "Goomashroom",
-        "Cinch23",
-        "38979",
-        "IlxxxlI"
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "Pimpika",
+        "BlitzWaut",
+        "FirstClan",
+        "Torinsurance",
+        "Chicubs2016",
+        "gosu36484",
+        "Frisconar"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
-        6
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        50.1,
-        49.0,
-        95.7,
-        27.78
+        95.29,
+        100.0,
+        65.6,
+        228.01,
+        166.07,
+        114.98,
+        100.0,
+        43.05,
+        39.0
     ],
-    "player_small_blind": "Goomashroom",
-    "small_blind": 0.25,
-    "player_big_blind": "Cinch23",
-    "big_blind": 0.5,
+    "player_small_blind": "Frisconar",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ah",
-        "Jh"
+        "5d",
+        "Ks"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Ad",
+            "2s",
+            "7h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "38979",
-                "IlxxxlI",
-                "Goomashroom",
-                "Cinch23"
+                "VegetablesArentYummy",
+                "Pimpika",
+                "BlitzWaut",
+                "FirstClan",
+                "Torinsurance",
+                "Chicubs2016",
+                "gosu36484",
+                "Frisconar",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
                 "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                1.5,
+                null,
+                3.0,
+                null,
+                3.0,
+                null,
+                null,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BlitzWaut",
+                "Torinsurance"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.56,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -78,12 +121,22 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        49.85,
-        48.5,
-        95.7,
-        28.53
+        94.29,
+        100.0,
+        65.6,
+        232.14,
+        166.07,
+        111.98,
+        100.0,
+        43.05,
+        38.5
     ]
 }

@@ -1,152 +1,103 @@
 {
-    "date": "2016/11/29 12:47:22",
-    "game_id": "786956463",
+    "date": "2016/9/6 0:48:46",
+    "game_id": "720650277",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
+    "table_name": "Medusa",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "bfish602",
-        "KingGuciGuci",
-        "IbetUmuck",
-        "IlxxxlI",
-        "MadLifeGrinder",
-        "LazyFish"
+        "cuzyagood",
+        "Leatherass9",
+        "VegetablesArentYummy",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
-        5,
-        6
+        4
     ],
     "starting_stacks": [
-        200.0,
-        229.91,
-        484.73,
-        80.0,
-        203.0,
-        282.57
+        270.6,
+        214.95,
+        233.96,
+        168.99
     ],
-    "player_small_blind": "IbetUmuck",
-    "small_blind": 1.0,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "10s"
+        "6s",
+        "Kc"
     ],
     "dealed_cards": {
         "flop": [
             "9d",
-            "5c",
-            "9h"
+            "2h",
+            "3s"
         ],
         "turn": [
-            "5s"
+            "Js"
         ],
         "river": [
-            "Kd"
+            "Qh"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "LazyFish",
-                "bfish602",
-                "KingGuciGuci",
-                "IbetUmuck",
+                "cuzyagood",
+                "Leatherass9",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "KingGuciGuci",
-                "IbetUmuck"
+                "Leatherass9",
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "RAISE",
                 "RAISE",
                 "FOLD",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                4.4,
-                11.5,
-                null,
-                26.5,
-                18.4
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "IbetUmuck",
-                "KingGuciGuci"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                30.4,
-                30.4
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IbetUmuck",
-                "KingGuciGuci",
-                "IbetUmuck"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                40.9,
-                40.9
-            ]
-        },
-        "post-river": {
-            "players": [
-                "IbetUmuck",
-                "KingGuciGuci",
-                "IbetUmuck"
-            ],
-            "actions": [
-                "CHECK",
                 "ALLIN",
                 "CALL"
             ],
             "values": [
                 null,
-                127.71,
-                127.71
+                8.0,
+                24.0,
+                null,
+                206.95,
+                188.95
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
-        "6c 10c",
-        "Jc Js",
-        null,
-        null,
+        "6c 6d",
+        "8s 8h",
         null
     ],
     "finishing_stack": [
-        200.0,
+        270.6,
         0.0,
-        713.64,
-        78.0,
-        203.0,
-        282.57
+        450.90999999999997,
+        164.99
     ]
 }

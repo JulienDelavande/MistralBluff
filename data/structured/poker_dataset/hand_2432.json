@@ -1,96 +1,97 @@
 {
-    "date": "2016/11/19 23:47:1",
-    "game_id": "779473651",
+    "date": "2016/9/18 10:4:27",
+    "game_id": "730272689",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 7,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "jviana",
-        "naprimer",
-        "Log_in",
-        "IlxxxlI",
-        "emmagrace",
-        "Tanker123",
-        "MANTISGUYV10",
-        "pineapplesand"
+        "Bazuko",
+        "VegetablesArentYummy",
+        "Taino44",
+        "Pureprofit4",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        39.25,
-        52.31,
-        18.97,
-        20.0,
-        20.0,
-        42.1,
-        140.29,
-        20.0
+        169.0,
+        350.69,
+        89.98,
+        368.96,
+        132.04
     ],
-    "player_small_blind": "MANTISGUYV10",
-    "small_blind": 0.25,
-    "player_big_blind": "pineapplesand",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "Taino44",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7d",
-        "9h"
+        "Jh",
+        "Kc"
     ],
     "dealed_cards": {
         "flop": [
-            "Kd",
-            "3c",
-            "2s"
+            "Qd",
+            "Ac",
+            "10d"
         ],
-        "turn": [],
+        "turn": [
+            "2h"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "jviana",
-                "naprimer",
-                "Log_in",
+                "Pureprofit4",
                 "IlxxxlI",
-                "emmagrace",
-                "Tanker123",
-                "MANTISGUYV10",
-                "pineapplesand"
+                "Bazuko",
+                "VegetablesArentYummy",
+                "Taino44"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                1.75,
+                null,
+                8.0,
                 null,
                 null,
-                null,
-                null,
-                null,
-                1.5,
-                null
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "MANTISGUYV10",
-                "jviana",
-                "MANTISGUYV10"
+                "Taino44",
+                "IlxxxlI",
+                "Taino44"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.95,
+                5.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Taino44",
+                "IlxxxlI",
+                "Taino44"
             ],
             "actions": [
                 "CHECK",
@@ -99,14 +100,9 @@
             ],
             "values": [
                 null,
-                2.0,
+                19.0,
                 null
             ]
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-river": {
             "players": [],
@@ -119,19 +115,13 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        41.78,
-        52.31,
-        18.97,
-        20.0,
-        19.5,
-        42.1,
-        138.54,
-        19.5
+        169.0,
+        348.69,
+        76.03,
+        368.96,
+        147.73999999999998
     ]
 }

@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/8 7:27:7",
+    "game_id": "793096165",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "smooty",
+        "ZackXHellview",
+        "Ice Bank Mice Elf",
+        "Ksander"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        10.35,
+        6.3,
+        10.71,
+        43.4,
+        31.4
+    ],
+    "player_small_blind": "smooty",
+    "small_blind": 0.1,
+    "player_big_blind": "ZackXHellview",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "7h",
+            "Ks"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "Ksander",
+                "IlxxxlI",
+                "smooty",
+                "ZackXHellview"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.58,
+                0.48,
+                0.33
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "smooty",
+                "ZackXHellview",
+                "IlxxxlI",
+                "smooty"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.1,
+                null,
+                1.1
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "smooty",
+                "ZackXHellview",
+                "smooty"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "smooty",
+                "ZackXHellview"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kc 10d",
+        "3c 8c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.77,
+        10.620000000000001,
+        6.530000000000001,
+        43.4,
+        31.4
+    ]
+}

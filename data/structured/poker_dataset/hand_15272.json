@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/23 8:18:34",
+    "game_id": "804200251",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "420_am",
+        "BeatenByJacks",
+        "DKillion",
+        "Ksander"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        14.17,
+        15.0,
+        12.92,
+        6.8,
+        31.24
+    ],
+    "player_small_blind": "BeatenByJacks",
+    "small_blind": 0.1,
+    "player_big_blind": "DKillion",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "7s",
+            "4d"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ksander",
+                "IlxxxlI",
+                "420_am",
+                "BeatenByJacks",
+                "DKillion"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BeatenByJacks",
+                "Ksander",
+                "BeatenByJacks"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.55,
+                0.55
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BeatenByJacks",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BeatenByJacks",
+                "Ksander"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.8,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        14.17,
+        15.0,
+        14.329999999999998,
+        6.55,
+        29.939999999999998
+    ]
+}

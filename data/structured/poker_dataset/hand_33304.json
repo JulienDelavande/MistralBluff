@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/5 21:26:31",
+    "game_id": "791551064",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Orondi",
+        "emmettbrow",
+        "Oral-Bet",
+        "Chubrica",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        113.53,
+        119.92,
+        40.0,
+        100.46,
+        40.0
+    ],
+    "player_small_blind": "Orondi",
+    "small_blind": 0.5,
+    "player_big_blind": "emmettbrow",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "Qc",
+            "Qh"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Oral-Bet",
+                "Chubrica",
+                "IlxxxlI",
+                "Orondi",
+                "emmettbrow"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Orondi",
+                "emmettbrow"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.85,
+                2.85
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Orondi",
+                "emmettbrow"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.42,
+                7.42
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Orondi",
+                "emmettbrow"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                25.22,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        125.48,
+        106.65,
+        40.0,
+        100.46,
+        40.0
+    ]
+}

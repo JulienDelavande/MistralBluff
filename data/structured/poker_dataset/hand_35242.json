@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/5 9:26:16",
+    "game_id": "791273356",
+    "variant": "PRR",
+    "table_name": "Kraken-15",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "CoryLeeBall",
+        "Ksowas",
+        "38979",
+        "IlxxxlI",
+        "Heksebrygg",
+        "GautamaBuddha"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        71.1,
+        282.88,
+        100.0,
+        44.57,
+        131.17,
+        114.83
+    ],
+    "player_small_blind": "CoryLeeBall",
+    "small_blind": 0.5,
+    "player_big_blind": "Ksowas",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "9d",
+            "6h"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "38979",
+                "IlxxxlI",
+                "Heksebrygg",
+                "GautamaBuddha",
+                "CoryLeeBall",
+                "Ksowas"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CoryLeeBall",
+                "Ksowas"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CoryLeeBall",
+                "Ksowas",
+                "CoryLeeBall"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.53,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        69.1,
+        284.68,
+        100.0,
+        44.57,
+        131.17,
+        114.83
+    ]
+}

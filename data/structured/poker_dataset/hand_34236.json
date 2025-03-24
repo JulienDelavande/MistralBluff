@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/5 11:34:36",
+    "game_id": "791371893",
+    "variant": "PRR",
+    "table_name": "Gorgons-26",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "ocg123",
+        "Xobkcul",
+        "welld0ne",
+        "so_it_goes",
+        "IlxxxlI",
+        "38979"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.07,
+        61.33,
+        100.16,
+        54.12,
+        20.0,
+        50.75
+    ],
+    "player_small_blind": "38979",
+    "small_blind": 0.25,
+    "player_big_blind": "ocg123",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "Qd",
+            "3s"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Xobkcul",
+                "welld0ne",
+                "so_it_goes",
+                "IlxxxlI",
+                "38979",
+                "ocg123",
+                "so_it_goes",
+                "ocg123"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                null,
+                null,
+                2.25,
+                7.75,
+                6.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ocg123",
+                "so_it_goes"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ocg123",
+                "so_it_goes"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.67,
+                8.67
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ocg123",
+                "so_it_goes",
+                "ocg123"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                36.45,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        22.4,
+        61.33,
+        100.16,
+        70.27,
+        20.0,
+        50.5
+    ]
+}

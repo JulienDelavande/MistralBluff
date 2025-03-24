@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/6 9:1:26",
+    "game_id": "791906264",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "MrHustle",
+        "JohnnyTwoShots",
+        "Haphazard",
+        "braaaap",
+        "jacksonrabbit"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.8,
+        22.25,
+        29.64,
+        25.0,
+        10.0,
+        48.62
+    ],
+    "player_small_blind": "braaaap",
+    "small_blind": 0.1,
+    "player_big_blind": "jacksonrabbit",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "Jd",
+            "3c"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "MrHustle",
+                "JohnnyTwoShots",
+                "Haphazard",
+                "braaaap",
+                "jacksonrabbit",
+                "JohnnyTwoShots"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                1.0,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "jacksonrabbit",
+                "JohnnyTwoShots"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.64,
+                1.64
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "jacksonrabbit",
+                "JohnnyTwoShots",
+                "jacksonrabbit"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.9,
+                3.9
+            ]
+        },
+        "post-river": {
+            "players": [
+                "jacksonrabbit",
+                "JohnnyTwoShots"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "As 4s",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.8,
+        22.25,
+        35.85,
+        25.0,
+        9.9,
+        41.83
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/5 11:23:50",
+    "game_id": "791364873",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Aslargs",
+        "QDevilQ",
+        "Heksebrygg",
+        "IlxxxlI",
+        "Thefisherman90"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        105.08,
+        98.17,
+        61.1,
+        20.0,
+        50.0
+    ],
+    "player_small_blind": "Thefisherman90",
+    "small_blind": 0.25,
+    "player_big_blind": "Aslargs",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "2s",
+            "Qd"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "QDevilQ",
+                "Heksebrygg",
+                "IlxxxlI",
+                "Thefisherman90",
+                "Aslargs",
+                "QDevilQ"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                4.0,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Aslargs",
+                "QDevilQ"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Aslargs",
+                "QDevilQ"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.39,
+                4.39
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Aslargs",
+                "QDevilQ"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.56,
+                8.56
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qc As",
+        "Ah Qs",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        104.33,
+        97.42,
+        61.1,
+        20.0,
+        49.75
+    ]
+}

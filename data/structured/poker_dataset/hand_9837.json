@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/25 15:3:0",
+    "game_id": "805729231",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "afvet333",
+        "FirstClan",
+        "IlxxxlI",
+        "GreinSeint",
+        "Parcker",
+        "Tracyybabe"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        34.75,
+        12.9,
+        12.5,
+        8.85,
+        17.99,
+        22.14
+    ],
+    "player_small_blind": "GreinSeint",
+    "small_blind": 0.1,
+    "player_big_blind": "Parcker",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "10h",
+            "Jd"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Tracyybabe",
+                "afvet333",
+                "FirstClan",
+                "IlxxxlI",
+                "GreinSeint",
+                "Parcker",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.58,
+                1.45,
+                null,
+                0.97
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GreinSeint",
+                "IlxxxlI",
+                "GreinSeint"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.06,
+                1.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "GreinSeint",
+                "IlxxxlI",
+                "GreinSeint"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                9.89,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        34.75,
+        12.9,
+        15.09,
+        6.24,
+        17.74,
+        22.14
+    ]
+}

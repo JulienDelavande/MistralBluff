@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/8 21:1:51",
+    "game_id": "793488582",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "FetusMunch",
+        "SkaHot",
+        "ForcedToPortray",
+        "IlxxxlI",
+        "23butterfly",
+        "chanero"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        29.3,
+        25.1,
+        44.92,
+        19.62,
+        13.09,
+        9.36
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "ForcedToPortray",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Kc",
+            "4s"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "23butterfly",
+                "chanero",
+                "FetusMunch",
+                "SkaHot",
+                "ForcedToPortray"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.88,
+                null,
+                0.88,
+                0.88,
+                null,
+                0.63
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ForcedToPortray",
+                "IlxxxlI",
+                "chanero",
+                "FetusMunch",
+                "ForcedToPortray",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.72,
+                null,
+                null,
+                1.72
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "chanero",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.23,
+                2.23
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "chanero"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ac Qc",
+        null,
+        "Js Kh"
+    ],
+    "finishing_stack": [
+        28.42,
+        25.0,
+        44.04,
+        14.790000000000001,
+        13.09,
+        15.479999999999999
+    ]
+}

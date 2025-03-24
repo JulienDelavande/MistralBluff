@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/4 11:23:58",
+    "game_id": "790566313",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Heksebrygg",
+        "ThxBro",
+        "LazyFish",
+        "Im Don King",
+        "IlxxxlI",
+        "SweetAces00"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        102.0,
+        40.0,
+        105.29,
+        214.0,
+        40.0,
+        101.75
+    ],
+    "player_small_blind": "Heksebrygg",
+    "small_blind": 0.5,
+    "player_big_blind": "ThxBro",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "8d",
+            "Ks"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LazyFish",
+                "Im Don King",
+                "IlxxxlI",
+                "SweetAces00",
+                "Heksebrygg",
+                "ThxBro"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ThxBro",
+                "IlxxxlI",
+                "ThxBro"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.72,
+                2.72
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ThxBro",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ThxBro",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.2,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        101.5,
+        45.18,
+        105.29,
+        214.0,
+        34.78,
+        101.75
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/25 14:33:9",
+    "game_id": "805719589",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "xROCKETMANx",
+        "GreinSeint",
+        "IlxxxlI",
+        "drcurdi",
+        "constant revelation",
+        "DancinDolb"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        133.59,
+        17.72,
+        26.0,
+        40.74,
+        20.21,
+        30.84
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "drcurdi",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "10h",
+            "Ad"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "constant revelation",
+                "DancinDolb",
+                "xROCKETMANx",
+                "GreinSeint",
+                "IlxxxlI",
+                "drcurdi"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "drcurdi",
+                "constant revelation"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "drcurdi",
+                "constant revelation",
+                "drcurdi"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.42,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        133.59,
+        17.72,
+        25.75,
+        39.74,
+        21.35,
+        30.84
+    ]
+}

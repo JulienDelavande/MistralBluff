@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/7 8:42:23",
+    "game_id": "792460360",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Flitzmeister",
+        "speechboy71",
+        "MadLifeGrinder",
+        "Bokmal",
+        "IlxxxlI",
+        "g-vine"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        112.82,
+        169.44,
+        106.26,
+        106.68,
+        40.0,
+        100.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "g-vine",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "Kh",
+            "Ks"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Flitzmeister",
+                "speechboy71",
+                "MadLifeGrinder",
+                "Bokmal",
+                "IlxxxlI",
+                "g-vine"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "g-vine"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "g-vine"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                9.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "g-vine"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                28.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        112.82,
+        169.44,
+        106.26,
+        106.68,
+        50.35,
+        88.5
+    ]
+}

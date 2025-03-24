@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/9 9:14:24",
+    "game_id": "793893122",
+    "variant": "PRR",
+    "table_name": "Gorgons-16",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "peedee2211",
+        "Bane Jah Meen",
+        "LionHeart76"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        56.05,
+        16.25,
+        59.71
+    ],
+    "player_small_blind": "Bane Jah Meen",
+    "small_blind": 0.25,
+    "player_big_blind": "LionHeart76",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "Jc",
+            "9c"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "peedee2211",
+                "Bane Jah Meen",
+                "LionHeart76"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.75,
+                1.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "peedee2211"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "peedee2211",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "peedee2211",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        16.25,
+        60.14,
+        16.0,
+        59.21
+    ]
+}

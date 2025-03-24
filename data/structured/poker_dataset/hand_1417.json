@@ -1,78 +1,130 @@
 {
-    "date": "2016/11/29 8:8:31",
-    "game_id": "786730460",
+    "date": "2016/9/17 15:57:56",
+    "game_id": "729621951",
     "variant": "PRR",
-    "table_name": "Kraken-2",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "MrCRABS333",
-        "Qrenor",
-        "IlxxxlI"
+        "jbaker10031",
+        "38979",
+        "IlxxxlI",
+        "gust"
     ],
     "players_seats": [
         1,
-        4,
+        2,
+        3,
         6
     ],
     "starting_stacks": [
-        221.05,
-        339.44,
-        41.3
+        44.07,
+        100.0,
+        110.65,
+        106.21
     ],
-    "player_small_blind": "Qrenor",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "gust",
+    "small_blind": 1.0,
+    "player_big_blind": "jbaker10031",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ac",
-        "2s"
+        "3c",
+        "As"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "8h",
+            "9d",
+            "Jc"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "8s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MrCRABS333",
-                "Qrenor"
+                "38979",
+                "IlxxxlI",
+                "gust",
+                "jbaker10031"
             ],
             "actions": [
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "gust",
+                "jbaker10031",
+                "gust"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.53,
+                2.53
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "gust",
+                "jbaker10031",
+                "gust"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.27,
+                8.27
+            ]
+        },
+        "post-river": {
+            "players": [
+                "gust",
+                "jbaker10031"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
             ],
             "values": [
                 null,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
+        "Qs 10c",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        221.05,
-        338.94,
-        41.8
+        57.39,
+        100.0,
+        110.65,
+        91.41
     ]
 }

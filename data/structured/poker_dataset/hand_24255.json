@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 14:43:11",
+    "game_id": "793405175",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "PhillipHellmuth",
+        "IlxxxlI",
+        "HapKoTuk",
+        "kkennybz",
+        "anokato"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        61.49,
+        10.45,
+        25.69,
+        12.58,
+        48.82
+    ],
+    "player_small_blind": "anokato",
+    "small_blind": 0.1,
+    "player_big_blind": "PhillipHellmuth",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "5d",
+            "Ac"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "kkennybz",
+                "anokato",
+                "PhillipHellmuth"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "kkennybz"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.88,
+                0.88
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "kkennybz"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HapKoTuk",
+                "kkennybz"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Kh Ks",
+        "Ad 8d",
+        null
+    ],
+    "finishing_stack": [
+        61.24,
+        10.45,
+        22.560000000000002,
+        15.73,
+        48.72
+    ]
+}

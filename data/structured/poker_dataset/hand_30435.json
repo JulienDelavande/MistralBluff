@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/6 16:55:48",
+    "game_id": "792165663",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Poteplie",
+        "IampokerKidd",
+        "Camdenn",
+        "CHIPnFISH"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.25,
+        25.0,
+        46.15,
+        50.1,
+        50.7
+    ],
+    "player_small_blind": "Camdenn",
+    "small_blind": 0.1,
+    "player_big_blind": "CHIPnFISH",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "2d",
+            "9h"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Poteplie",
+                "IampokerKidd",
+                "Camdenn",
+                "CHIPnFISH"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Camdenn",
+                "CHIPnFISH",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Camdenn",
+                "CHIPnFISH",
+                "IampokerKidd",
+                "Camdenn",
+                "CHIPnFISH"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.75,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.25,
+        25.0,
+        47.54,
+        49.35,
+        49.95
+    ]
+}

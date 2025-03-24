@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 22:6:14",
+    "game_id": "793505379",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "Kovrol99",
+        "Maria_Pia",
+        "CallMePAPA",
+        "IlxxxlI",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.17,
+        12.69,
+        31.97,
+        5.13,
+        34.77
+    ],
+    "player_small_blind": "Maria_Pia",
+    "small_blind": 0.1,
+    "player_big_blind": "CallMePAPA",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "Qc",
+            "3s"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "Kovrol99",
+                "Maria_Pia",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.77,
+                0.62
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Maria_Pia",
+                "CallMePAPA",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Maria_Pia",
+                "CallMePAPA",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Maria_Pia",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "6c 8c",
+        "As 3d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.17,
+        13.93,
+        30.599999999999998,
+        5.13,
+        34.77
+    ]
+}

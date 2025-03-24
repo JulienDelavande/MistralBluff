@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/3 14:23:47",
+    "game_id": "789984642",
+    "variant": "PRR",
+    "table_name": "Ekek-14",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "bludrifter",
+        "IlxxxlI",
+        "David_lay",
+        "Jui Kuen",
+        "CalmDownJustCall"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        14.8,
+        13.0,
+        25.35,
+        27.43,
+        33.57
+    ],
+    "player_small_blind": "Jui Kuen",
+    "small_blind": 0.1,
+    "player_big_blind": "CalmDownJustCall",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "3s",
+            "Jc"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bludrifter",
+                "IlxxxlI",
+                "David_lay",
+                "Jui Kuen",
+                "CalmDownJustCall"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CalmDownJustCall",
+                "bludrifter",
+                "CalmDownJustCall"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        15.120000000000001,
+        13.0,
+        25.35,
+        27.33,
+        33.32
+    ]
+}

@@ -1,143 +1,116 @@
 {
-    "date": "2016/11/29 13:17:8",
-    "game_id": "786972982",
+    "date": "2016/9/6 0:5:41",
+    "game_id": "720612363",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "WeakAndWeary",
-        "MadLifeGrinder",
-        "Sephiroth1",
-        "LloydXmas",
-        "Im Don King",
+        "Oldhandsir",
+        "uncle_argyle",
+        "Ksowas",
+        "Maria26years",
         "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        125.66,
-        100.0,
-        100.0,
-        169.83,
-        112.33,
-        48.03
+        110.91,
+        96.0,
+        196.02,
+        99.0,
+        105.28
     ],
-    "player_small_blind": "Im Don King",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "uncle_argyle",
+    "small_blind": 1.0,
+    "player_big_blind": "Ksowas",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ac",
-        "8d"
+        "2d",
+        "As"
     ],
     "dealed_cards": {
         "flop": [
-            "Jd",
-            "Kc",
-            "4c"
+            "8c",
+            "6h",
+            "6c"
         ],
-        "turn": [
-            "5s"
-        ],
-        "river": [
-            "Kd"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "WeakAndWeary",
-                "MadLifeGrinder",
-                "Sephiroth1",
-                "LloydXmas",
-                "Im Don King",
-                "IlxxxlI"
+                "Maria26years",
+                "IlxxxlI",
+                "Oldhandsir",
+                "uncle_argyle",
+                "Ksowas"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
+                "FOLD",
+                "FOLD",
                 "CALL",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
-                2.5,
-                2.5,
                 null,
                 null,
+                1.0,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "MadLifeGrinder",
-                "Sephiroth1"
+                "uncle_argyle",
+                "Ksowas",
+                "uncle_argyle",
+                "Ksowas"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "RAISE",
+                "RAISE",
+                "FOLD"
             ],
             "values": [
-                null,
+                2.0,
+                6.0,
+                8.0,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "MadLifeGrinder",
-                "Sephiroth1",
-                "MadLifeGrinder"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                4.12,
-                4.12
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "MadLifeGrinder",
-                "Sephiroth1"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "Ah Js",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        125.66,
-        93.38,
-        107.39,
-        169.83,
-        111.83,
-        47.03
+        110.91,
+        103.2,
+        188.02,
+        99.0,
+        105.28
     ]
 }

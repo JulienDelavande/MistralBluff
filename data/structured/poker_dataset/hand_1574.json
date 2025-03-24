@@ -1,102 +1,90 @@
 {
-    "date": "2016/11/28 20:45:41",
-    "game_id": "786377761",
+    "date": "2016/9/18 7:39:15",
+    "game_id": "730192740",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 5,
     "players": [
-        "BirdieKing",
-        "GreinSeint",
-        "in_ur_i",
-        "meandkids",
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "BullsNationBitch",
+        "Pimpika",
+        "gosu36484",
+        "FirstClan",
         "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
-        3,
+        4,
         5,
-        6
+        6,
+        8,
+        9
     ],
     "starting_stacks": [
-        42.98,
-        21.04,
-        46.96,
-        47.0,
-        20.0
+        103.0,
+        114.2,
+        40.25,
+        78.51,
+        37.5,
+        165.32,
+        41.5
     ],
-    "player_small_blind": "BirdieKing",
-    "small_blind": 0.25,
-    "player_big_blind": "GreinSeint",
-    "big_blind": 0.5,
+    "player_small_blind": "gosu36484",
+    "small_blind": 0.5,
+    "player_big_blind": "FirstClan",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7h",
-        "10c"
+        "2d",
+        "7s"
     ],
     "dealed_cards": {
-        "flop": [
-            "4c",
-            "Qs",
-            "Kd"
-        ],
-        "turn": [
-            "9c"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "in_ur_i",
-                "meandkids",
                 "IlxxxlI",
-                "BirdieKing",
-                "GreinSeint"
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "BullsNationBitch",
+                "Pimpika",
+                "gosu36484",
+                "FirstClan"
             ],
             "actions": [
+                "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                0.75,
-                0.5
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "BirdieKing",
-                "GreinSeint"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "BirdieKing",
-                "GreinSeint"
-            ],
-            "actions": [
-                "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                0.95,
+                null,
+                null,
+                null,
+                null,
+                2.0,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -109,13 +97,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        43.879999999999995,
-        20.04,
-        46.96,
-        47.0,
-        20.0
+        103.0,
+        114.2,
+        40.25,
+        80.01,
+        37.0,
+        164.32,
+        41.5
     ]
 }

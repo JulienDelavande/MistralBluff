@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/9 14:18:55",
+    "game_id": "794098088",
+    "variant": "PRR",
+    "table_name": "Gorgons-19",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "iDawg",
+        "IlxxxlI",
+        "Heksebrygg",
+        "Hawkbacker",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        91.28,
+        20.0,
+        56.78,
+        44.81,
+        51.5
+    ],
+    "player_small_blind": "Heksebrygg",
+    "small_blind": 0.25,
+    "player_big_blind": "Hawkbacker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "Ad",
+            "4s"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jui Kuen",
+                "iDawg",
+                "IlxxxlI",
+                "Heksebrygg",
+                "Hawkbacker"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Heksebrygg",
+                "Hawkbacker"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Heksebrygg",
+                "Hawkbacker",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        91.28,
+        20.0,
+        53.38,
+        47.870000000000005,
+        51.5
+    ]
+}

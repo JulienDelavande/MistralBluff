@@ -1,0 +1,140 @@
+{
+    "date": "2016/10/10 23:3:6",
+    "game_id": "747666207",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "bigpairAA",
+        "Winter is here",
+        "StackMagic",
+        "IlxxxlI",
+        "Spirit101p",
+        "dopp3333",
+        "AceManTA23"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        49.56,
+        38.73,
+        116.82,
+        53.91,
+        48.11,
+        55.21,
+        64.24
+    ],
+    "player_small_blind": "bigpairAA",
+    "small_blind": 0.25,
+    "player_big_blind": "Winter is here",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "2h",
+            "3c"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "StackMagic",
+                "IlxxxlI",
+                "Spirit101p",
+                "dopp3333",
+                "AceManTA23",
+                "bigpairAA",
+                "Winter is here"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "StackMagic",
+                "dopp3333"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "StackMagic",
+                "dopp3333",
+                "StackMagic"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.53,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        49.31,
+        38.23,
+        113.32,
+        53.91,
+        48.11,
+        59.08,
+        64.24
+    ]
+}

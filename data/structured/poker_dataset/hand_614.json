@@ -1,107 +1,73 @@
 {
-    "date": "2016/11/29 13:28:48",
-    "game_id": "786979563",
+    "date": "2016/9/5 12:50:48",
+    "game_id": "720272055",
     "variant": "PRR",
-    "table_name": "Longana",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 2,
     "players": [
-        "actionjax24",
-        "ShawnFrie",
-        "VegetablesArentYummy",
-        "gust",
+        "RapaNui",
         "St3p04ka",
-        "Pimpika",
-        "dbrinker",
-        "IlxxxlI"
+        "IlxxxlI",
+        "SheppyPOO!!",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
-        6,
-        7,
-        8
+        9
     ],
     "starting_stacks": [
-        132.38,
-        109.72,
-        100.0,
-        87.0,
-        80.0,
-        89.58,
-        372.59,
-        40.0
+        659.84,
+        462.98,
+        120.87,
+        631.98,
+        209.21
     ],
-    "player_small_blind": "Pimpika",
-    "small_blind": 1.0,
-    "player_big_blind": "dbrinker",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 3.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jc",
-        "Ah"
+        "6h",
+        "2d"
     ],
     "dealed_cards": {
-        "flop": [
-            "6s",
-            "Qh",
-            "Qs"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "actionjax24",
-                "ShawnFrie",
-                "VegetablesArentYummy",
-                "gust",
+                "TheManiac89",
+                "RapaNui",
                 "St3p04ka",
-                "Pimpika",
-                "dbrinker"
+                "IlxxxlI",
+                "SheppyPOO!!"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                4.0,
-                null,
-                null,
-                null,
-                null,
-                null,
-                null,
-                2.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "dbrinker",
-                "IlxxxlI",
-                "dbrinker"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                4.45,
+                null,
+                15.0,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -119,19 +85,13 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        132.38,
-        109.72,
-        100.0,
-        87.0,
-        80.0,
-        88.58,
-        368.59,
-        44.55
+        659.84,
+        471.98,
+        117.87,
+        625.98,
+        209.21
     ]
 }

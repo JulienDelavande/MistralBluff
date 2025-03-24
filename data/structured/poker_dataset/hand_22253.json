@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/8 22:0:23",
+    "game_id": "793503786",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "orgonox",
+        "IlxxxlI",
+        "nessi_a",
+        "BogeyGuy",
+        "Maria_Pia"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.37,
+        10.0,
+        7.45,
+        11.25,
+        10.59
+    ],
+    "player_small_blind": "BogeyGuy",
+    "small_blind": 0.1,
+    "player_big_blind": "Maria_Pia",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "8d",
+            "2h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "orgonox",
+                "IlxxxlI",
+                "nessi_a",
+                "BogeyGuy",
+                "Maria_Pia",
+                "orgonox"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                2.15,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BogeyGuy",
+                "orgonox"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.26,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.12,
+        10.0,
+        7.45,
+        13.52,
+        10.34
+    ]
+}

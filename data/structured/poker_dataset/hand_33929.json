@@ -1,0 +1,122 @@
+{
+    "date": "2016/12/5 12:18:43",
+    "game_id": "791398967",
+    "variant": "PRR",
+    "table_name": "Kraken-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "flyshark01",
+        "POWERSTACK",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3
+    ],
+    "starting_stacks": [
+        100.0,
+        41.21,
+        79.5
+    ],
+    "player_small_blind": "POWERSTACK",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "5d",
+            "Jd"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "4h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "flyshark01",
+                "POWERSTACK",
+                "IlxxxlI",
+                "POWERSTACK"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                3.5,
+                3.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "POWERSTACK",
+                "IlxxxlI",
+                "POWERSTACK"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.85,
+                2.85
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "POWERSTACK",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "POWERSTACK",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "As 10h"
+    ],
+    "finishing_stack": [
+        100.0,
+        33.86,
+        86.12
+    ]
+}

@@ -1,75 +1,83 @@
 {
-    "date": "2016/11/29 11:25:40",
-    "game_id": "786896865",
+    "date": "2016/9/13 13:25:7",
+    "game_id": "726612941",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
+        "SheppyPOO!!",
         "IlxxxlI",
-        "beachrog",
-        "Maria_Pia",
-        "imperceptible"
+        "xx_HaZ",
+        "PANDAisEVIL"
     ],
     "players_seats": [
         2,
         3,
         4,
-        6
+        5
     ],
     "starting_stacks": [
-        20.0,
-        31.6,
-        33.0,
-        9.51
+        233.73,
+        82.0,
+        257.98,
+        200.0
     ],
-    "player_small_blind": "imperceptible",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "xx_HaZ",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kc",
-        "As"
+        "7s",
+        "Kh"
     ],
     "dealed_cards": {
         "flop": [
-            "6d",
-            "7d",
-            "6h"
+            "Ad",
+            "3s",
+            "10s"
         ],
-        "turn": [
-            "Js"
-        ],
-        "river": [
-            "6c"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "beachrog",
-                "Maria_Pia",
-                "imperceptible",
-                "IlxxxlI"
+                "PANDAisEVIL",
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "xx_HaZ"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "ALLIN",
                 "CALL"
             ],
             "values": [
                 null,
+                8.0,
                 null,
-                9.26,
-                9.01
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "xx_HaZ",
+                "SheppyPOO!!",
+                "xx_HaZ"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                11.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -83,15 +91,15 @@
         }
     },
     "card_shown_by_players": [
-        "Kc As",
         null,
         null,
-        "10s Kd"
+        null,
+        null
     ],
     "finishing_stack": [
-        28.560000000000002,
-        31.6,
-        33.0,
-        0.0
+        243.57999999999998,
+        80.0,
+        249.98000000000002,
+        200.0
     ]
 }

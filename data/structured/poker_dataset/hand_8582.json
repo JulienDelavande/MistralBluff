@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/26 12:24:43",
+    "game_id": "806318188",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "Artemone",
+        "shinebox809",
+        "heraklinos89",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.0,
+        30.98,
+        52.77,
+        52.13
+    ],
+    "player_small_blind": "shinebox809",
+    "small_blind": 0.25,
+    "player_big_blind": "heraklinos89",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "8s",
+            "8h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Artemone",
+                "shinebox809",
+                "heraklinos89",
+                "IlxxxlI",
+                "shinebox809"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.25,
+                null,
+                1.0,
+                3.5,
+                null,
+                2.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shinebox809",
+                "heraklinos89",
+                "shinebox809"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shinebox809",
+                "heraklinos89",
+                "shinebox809"
+            ],
+            "actions": [
+                "CHECK",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.0,
+                8.0
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10c Jc",
+        "Ad 10d",
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        45.67,
+        37.77,
+        50.88
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "date": "2016/12/22 21:49:22",
+    "game_id": "803792146",
+    "variant": "PRR",
+    "table_name": "Ettin-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "tywhoyou",
+        "uberlin",
+        "IlxxxlI",
+        "MeromAd",
+        "ChinoPus",
+        "booya25",
+        "majomx",
+        "emmagrace",
+        "notyourpot"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        25.0,
+        25.93,
+        29.67,
+        19.68,
+        10.91,
+        17.6,
+        27.66,
+        10.92,
+        32.29
+    ],
+    "player_small_blind": "majomx",
+    "small_blind": 0.1,
+    "player_big_blind": "emmagrace",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "4h",
+            "10h"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "notyourpot",
+                "tywhoyou",
+                "uberlin",
+                "IlxxxlI",
+                "MeromAd",
+                "ChinoPus",
+                "booya25",
+                "majomx",
+                "emmagrace"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "emmagrace",
+                "tywhoyou"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "emmagrace",
+                "tywhoyou",
+                "emmagrace"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.77,
+        25.93,
+        29.67,
+        19.68,
+        10.91,
+        17.6,
+        27.56,
+        10.17,
+        32.29
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/24 9:52:17",
+    "game_id": "804958884",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "OpusDog",
+        "IlxxxlI",
+        "Burger",
+        "CroMagnons",
+        "huiloputin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.24,
+        25.0,
+        17.48,
+        45.81,
+        35.25
+    ],
+    "player_small_blind": "OpusDog",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "Ad",
+            "9d"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Burger",
+                "CroMagnons",
+                "huiloputin",
+                "OpusDog",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "OpusDog",
+                "IlxxxlI",
+                "huiloputin",
+                "OpusDog"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.71,
+                0.71,
+                0.71
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "OpusDog",
+                "IlxxxlI",
+                "huiloputin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "OpusDog",
+                "IlxxxlI",
+                "huiloputin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "As 6h",
+        "9h Kc",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.479999999999997,
+        23.79,
+        17.48,
+        45.81,
+        34.04
+    ]
+}

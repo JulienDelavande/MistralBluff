@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/25 16:11:29",
+    "game_id": "805747146",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "afvet333",
+        "ImYourFriend1996",
+        "Sonic3Dblast",
+        "polarizedkid",
+        "holdme7"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.66,
+        25.0,
+        25.0,
+        81.39,
+        10.0,
+        28.68
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "afvet333",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "8h",
+            "6d"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ImYourFriend1996",
+                "Sonic3Dblast",
+                "polarizedkid",
+                "holdme7",
+                "IlxxxlI",
+                "afvet333"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.6,
+                null,
+                null,
+                0.35
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "afvet333",
+                "polarizedkid"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "afvet333",
+                "polarizedkid",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "afvet333",
+                "polarizedkid"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "6s 9c",
+        null,
+        null,
+        "As 2h",
+        null
+    ],
+    "finishing_stack": [
+        25.56,
+        26.09,
+        25.0,
+        81.39,
+        8.9,
+        28.68
+    ]
+}

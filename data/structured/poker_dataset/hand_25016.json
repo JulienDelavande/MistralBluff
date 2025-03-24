@@ -1,0 +1,123 @@
+{
+    "date": "2016/12/8 10:22:56",
+    "game_id": "793250120",
+    "variant": "PRR",
+    "table_name": "Ekek-17",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "EBDuBois",
+        "B.C Lightning",
+        "BoTPuMHeDichBro",
+        "ClearEyesFullHouse"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        8.34,
+        25.62,
+        26.04,
+        34.1
+    ],
+    "player_small_blind": "ClearEyesFullHouse",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "10c",
+            "9c"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "EBDuBois",
+                "B.C Lightning",
+                "BoTPuMHeDichBro",
+                "ClearEyesFullHouse",
+                "IlxxxlI",
+                "EBDuBois",
+                "ClearEyesFullHouse"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                0.15,
+                1.13,
+                1.13,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "EBDuBois",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                4.6,
+                6.96,
+                2.36
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "10s Ad",
+        "9h 10d",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        17.75,
+        0.0,
+        25.62,
+        26.04,
+        33.85
+    ]
+}

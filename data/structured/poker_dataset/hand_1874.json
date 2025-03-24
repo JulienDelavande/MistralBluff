@@ -1,78 +1,129 @@
 {
-    "date": "2016/11/28 19:50:34",
-    "game_id": "786366169",
+    "date": "2016/9/18 8:21:18",
+    "game_id": "730218991",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "DonkReaper",
-        "legenda99",
-        "Goomashroom",
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "caballeroXXX"
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        6
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        67.64,
-        122.56,
-        72.73,
-        23.6,
-        58.21
+        190.32,
+        228.1,
+        283.0,
+        562.98,
+        382.47,
+        248.25,
+        303.45,
+        80.0,
+        180.94
     ],
-    "player_small_blind": "DonkReaper",
-    "small_blind": 0.25,
-    "player_big_blind": "legenda99",
-    "big_blind": 0.5,
+    "player_small_blind": "liniang",
+    "small_blind": 2.0,
+    "player_big_blind": "Cellar door",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6s",
-        "4d"
+        "7s",
+        "2s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "Ad",
+            "9d",
+            "7d"
+        ],
+        "turn": [
+            "3s"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
+                "TryNotToTilt",
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "caballeroXXX",
-                "DonkReaper",
-                "legenda99"
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang",
+                "Cellar door"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
-                1.5,
                 null,
                 null,
+                null,
+                null,
+                null,
+                null,
+                4.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Cellar door",
+                "ABCD123"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Cellar door",
+                "ABCD123",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -85,13 +136,21 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        67.39,
-        122.06,
-        73.48,
-        23.6,
-        58.21
+        196.22,
+        226.1,
+        279.0,
+        562.98,
+        382.47,
+        248.25,
+        303.45,
+        80.0,
+        180.94
     ]
 }

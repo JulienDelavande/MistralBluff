@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 15:17:28",
-    "game_id": "787024954",
+    "date": "2016/9/4 9:34:32",
+    "game_id": "719271256",
     "variant": "PRR",
-    "table_name": "Gorgons-18",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "hoocher",
+        "BiGFck",
         "IlxxxlI",
-        "Beep_Beep",
-        "IampokerKidd",
-        "Jui Kuen",
-        "foreseen"
+        "MJFriedman13",
+        "ConstanceHarm",
+        "St3p04ka",
+        "Dusty Kitten"
     ],
     "players_seats": [
         1,
@@ -22,65 +22,124 @@
         6
     ],
     "starting_stacks": [
-        81.68,
-        22.0,
-        104.28,
-        50.0,
-        50.0,
-        158.83
+        39.0,
+        40.0,
+        135.35,
+        128.19,
+        138.91,
+        86.52
     ],
-    "player_small_blind": "Beep_Beep",
-    "small_blind": 0.25,
-    "player_big_blind": "IampokerKidd",
-    "big_blind": 0.5,
+    "player_small_blind": "MJFriedman13",
+    "small_blind": 1.0,
+    "player_big_blind": "ConstanceHarm",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "9c"
+        "Qh",
+        "5d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "4s",
+            "9c",
+            "Ah"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "Js"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Jui Kuen",
-                "foreseen",
-                "hoocher",
+                "St3p04ka",
+                "Dusty Kitten",
+                "BiGFck",
                 "IlxxxlI",
-                "Beep_Beep"
+                "MJFriedman13",
+                "ConstanceHarm"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                4.0,
                 null,
-                null,
-                null
+                3.0,
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "MJFriedman13",
+                "ConstanceHarm",
+                "BiGFck",
+                "MJFriedman13",
+                "ConstanceHarm"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                5.0,
+                5.0,
+                5.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "MJFriedman13",
+                "ConstanceHarm",
+                "BiGFck",
+                "MJFriedman13",
+                "ConstanceHarm"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                14.0,
+                null,
+                14.0
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "ConstanceHarm",
+                "BiGFck",
+                "ConstanceHarm"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                16.0,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -92,11 +151,11 @@
         null
     ],
     "finishing_stack": [
-        81.68,
-        22.0,
-        104.03,
-        50.25,
-        50.0,
-        158.83
+        68.25,
+        40.0,
+        126.35,
+        105.19,
+        138.91,
+        86.52
     ]
 }

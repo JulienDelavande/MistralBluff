@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/1 14:47:39",
+    "game_id": "788647745",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "1P2M3",
+        "aleks0v",
+        "IlxxxlI",
+        "1000_na_nl25_aga"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        27.66,
+        50.0,
+        24.11,
+        58.59
+    ],
+    "player_small_blind": "1000_na_nl25_aga",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "4s",
+            "9d"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "1P2M3",
+                "aleks0v",
+                "IlxxxlI",
+                "1000_na_nl25_aga",
+                "WeakAndWeary",
+                "1000_na_nl25_aga"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                4.0,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "1000_na_nl25_aga",
+                "WeakAndWeary",
+                "1000_na_nl25_aga"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.28,
+                4.28
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "1000_na_nl25_aga",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "1000_na_nl25_aga",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                11.27,
+                11.27
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "8s 9s"
+    ],
+    "finishing_stack": [
+        29.95,
+        27.66,
+        50.0,
+        24.11,
+        76.64000000000001
+    ]
+}

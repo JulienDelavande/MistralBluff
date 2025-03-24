@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/24 22:57:50",
+    "game_id": "805256987",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "Novassman",
+        "Jerin.J.",
+        "booya25",
+        "IlxxxlI",
+        "FatzPanda",
+        "shocktheworld"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.08,
+        7.89,
+        19.4,
+        37.3,
+        23.04,
+        47.23
+    ],
+    "player_small_blind": "shocktheworld",
+    "small_blind": 0.1,
+    "player_big_blind": "Novassman",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "Ks",
+            "Js"
+        ],
+        "turn": [
+            "Jh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jerin.J.",
+                "booya25",
+                "IlxxxlI",
+                "FatzPanda",
+                "shocktheworld",
+                "Novassman"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shocktheworld",
+                "Novassman"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.63,
+                0.63
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shocktheworld",
+                "Novassman",
+                "shocktheworld"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.43,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.099999999999998,
+        7.89,
+        19.4,
+        37.3,
+        23.04,
+        46.099999999999994
+    ]
+}

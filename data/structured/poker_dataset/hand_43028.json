@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/1 16:31:27",
+    "game_id": "788680403",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "DirtyDog98",
+        "DiiMinores",
+        "flyshark01",
+        "CattleCorner"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.94,
+        100.0,
+        113.24,
+        108.51,
+        289.55
+    ],
+    "player_small_blind": "flyshark01",
+    "small_blind": 0.5,
+    "player_big_blind": "CattleCorner",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "7c",
+            "3s"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "DirtyDog98",
+                "DiiMinores",
+                "flyshark01",
+                "CattleCorner",
+                "DiiMinores"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                10.5,
+                10.0,
+                8.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "flyshark01",
+                "CattleCorner",
+                "DiiMinores"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "flyshark01",
+                "CattleCorner",
+                "DiiMinores",
+                "flyshark01"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                15.68,
+                null,
+                47.04,
+                31.36
+            ]
+        },
+        "post-river": {
+            "players": [
+                "flyshark01",
+                "DiiMinores",
+                "flyshark01"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                55.2,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.94,
+        100.0,
+        179.28,
+        50.470000000000006,
+        278.55
+    ]
+}

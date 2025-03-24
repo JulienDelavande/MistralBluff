@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/1 16:30:10",
+    "game_id": "788680129",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "DirtyDog98",
+        "DiiMinores",
+        "flyshark01",
+        "CattleCorner"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        100.0,
+        124.33,
+        109.51,
+        289.55
+    ],
+    "player_small_blind": "DiiMinores",
+    "small_blind": 0.5,
+    "player_big_blind": "flyshark01",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "2h",
+            "Js"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CattleCorner",
+                "IlxxxlI",
+                "DirtyDog98",
+                "DiiMinores",
+                "flyshark01",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.4,
+                null,
+                6.1,
+                null,
+                4.2
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DiiMinores",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DiiMinores",
+                "IlxxxlI",
+                "DiiMinores"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                4.49,
+                14.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.94,
+        100.0,
+        113.24,
+        108.51,
+        289.55
+    ]
+}

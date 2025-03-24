@@ -1,57 +1,73 @@
 {
-    "date": "2016/11/28 18:42:16",
-    "game_id": "786353810",
+    "date": "2016/9/18 8:47:58",
+    "game_id": "730235144",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
     "button_seat": 4,
     "players": [
-        "SenNoSen",
-        "eu4ria",
+        "LuckyBoy1980",
+        "Cellar door",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ACES6176",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "Goomashroom",
-        "GreinSeint",
-        "wethco"
+        "utormico"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        114.41,
-        235.46,
-        24.25,
-        53.1,
-        19.5,
-        70.57
+        234.3,
+        200.0,
+        294.35,
+        178.15,
+        103.0,
+        200.0,
+        116.3,
+        116.0
     ],
-    "player_small_blind": "GreinSeint",
-    "small_blind": 0.25,
-    "player_big_blind": "wethco",
-    "big_blind": 0.5,
+    "player_small_blind": "Pimpika",
+    "small_blind": 1.0,
+    "player_big_blind": "ACES6176",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2d",
-        "7h"
+        "8d",
+        "8s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "7d",
+            "Jd",
+            "Kh"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "Js"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "SenNoSen",
-                "eu4ria",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "Goomashroom",
-                "GreinSeint",
-                "wethco"
+                "utormico",
+                "LuckyBoy1980",
+                "Cellar door",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ACES6176"
             ],
             "actions": [
                 "FOLD",
@@ -59,31 +75,62 @@
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
-                1.5,
+                4.0,
                 null,
                 null,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ACES6176",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "ACES6176",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "ACES6176",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -92,14 +139,18 @@
         null,
         null,
         null,
+        null,
+        "8d 8s",
         null
     ],
     "finishing_stack": [
-        114.41,
-        236.21,
-        24.25,
-        53.1,
-        19.25,
-        70.07
+        234.3,
+        200.0,
+        294.35,
+        177.15,
+        99.0,
+        200.0,
+        120.85,
+        116.0
     ]
 }

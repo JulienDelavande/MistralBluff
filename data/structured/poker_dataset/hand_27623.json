@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/7 18:58:16",
+    "game_id": "792771374",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Irene13",
+        "IlxxxlI",
+        "Maria_Pia",
+        "KUSH_KING",
+        "renoreno"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        34.09,
+        10.0,
+        13.34,
+        37.98,
+        25.0
+    ],
+    "player_small_blind": "Maria_Pia",
+    "small_blind": 0.1,
+    "player_big_blind": "KUSH_KING",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "8s",
+            "5s"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "renoreno",
+                "Irene13",
+                "IlxxxlI",
+                "Maria_Pia",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.77,
+                0.62
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Maria_Pia",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Maria_Pia",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.37,
+                1.37
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Maria_Pia",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ad 5h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        34.09,
+        10.0,
+        16.04,
+        34.989999999999995,
+        25.0
+    ]
+}

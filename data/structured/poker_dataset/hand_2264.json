@@ -1,132 +1,147 @@
 {
-    "date": "2016/11/28 17:54:48",
-    "game_id": "786344489",
+    "date": "2016/9/18 9:11:47",
+    "game_id": "730248000",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "Hakuna_Matata777",
-        "frenzybarb",
-        "JoJoLoring",
+        "GranatoBetano",
+        "liniang",
+        "Cellar door",
+        "maxcady444",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "1jackoff1",
-        "haroldbb",
-        "rpportugal"
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
         5,
+        6,
         7,
         8,
         9
     ],
     "starting_stacks": [
-        91.92,
-        50.0,
-        44.9,
-        20.0,
-        96.38,
-        59.14,
-        6.63
+        224.0,
+        211.62,
+        259.88,
+        136.6,
+        539.54,
+        202.45,
+        319.15,
+        172.17,
+        233.91
     ],
-    "player_small_blind": "frenzybarb",
-    "small_blind": 0.25,
-    "player_big_blind": "JoJoLoring",
-    "big_blind": 0.5,
+    "player_small_blind": "maxcady444",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2d",
-        "Ks"
+        "8c",
+        "4s"
     ],
     "dealed_cards": {
         "flop": [
-            "Qs",
-            "Jc",
-            "9c"
+            "8h",
+            "Kd",
+            "Qh"
         ],
         "turn": [
-            "5c"
+            "Jc"
         ],
         "river": [
-            "7h"
+            "8s"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "1jackoff1",
-                "haroldbb",
-                "rpportugal",
-                "Hakuna_Matata777",
-                "frenzybarb",
-                "JoJoLoring",
-                "1jackoff1"
+                "wishyouhadnot",
+                "GranatoBetano",
+                "liniang",
+                "Cellar door",
+                "maxcady444",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
                 "CALL",
-                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "CALL"
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
-                0.5,
+                null,
+                4.0,
+                null,
+                null,
+                null,
                 2.0,
-                null,
-                null,
-                null,
-                null,
-                1.5
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "1jackoff1",
-                "haroldbb"
+                "maxcady444",
+                "VegetablesArentYummy",
+                "wishyouhadnot",
+                "maxcady444",
+                "VegetablesArentYummy"
             ],
             "actions": [
+                "CHECK",
+                "CHECK",
                 "BET",
+                "FOLD",
                 "CALL"
             ],
             "values": [
-                2.0,
-                2.0
+                null,
+                null,
+                7.93,
+                null,
+                7.93
             ]
         },
         "post-turn": {
             "players": [
-                "1jackoff1",
-                "haroldbb"
+                "VegetablesArentYummy",
+                "wishyouhadnot"
             ],
             "actions": [
-                "BET",
-                "CALL"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                2.0,
-                2.0
+                null,
+                null
             ]
         },
         "post-river": {
             "players": [
-                "1jackoff1",
-                "haroldbb"
+                "VegetablesArentYummy",
+                "wishyouhadnot"
             ],
             "actions": [
-                "BET",
-                "CALL"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                2.0,
-                2.0
+                null,
+                null
             ]
         }
     },
@@ -135,17 +150,21 @@
         null,
         null,
         null,
-        "Js 6h",
-        "Qh Kc",
+        null,
+        "6s Kh",
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        91.92,
-        49.75,
-        44.4,
-        20.0,
-        88.38,
-        67.06,
-        6.63
+        224.0,
+        211.62,
+        259.88,
+        132.6,
+        539.54,
+        218.13,
+        319.15,
+        172.17,
+        221.98
     ]
 }

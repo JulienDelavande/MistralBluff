@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/7 10:40:21",
+    "game_id": "792552574",
+    "variant": "PRR",
+    "table_name": "Ekek-5",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "ABMTLQC",
+        "t0x1cAce",
+        "imJonny",
+        "TerryBall",
+        "DiiMinores"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.58,
+        38.52,
+        43.87,
+        25.0,
+        25.59,
+        38.96
+    ],
+    "player_small_blind": "imJonny",
+    "small_blind": 0.1,
+    "player_big_blind": "TerryBall",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "Jh",
+            "Qd"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DiiMinores",
+                "IlxxxlI",
+                "ABMTLQC",
+                "t0x1cAce",
+                "imJonny",
+                "TerryBall"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.53,
+                0.38
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "imJonny",
+                "TerryBall",
+                "imJonny"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.9,
+                3.5,
+                2.6
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "imJonny",
+                "TerryBall",
+                "imJonny",
+                "TerryBall",
+                "imJonny"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                4.75,
+                12.8,
+                16.71,
+                8.07
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ad Ac",
+        "Qc Js",
+        null
+    ],
+    "finishing_stack": [
+        11.58,
+        38.52,
+        43.87,
+        47.5,
+        0.5899999999999999,
+        38.96
+    ]
+}

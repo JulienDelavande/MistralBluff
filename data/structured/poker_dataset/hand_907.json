@@ -1,73 +1,110 @@
 {
-    "date": "2016/11/29 12:40:57",
-    "game_id": "786952362",
+    "date": "2016/9/6 0:54:10",
+    "game_id": "720654880",
     "variant": "PRR",
-    "table_name": "Kraken-8",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 2,
     "players": [
+        "BigLou1212",
+        "BIGRAISE",
+        "JikkiP",
+        "HookahBOSS",
+        "Maria26years",
+        "gfclbv",
+        "Leatherass9",
         "IlxxxlI",
-        "lordboroda",
-        "rook_",
-        "LloydXmas",
-        "Qrenor"
+        "bocha12"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.0,
-        100.0,
-        170.08,
-        101.5,
-        100.0
+        218.13,
+        253.35,
+        120.65,
+        433.65,
+        311.81,
+        602.1,
+        400.0,
+        160.0,
+        407.8
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "lordboroda",
-    "big_blind": 1.0,
+    "player_small_blind": "JikkiP",
+    "small_blind": 2.0,
+    "player_big_blind": "HookahBOSS",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "7h"
+        "6d",
+        "Qc"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Jd",
+            "5c",
+            "10s"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "rook_",
-                "LloydXmas",
-                "Qrenor",
+                "Maria26years",
+                "gfclbv",
+                "Leatherass9",
                 "IlxxxlI",
-                "lordboroda"
+                "bocha12",
+                "BigLou1212",
+                "BIGRAISE",
+                "JikkiP",
+                "HookahBOSS"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
-                2.88,
                 null,
                 null,
+                null,
+                null,
+                null,
+                null,
+                2.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "JikkiP",
+                "HookahBOSS"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -85,13 +122,21 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        39.5,
-        99.0,
-        170.08,
-        103.0,
-        100.0
+        218.13,
+        253.35,
+        124.60000000000001,
+        429.65,
+        311.81,
+        602.1,
+        400.0,
+        160.0,
+        407.8
     ]
 }

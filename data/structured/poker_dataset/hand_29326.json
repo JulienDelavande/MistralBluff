@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/7 9:4:6",
+    "game_id": "792478566",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "SANTA MARIA",
+        "Rabb1tH0le",
+        "Ice Bank Mice Elf",
+        "IlxxxlI",
+        "ABMTLQC",
+        "smooty"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        31.64,
+        57.4,
+        30.61,
+        10.0,
+        52.67,
+        16.7
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "ABMTLQC",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "Qd",
+            "Jd"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "smooty",
+                "SANTA MARIA",
+                "Rabb1tH0le",
+                "Ice Bank Mice Elf",
+                "IlxxxlI",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "ABMTLQC",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.39,
+                0.39
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.5,
+                3.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                5.49,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        31.64,
+        57.4,
+        30.61,
+        14.06,
+        48.160000000000004,
+        16.7
+    ]
+}

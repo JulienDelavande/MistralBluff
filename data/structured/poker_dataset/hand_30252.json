@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/6 17:11:56",
+    "game_id": "792168816",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "CRUSHINUSHIP",
+        "WomboComboAA",
+        "aleks0v",
+        "CASHMONEYKILLA"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        87.02,
+        86.21,
+        50.5,
+        56.04
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "CRUSHINUSHIP",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "7h",
+            "2s"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WomboComboAA",
+                "aleks0v",
+                "CASHMONEYKILLA",
+                "IlxxxlI",
+                "CRUSHINUSHIP"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CRUSHINUSHIP",
+                "CASHMONEYKILLA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CRUSHINUSHIP",
+                "CASHMONEYKILLA"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.42,
+                2.42
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CRUSHINUSHIP",
+                "CASHMONEYKILLA"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.29,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        19.75,
+        91.61999999999999,
+        86.21,
+        50.5,
+        51.2
+    ]
+}

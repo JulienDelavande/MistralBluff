@@ -1,0 +1,125 @@
+{
+    "date": "2016/12/24 21:58:7",
+    "game_id": "805238035",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "SkaHot",
+        "ramieliasov",
+        "booya25",
+        "IlxxxlI",
+        "AcesHigh14",
+        "Pro-Bro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        51.56,
+        27.28,
+        21.62,
+        23.79,
+        7.45,
+        64.12
+    ],
+    "player_small_blind": "ramieliasov",
+    "small_blind": 0.1,
+    "player_big_blind": "booya25",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "Ah",
+            "8h"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "AcesHigh14",
+                "Pro-Bro",
+                "SkaHot",
+                "ramieliasov",
+                "booya25"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "booya25",
+                "AcesHigh14",
+                "booya25"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                1.01,
+                6.7,
+                5.69
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ad 10s",
+        null,
+        "8d 8c",
+        null
+    ],
+    "finishing_stack": [
+        51.56,
+        27.18,
+        14.170000000000002,
+        23.79,
+        14.25,
+        64.12
+    ]
+}

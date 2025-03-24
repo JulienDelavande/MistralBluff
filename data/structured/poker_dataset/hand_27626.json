@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 18:58:7",
+    "game_id": "792771351",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Maria_Pia",
+        "KUSH_KING",
+        "IlxxxlI",
+        "Qatro",
+        "Irene13"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        12.9,
+        24.75,
+        10.0,
+        27.66,
+        39.21
+    ],
+    "player_small_blind": "KUSH_KING",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "9c",
+            "Jd"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Qatro",
+                "Irene13",
+                "Maria_Pia",
+                "KUSH_KING",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Maria_Pia",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.47,
+                0.47
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.64,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.93,
+        24.65,
+        10.969999999999999,
+        27.66,
+        39.21
+    ]
+}

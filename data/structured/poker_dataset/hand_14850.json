@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/23 12:6:36",
+    "game_id": "804370264",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "dtnfk",
+        "AAADRUNKKK",
+        "itsmejdg",
+        "IlxxxlI",
+        "Zzzzzzz10",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        2.11,
+        10.74,
+        14.03,
+        14.21,
+        35.34
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Zzzzzzz10",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "8h",
+            "2h"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Parcker",
+                "dtnfk",
+                "AAADRUNKKK",
+                "itsmejdg",
+                "IlxxxlI",
+                "Zzzzzzz10"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Zzzzzzz10",
+                "dtnfk",
+                "Zzzzzzz10"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.52,
+                0.52
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Zzzzzzz10",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Zzzzzzz10",
+                "dtnfk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ad Kd",
+        null,
+        null,
+        null,
+        "Kc Jh",
+        null
+    ],
+    "finishing_stack": [
+        12.82,
+        2.11,
+        10.74,
+        13.93,
+        11.190000000000001,
+        35.34
+    ]
+}

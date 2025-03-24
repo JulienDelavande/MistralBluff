@@ -1,0 +1,121 @@
+{
+    "date": "2016/12/7 9:31:46",
+    "game_id": "792503945",
+    "variant": "PRR",
+    "table_name": "Kraken-10",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "speechboy71",
+        "IlxxxlI",
+        "St3p04ka",
+        "LazyFish",
+        "Flitzmeister"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        108.26,
+        40.0,
+        40.0,
+        105.56,
+        149.17
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "Flitzmeister",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "4h",
+            "Qd"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "speechboy71",
+                "IlxxxlI",
+                "St3p04ka",
+                "Flitzmeister"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.6,
+                2.1
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "St3p04ka",
+                "Flitzmeister",
+                "St3p04ka"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                3.53,
+                10.59,
+                7.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "St3p04ka",
+                "Flitzmeister"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                26.31,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        108.26,
+        40.0,
+        52.33,
+        105.56,
+        135.48
+    ]
+}

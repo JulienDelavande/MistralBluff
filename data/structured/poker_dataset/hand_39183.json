@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/2 21:9:19",
+    "game_id": "789403833",
+    "variant": "PRR",
+    "table_name": "Kraken-15",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "PANDAisEVIL",
+        "Orondi",
+        "Eddk4",
+        "IlxxxlI",
+        "Rekruol"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        299.65,
+        166.78,
+        39.5,
+        40.0,
+        100.0
+    ],
+    "player_small_blind": "PANDAisEVIL",
+    "small_blind": 0.5,
+    "player_big_blind": "Orondi",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "Qd",
+            "5h"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Eddk4",
+                "IlxxxlI",
+                "Rekruol",
+                "PANDAisEVIL",
+                "Orondi"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PANDAisEVIL",
+                "Orondi",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.38,
+                2.38
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PANDAisEVIL",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "PANDAisEVIL",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "7h Js",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        304.04999999999995,
+        161.9,
+        39.5,
+        40.0,
+        100.0
+    ]
+}

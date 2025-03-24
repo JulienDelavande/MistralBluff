@@ -1,33 +1,39 @@
 {
-    "date": "2016/11/29 8:7:59",
-    "game_id": "786729997",
+    "date": "2016/9/17 16:0:50",
+    "game_id": "729622564",
     "variant": "PRR",
-    "table_name": "Kraken-2",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "MrCRABS333",
-        "Qrenor",
-        "IlxxxlI"
+        "jbaker10031",
+        "38979",
+        "IlxxxlI",
+        "blaz77",
+        "gust"
     ],
     "players_seats": [
         1,
+        2,
+        3,
         4,
         6
     ],
     "starting_stacks": [
-        217.05,
-        340.44,
-        44.3
+        46.74,
+        100.0,
+        131.34,
+        100.0,
+        87.41
     ],
-    "player_small_blind": "MrCRABS333",
-    "small_blind": 0.5,
-    "player_big_blind": "Qrenor",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "blaz77",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jc",
-        "Qh"
+        "Ks",
+        "7s"
     ],
     "dealed_cards": {
         "flop": [],
@@ -37,21 +43,27 @@
     "actions": {
         "pre-flop": {
             "players": [
+                "gust",
+                "jbaker10031",
+                "38979",
                 "IlxxxlI",
-                "MrCRABS333",
-                "Qrenor",
+                "blaz77",
                 "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
-                "RAISE",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
                 "FOLD"
             ],
             "values": [
-                3.0,
-                9.5,
                 null,
+                null,
+                null,
+                3.0,
+                8.0,
                 null
             ]
         },
@@ -74,11 +86,15 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        221.05,
-        339.44,
-        41.3
+        46.74,
+        100.0,
+        127.34,
+        104.0,
+        87.41
     ]
 }

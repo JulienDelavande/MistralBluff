@@ -1,132 +1,170 @@
 {
-    "date": "2016/11/28 19:57:11",
-    "game_id": "786367306",
+    "date": "2016/9/18 8:12:29",
+    "game_id": "730213373",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 2,
     "players": [
+        "LuckyBoy1980",
+        "BadBeat79",
+        "322xxx",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "38979",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "gosu36484"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.0,
-        233.67,
-        107.55,
-        122.52,
-        70.0
+        245.55,
+        163.45,
+        205.45,
+        293.65,
+        185.15,
+        265.75,
+        200.0,
+        102.05,
+        157.0
     ],
-    "player_small_blind": "Are you with me",
+    "player_small_blind": "322xxx",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "FatSkinnyGuy",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "Ad"
+        "2h",
+        "9d"
     ],
     "dealed_cards": {
         "flop": [
-            "8h",
-            "Qs",
-            "10c"
+            "3c",
+            "Ac",
+            "6s"
         ],
         "turn": [
-            "8s"
+            "8d"
         ],
         "river": [
-            "4h"
+            "6h"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "38979",
-                "Wollverin",
-                "meandkids",
-                "Are you with me",
-                "IlxxxlI"
+                "Pimpika",
+                "ABCD123",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "gosu36484",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "322xxx",
+                "FatSkinnyGuy"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
                 "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
-                4.0,
                 null,
                 null,
-                2.0
+                null,
+                null,
+                5.0,
+                5.0,
+                null,
+                3.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "Wollverin"
+                "FatSkinnyGuy",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "FatSkinnyGuy"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "CALL",
+                "FOLD"
             ],
             "values": [
                 null,
+                12.0,
+                12.0,
                 null
             ]
         },
         "post-turn": {
             "players": [
-                "IlxxxlI",
-                "Wollverin"
+                "LuckyBoy1980",
+                "BadBeat79"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null
+                30.0,
+                30.0
             ]
         },
         "post-river": {
             "players": [
-                "IlxxxlI",
-                "Wollverin"
+                "LuckyBoy1980",
+                "BadBeat79"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null
+                64.0,
+                64.0
             ]
         }
     },
     "card_shown_by_players": [
-        "7c Ad",
+        "Ah Qh",
+        "Kd As",
         null,
-        "Js As",
+        null,
+        null,
+        null,
+        null,
         null,
         null
     ],
     "finishing_stack": [
-        36.0,
-        233.67,
-        112.1,
-        122.52,
-        69.0
+        134.55,
+        277.45,
+        204.45,
+        288.65,
+        185.15,
+        265.75,
+        200.0,
+        102.05,
+        157.0
     ]
 }

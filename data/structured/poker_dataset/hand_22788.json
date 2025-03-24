@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 21:7:6",
+    "game_id": "793489841",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "WeakAndWeary",
+        "Hawkbacker",
+        "mightydark",
+        "Bokmal",
+        "DonkReaper",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        65.47,
+        43.94,
+        68.44,
+        55.98,
+        23.72
+    ],
+    "player_small_blind": "Bokmal",
+    "small_blind": 0.25,
+    "player_big_blind": "DonkReaper",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "9c",
+            "7d"
+        ],
+        "turn": [
+            "Jh"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "Hawkbacker",
+                "mightydark",
+                "Bokmal",
+                "DonkReaper"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DonkReaper",
+                "mightydark",
+                "DonkReaper"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.59,
+                0.59
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DonkReaper",
+                "mightydark"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DonkReaper",
+                "mightydark"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Ah 6c",
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        65.47,
+        42.849999999999994,
+        68.19,
+        57.199999999999996,
+        23.72
+    ]
+}

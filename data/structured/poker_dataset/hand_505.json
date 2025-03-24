@@ -1,57 +1,42 @@
 {
-    "date": "2016/11/29 14:11:45",
-    "game_id": "786999391",
+    "date": "2016/9/5 12:25:13",
+    "game_id": "720265052",
     "variant": "PRR",
-    "table_name": "Karkadann-3",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "zboiii",
-        "ElvenEyes",
-        "StephCurry",
-        "gust",
-        "pineapplesand",
-        "tyty2",
+        "bigrpk22",
+        "lars76",
         "IlxxxlI",
-        "dankmann",
-        "VegetablesArentYummy"
+        "RapaNui"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        123.84,
-        101.86,
-        100.0,
-        40.0,
-        47.96,
-        50.0,
-        40.0,
-        162.74,
-        267.67
+        163.95,
+        319.98,
+        93.8,
+        233.4
     ],
-    "player_small_blind": "pineapplesand",
-    "small_blind": 0.5,
-    "player_big_blind": "tyty2",
-    "big_blind": 1.0,
+    "player_small_blind": "lars76",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8d",
-        "Js"
+        "Qs",
+        "6s"
     ],
     "dealed_cards": {
         "flop": [
-            "6d",
-            "5h",
-            "9s"
+            "7c",
+            "Jd",
+            "Ks"
         ],
         "turn": [],
         "river": []
@@ -59,60 +44,39 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "dankmann",
-                "VegetablesArentYummy",
-                "zboiii",
-                "ElvenEyes",
-                "StephCurry",
-                "gust",
-                "pineapplesand",
-                "tyty2"
+                "RapaNui",
+                "bigrpk22",
+                "lars76",
+                "IlxxxlI"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
                 "CALL"
             ],
             "values": [
+                8.0,
                 null,
-                null,
-                null,
-                null,
-                2.0,
-                null,
-                null,
-                null,
-                1.0
+                6.0,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "tyty2",
-                "ElvenEyes",
-                "tyty2",
-                "ElvenEyes",
-                "tyty2"
+                "lars76",
+                "IlxxxlI",
+                "RapaNui"
             ],
             "actions": [
-                "CHECK",
                 "BET",
-                "RAISE",
-                "ALLIN",
-                "ALLIN"
+                "FOLD",
+                "FOLD"
             ],
             "values": [
+                14.0,
                 null,
-                2.14,
-                12.84,
-                97.72,
-                35.16
+                null
             ]
         },
         "post-turn": {
@@ -128,24 +92,14 @@
     },
     "card_shown_by_players": [
         null,
-        "Qc Qh",
-        null,
-        null,
-        null,
-        "9h 2c",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        123.84,
-        149.36,
-        100.0,
-        40.0,
-        47.46,
-        0.0,
-        40.0,
-        162.74,
-        267.67
+        163.95,
+        335.78000000000003,
+        85.8,
+        225.4
     ]
 }

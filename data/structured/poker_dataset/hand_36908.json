@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/3 14:17:36",
+    "game_id": "789981941",
+    "variant": "PRR",
+    "table_name": "Ekek-22",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "Jui Kuen",
+        "Parcker",
+        "187flush",
+        "purecheto84",
+        "mollymack"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.34,
+        25.0,
+        25.78,
+        14.35,
+        32.64,
+        34.04
+    ],
+    "player_small_blind": "187flush",
+    "small_blind": 0.1,
+    "player_big_blind": "purecheto84",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "Qs",
+            "8h"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mollymack",
+                "IlxxxlI",
+                "Jui Kuen",
+                "Parcker",
+                "187flush",
+                "purecheto84"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "187flush",
+                "purecheto84"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "187flush",
+                "purecheto84",
+                "187flush"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "187flush",
+                "purecheto84",
+                "187flush"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "8c Kh",
+        "Ks Jc",
+        null
+    ],
+    "finishing_stack": [
+        10.34,
+        25.0,
+        25.78,
+        17.28,
+        29.39,
+        34.04
+    ]
+}

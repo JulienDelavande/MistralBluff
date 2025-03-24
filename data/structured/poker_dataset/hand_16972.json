@@ -1,0 +1,151 @@
+{
+    "date": "2016/12/16 10:56:10",
+    "game_id": "799070619",
+    "variant": "PRR",
+    "table_name": "Karkadann-5",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "kraz86",
+        "mumbaimuscle",
+        "haroldbb",
+        "dankmann",
+        "IlxxxlI",
+        "akbrow",
+        "xxxTDxxx"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        98.95,
+        162.28,
+        101.0,
+        100.0,
+        98.5,
+        97.08,
+        56.25
+    ],
+    "player_small_blind": "kraz86",
+    "small_blind": 0.5,
+    "player_big_blind": "mumbaimuscle",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "Jd",
+            "Ad"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "haroldbb",
+                "dankmann",
+                "IlxxxlI",
+                "akbrow",
+                "xxxTDxxx",
+                "kraz86",
+                "mumbaimuscle"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                null,
+                null,
+                2.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "kraz86",
+                "haroldbb"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.32,
+                3.32
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "kraz86",
+                "haroldbb"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.32,
+                4.32
+            ]
+        },
+        "post-river": {
+            "players": [
+                "kraz86",
+                "haroldbb",
+                "kraz86"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                7.05,
+                7.05
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ac Jc",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        81.26,
+        161.28,
+        117.88,
+        100.0,
+        98.5,
+        97.08,
+        56.25
+    ]
+}

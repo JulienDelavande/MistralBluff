@@ -1,106 +1,116 @@
 {
-    "date": "2016/11/29 11:33:11",
-    "game_id": "786902747",
+    "date": "2016/9/13 13:6:20",
+    "game_id": "726609000",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 6,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
+        "Wei2huge",
         "IlxxxlI",
-        "beachrog",
-        "Maria_Pia",
-        "imperceptible"
+        "DOR1"
     ],
     "players_seats": [
+        1,
         2,
-        3,
-        4,
-        6
+        3
     ],
     "starting_stacks": [
-        31.64,
-        20.19,
-        28.29,
-        31.28
+        152.47,
+        40.0,
+        38.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "beachrog",
-    "big_blind": 0.5,
+    "player_small_blind": "DOR1",
+    "small_blind": 1.0,
+    "player_big_blind": "Wei2huge",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "5h"
+        "4c",
+        "Ks"
     ],
     "dealed_cards": {
         "flop": [
-            "8h",
-            "10h",
+            "Js",
+            "3h",
             "7s"
         ],
         "turn": [
-            "Js"
+            "6h"
         ],
         "river": [
-            "6c"
+            "5d"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Maria_Pia",
-                "imperceptible",
                 "IlxxxlI",
-                "beachrog",
-                "imperceptible",
-                "IlxxxlI",
-                "beachrog"
+                "DOR1",
+                "Wei2huge"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
-                "RAISE",
                 "CALL",
-                "RAISE",
-                "FOLD",
-                "CALL"
+                "CHECK"
             ],
             "values": [
                 null,
-                1.25,
-                2.94,
-                2.69,
-                13.75,
-                null,
-                11.81
+                1.0,
+                null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "DOR1",
+                "Wei2huge"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "DOR1",
+                "Wei2huge"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "DOR1",
+                "Wei2huge"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
+        "3d 2d",
         null,
-        "8s 9s",
-        null,
-        "Qh Qs"
+        null
     ],
     "finishing_stack": [
-        28.45,
-        36.730000000000004,
-        28.29,
-        16.28
+        154.27,
+        40.0,
+        36.0
     ]
 }

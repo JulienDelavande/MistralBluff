@@ -1,0 +1,170 @@
+{
+    "date": "2016/12/2 14:32:14",
+    "game_id": "789311334",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "GagaPoker",
+        "StephCurry",
+        "hodisuda",
+        "imperceptible",
+        "IlxxxlI",
+        "BluffDoctor",
+        "kingkong508",
+        "BiGFck",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        100.0,
+        109.47,
+        104.52,
+        37.5,
+        41.42,
+        226.43,
+        95.22,
+        23.9,
+        111.53
+    ],
+    "player_small_blind": "imperceptible",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "2s",
+            "10d"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BluffDoctor",
+                "kingkong508",
+                "BiGFck",
+                "VegetablesArentYummy",
+                "GagaPoker",
+                "StephCurry",
+                "hodisuda",
+                "imperceptible",
+                "IlxxxlI",
+                "BluffDoctor"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                null,
+                null,
+                null,
+                null,
+                9.0,
+                null,
+                null,
+                7.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BluffDoctor",
+                "hodisuda",
+                "BluffDoctor"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.47,
+                10.47
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BluffDoctor",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BluffDoctor",
+                "hodisuda"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                22.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        109.47,
+        85.05,
+        37.0,
+        40.42,
+        245.38,
+        95.22,
+        23.9,
+        111.53
+    ]
+}

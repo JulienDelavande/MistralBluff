@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/26 12:51:49",
+    "game_id": "806334175",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "constant revelation",
+        "IlxxxlI",
+        "lablador1010",
+        "OMG_VanCandy",
+        "HapKoTuk",
+        "SamuelLJackson"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.95,
+        24.35,
+        21.15,
+        12.5,
+        25.3,
+        15.11
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "lablador1010",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "6s",
+            "4h"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "OMG_VanCandy",
+                "HapKoTuk",
+                "SamuelLJackson",
+                "constant revelation",
+                "IlxxxlI",
+                "lablador1010"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.72,
+                0.57
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "lablador1010",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.78,
+                0.78
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "lablador1010"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "lablador1010"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ad 10d",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.95,
+        25.79,
+        19.549999999999997,
+        12.5,
+        25.3,
+        15.11
+    ]
+}

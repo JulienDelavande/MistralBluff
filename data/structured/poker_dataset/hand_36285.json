@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/4 12:39:53",
+    "game_id": "790614664",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Terpkings",
+        "St3p04ka",
+        "mollymack",
+        "dresden3",
+        "IlxxxlI",
+        "lordboroda"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        47.97,
+        40.0,
+        101.81,
+        79.28,
+        44.02,
+        107.2
+    ],
+    "player_small_blind": "mollymack",
+    "small_blind": 0.5,
+    "player_big_blind": "dresden3",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "Js",
+            "9d"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "lordboroda",
+                "Terpkings",
+                "St3p04ka",
+                "mollymack",
+                "dresden3"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dresden3",
+                "Terpkings",
+                "dresden3"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.09,
+                3.09
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dresden3",
+                "Terpkings"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dresden3",
+                "Terpkings"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10h Kc",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        41.879999999999995,
+        40.0,
+        101.31,
+        85.24,
+        44.02,
+        107.2
+    ]
+}

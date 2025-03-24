@@ -1,116 +1,104 @@
 {
-    "date": "2016/11/29 9:15:46",
-    "game_id": "786789954",
+    "date": "2016/9/15 11:47:22",
+    "game_id": "728102568",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "akbrow",
-        "IlxxxlI",
-        "Ice Bank Mice Elf",
-        "Log_in",
-        "XxDominationxX",
-        "coldkilla",
-        "gunnfarm",
-        "OmEGaKuSh"
+        "Anastasia31",
+        "miscusee",
+        "TuxoH",
+        "allinoh",
+        "NoCortosPermite",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        6,
-        7,
-        8,
-        9
+        5,
+        6
     ],
     "starting_stacks": [
-        27.5,
-        20.0,
-        94.2,
-        19.75,
-        97.09,
-        54.77,
-        47.25,
-        54.17
+        200.0,
+        298.4,
+        235.75,
+        58.0,
+        306.61,
+        80.0
     ],
-    "player_small_blind": "XxDominationxX",
-    "small_blind": 0.25,
-    "player_big_blind": "coldkilla",
-    "big_blind": 0.5,
+    "player_small_blind": "Anastasia31",
+    "small_blind": 2.0,
+    "player_big_blind": "miscusee",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "7d"
+        "7h",
+        "4d"
     ],
     "dealed_cards": {
         "flop": [
-            "4h",
-            "Jh",
-            "2d"
+            "5h",
+            "7c",
+            "Qc"
         ],
         "turn": [
-            "Kc"
+            "Ks"
         ],
         "river": [
-            "9h"
+            "Kd"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "gunnfarm",
-                "OmEGaKuSh",
-                "akbrow",
+                "TuxoH",
+                "allinoh",
+                "NoCortosPermite",
                 "IlxxxlI",
-                "Ice Bank Mice Elf",
-                "Log_in",
-                "XxDominationxX",
-                "coldkilla",
-                "OmEGaKuSh"
+                "Anastasia31",
+                "miscusee"
             ],
             "actions": [
-                "FOLD",
-                "CALL",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
+                "CALL",
                 "CALL"
             ],
             "values": [
                 null,
-                0.5,
                 null,
+                9.0,
                 null,
-                null,
-                null,
-                1.75,
-                null,
-                1.5
+                7.0,
+                5.0
             ]
         },
         "post-flop": {
             "players": [
-                "XxDominationxX",
-                "OmEGaKuSh"
+                "Anastasia31",
+                "miscusee",
+                "NoCortosPermite"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD",
+                "CALL"
             ],
             "values": [
+                17.83,
                 null,
-                null
+                17.83
             ]
         },
         "post-turn": {
             "players": [
-                "XxDominationxX",
-                "OmEGaKuSh"
+                "Anastasia31",
+                "NoCortosPermite"
             ],
             "actions": [
                 "CHECK",
@@ -123,9 +111,9 @@
         },
         "post-river": {
             "players": [
-                "XxDominationxX",
-                "OmEGaKuSh",
-                "XxDominationxX"
+                "Anastasia31",
+                "NoCortosPermite",
+                "Anastasia31"
             ],
             "actions": [
                 "CHECK",
@@ -134,7 +122,7 @@
             ],
             "values": [
                 null,
-                2.14,
+                36.0,
                 null
             ]
         }
@@ -145,18 +133,14 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        27.5,
-        20.0,
-        94.2,
-        19.75,
-        95.09,
-        54.27,
-        47.25,
-        56.45
+        173.17000000000002,
+        289.4,
+        235.75,
+        58.0,
+        341.84000000000003,
+        80.0
     ]
 }

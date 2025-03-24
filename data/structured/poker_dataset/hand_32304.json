@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/6 7:51:50",
+    "game_id": "791852282",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "bublejam_mn",
+        "FirstClan",
+        "bob48133",
+        "IlxxxlI",
+        "CarolinaTarheel"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.38,
+        50.76,
+        8.88,
+        5.0,
+        9.87
+    ],
+    "player_small_blind": "bublejam_mn",
+    "small_blind": 0.1,
+    "player_big_blind": "bob48133",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "6s",
+            "6c"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "CarolinaTarheel",
+                "bublejam_mn",
+                "bob48133"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bob48133",
+                "CarolinaTarheel"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bob48133",
+                "CarolinaTarheel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "bob48133",
+                "CarolinaTarheel"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.23,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.280000000000001,
+        50.76,
+        10.100000000000001,
+        5.0,
+        8.62
+    ]
+}

@@ -1,137 +1,84 @@
 {
-    "date": "2016/11/29 13:14:9",
-    "game_id": "786971244",
+    "date": "2016/9/6 0:11:15",
+    "game_id": "720617364",
     "variant": "PRR",
     "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "bfish602",
-        "KingGuciGuci",
-        "IbetUmuck",
-        "IlxxxlI",
-        "MadLifeGrinder",
-        "LazyFish"
+        "Oldhandsir",
+        "Maria26years",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
-        3,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        201.0,
-        209.22,
-        715.42,
-        80.0,
-        211.21,
-        288.05
+        103.0,
+        102.0,
+        112.18
     ],
-    "player_small_blind": "MadLifeGrinder",
+    "player_small_blind": "IlxxxlI",
     "small_blind": 1.0,
-    "player_big_blind": "bfish602",
+    "player_big_blind": "Oldhandsir",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4d",
-        "9d"
+        "9h",
+        "8h"
     ],
     "dealed_cards": {
-        "flop": [
-            "10d",
-            "10s",
-            "9c"
-        ],
-        "turn": [
-            "Qd"
-        ],
-        "river": [
-            "2c"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "KingGuciGuci",
-                "IbetUmuck",
+                "Maria26years",
                 "IlxxxlI",
-                "MadLifeGrinder",
-                "bfish602"
+                "Oldhandsir",
+                "Maria26years"
             ],
             "actions": [
-                "FOLD",
+                "RAISE",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                null,
-                5.75,
-                null,
-                null,
-                3.75
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "bfish602",
-                "IbetUmuck"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
+                4.0,
+                8.0,
                 null,
                 null
             ]
         },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
         "post-turn": {
-            "players": [
-                "bfish602",
-                "IbetUmuck"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                5.94,
-                5.94
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "bfish602",
-                "IbetUmuck"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                11.58,
-                11.58
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "Qh Ah",
-        null,
-        "Ac Qc",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        200.31,
-        209.22,
-        714.74,
-        80.0,
-        210.21,
-        288.05
+        101.0,
+        98.0,
+        118.18
     ]
 }

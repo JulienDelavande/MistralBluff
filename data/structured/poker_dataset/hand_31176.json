@@ -1,0 +1,153 @@
+{
+    "date": "2016/12/6 13:42:59",
+    "game_id": "792099843",
+    "variant": "PRR",
+    "table_name": "Ekek-14",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "uziDDDD",
+        "HapKoTuk",
+        "Bluffing Every Hand",
+        "SnostnLost",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        22.44,
+        25.0,
+        48.61,
+        88.36,
+        12.62
+    ],
+    "player_small_blind": "uziDDDD",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "3d",
+            "10c"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bluffing Every Hand",
+                "SnostnLost",
+                "IlxxxlI",
+                "uziDDDD",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "uziDDDD",
+                "HapKoTuk",
+                "SnostnLost",
+                "uziDDDD",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.42,
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "uziDDDD",
+                "HapKoTuk",
+                "SnostnLost"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "uziDDDD",
+                "HapKoTuk",
+                "SnostnLost",
+                "uziDDDD",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                8.0,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.270000000000003,
+        22.83,
+        48.61,
+        92.38,
+        12.62
+    ]
+}

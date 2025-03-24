@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 7:53:26",
+    "game_id": "793117788",
+    "variant": "PRR",
+    "table_name": "Ekek-5",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "badnuf",
+        "Almost Pat",
+        "Ice Bank Mice Elf",
+        "iKaBiNK",
+        "IlxxxlI",
+        "Karttt5"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.9,
+        21.58,
+        37.13,
+        33.9,
+        10.0,
+        20.81
+    ],
+    "player_small_blind": "badnuf",
+    "small_blind": 0.1,
+    "player_big_blind": "Almost Pat",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "9c",
+            "Ah"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "iKaBiNK",
+                "IlxxxlI",
+                "Karttt5",
+                "badnuf",
+                "Almost Pat"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.62,
+                0.62,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Karttt5"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Karttt5"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Karttt5",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.23,
+                1.23
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Ad 10c",
+        "5c Kc"
+    ],
+    "finishing_stack": [
+        23.799999999999997,
+        21.33,
+        37.13,
+        33.9,
+        7.65,
+        23.259999999999998
+    ]
+}

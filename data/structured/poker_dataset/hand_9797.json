@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/25 15:7:27",
+    "game_id": "805730717",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "3bet5bet",
+        "Casinator",
+        "Indigol",
+        "unicellular",
+        "IlxxxlI",
+        "GetPaidGetLaid"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        53.35,
+        50.0,
+        76.1,
+        52.81,
+        52.0,
+        75.91
+    ],
+    "player_small_blind": "GetPaidGetLaid",
+    "small_blind": 0.25,
+    "player_big_blind": "3bet5bet",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "7s",
+            "Kd"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Casinator",
+                "Indigol",
+                "unicellular",
+                "IlxxxlI",
+                "GetPaidGetLaid",
+                "3bet5bet"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                1.5,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Casinator",
+                "unicellular"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Casinator",
+                "unicellular"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Casinator",
+                "unicellular"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.85,
+        54.32,
+        76.1,
+        48.81,
+        52.0,
+        75.66
+    ]
+}

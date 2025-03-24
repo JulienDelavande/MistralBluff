@@ -1,0 +1,134 @@
+{
+    "date": "2016/12/4 22:57:35",
+    "game_id": "790792417",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Orondi",
+        "ElvenEyes",
+        "GagaPoker",
+        "CrimZnole",
+        "322xxx",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        185.13,
+        100.0,
+        202.84,
+        103.56,
+        45.46
+    ],
+    "player_small_blind": "CrimZnole",
+    "small_blind": 0.5,
+    "player_big_blind": "322xxx",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "4s",
+            "6h"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Orondi",
+                "ElvenEyes",
+                "GagaPoker",
+                "CrimZnole",
+                "322xxx"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "322xxx",
+                "IlxxxlI",
+                "GagaPoker",
+                "322xxx",
+                "IlxxxlI",
+                "GagaPoker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                4.51,
+                null,
+                42.46,
+                37.95
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qh Qs",
+        null,
+        null,
+        "7s 7d"
+    ],
+    "finishing_stack": [
+        100.0,
+        185.13,
+        100.25,
+        202.34,
+        100.56,
+        45.71
+    ]
+}

@@ -1,45 +1,51 @@
 {
-    "date": "2016/11/28 20:6:0",
-    "game_id": "786369207",
+    "date": "2016/9/18 8:4:51",
+    "game_id": "730208441",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "caballeroXXX",
-        "38979",
-        "meandkids",
-        "SenNoSen",
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
         3,
-        5,
-        6
+        4,
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        60.6,
-        52.94,
-        112.94,
-        50.0,
-        21.5
+        201.54,
+        249.0,
+        318.3,
+        588.98,
+        201.8,
+        299.65,
+        120.9
     ],
-    "player_small_blind": "caballeroXXX",
-    "small_blind": 0.25,
-    "player_big_blind": "38979",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "LuckyBoy1980",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8h",
-        "Ac"
+        "4c",
+        "9c"
     ],
     "dealed_cards": {
         "flop": [
-            "8s",
             "7h",
-            "5h"
+            "Ah",
+            "9d"
         ],
         "turn": [],
         "river": []
@@ -47,32 +53,38 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "meandkids",
-                "SenNoSen",
                 "IlxxxlI",
-                "caballeroXXX",
-                "38979"
+                "ABCD123",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt",
+                "VegetablesArentYummy",
+                "LuckyBoy1980"
             ],
             "actions": [
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "RAISE",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
+                4.0,
                 null,
-                1.5,
                 null,
-                1.0
+                null,
+                null,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "38979",
-                "IlxxxlI",
-                "38979"
+                "LuckyBoy1980",
+                "ABCD123",
+                "LuckyBoy1980"
             ],
             "actions": [
                 "CHECK",
@@ -81,7 +93,7 @@
             ],
             "values": [
                 null,
-                2.5,
+                4.0,
                 null
             ]
         },
@@ -101,13 +113,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        60.35,
-        51.44,
-        112.94,
-        50.0,
-        23.09
+        207.44,
+        249.0,
+        318.3,
+        588.98,
+        199.8,
+        295.65,
+        120.9
     ]
 }

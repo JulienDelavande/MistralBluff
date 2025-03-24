@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/24 0:15:48",
+    "game_id": "804599783",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "NdRunner",
+        "OlegGazmanoy",
+        "serial28",
+        "Sonic3Dblast",
+        "IlxxxlI",
+        "BoScHiNg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.17,
+        35.29,
+        26.92,
+        30.2,
+        25.0,
+        13.46
+    ],
+    "player_small_blind": "OlegGazmanoy",
+    "small_blind": 0.1,
+    "player_big_blind": "serial28",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "5h",
+            "Qd"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "BoScHiNg",
+                "NdRunner",
+                "OlegGazmanoy",
+                "serial28",
+                "IlxxxlI",
+                "NdRunner"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.62,
+                null,
+                0.62,
+                null,
+                2.5,
+                null,
+                2.13
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "serial28",
+                "NdRunner"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "serial28",
+                "NdRunner",
+                "serial28",
+                "NdRunner"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.8,
+                21.17,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        38.620000000000005,
+        35.19,
+        38.0,
+        30.2,
+        24.38,
+        13.46
+    ]
+}

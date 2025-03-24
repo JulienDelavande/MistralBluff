@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/7 10:34:17",
+    "game_id": "792546435",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "robcace",
+        "muchachon",
+        "Irene13",
+        "raraAvis8",
+        "IlxxxlI",
+        "ABMTLQC"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.77,
+        10.68,
+        59.64,
+        25.0,
+        11.45,
+        35.75
+    ],
+    "player_small_blind": "muchachon",
+    "small_blind": 0.1,
+    "player_big_blind": "Irene13",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "5d",
+            "3c"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "9c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "raraAvis8",
+                "IlxxxlI",
+                "ABMTLQC",
+                "robcace",
+                "muchachon",
+                "Irene13"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "robcace"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.25,
+                1.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "robcace"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "robcace",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                4.25,
+                22.77,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.73,
+        10.58,
+        59.39,
+        25.0,
+        5.199999999999999,
+        35.75
+    ]
+}

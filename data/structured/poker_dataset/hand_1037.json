@@ -1,20 +1,18 @@
 {
-    "date": "2016/11/29 11:37:43",
-    "game_id": "786906278",
+    "date": "2016/9/12 12:6:55",
+    "game_id": "725844952",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Lakhey",
     "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "Maria_Pia",
+        "vachips",
+        "Ksowas",
         "IlxxxlI",
-        "beachrog",
-        "MEDSat420ish",
-        "imperceptible",
-        "Parcker"
+        "gust",
+        "Anastasia31"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
@@ -22,101 +20,125 @@
         6
     ],
     "starting_stacks": [
-        24.49,
-        10.77,
-        42.3,
-        24.5,
-        16.59,
-        39.59
+        56.57,
+        100.0,
+        47.3,
+        199.12,
+        232.79
     ],
-    "player_small_blind": "beachrog",
-    "small_blind": 0.25,
-    "player_big_blind": "MEDSat420ish",
-    "big_blind": 0.5,
+    "player_small_blind": "Ksowas",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8s",
-        "5s"
+        "As",
+        "8h"
     ],
     "dealed_cards": {
         "flop": [
-            "As",
-            "Kh",
-            "6s"
+            "7d",
+            "6h",
+            "3d"
         ],
         "turn": [
-            "Qc"
+            "7s"
         ],
         "river": [
-            "Ah"
+            "Qs"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "imperceptible",
-                "Parcker",
-                "Maria_Pia",
-                "IlxxxlI",
-                "beachrog",
-                "MEDSat420ish",
-                "imperceptible",
-                "Maria_Pia",
-                "beachrog"
+                "gust",
+                "Anastasia31",
+                "vachips",
+                "Ksowas",
+                "IlxxxlI"
             ],
             "actions": [
                 "RAISE",
                 "FOLD",
                 "CALL",
                 "FOLD",
-                "RAISE",
-                "FOLD",
-                "ALLIN",
-                "FOLD",
                 "CALL"
             ],
             "values": [
-                1.0,
+                4.0,
                 null,
-                1.0,
+                4.0,
                 null,
-                3.25,
-                null,
-                15.59,
-                null,
-                13.09
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "gust",
+                "vachips",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.23,
+                8.23,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "gust",
+                "vachips",
+                "gust"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.0,
+                6.0
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "gust",
+                "vachips",
+                "gust"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                38.34,
+                38.34
+            ]
         }
     },
     "card_shown_by_players": [
+        "9d Jd",
         null,
         null,
-        "Ac Js",
-        null,
-        "6c 6d",
+        "10c 10s",
         null
     ],
     "finishing_stack": [
-        23.49,
-        10.77,
-        25.709999999999997,
-        24.0,
-        32.95,
-        39.59
+        0.0,
+        99.0,
+        43.3,
+        257.69,
+        232.79
     ]
 }

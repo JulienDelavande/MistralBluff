@@ -1,102 +1,103 @@
 {
-    "date": "2016/11/29 11:38:26",
-    "game_id": "786906821",
+    "date": "2016/9/12 12:5:39",
+    "game_id": "725844694",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "mueef",
+        "ImUsingYourWifi",
+        "uncle_argyle",
+        "natasha77",
         "IlxxxlI",
-        "beachrog",
-        "Maria_Pia",
-        "imperceptible"
+        "Anastasia31",
+        "plin777"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        20.0,
-        28.94,
-        32.13,
-        25.53,
-        20.65
+        366.36,
+        646.93,
+        200.0,
+        96.35,
+        339.39,
+        114.55
     ],
-    "player_small_blind": "imperceptible",
-    "small_blind": 0.25,
-    "player_big_blind": "mueef",
-    "big_blind": 0.5,
+    "player_small_blind": "uncle_argyle",
+    "small_blind": 2.0,
+    "player_big_blind": "natasha77",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9d",
-        "Qc"
+        "3h",
+        "2d"
     ],
     "dealed_cards": {
         "flop": [
-            "2c",
-            "3d",
-            "Js"
+            "Jc",
+            "4s",
+            "4d"
         ],
-        "turn": [
-            "Jd"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "beachrog",
-                "Maria_Pia",
-                "imperceptible",
-                "mueef"
+                "Anastasia31",
+                "plin777",
+                "ImUsingYourWifi",
+                "uncle_argyle",
+                "natasha77"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
                 "FOLD",
+                "RAISE",
+                "CALL",
                 "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
-                2.0,
                 null,
+                8.0,
+                8.0,
                 null,
-                1.5
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "mueef",
-                "beachrog"
+                "natasha77",
+                "plin777",
+                "ImUsingYourWifi",
+                "natasha77"
             ],
             "actions": [
+                "CHECK",
                 "BET",
-                "CALL"
-            ],
-            "values": [
-                2.69,
-                2.69
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "mueef",
-                "beachrog"
-            ],
-            "actions": [
-                "RAISE",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                10.31,
+                null,
+                12.87,
+                null,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -109,13 +110,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        24.46,
-        28.94,
-        27.44,
-        25.53,
-        20.4
+        358.36,
+        644.93,
+        192.0,
+        96.35,
+        339.39,
+        132.3
     ]
 }

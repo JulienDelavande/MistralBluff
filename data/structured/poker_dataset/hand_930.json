@@ -1,61 +1,86 @@
 {
-    "date": "2016/11/29 12:30:34",
-    "game_id": "786945084",
+    "date": "2016/9/6 0:57:33",
+    "game_id": "720657157",
     "variant": "PRR",
-    "table_name": "Kraken-15",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "Qrenor",
+        "gfclbv",
+        "The_Toast",
         "IlxxxlI",
-        "GagaPoker"
+        "VegetablesArentYummy",
+        "Leatherass9"
     ],
     "players_seats": [
         1,
+        3,
+        4,
         5,
         6
     ],
     "starting_stacks": [
-        127.98,
-        40.5,
-        141.68
+        166.0,
+        200.0,
+        130.54,
+        200.0,
+        421.4
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "GagaPoker",
-    "big_blind": 1.0,
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "Kd"
+        "9d",
+        "8h"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "4h",
+            "Qs",
+            "4d"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Qrenor",
+                "Leatherass9",
+                "gfclbv",
+                "The_Toast",
                 "IlxxxlI",
-                "GagaPoker"
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
             ],
             "values": [
+                null,
+                null,
                 null,
                 2.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -71,11 +96,15 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        127.98,
-        41.5,
-        140.68
+        166.0,
+        200.0,
+        134.48999999999998,
+        196.0,
+        421.4
     ]
 }

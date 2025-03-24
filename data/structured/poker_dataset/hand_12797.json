@@ -1,0 +1,158 @@
+{
+    "date": "2016/12/24 11:14:48",
+    "game_id": "805018668",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "Ksander",
+        "Slamit111",
+        "enroute",
+        "dtnfk",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        33.13,
+        38.03,
+        15.63,
+        26.02,
+        12.54,
+        26.11
+    ],
+    "player_small_blind": "enroute",
+    "small_blind": 0.1,
+    "player_big_blind": "dtnfk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "Js",
+            "Qs"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "7s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Parcker",
+                "IlxxxlI",
+                "Ksander",
+                "Slamit111",
+                "enroute",
+                "dtnfk"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dtnfk",
+                "IlxxxlI",
+                "Slamit111",
+                "dtnfk",
+                "IlxxxlI",
+                "Slamit111"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Slamit111",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.96,
+                1.96
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Slamit111",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.42,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        29.92,
+        38.03,
+        19.090000000000003,
+        25.919999999999998,
+        12.04,
+        26.11
+    ]
+}

@@ -1,101 +1,136 @@
 {
-    "date": "2016/11/29 9:20:38",
-    "game_id": "786794394",
+    "date": "2016/9/14 11:0:25",
+    "game_id": "727325215",
     "variant": "PRR",
-    "table_name": "Longana-4",
-    "type_game": "Hold'em",
-    "button_seat": 9,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "Iia007",
-        "IAmClueless",
-        "PANDAisEVIL",
-        "mr.fargo",
-        "L4zy_FiSh",
+        "norcalho",
         "IlxxxlI",
-        "Gronkowski69",
-        "StephCurry"
+        "AK Played",
+        "UrSoDumb",
+        "gust"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
-        6,
-        8,
-        9
+        5
     ],
     "starting_stacks": [
-        219.92,
-        472.03,
-        384.22,
-        88.0,
-        210.55,
-        83.0,
-        221.1,
-        200.0
+        41.5,
+        48.7,
+        66.46,
+        166.39,
+        112.25
     ],
-    "player_small_blind": "Iia007",
+    "player_small_blind": "AK Played",
     "small_blind": 1.0,
-    "player_big_blind": "IAmClueless",
+    "player_big_blind": "UrSoDumb",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ks",
-        "9s"
+        "Kc",
+        "8c"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "4d",
+            "7d",
+            "Ah"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "9d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "PANDAisEVIL",
-                "mr.fargo",
-                "L4zy_FiSh",
+                "gust",
+                "norcalho",
                 "IlxxxlI",
-                "Gronkowski69",
-                "StephCurry",
-                "Iia007",
-                "IAmClueless"
+                "AK Played",
+                "UrSoDumb"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                6.0,
+                4.0,
+                3.0,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AK Played",
+                "UrSoDumb",
+                "IlxxxlI",
+                "AK Played",
+                "UrSoDumb"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
                 null,
                 null,
+                3.8,
+                3.8,
+                3.8
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AK Played",
+                "UrSoDumb",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "AK Played",
+                "UrSoDumb",
+                "IlxxxlI",
+                "AK Played"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.0,
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -103,19 +138,13 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        218.92,
-        470.03,
-        384.22,
-        88.0,
-        213.55,
-        83.0,
-        221.1,
-        200.0
+        41.5,
+        40.900000000000006,
+        58.66,
+        180.81999999999996,
+        112.25
     ]
 }

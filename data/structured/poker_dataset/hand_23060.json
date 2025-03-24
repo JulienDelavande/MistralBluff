@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/8 20:22:23",
+    "game_id": "793479887",
+    "variant": "PRR",
+    "table_name": "Gorgons-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "S1lentKill3r",
+        "odel_nadel",
+        "IgLa",
+        "lonleyronin",
+        "IlxxxlI",
+        "WeakAndWeary"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.69,
+        67.24,
+        56.7,
+        50.0,
+        20.0,
+        50.0
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "5d",
+            "4c"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "lonleyronin",
+                "IlxxxlI",
+                "WeakAndWeary",
+                "S1lentKill3r",
+                "odel_nadel",
+                "IgLa"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "S1lentKill3r"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.68,
+                2.68
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "S1lentKill3r",
+                "WeakAndWeary",
+                "S1lentKill3r"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                4.33,
+                11.0,
+                20.67,
+                14.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "WeakAndWeary",
+                "S1lentKill3r",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                11.51,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ah 8s",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        67.66999999999999,
+        66.99,
+        56.2,
+        50.0,
+        20.0,
+        20.82
+    ]
+}

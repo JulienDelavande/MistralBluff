@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/23 11:31:2",
+    "game_id": "804346079",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "abdollars",
+        "xROCKETMANx",
+        "IlxxxlI",
+        "CroMagnons",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        38.19,
+        16.15,
+        12.85,
+        12.5,
+        13.6
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.1,
+    "player_big_blind": "abdollars",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "7h",
+            "Qh"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "xROCKETMANx",
+                "IlxxxlI",
+                "CroMagnons",
+                "Parcker",
+                "abdollars"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.62,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "abdollars",
+                "IlxxxlI",
+                "abdollars"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.65,
+                0.65
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "abdollars",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "abdollars",
+                "IlxxxlI",
+                "abdollars"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kd 7c",
+        null,
+        "8c 9c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.779999999999994,
+        16.15,
+        10.08,
+        12.5,
+        13.5
+    ]
+}

@@ -1,95 +1,102 @@
 {
-    "date": "2016/11/28 18:42:19",
-    "game_id": "786353825",
+    "date": "2016/9/18 8:47:45",
+    "game_id": "730235011",
     "variant": "PRR",
-    "table_name": "Lakhey-10",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 8,
     "players": [
-        "rkoko",
-        "DonCesarGrinder",
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "KingGuciGuci",
-        "JJaromir",
-        "bunchy"
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        114.09,
-        310.87,
-        80.0,
-        209.0,
-        492.4,
-        361.31
+        40.0,
+        255.9,
+        273.1,
+        482.91,
+        252.98,
+        200.0,
+        211.55,
+        259.28
     ],
-    "player_small_blind": "rkoko",
-    "small_blind": 1.0,
-    "player_big_blind": "DonCesarGrinder",
-    "big_blind": 2.0,
+    "player_small_blind": "wishyouhadnot",
+    "small_blind": 2.0,
+    "player_big_blind": "ABCD123",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2h",
-        "3h"
+        "6s",
+        "7h"
     ],
     "dealed_cards": {
         "flop": [
-            "3c",
-            "Kc",
-            "9s"
+            "Qd",
+            "Kd",
+            "2d"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "5h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "liniang",
+                "Cellar door",
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "KingGuciGuci",
-                "JJaromir",
-                "bunchy",
-                "rkoko",
-                "DonCesarGrinder"
+                "wishyouhadnot",
+                "ABCD123",
+                "flyzlcomb07"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "ALLIN",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                6.0,
+                10.0,
                 null,
-                5.0,
-                null
+                null,
+                null,
+                null,
+                36.0,
+                30.0
             ]
         },
         "post-flop": {
-            "players": [
-                "rkoko",
-                "JJaromir",
-                "rkoko"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                12.0,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -103,19 +110,23 @@
         }
     },
     "card_shown_by_players": [
+        "As Qh",
         null,
         null,
+        "Ks Ac",
         null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        108.09,
-        308.87,
-        80.0,
-        209.0,
-        499.7,
-        361.31
+        0.0,
+        255.9,
+        273.1,
+        524.11,
+        252.98,
+        200.0,
+        211.55,
+        257.28
     ]
 }

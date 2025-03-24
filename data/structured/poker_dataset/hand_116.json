@@ -1,71 +1,60 @@
 {
-    "date": "2016/11/29 15:3:52",
-    "game_id": "787020250",
+    "date": "2016/9/4 9:51:45",
+    "game_id": "719279787",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 6,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
         "IlxxxlI",
-        "jjeannin1",
-        "trader063",
-        "Parcker",
-        "Jui Kuen"
+        "letsgooooo",
+        "VegetablesArentYummy",
+        "bet2000",
+        "ConstanceHarm"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
-        5,
         6
     ],
     "starting_stacks": [
-        20.0,
-        38.02,
-        33.12,
-        84.2,
-        81.82
+        108.7,
+        255.24,
+        200.0,
+        494.65,
+        200.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "jjeannin1",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "bet2000",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "9c"
+        "7s",
+        "3d"
     ],
     "dealed_cards": {
-        "flop": [
-            "6h",
-            "Jd",
-            "Kd"
-        ],
-        "turn": [
-            "8h"
-        ],
-        "river": [
-            "4d"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "trader063",
-                "Parcker",
-                "Jui Kuen",
+                "ConstanceHarm",
                 "IlxxxlI",
-                "jjeannin1"
+                "letsgooooo",
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CHECK"
+                "FOLD"
             ],
             "values": [
-                0.5,
                 null,
                 null,
                 null,
@@ -73,55 +62,19 @@
             ]
         },
         "post-flop": {
-            "players": [
-                "jjeannin1",
-                "trader063"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "jjeannin1",
-                "trader063",
-                "jjeannin1"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                0.79,
-                0.79
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "jjeannin1",
-                "trader063",
-                "jjeannin1",
-                "trader063"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "RAISE",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                1.79,
-                3.58,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -132,10 +85,10 @@
         null
     ],
     "finishing_stack": [
-        19.75,
-        41.03,
-        30.04,
-        84.2,
-        81.82
+        108.7,
+        255.24,
+        198.0,
+        496.65,
+        200.0
     ]
 }

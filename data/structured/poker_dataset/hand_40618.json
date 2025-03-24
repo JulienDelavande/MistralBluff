@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/2 14:42:1",
+    "game_id": "789315108",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "LuxuryMaster",
+        "ElvenEyes",
+        "IlxxxlI",
+        "BrokeForever"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        208.61,
+        98.25,
+        116.98,
+        40.0,
+        64.36
+    ],
+    "player_small_blind": "BrokeForever",
+    "small_blind": 0.5,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "9c",
+            "Ah"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LuxuryMaster",
+                "ElvenEyes",
+                "IlxxxlI",
+                "BrokeForever",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.58,
+                null,
+                2.08,
+                1.58
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BrokeForever",
+                "WeakAndWeary",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BrokeForever",
+                "WeakAndWeary",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                null,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BrokeForever",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.48,
+                7.48
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "8d Ad",
+        null,
+        "10c 8c"
+    ],
+    "finishing_stack": [
+        206.03,
+        98.25,
+        132.09,
+        40.0,
+        50.3
+    ]
+}

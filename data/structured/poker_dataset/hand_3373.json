@@ -1,0 +1,177 @@
+{
+    "date": "2016/9/22 9:5:33",
+    "game_id": "733344200",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "uusi",
+        "BigBlat",
+        "Pimpika",
+        "MasterMind9",
+        "IlxxxlI",
+        "gust",
+        "gosu36484",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        169.89,
+        184.15,
+        577.66,
+        79.53,
+        40.0,
+        40.0,
+        39.5,
+        111.98
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "gust",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "6d",
+            "Qd"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gosu36484",
+                "VegetablesArentYummy",
+                "uusi",
+                "BigBlat",
+                "Pimpika",
+                "MasterMind9",
+                "IlxxxlI",
+                "gust"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                3.0,
+                3.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "uusi",
+                "Pimpika",
+                "MasterMind9",
+                "uusi"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.65,
+                6.65,
+                6.65
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "uusi",
+                "Pimpika",
+                "MasterMind9",
+                "uusi",
+                "Pimpika",
+                "MasterMind9"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                6.0,
+                12.0,
+                12.0,
+                6.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "uusi",
+                "Pimpika",
+                "MasterMind9"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                30.0,
+                30.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10c 10h",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        241.69,
+        184.15,
+        526.01,
+        57.88,
+        39.5,
+        39.0,
+        39.5,
+        111.98
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/1 16:0:2",
+    "game_id": "788671852",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "GautamaBuddha",
+        "IlxxxlI",
+        "DirtyDog98",
+        "SHER1FFmd",
+        "flyshark01",
+        "CattleCorner"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        118.86,
+        59.66,
+        100.0,
+        136.62,
+        130.38,
+        211.15
+    ],
+    "player_small_blind": "SHER1FFmd",
+    "small_blind": 0.5,
+    "player_big_blind": "flyshark01",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "6s",
+            "6c"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CattleCorner",
+                "GautamaBuddha",
+                "IlxxxlI",
+                "DirtyDog98",
+                "SHER1FFmd",
+                "flyshark01"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "flyshark01",
+                "CattleCorner",
+                "flyshark01"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.09,
+                3.09
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "flyshark01",
+                "CattleCorner"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "flyshark01",
+                "CattleCorner"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "3h 3c",
+        "Qh Js"
+    ],
+    "finishing_stack": [
+        118.86,
+        59.66,
+        100.0,
+        136.12,
+        130.32,
+        211.08
+    ]
+}

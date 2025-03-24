@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 16:57:24",
+    "game_id": "792165920",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "HapKoTuk",
+        "IlxxxlI",
+        "Jepare",
+        "anokato",
+        "Moryak999"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        26.25,
+        11.1,
+        27.15,
+        30.88,
+        24.26
+    ],
+    "player_small_blind": "anokato",
+    "small_blind": 0.1,
+    "player_big_blind": "Moryak999",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "7d",
+            "5s"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "IlxxxlI",
+                "Jepare",
+                "anokato",
+                "Moryak999"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Moryak999",
+                "Jepare"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Moryak999",
+                "Jepare",
+                "Moryak999"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.6,
+                0.6
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Moryak999",
+                "Jepare"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "6c 7c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        26.25,
+        11.1,
+        28.24,
+        30.779999999999998,
+        23.16
+    ]
+}

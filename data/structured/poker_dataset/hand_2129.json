@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/28 18:33:59",
-    "game_id": "786352305",
+    "date": "2016/9/18 8:53:48",
+    "game_id": "730238435",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "Hakuna_Matata777",
-        "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "graphicup",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -22,65 +22,109 @@
         6
     ],
     "starting_stacks": [
-        21.45,
-        81.22,
-        63.25,
-        22.08,
-        74.29,
-        72.81
+        146.3,
+        361.01,
+        426.66,
+        202.14,
+        160.0,
+        84.0
     ],
-    "player_small_blind": "eu4ria",
-    "small_blind": 0.25,
-    "player_big_blind": "Smok5 Js",
-    "big_blind": 0.5,
+    "player_small_blind": "winchy21",
+    "small_blind": 2.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "4h"
+        "4d",
+        "10s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "9d",
+            "3d",
+            "Qd"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "7d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "SenNoSen",
-                "Hakuna_Matata777",
+                "flyzlcomb07",
+                "Pureprofit4",
+                "graphicup",
                 "IlxxxlI",
-                "BoTPuMHeDichBro",
-                "eu4ria"
+                "winchy21",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
                 null,
-                null
+                6.0,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "winchy21",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.92,
+                7.92
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "winchy21",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "winchy21",
+                "VegetablesArentYummy",
+                "winchy21",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                23.02,
+                130.38,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -92,11 +136,11 @@
         null
     ],
     "finishing_stack": [
-        21.7,
-        81.22,
-        63.25,
-        22.08,
-        74.29,
-        72.56
+        184.49,
+        322.07,
+        426.66,
+        202.14,
+        160.0,
+        84.0
     ]
 }

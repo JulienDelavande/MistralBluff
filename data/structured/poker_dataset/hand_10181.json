@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/25 14:16:35",
+    "game_id": "805713247",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "afvet333",
+        "dtnfk",
+        "IlxxxlI",
+        "Jui Kuen",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        27.72,
+        41.23,
+        14.03,
+        12.5,
+        12.6
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.1,
+    "player_big_blind": "afvet333",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "8c",
+            "2h"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dtnfk",
+                "IlxxxlI",
+                "Jui Kuen",
+                "Parcker",
+                "afvet333"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "afvet333",
+                "Jui Kuen",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "afvet333",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "afvet333",
+                "Jui Kuen",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.58,
+                1.58
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "4c 4d",
+        null,
+        null,
+        "9d Kc",
+        null
+    ],
+    "finishing_stack": [
+        30.319999999999997,
+        41.23,
+        14.03,
+        9.72,
+        12.5
+    ]
+}

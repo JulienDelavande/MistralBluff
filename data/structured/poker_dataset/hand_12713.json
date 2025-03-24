@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/24 20:46:15",
+    "game_id": "805220069",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "ChameleoNN-",
+        "IlxxxlI",
+        "Indigol",
+        "KUSH_KING",
+        "38979",
+        "shim123"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        59.46,
+        52.25,
+        50.75,
+        49.5,
+        50.0,
+        65.34
+    ],
+    "player_small_blind": "shim123",
+    "small_blind": 0.25,
+    "player_big_blind": "ChameleoNN-",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "9s",
+            "5h"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Indigol",
+                "KUSH_KING",
+                "38979",
+                "shim123",
+                "ChameleoNN-"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ChameleoNN-",
+                "Indigol",
+                "38979",
+                "ChameleoNN-",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.01,
+                3.01,
+                3.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ChameleoNN-",
+                "Indigol",
+                "38979",
+                "ChameleoNN-",
+                "Indigol"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "ALLIN",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                8.0,
+                45.49,
+                null,
+                37.49
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "9d 9c",
+        null,
+        "5s 5d",
+        null
+    ],
+    "finishing_stack": [
+        46.95,
+        52.25,
+        110.51,
+        49.5,
+        0.0,
+        65.09
+    ]
+}

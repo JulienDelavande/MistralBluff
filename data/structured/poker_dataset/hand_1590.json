@@ -1,63 +1,81 @@
 {
-    "date": "2016/11/28 20:40:53",
-    "game_id": "786376705",
+    "date": "2016/9/18 7:42:11",
+    "game_id": "730194694",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "DonkReaper",
+        "ABCD123",
+        "TryNotToTilt",
+        "UrSoDumb",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "SenNoSen",
-        "BirdieKing",
-        "in_ur_i",
-        "caballeroXXX"
+        "Silverchicken"
     ],
     "players_seats": [
         1,
-        2,
-        3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        61.17,
-        20.75,
-        54.09,
-        40.85,
-        53.94,
-        74.93
+        198.33,
+        632.54,
+        295.6,
+        200.0,
+        209.85,
+        142.9,
+        229.9
     ],
-    "player_small_blind": "caballeroXXX",
-    "small_blind": 0.25,
+    "player_small_blind": "LuckyBoy1980",
+    "small_blind": 2.0,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7s",
-        "Kc"
+        "9d",
+        "3h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "7s",
+            "6c",
+            "10c"
+        ],
+        "turn": [
+            "9c"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "SenNoSen",
-                "BirdieKing",
-                "in_ur_i",
-                "caballeroXXX"
+                "Silverchicken",
+                "ABCD123",
+                "TryNotToTilt",
+                "UrSoDumb",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
+                null,
+                4.0,
+                null,
                 null,
                 null,
                 null,
@@ -65,14 +83,35 @@
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "ABCD123"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "ABCD123",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -86,14 +125,16 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        61.17,
-        21.0,
-        54.09,
-        40.85,
-        53.94,
-        74.68
+        204.23000000000002,
+        632.54,
+        295.6,
+        200.0,
+        207.85,
+        138.9,
+        229.9
     ]
 }

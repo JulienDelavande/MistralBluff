@@ -1,20 +1,18 @@
 {
-    "date": "2016/11/29 12:15:57",
-    "game_id": "786933996",
+    "date": "2016/9/6 1:2:59",
+    "game_id": "720661003",
     "variant": "PRR",
-    "table_name": "Gorgons-7",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "flyshark01",
-        "xROCKETMANx",
-        "DonkReaper",
-        "Remi1738",
+        "Einstein727",
         "IlxxxlI",
-        "foreseen"
+        "Ksowas",
+        "JikkiP",
+        "Gronkowski69"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
@@ -22,65 +20,105 @@
         6
     ],
     "starting_stacks": [
-        55.93,
-        50.0,
-        157.24,
-        39.5,
-        20.9,
-        99.49
+        110.05,
+        99.05,
+        295.94,
+        160.84,
+        100.0
     ],
-    "player_small_blind": "flyshark01",
-    "small_blind": 0.25,
-    "player_big_blind": "xROCKETMANx",
-    "big_blind": 0.5,
+    "player_small_blind": "Ksowas",
+    "small_blind": 1.0,
+    "player_big_blind": "JikkiP",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2h",
-        "8d"
+        "Jh",
+        "Jc"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "4c",
+            "3c",
+            "2h"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "7d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "DonkReaper",
-                "Remi1738",
+                "Gronkowski69",
+                "Einstein727",
                 "IlxxxlI",
-                "foreseen",
-                "flyshark01"
+                "Ksowas",
+                "JikkiP"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                4.0,
                 null,
-                null,
-                null
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "JikkiP",
+                "IlxxxlI",
+                "JikkiP"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.27,
+                4.27
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "JikkiP",
+                "IlxxxlI",
+                "JikkiP"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.55,
+                5.55
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "JikkiP",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                13.6,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -88,15 +126,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        55.68,
-        50.25,
-        157.24,
-        39.5,
-        20.9,
-        99.49
+        110.05,
+        85.22999999999999,
+        294.94,
+        174.23000000000002,
+        100.0
     ]
 }

@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/6 17:9:6",
+    "game_id": "792168227",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "Poteplie",
+        "anokato",
+        "IampokerKidd",
+        "Camdenn"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        10.0,
+        27.02,
+        55.86,
+        46.01,
+        95.52
+    ],
+    "player_small_blind": "IampokerKidd",
+    "small_blind": 0.1,
+    "player_big_blind": "Camdenn",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "5h",
+            "8s"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Poteplie",
+                "anokato",
+                "IampokerKidd",
+                "Camdenn",
+                "anokato"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Camdenn",
+                "anokato"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Camdenn",
+                "anokato",
+                "Camdenn"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.0,
+        27.02,
+        57.31,
+        45.91,
+        94.02
+    ]
+}

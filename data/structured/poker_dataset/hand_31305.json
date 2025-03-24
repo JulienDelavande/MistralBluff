@@ -1,0 +1,102 @@
+{
+    "date": "2016/12/6 13:22:39",
+    "game_id": "792089709",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "GautamaBuddha",
+        "GT-R37",
+        "gust"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        104.55,
+        126.48,
+        41.0
+    ],
+    "player_small_blind": "gust",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "3d",
+            "6c"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GautamaBuddha",
+                "GT-R37",
+                "gust",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "gust",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.9,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        38.0,
+        104.55,
+        126.48,
+        42.8
+    ]
+}

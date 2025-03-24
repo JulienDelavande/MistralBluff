@@ -1,89 +1,85 @@
 {
-    "date": "2016/11/28 19:44:58",
-    "game_id": "786365144",
+    "date": "2016/9/18 8:27:0",
+    "game_id": "730222514",
     "variant": "PRR",
-    "table_name": "Gorgons-3",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 9,
     "players": [
-        "allaebalaamballa",
-        "RetardedGenius",
-        "38979",
-        "in_ur_i",
-        "IlxxxlI"
+        "IlxxxlI",
+        "Pimpika",
+        "VegetablesArentYummy",
+        "utormico",
+        "FishinChips",
+        "Crabbapple",
+        "KeepKalm"
     ],
     "players_seats": [
         2,
         3,
         4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        28.5,
-        51.21,
-        50.0,
-        100.88,
-        24.81
+        97.21,
+        113.11,
+        227.71,
+        117.98,
+        97.81,
+        137.79,
+        324.36
     ],
-    "player_small_blind": "RetardedGenius",
-    "small_blind": 0.25,
-    "player_big_blind": "38979",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "Pimpika",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ks",
-        "4s"
+        "6d",
+        "2d"
     ],
     "dealed_cards": {
-        "flop": [
-            "9h",
-            "Jc",
-            "Kd"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "in_ur_i",
+                "VegetablesArentYummy",
+                "utormico",
+                "FishinChips",
+                "Crabbapple",
+                "KeepKalm",
                 "IlxxxlI",
-                "allaebalaamballa",
-                "RetardedGenius",
-                "38979",
-                "allaebalaamballa"
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                1.0,
-                1.25,
-                null,
-                0.5
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "RetardedGenius",
-                "allaebalaamballa"
-            ],
-            "actions": [
-                "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                2.22,
+                null,
+                null,
+                null,
+                4.0,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -101,13 +97,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        27.0,
-        53.04,
-        49.5,
-        100.88,
-        24.81
+        96.21,
+        111.11,
+        227.71,
+        117.98,
+        97.81,
+        140.79,
+        324.36
     ]
 }

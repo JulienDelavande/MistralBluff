@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 11:12:38",
+    "game_id": "793290676",
+    "variant": "PRR",
+    "table_name": "Ettin-2",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "MrSkeleton",
+        "12monkeys",
+        "CallMePAPA",
+        "drewwid",
+        "TheRealSlimShadyy"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        10.6,
+        31.36,
+        10.57,
+        27.0,
+        25.0,
+        26.58
+    ],
+    "player_small_blind": "CallMePAPA",
+    "small_blind": 0.1,
+    "player_big_blind": "drewwid",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "Qd",
+            "9c"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "TheRealSlimShadyy",
+                "IlxxxlI",
+                "MrSkeleton",
+                "12monkeys",
+                "CallMePAPA",
+                "drewwid"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CallMePAPA",
+                "drewwid",
+                "CallMePAPA"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CallMePAPA",
+                "drewwid"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CallMePAPA",
+                "drewwid"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "5s 10s",
+        "7d Qh",
+        null
+    ],
+    "finishing_stack": [
+        10.6,
+        31.36,
+        10.57,
+        26.0,
+        25.9,
+        26.58
+    ]
+}

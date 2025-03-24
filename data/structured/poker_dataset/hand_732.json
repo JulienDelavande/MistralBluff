@@ -1,104 +1,74 @@
 {
-    "date": "2016/11/29 13:9:3",
-    "game_id": "786968223",
+    "date": "2016/9/6 0:19:48",
+    "game_id": "720625276",
     "variant": "PRR",
     "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "bfish602",
-        "KingGuciGuci",
-        "IbetUmuck",
-        "IlxxxlI",
-        "MadLifeGrinder",
-        "LazyFish"
+        "oddsonfav",
+        "IlxxxlI"
     ],
     "players_seats": [
-        1,
-        2,
-        3,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        204.0,
-        209.22,
-        709.42,
-        86.67,
-        211.21,
-        264.7
+        28.2,
+        98.25
     ],
-    "player_small_blind": "MadLifeGrinder",
+    "player_small_blind": "IlxxxlI",
     "small_blind": 1.0,
-    "player_big_blind": "LazyFish",
+    "player_big_blind": "oddsonfav",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "6d"
+        "Ah",
+        "3d"
     ],
     "dealed_cards": {
         "flop": [
-            "10d",
-            "Qc",
-            "4d"
+            "5c",
+            "2s",
+            "10h"
         ],
         "turn": [
-            "6s"
+            "Kh"
         ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "bfish602",
-                "KingGuciGuci",
-                "IbetUmuck",
                 "IlxxxlI",
-                "MadLifeGrinder",
-                "LazyFish"
+                "oddsonfav"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "FOLD",
                 "CALL"
             ],
             "values": [
-                null,
-                null,
-                null,
-                6.0,
-                null,
-                4.0
+                3.0,
+                2.0
             ]
         },
         "post-flop": {
             "players": [
-                "LazyFish",
-                "IlxxxlI",
-                "LazyFish",
+                "oddsonfav",
                 "IlxxxlI"
             ],
             "actions": [
-                "CHECK",
                 "BET",
-                "RAISE",
                 "CALL"
             ],
             "values": [
-                null,
-                6.42,
-                20.0,
-                13.58
+                3.8,
+                3.8
             ]
         },
         "post-turn": {
             "players": [
-                "LazyFish",
+                "oddsonfav",
                 "IlxxxlI"
             ],
             "actions": [
@@ -106,7 +76,7 @@
                 "FOLD"
             ],
             "values": [
-                66.0,
+                7.55,
                 null
             ]
         },
@@ -118,18 +88,10 @@
     },
     "card_shown_by_players": [
         null,
-        null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        204.0,
-        209.22,
-        709.42,
-        60.67,
-        210.21,
-        289.05
+        35.5,
+        90.45
     ]
 }

@@ -1,64 +1,90 @@
 {
-    "date": "2016/11/29 12:50:15",
-    "game_id": "786958308",
+    "date": "2016/9/6 0:45:6",
+    "game_id": "720647197",
     "variant": "PRR",
-    "table_name": "Kraken-9",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "WeakAndWeary",
-        "LloydXmas",
-        "GagaPoker",
-        "MadLifeGrinder",
-        "IlxxxlI"
+        "PANDAisEVIL",
+        "Givemetheloot1989",
+        "VegetablesArentYummy",
+        "Im Don King",
+        "IlxxxlI",
+        "Leatherass9",
+        "PandaWang"
     ],
     "players_seats": [
         1,
-        2,
         3,
+        4,
         5,
-        6
+        6,
+        8,
+        9
     ],
     "starting_stacks": [
-        107.05,
-        105.0,
-        100.0,
-        100.0,
-        40.0
+        214.0,
+        61.62,
+        207.4,
+        212.0,
+        124.46,
+        421.0,
+        174.08
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 1.0,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "Im Don King",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "10c"
+        "7d",
+        "4d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "5c",
+            "8d",
+            "4s"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "10s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "LloydXmas",
-                "GagaPoker",
-                "MadLifeGrinder",
-                "IlxxxlI"
+                "IlxxxlI",
+                "Leatherass9",
+                "PandaWang",
+                "PANDAisEVIL",
+                "Givemetheloot1989",
+                "VegetablesArentYummy",
+                "Im Don King",
+                "PandaWang"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "FOLD"
+                "ALLIN",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                8.0,
                 null,
-                null
+                61.62,
+                null,
+                null,
+                53.62
             ]
         },
         "post-flop": {
@@ -79,16 +105,20 @@
     },
     "card_shown_by_players": [
         null,
+        "Jd 9s",
         null,
         null,
         null,
-        null
+        null,
+        "Qc Ad"
     ],
     "finishing_stack": [
-        107.55,
-        105.0,
-        100.0,
-        100.0,
-        39.5
+        214.0,
+        0.0,
+        205.4,
+        208.0,
+        124.46,
+        421.0,
+        240.45
     ]
 }

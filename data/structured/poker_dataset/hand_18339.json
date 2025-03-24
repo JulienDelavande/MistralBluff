@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 23:32:34",
+    "game_id": "794211795",
+    "variant": "PRR",
+    "table_name": "Lakhey-6",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "desper8Nut",
+        "GoatBoat",
+        "MadLifeGrinder",
+        "karapanza1"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        95.68,
+        203.0,
+        201.25,
+        203.45,
+        82.0
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 1.0,
+    "player_big_blind": "karapanza1",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "Kc",
+            "2c"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "desper8Nut",
+                "GoatBoat",
+                "MadLifeGrinder",
+                "karapanza1"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                4.0,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "karapanza1"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.33,
+                6.33
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "karapanza1"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                16.0,
+                16.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MadLifeGrinder",
+                "karapanza1"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                176.12,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        95.68,
+        203.0,
+        201.25,
+        228.05,
+        54.67
+    ]
+}

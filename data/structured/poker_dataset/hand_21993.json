@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/8 23:55:35",
+    "game_id": "793540608",
+    "variant": "PRR",
+    "table_name": "Gorgons-21",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "IgLa",
+        "WomboComboAA",
+        "odel_nadel"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        20.5,
+        50.0,
+        199.16,
+        51.11
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "4s",
+            "8h"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "WomboComboAA",
+                "odel_nadel",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "WomboComboAA",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.07,
+                1.07
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "WomboComboAA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "WomboComboAA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8c Ah",
+        null,
+        "As Qc",
+        null
+    ],
+    "finishing_stack": [
+        18.43,
+        50.0,
+        201.27,
+        50.86
+    ]
+}

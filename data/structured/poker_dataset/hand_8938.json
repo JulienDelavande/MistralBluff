@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/25 23:4:7",
+    "game_id": "805826145",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "lukopti",
+        "Indigol",
+        "IlxxxlI",
+        "komar182",
+        "raraAvis8"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        47.21,
+        61.93,
+        25.74,
+        29.14,
+        25.66
+    ],
+    "player_small_blind": "komar182",
+    "small_blind": 0.1,
+    "player_big_blind": "raraAvis8",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "4h",
+            "9d"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "lukopti",
+                "Indigol",
+                "IlxxxlI",
+                "komar182",
+                "raraAvis8",
+                "komar182"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.65,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "komar182",
+                "raraAvis8",
+                "komar182",
+                "raraAvis8"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                4.0,
+                2.58
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "komar182",
+                "raraAvis8"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                6.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "komar182",
+                "raraAvis8"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                16.89,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        47.21,
+        61.93,
+        25.74,
+        40.17,
+        13.41
+    ]
+}

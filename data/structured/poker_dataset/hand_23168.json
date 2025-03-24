@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 20:10:3",
+    "game_id": "793477637",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "huiloputin",
+        "IampokerKidd",
+        "SkaHot",
+        "Moryak999",
+        "IlxxxlI",
+        "brandonaise"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        43.98,
+        23.14,
+        25.0,
+        25.13,
+        10.45,
+        24.82
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "brandonaise",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "Kc",
+            "10s"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "huiloputin",
+                "IampokerKidd",
+                "SkaHot",
+                "Moryak999",
+                "IlxxxlI",
+                "brandonaise"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.62,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "brandonaise",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "brandonaise",
+                "SkaHot",
+                "brandonaise"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        43.98,
+        23.14,
+        25.66,
+        25.13,
+        10.35,
+        24.2
+    ]
+}

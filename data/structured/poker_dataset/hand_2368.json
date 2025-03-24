@@ -1,19 +1,17 @@
 {
-    "date": "2016/11/21 11:9:36",
-    "game_id": "780966706",
+    "date": "2016/9/18 9:44:18",
+    "game_id": "730263922",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Lakhey",
     "type_game": "Short",
     "button_seat": 4,
     "players": [
-        "haroldbb",
-        "sr86",
+        "Cellar door",
         "IlxxxlI",
-        "WICHONSKI",
-        "Brucelegend",
-        "parmele",
-        "ChrisNola",
-        "FirstClan"
+        "Origins",
+        "xXCONMANXx",
+        "aquamarin",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
         1,
@@ -21,77 +19,72 @@
         3,
         4,
         5,
-        6,
-        7,
-        9
+        6
     ],
     "starting_stacks": [
-        29.92,
-        25.0,
-        19.92,
-        37.25,
-        13.72,
-        14.49,
-        69.07,
-        25.0
+        121.95,
+        78.0,
+        218.55,
+        128.95,
+        209.11,
+        100.0
     ],
-    "player_small_blind": "Brucelegend",
-    "small_blind": 0.25,
-    "player_big_blind": "parmele",
-    "big_blind": 0.5,
+    "player_small_blind": "aquamarin",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "Js"
+        "Qs",
+        "Ah"
     ],
     "dealed_cards": {
         "flop": [
-            "2c",
-            "Jh",
-            "Ad"
+            "2s",
+            "5s",
+            "6s"
         ],
         "turn": [
-            "Ah"
+            "10h"
         ],
-        "river": []
+        "river": [
+            "3d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "ChrisNola",
-                "FirstClan",
-                "haroldbb",
-                "sr86",
+                "Cellar door",
                 "IlxxxlI",
-                "WICHONSKI",
-                "Brucelegend",
-                "parmele"
+                "Origins",
+                "xXCONMANXx",
+                "aquamarin",
+                "VegetablesArentYummy",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "FOLD",
+                "RAISE",
                 "RAISE",
                 "FOLD",
-                "CALL",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
+                4.0,
+                8.0,
                 null,
                 null,
-                1.0,
                 null,
-                1.0,
-                null,
-                null
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "sr86",
-                "WICHONSKI"
+                "IlxxxlI",
+                "Origins"
             ],
             "actions": [
                 "CHECK",
@@ -104,42 +97,50 @@
         },
         "post-turn": {
             "players": [
-                "sr86",
-                "WICHONSKI"
+                "IlxxxlI",
+                "Origins",
+                "IlxxxlI"
             ],
             "actions": [
+                "CHECK",
                 "BET",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                1.5,
-                null
+                null,
+                13.54,
+                13.54
             ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Origins"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
-        null,
-        null,
-        null,
-        null,
+        "Qs Ah",
+        "Ad Jd",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        29.92,
-        26.62,
-        19.92,
-        36.25,
-        13.47,
-        13.99,
-        69.07,
-        25.0
+        121.95,
+        100.24000000000001,
+        197.01000000000002,
+        128.95,
+        208.11,
+        98.0
     ]
 }

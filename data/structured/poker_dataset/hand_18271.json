@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/10 8:6:30",
+    "game_id": "794488363",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "IgLa",
+        "IlxxxlI",
+        "JohnnyB3692",
+        "solasso",
+        "Comatoast111",
+        "ohmyyahd"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        46.05,
+        10.0,
+        232.13,
+        23.0,
+        15.22,
+        10.75
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "JohnnyB3692",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "4c",
+            "4s"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "solasso",
+                "Comatoast111",
+                "ohmyyahd",
+                "IgLa",
+                "IlxxxlI",
+                "JohnnyB3692"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "JohnnyB3692"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "JohnnyB3692",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                0.95,
+                1.9,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        46.05,
+        8.05,
+        233.89000000000001,
+        23.0,
+        15.22,
+        10.75
+    ]
+}

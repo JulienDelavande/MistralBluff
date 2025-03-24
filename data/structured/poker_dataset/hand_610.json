@@ -1,36 +1,42 @@
 {
-    "date": "2016/11/29 13:36:53",
-    "game_id": "786983880",
+    "date": "2016/9/5 12:49:42",
+    "game_id": "720271755",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 9,
     "players": [
-        "Ball Crusher",
-        "Jui Kuen",
-        "PokerBrat1127",
-        "IlxxxlI"
+        "RapaNui",
+        "St3p04ka",
+        "GranatoBetano",
+        "IlxxxlI",
+        "SheppyPOO!!",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
         2,
         3,
-        5
+        4,
+        5,
+        9
     ],
     "starting_stacks": [
-        121.54,
-        31.08,
-        13.7,
-        10.0
+        650.84,
+        451.28,
+        511.38,
+        126.87,
+        631.98,
+        224.21
     ],
-    "player_small_blind": "Ball Crusher",
-    "small_blind": 0.25,
-    "player_big_blind": "Jui Kuen",
-    "big_blind": 0.5,
+    "player_small_blind": "RapaNui",
+    "small_blind": 3.0,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "Ad"
+        "10h",
+        "2s"
     ],
     "dealed_cards": {
         "flop": [],
@@ -40,20 +46,29 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "PokerBrat1127",
+                "GranatoBetano",
                 "IlxxxlI",
-                "Ball Crusher",
-                "Jui Kuen"
+                "SheppyPOO!!",
+                "TheManiac89",
+                "RapaNui",
+                "St3p04ka",
+                "TheManiac89"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
-                1.5,
                 null,
+                null,
+                null,
+                15.0,
+                39.0,
                 null,
                 null
             ]
@@ -78,12 +93,16 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        121.29,
-        30.58,
-        14.45,
-        10.0
+        671.84,
+        445.28,
+        511.38,
+        126.87,
+        631.98,
+        209.21
     ]
 }

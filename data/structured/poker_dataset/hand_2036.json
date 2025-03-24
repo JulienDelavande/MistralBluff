@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:57:54",
-    "game_id": "786356324",
+    "date": "2016/9/18 8:41:12",
+    "game_id": "730231159",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
-    "type_game": "Hold'em",
+    "table_name": "Monopod",
+    "type_game": "Short",
     "button_seat": 1,
     "players": [
-        "SenNoSen",
-        "eu4ria",
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "Goomashroom",
-        "legenda99",
-        "wethco"
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
@@ -19,39 +22,54 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        56.28,
-        235.08,
-        20.0,
-        107.31,
-        50.0,
-        64.75
+        80.0,
+        200.0,
+        279.1,
+        844.04,
+        500.91,
+        285.83,
+        200.0,
+        166.3,
+        188.48
     ],
-    "player_small_blind": "eu4ria",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "liniang",
+    "small_blind": 2.0,
+    "player_big_blind": "Cellar door",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9h",
-        "5s"
+        "4c",
+        "Qd"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "2c",
+            "Qc",
+            "Ad"
+        ],
+        "turn": [
+            "Qh"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
-                "legenda99",
-                "wethco",
-                "SenNoSen",
-                "eu4ria",
-                "IlxxxlI"
+                "TryNotToTilt",
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
+                "IlxxxlI",
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang",
+                "Cellar door"
             ],
             "actions": [
                 "FOLD",
@@ -59,26 +77,62 @@
                 "FOLD",
                 "RAISE",
                 "FOLD",
+                "CALL",
+                "CALL",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
                 null,
-                1.0,
+                12.0,
                 null,
+                12.0,
+                12.0,
+                10.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "liniang",
+                "LuckyBoy1980",
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                36.0,
+                36.0,
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "LuckyBoy1980",
+                "wishyouhadnot",
+                "LuckyBoy1980"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                44.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -92,14 +146,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        57.03,
-        234.83,
-        19.5,
-        107.31,
-        50.0,
-        64.75
+        68.0,
+        188.0,
+        275.1,
+        844.04,
+        500.91,
+        285.83,
+        152.0,
+        166.3,
+        263.28
     ]
 }

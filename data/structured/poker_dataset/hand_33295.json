@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/5 21:27:26",
+    "game_id": "791551258",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Orondi",
+        "38979",
+        "wallymomouth",
+        "Chubrica",
+        "IlxxxlI",
+        "Azaladog"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        113.61,
+        106.0,
+        126.99,
+        106.0,
+        40.0,
+        111.49
+    ],
+    "player_small_blind": "Azaladog",
+    "small_blind": 0.5,
+    "player_big_blind": "Orondi",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "Jc",
+            "6s"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "38979",
+                "wallymomouth",
+                "Chubrica",
+                "IlxxxlI",
+                "Azaladog",
+                "Orondi",
+                "38979",
+                "wallymomouth"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0,
+                null,
+                8.0,
+                null,
+                null,
+                null,
+                5.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "wallymomouth",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "wallymomouth",
+                "IlxxxlI",
+                "wallymomouth",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                19.0,
+                38.0,
+                13.0
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ks Qs",
+        null,
+        "9h 9c",
+        null
+    ],
+    "finishing_stack": [
+        112.61,
+        103.0,
+        86.99,
+        106.0,
+        81.5,
+        110.99
+    ]
+}

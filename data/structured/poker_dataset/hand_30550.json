@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/6 16:41:48",
+    "game_id": "792162548",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Poteplie",
+        "anokato",
+        "IampokerKidd",
+        "Camdenn"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        10.7,
+        36.16,
+        54.79,
+        25.0,
+        27.31
+    ],
+    "player_small_blind": "anokato",
+    "small_blind": 0.1,
+    "player_big_blind": "IampokerKidd",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "8h",
+            "9c"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Camdenn",
+                "IlxxxlI",
+                "Poteplie",
+                "anokato",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IampokerKidd",
+                "Poteplie",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IampokerKidd",
+                "Poteplie",
+                "IampokerKidd",
+                "Poteplie",
+                "IampokerKidd",
+                "Poteplie"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.58,
+                5.5,
+                11.76,
+                18.3,
+                10.46
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ks 9h",
+        null,
+        "8c As",
+        null
+    ],
+    "finishing_stack": [
+        10.7,
+        11.159999999999997,
+        54.69,
+        47.6,
+        27.31
+    ]
+}

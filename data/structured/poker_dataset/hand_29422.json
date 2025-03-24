@@ -1,0 +1,158 @@
+{
+    "date": "2016/12/7 8:55:55",
+    "game_id": "792472912",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "peetrius",
+        "PhillyPoker19",
+        "Ice Bank Mice Elf",
+        "Jaybe1012",
+        "jkeezl"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.28,
+        34.8,
+        15.74,
+        38.86,
+        12.65,
+        7.27
+    ],
+    "player_small_blind": "Jaybe1012",
+    "small_blind": 0.1,
+    "player_big_blind": "jkeezl",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "4c",
+            "Jd"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "peetrius",
+                "PhillyPoker19",
+                "Ice Bank Mice Elf",
+                "Jaybe1012",
+                "jkeezl",
+                "peetrius"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null,
+                0.4,
+                0.25,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jaybe1012",
+                "jkeezl",
+                "peetrius",
+                "Jaybe1012",
+                "jkeezl"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.71,
+                0.71,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jaybe1012",
+                "peetrius",
+                "Jaybe1012"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.39,
+                1.39
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Jaybe1012",
+                "peetrius",
+                "Jaybe1012"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.61,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.28,
+        37.62,
+        15.74,
+        38.86,
+        10.05,
+        6.77
+    ]
+}

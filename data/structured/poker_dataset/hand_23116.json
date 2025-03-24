@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 20:15:47",
+    "game_id": "793478600",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "huiloputin",
+        "IampokerKidd",
+        "SkaHot",
+        "Moryak999",
+        "IlxxxlI",
+        "brandonaise"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        43.13,
+        23.14,
+        25.91,
+        25.48,
+        10.35,
+        24.45
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "Moryak999",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "Qc",
+            "Kh"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "brandonaise",
+                "huiloputin",
+                "IampokerKidd",
+                "SkaHot",
+                "Moryak999"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "Moryak999"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "Moryak999",
+                "SkaHot",
+                "Moryak999"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.3,
+                4.25,
+                2.95
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "Moryak999"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "As 5s",
+        "Kd 9c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        43.13,
+        23.14,
+        20.29,
+        30.54,
+        10.35,
+        24.45
+    ]
+}

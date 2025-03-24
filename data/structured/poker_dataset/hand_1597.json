@@ -1,92 +1,73 @@
 {
-    "date": "2016/11/28 20:39:44",
-    "game_id": "786376445",
+    "date": "2016/9/18 7:43:34",
+    "game_id": "730195605",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
+    "table_name": "Kraken-6",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 5,
     "players": [
-        "DonkReaper",
+        "iDawg",
+        "jackson319",
         "IlxxxlI",
-        "SenNoSen",
-        "BirdieKing",
-        "in_ur_i",
-        "caballeroXXX"
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        60.42,
-        20.75,
-        54.09,
-        39.5,
-        55.69,
-        75.43
+        113.41,
+        61.62,
+        40.12,
+        106.43,
+        135.71
     ],
-    "player_small_blind": "BirdieKing",
-    "small_blind": 0.25,
-    "player_big_blind": "in_ur_i",
-    "big_blind": 0.5,
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "iDawg",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2h",
-        "Kh"
+        "Qs",
+        "9h"
     ],
     "dealed_cards": {
-        "flop": [
-            "Kc",
-            "5c",
-            "As"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "caballeroXXX",
-                "DonkReaper",
+                "jackson319",
                 "IlxxxlI",
-                "SenNoSen",
-                "BirdieKing",
-                "in_ur_i"
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                null,
-                1.25,
-                1.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "BirdieKing",
-                "in_ur_i"
-            ],
-            "actions": [
-                "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                1.9,
+                null,
+                null,
+                3.0,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -104,15 +85,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        60.42,
-        20.75,
-        54.09,
-        40.85,
-        54.19,
-        75.43
+        112.41,
+        61.62,
+        40.12,
+        107.93,
+        135.21
     ]
 }

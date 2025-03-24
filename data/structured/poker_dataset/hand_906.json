@@ -1,36 +1,39 @@
 {
-    "date": "2016/11/29 12:40:57",
-    "game_id": "786952354",
+    "date": "2016/9/6 0:53:52",
+    "game_id": "720654633",
     "variant": "PRR",
     "table_name": "Lakhey",
-    "type_game": "Hold'em",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "KingGuciGuci",
-        "IbetUmuck",
-        "IlxxxlI",
-        "LazyFish"
+        "Ksowas",
+        "VegetablesArentYummy",
+        "The_Toast",
+        "pschill23",
+        "IlxxxlI"
     ],
     "players_seats": [
+        1,
         2,
-        3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        203.5,
-        496.48,
-        80.0,
-        258.17
+        168.07,
+        100.0,
+        113.52,
+        102.55,
+        214.44
     ],
-    "player_small_blind": "IbetUmuck",
+    "player_small_blind": "The_Toast",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "pschill23",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9s",
-        "6h"
+        "6d",
+        "Kc"
     ],
     "dealed_cards": {
         "flop": [],
@@ -40,21 +43,24 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "LazyFish",
-                "KingGuciGuci",
-                "IbetUmuck",
-                "IlxxxlI"
+                "IlxxxlI",
+                "Ksowas",
+                "VegetablesArentYummy",
+                "The_Toast",
+                "pschill23"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
                 "FOLD"
             ],
             "values": [
-                5.0,
                 null,
                 null,
+                null,
+                6.0,
                 null
             ]
         },
@@ -78,12 +84,14 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        203.5,
-        495.48,
-        78.0,
-        261.17
+        168.07,
+        100.0,
+        115.52,
+        100.55,
+        214.44
     ]
 }

@@ -1,0 +1,168 @@
+{
+    "date": "2016/12/27 16:37:34",
+    "game_id": "807108200",
+    "variant": "PRR",
+    "table_name": "Garuda-5",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "unicellular",
+        "IlxxxlI",
+        "dankmann",
+        "RichCheckmaker",
+        "rivush111",
+        "Indigol",
+        "AcesHigh14",
+        "LILT1357"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        50.0,
+        51.5,
+        50.75,
+        118.25,
+        23.87,
+        119.61,
+        22.0,
+        71.62
+    ],
+    "player_small_blind": "AcesHigh14",
+    "small_blind": 0.25,
+    "player_big_blind": "LILT1357",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "8s",
+            "10d"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "unicellular",
+                "IlxxxlI",
+                "dankmann",
+                "RichCheckmaker",
+                "rivush111",
+                "Indigol",
+                "AcesHigh14",
+                "LILT1357"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "LILT1357",
+                "dankmann",
+                "rivush111",
+                "LILT1357",
+                "dankmann",
+                "rivush111"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                6.0,
+                null,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "LILT1357",
+                "rivush111"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.96,
+                7.96
+            ]
+        },
+        "post-river": {
+            "players": [
+                "LILT1357",
+                "rivush111"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                56.16,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        51.5,
+        49.25,
+        118.25,
+        8.41,
+        119.61,
+        21.75,
+        87.2
+    ]
+}

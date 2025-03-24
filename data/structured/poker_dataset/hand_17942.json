@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/10 9:29:24",
+    "game_id": "794562705",
+    "variant": "PRR",
+    "table_name": "Dobhar-chu-28",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "tony2012",
+        "BigDaddy496",
+        "RKelly",
+        "norkid"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        4.8,
+        3.5,
+        10.99,
+        5.77,
+        11.13
+    ],
+    "player_small_blind": "tony2012",
+    "small_blind": 0.05,
+    "player_big_blind": "BigDaddy496",
+    "big_blind": 0.1,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "10c",
+            "Js"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "RKelly",
+                "norkid",
+                "IlxxxlI",
+                "tony2012",
+                "BigDaddy496"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.3,
+                null,
+                null,
+                0.2
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BigDaddy496",
+                "norkid",
+                "BigDaddy496"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.51,
+                0.51
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BigDaddy496",
+                "norkid",
+                "BigDaddy496",
+                "norkid"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.32,
+                2.64,
+                1.32
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BigDaddy496",
+                "norkid"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.4,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        4.8,
+        3.45,
+        14.15,
+        5.77,
+        7.680000000000001
+    ]
+}

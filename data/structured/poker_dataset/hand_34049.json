@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/5 11:59:35",
+    "game_id": "791386954",
+    "variant": "PRR",
+    "table_name": "Gorgons-19",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "BHawk12",
+        "IlxxxlI",
+        "Thefisherman90",
+        "Remi1738"
+    ],
+    "players_seats": [
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        47.75,
+        22.25,
+        71.41,
+        49.25
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Thefisherman90",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "10d",
+            "5h"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Remi1738",
+                "BHawk12",
+                "IlxxxlI",
+                "Thefisherman90"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Thefisherman90",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.58,
+                1.58
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Thefisherman90"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Thefisherman90"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "9s Ac",
+        "9h Ah",
+        null
+    ],
+    "finishing_stack": [
+        47.75,
+        22.110000000000003,
+        71.27,
+        49.25
+    ]
+}

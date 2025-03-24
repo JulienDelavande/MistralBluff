@@ -1,0 +1,159 @@
+{
+    "date": "2016/12/6 17:22:19",
+    "game_id": "792171091",
+    "variant": "PRR",
+    "table_name": "Ettin-5",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "vatraman",
+        "Daigoro",
+        "EZTILT67",
+        "jObOkO",
+        "KramePie",
+        "Poteplie",
+        "IlxxxlI",
+        "anokato"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        25.0,
+        9.49,
+        5.47,
+        48.66,
+        26.89,
+        41.64,
+        10.76,
+        74.96
+    ],
+    "player_small_blind": "KramePie",
+    "small_blind": 0.1,
+    "player_big_blind": "Poteplie",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "3c",
+            "2h"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "anokato",
+                "vatraman",
+                "Daigoro",
+                "EZTILT67",
+                "jObOkO",
+                "KramePie",
+                "Poteplie"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                0.25,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Daigoro",
+                "EZTILT67"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Daigoro",
+                "EZTILT67"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.93,
+                0.93
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Daigoro",
+                "EZTILT67",
+                "Daigoro"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.81,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        7.8100000000000005,
+        7.31,
+        48.66,
+        26.79,
+        41.39,
+        10.76,
+        74.96
+    ]
+}

@@ -1,73 +1,98 @@
 {
-    "date": "2016/11/29 7:55:5",
-    "game_id": "786720602",
+    "date": "2016/9/18 7:22:51",
+    "game_id": "730181195",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Cap",
-    "button_seat": 1,
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
     "players": [
-        "wethco",
-        "plin777",
-        "BigBlat",
-        "coldkilla",
-        "IlxxxlI"
+        "iDawg",
+        "jackson319",
+        "IlxxxlI",
+        "Gargantuatua",
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
         6
     ],
     "starting_stacks": [
-        154.4,
-        105.1,
-        107.66,
-        69.83,
-        110.95
+        146.16,
+        89.23,
+        46.12,
+        100.0,
+        128.21,
+        47.34
     ],
-    "player_small_blind": "plin777",
-    "small_blind": 1.0,
-    "player_big_blind": "BigBlat",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Gargantuatua",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10d",
-        "8s"
+        "7h",
+        "Ad"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "5d",
+            "4h",
+            "3c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "coldkilla",
+                "BlitzWaut",
+                "Pimpika",
+                "iDawg",
+                "jackson319",
                 "IlxxxlI",
-                "wethco",
-                "plin777",
-                "BigBlat"
+                "Gargantuatua",
+                "iDawg"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "RAISE",
+                "FOLD",
                 "FOLD",
                 "RAISE",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                2.0,
                 null,
-                3.0,
-                null
+                null,
+                8.0,
+                7.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Gargantuatua",
+                "iDawg",
+                "Gargantuatua"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                11.72,
+                137.16,
+                79.28
+            ]
         },
         "post-turn": {
             "players": [],
@@ -81,17 +106,19 @@
         }
     },
     "card_shown_by_players": [
+        "6s 5s",
         null,
         null,
-        null,
+        "As Ah",
         null,
         null
     ],
     "finishing_stack": [
-        154.4,
-        107.1,
-        105.66,
-        69.83,
-        110.95
+        144.91,
+        89.23,
+        45.62,
+        98.75,
+        128.21,
+        47.34
     ]
 }

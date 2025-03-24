@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/6 8:27:7",
+    "game_id": "791879200",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "ABMTLQC",
+        "Almost Pat",
+        "IlxxxlI",
+        "virtualbox",
+        "turdfergusson1",
+        "Madd_Hatter"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        36.43,
+        48.98,
+        10.0,
+        25.0,
+        30.87,
+        25.8
+    ],
+    "player_small_blind": "ABMTLQC",
+    "small_blind": 0.1,
+    "player_big_blind": "Almost Pat",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "6d",
+            "Js"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "virtualbox",
+                "turdfergusson1",
+                "Madd_Hatter",
+                "ABMTLQC",
+                "Almost Pat"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Almost Pat",
+                "turdfergusson1",
+                "Almost Pat"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Almost Pat",
+                "turdfergusson1",
+                "Almost Pat",
+                "turdfergusson1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.19,
+                3.0,
+                1.81
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Almost Pat",
+                "turdfergusson1"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "8d 8c",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        36.33,
+        56.46,
+        10.0,
+        25.0,
+        22.67,
+        25.8
+    ]
+}

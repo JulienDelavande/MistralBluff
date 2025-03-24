@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/24 10:32:18",
+    "game_id": "804987465",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Ksander",
+        "Slamit111",
+        "huiloputin",
+        "dtnfk",
+        "chintrogdin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        30.84,
+        25.58,
+        20.64,
+        53.96,
+        10.68,
+        10.06
+    ],
+    "player_small_blind": "dtnfk",
+    "small_blind": 0.1,
+    "player_big_blind": "chintrogdin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "10s",
+            "Jd"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ksander",
+                "Slamit111",
+                "huiloputin",
+                "dtnfk",
+                "chintrogdin"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "chintrogdin",
+                "Slamit111",
+                "chintrogdin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "chintrogdin",
+                "Slamit111",
+                "chintrogdin"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "chintrogdin",
+                "Slamit111",
+                "chintrogdin",
+                "Slamit111"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.0,
+                6.86,
+                1.86
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qd Kc",
+        null,
+        null,
+        "10h Jh"
+    ],
+    "finishing_stack": [
+        30.84,
+        25.58,
+        10.58,
+        53.96,
+        10.58,
+        19.21
+    ]
+}

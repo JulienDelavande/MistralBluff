@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/25 15:38:35",
+    "game_id": "805739886",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Phildurrrhelmuth",
+        "Sonic3Dblast",
+        "IlxxxlI",
+        "holdme7"
+    ],
+    "players_seats": [
+        1,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        26.42,
+        34.99,
+        25.1,
+        94.31
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "holdme7",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "3h",
+            "8c"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Phildurrrhelmuth",
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "holdme7",
+                "Phildurrrhelmuth"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "holdme7",
+                "Phildurrrhelmuth"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.91,
+                2.91
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "holdme7",
+                "Phildurrrhelmuth",
+                "holdme7"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                6.6,
+                15.0,
+                8.4
+            ]
+        },
+        "post-river": {
+            "players": [
+                "holdme7",
+                "Phildurrrhelmuth"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                74.15,
+                6.26
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "9d 9h",
+        null,
+        null,
+        "Qh Ah"
+    ],
+    "finishing_stack": [
+        0.0,
+        34.99,
+        25.0,
+        118.83
+    ]
+}

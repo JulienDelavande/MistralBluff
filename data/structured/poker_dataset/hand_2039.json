@@ -1,58 +1,113 @@
 {
-    "date": "2016/11/28 18:57:30",
-    "game_id": "786356277",
+    "date": "2016/9/18 8:41:37",
+    "game_id": "730231403",
     "variant": "PRR",
-    "table_name": "Lakhey-10",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 1,
+    "button_seat": 3,
     "players": [
-        "Popka1337",
+        "LuckyBoy1980",
+        "BadBeat79",
+        "Cellar door",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "JJaromir"
+        "utormico"
     ],
     "players_seats": [
         1,
+        2,
         3,
-        5
+        4,
+        5,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        71.5,
-        88.9,
-        494.5
+        203.05,
+        234.58,
+        200.0,
+        320.35,
+        176.15,
+        206.4,
+        116.3,
+        124.0
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "FatSkinnyGuy",
     "small_blind": 1.0,
-    "player_big_blind": "JJaromir",
+    "player_big_blind": "Pimpika",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8c",
-        "4s"
+        "3s",
+        "Qd"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "9d",
+            "2h",
+            "6c"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Popka1337",
-                "IlxxxlI"
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "utormico",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "Cellar door",
+                "FatSkinnyGuy",
+                "Pimpika"
             ],
             "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
+                5.0,
+                null,
+                5.0,
+                5.0,
+                null,
+                null,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "VegetablesArentYummy",
+                "utormico",
+                "LuckyBoy1980",
+                "VegetablesArentYummy",
+                "utormico"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                8.55,
+                null,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -68,11 +123,21 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        71.5,
-        87.9,
-        495.5
+        215.15,
+        234.58,
+        200.0,
+        319.35,
+        174.15,
+        201.4,
+        116.3,
+        119.0
     ]
 }

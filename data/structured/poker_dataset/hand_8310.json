@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/26 12:54:52",
+    "game_id": "806335962",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "constant revelation",
+        "IlxxxlI",
+        "lablador1010",
+        "OMG_VanCandy",
+        "HapKoTuk",
+        "SamuelLJackson"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.78,
+        26.14,
+        19.45,
+        12.15,
+        24.95,
+        13.61
+    ],
+    "player_small_blind": "constant revelation",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "5c",
+            "4s"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "lablador1010",
+                "OMG_VanCandy",
+                "HapKoTuk",
+                "SamuelLJackson",
+                "constant revelation",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.75,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "constant revelation",
+                "HapKoTuk",
+                "SamuelLJackson",
+                "constant revelation",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.95,
+                1.95,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "constant revelation",
+                "SamuelLJackson",
+                "constant revelation"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.079999999999998,
+        25.89,
+        19.45,
+        12.15,
+        24.2,
+        16.990000000000002
+    ]
+}

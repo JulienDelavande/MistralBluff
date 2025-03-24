@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/6 8:56:44",
+    "game_id": "791903766",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "braaaap",
+        "LUCERtola38",
+        "danutzz",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        38.89,
+        33.43,
+        10.1
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "braaaap",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "5d",
+            "Ah"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "2s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LUCERtola38",
+                "danutzz",
+                "IlxxxlI",
+                "braaaap"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "braaaap",
+                "danutzz"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "braaaap",
+                "danutzz"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.75,
+                null,
+                1.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "danutzz"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10d 9d"
+    ],
+    "finishing_stack": [
+        9.75,
+        38.89,
+        31.43,
+        12.14
+    ]
+}

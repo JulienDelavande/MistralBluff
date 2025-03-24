@@ -1,30 +1,51 @@
 {
-    "date": "2016/11/29 7:39:19",
-    "game_id": "786707652",
+    "date": "2016/9/18 7:33:14",
+    "game_id": "730188608",
     "variant": "PRR",
-    "table_name": "Longana-3",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 1,
+    "button_seat": 9,
     "players": [
+        "A",
         "IlxxxlI",
-        "shokerAAss"
+        "Pimpika",
+        "drdboy",
+        "utormico",
+        "wishyouhadnot",
+        "BadBeat79",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
-        3
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        82.0,
-        208.35
+        298.46,
+        83.6,
+        80.0,
+        89.73,
+        164.66,
+        181.83,
+        399.68,
+        308.26,
+        204.6
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "A",
     "small_blind": 1.0,
-    "player_big_blind": "shokerAAss",
+    "player_big_blind": "IlxxxlI",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10d",
-        "8h"
+        "Qc",
+        "6d"
     ],
     "dealed_cards": {
         "flop": [],
@@ -34,18 +55,33 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "shokerAAss",
-                "IlxxxlI"
+                "Pimpika",
+                "drdboy",
+                "utormico",
+                "wishyouhadnot",
+                "BadBeat79",
+                "UrSoDumb",
+                "KeepKalm",
+                "A"
             ],
             "actions": [
-                "RAISE",
-                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                4.0,
-                14.0,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
         },
@@ -67,10 +103,24 @@
     },
     "card_shown_by_players": [
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        77.0,
-        213.35
+        297.46,
+        84.6,
+        80.0,
+        89.73,
+        164.66,
+        181.83,
+        399.68,
+        308.26,
+        204.6
     ]
 }

@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/5 10:12:25",
+    "game_id": "791311715",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "GautamaBuddha",
+        "St3p04ka",
+        "IlxxxlI",
+        "flyshark01",
+        "MadLifeGrinder",
+        "rivergods"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        120.8,
+        41.0,
+        47.5,
+        236.32,
+        100.0,
+        136.31
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 0.5,
+    "player_big_blind": "rivergods",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "10c",
+            "8h"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GautamaBuddha",
+                "St3p04ka",
+                "IlxxxlI",
+                "flyshark01",
+                "MadLifeGrinder",
+                "rivergods"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "rivergods",
+                "flyshark01"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "rivergods",
+                "flyshark01"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        120.8,
+        41.0,
+        47.5,
+        230.32,
+        99.5,
+        142.19
+    ]
+}

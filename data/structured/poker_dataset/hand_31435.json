@@ -1,0 +1,111 @@
+{
+    "date": "2016/12/6 12:59:54",
+    "game_id": "792077189",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "FaceMelt",
+        "IlxxxlI",
+        "GautamaBuddha"
+    ],
+    "players_seats": [
+        2,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        139.0,
+        40.0,
+        104.23
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "GautamaBuddha",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "8d",
+            "9d"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FaceMelt",
+                "IlxxxlI",
+                "GautamaBuddha",
+                "FaceMelt"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                6.78,
+                null,
+                4.28
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "FaceMelt"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "FaceMelt",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.39,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        146.51,
+        32.72,
+        103.23
+    ]
+}

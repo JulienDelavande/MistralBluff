@@ -1,0 +1,122 @@
+{
+    "date": "2016/12/8 7:6:43",
+    "game_id": "793079866",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "fortecco",
+        "FirstClan",
+        "foldemfoley",
+        "strodawg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        5.06,
+        26.89,
+        14.94,
+        5.81,
+        32.91
+    ],
+    "player_small_blind": "fortecco",
+    "small_blind": 0.1,
+    "player_big_blind": "FirstClan",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "Qd",
+            "Qc"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "foldemfoley",
+                "strodawg",
+                "IlxxxlI",
+                "fortecco",
+                "FirstClan",
+                "foldemfoley"
+            ],
+            "actions": [
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.5,
+                null,
+                0.4,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "fortecco",
+                "foldemfoley",
+                "strodawg",
+                "fortecco",
+                "foldemfoley"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.11,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        5.06,
+        26.39,
+        14.69,
+        5.31,
+        34.08
+    ]
+}

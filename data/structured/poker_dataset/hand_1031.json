@@ -1,89 +1,140 @@
 {
-    "date": "2016/11/29 11:39:27",
-    "game_id": "786907598",
+    "date": "2016/9/12 12:3:56",
+    "game_id": "725844296",
     "variant": "PRR",
-    "table_name": "Gorgons-13",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
+        "Leatherass9",
+        "vachips",
+        "Ksowas",
         "IlxxxlI",
-        "Maria_Pia",
-        "528 Hertz",
-        "foreseen"
+        "gust",
+        "Anastasia31"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
-        5
+        5,
+        6
     ],
     "starting_stacks": [
-        22.41,
-        23.24,
-        86.63,
-        84.56
+        251.87,
+        51.57,
+        203.23,
+        47.3,
+        100.56,
+        231.04
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "Maria_Pia",
-    "big_blind": 0.5,
+    "player_small_blind": "gust",
+    "small_blind": 1.0,
+    "player_big_blind": "Anastasia31",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6c",
-        "Kd"
+        "9c",
+        "8d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "2h",
+            "8s",
+            "2d"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "6c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "528 Hertz",
-                "foreseen",
+                "Leatherass9",
+                "vachips",
+                "Ksowas",
                 "IlxxxlI",
-                "Maria_Pia"
+                "gust",
+                "Anastasia31"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
+                "CALL",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
-                1.12,
+                2.0,
+                null,
+                null,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Anastasia31",
+                "vachips"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Anastasia31",
+                "vachips"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Anastasia31",
+                "vachips"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        null
+        null,
+        null,
+        "6s Ah"
     ],
     "finishing_stack": [
-        22.16,
-        22.74,
-        86.63,
-        85.31
+        251.87,
+        49.57,
+        203.23,
+        47.3,
+        99.56,
+        233.79
     ]
 }

@@ -1,0 +1,124 @@
+{
+    "date": "2016/9/19 0:55:28",
+    "game_id": "730682386",
+    "variant": "PRR",
+    "table_name": "Pegacorn",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "hirzoiu",
+        "T0ny Adams",
+        "pokerok18",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        698.48,
+        225.12,
+        243.0,
+        240.0
+    ],
+    "player_small_blind": "pokerok18",
+    "small_blind": 3.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 6.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "Jc",
+            "6d"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hirzoiu",
+                "T0ny Adams",
+                "pokerok18",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                12.0,
+                null,
+                null,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "hirzoiu"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "hirzoiu"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                6.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "hirzoiu"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                12.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        680.48,
+        225.12,
+        240.0,
+        260.65
+    ]
+}

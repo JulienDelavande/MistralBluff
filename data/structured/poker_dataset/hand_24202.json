@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 14:47:29",
+    "game_id": "793406740",
+    "variant": "PRR",
+    "table_name": "Ekek-11",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "HapKoTuk",
+        "100stacks",
+        "2Joes",
+        "muchachon",
+        "IlxxxlI",
+        "anokato"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.56,
+        25.0,
+        11.91,
+        30.73,
+        10.0,
+        54.33
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "100stacks",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "Qd",
+            "9h"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "2Joes",
+                "muchachon",
+                "IlxxxlI",
+                "anokato",
+                "HapKoTuk",
+                "100stacks"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "100stacks",
+                "2Joes",
+                "100stacks"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.38,
+                0.38
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "100stacks",
+                "2Joes"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "100stacks",
+                "2Joes"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                22.87,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.459999999999997,
+        27.020000000000003,
+        9.780000000000001,
+        30.73,
+        10.0,
+        54.33
+    ]
+}

@@ -1,173 +1,113 @@
 {
-    "date": "2016/11/21 14:56:5",
-    "game_id": "781107058",
+    "date": "2016/9/18 9:15:49",
+    "game_id": "730249907",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "GagaPoker",
-        "imperceptible",
-        "FirstClan",
-        "texaswarthog",
-        "Chipburnner",
-        "Parcker",
-        "ACESOVAKINGZ",
-        "HorsePussy",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "graphicup",
         "IlxxxlI"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        50.0,
-        15.75,
-        54.25,
-        38.45,
-        25.55,
-        50.0,
-        70.56,
-        37.22,
-        20.75
+        307.87,
+        400.46,
+        204.62,
+        364.3,
+        89.85
     ],
-    "player_small_blind": "ACESOVAKINGZ",
-    "small_blind": 0.25,
-    "player_big_blind": "HorsePussy",
-    "big_blind": 0.5,
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "graphicup",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
         "7s",
-        "2c"
+        "As"
     ],
     "dealed_cards": {
         "flop": [
-            "Qs",
-            "Js",
-            "4s"
+            "2c",
+            "4c",
+            "Ac"
         ],
-        "turn": [
-            "4c"
-        ],
-        "river": [
-            "10s"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "GagaPoker",
-                "imperceptible",
-                "FirstClan",
-                "texaswarthog",
-                "Chipburnner",
-                "Parcker",
-                "ACESOVAKINGZ",
-                "HorsePussy"
+                "VegetablesArentYummy",
+                "flyzlcomb07",
+                "Pureprofit4",
+                "graphicup"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "CALL",
                 "FOLD",
                 "CALL",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
+                8.0,
                 null,
+                8.0,
                 null,
-                null,
-                null,
-                1.5,
-                1.5,
-                null,
-                1.25,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "ACESOVAKINGZ",
-                "texaswarthog",
-                "Chipburnner",
-                "ACESOVAKINGZ"
+                "IlxxxlI",
+                "flyzlcomb07",
+                "IlxxxlI"
             ],
             "actions": [
-                "CHECK",
                 "BET",
-                "CALL",
+                "RAISE",
                 "FOLD"
             ],
             "values": [
-                null,
-                2.37,
-                2.37,
+                7.26,
+                21.78,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "texaswarthog",
-                "Chipburnner"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                6.17,
-                6.17
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "texaswarthog",
-                "Chipburnner",
-                "texaswarthog"
-            ],
-            "actions": [
-                "CHECK",
-                "ALLIN",
-                "CALL"
-            ],
-            "values": [
-                null,
-                15.51,
-                15.51
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        "Qc 10h",
-        "Qh 10d",
-        null,
-        null,
         null,
         null
     ],
     "finishing_stack": [
-        50.0,
-        15.75,
-        54.25,
-        38.13,
-        25.22,
-        50.0,
-        69.06,
-        36.72,
-        20.75
+        307.87,
+        421.37,
+        202.62,
+        360.3,
+        74.58999999999999
     ]
 }

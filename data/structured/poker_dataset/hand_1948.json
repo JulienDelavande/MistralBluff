@@ -1,81 +1,97 @@
 {
-    "date": "2016/11/28 19:37:18",
-    "game_id": "786363708",
+    "date": "2016/9/18 8:31:32",
+    "game_id": "730225314",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 7,
     "players": [
-        "DonkReaper",
-        "legenda99",
-        "Goomashroom",
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "caballeroXXX"
+        "Spew Diamond Phillips",
+        "Frisconar",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        6
+        5,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        49.99,
-        120.95,
-        84.36,
-        22.83,
-        50.0
+        100.0,
+        197.7,
+        44.08,
+        121.97,
+        38.5,
+        102.3,
+        10.34,
+        237.58
     ],
-    "player_small_blind": "Goomashroom",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "brainvape",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8d",
-        "8s"
+        "Ah",
+        "5s"
     ],
     "dealed_cards": {
         "flop": [
-            "As",
-            "Jd",
-            "9s"
+            "6s",
+            "Ac",
+            "As"
         ],
         "turn": [
-            "6d"
+            "8h"
         ],
-        "river": [
-            "9d"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "caballeroXXX",
-                "DonkReaper",
-                "legenda99",
-                "Goomashroom",
-                "IlxxxlI"
+                "VegetablesArentYummy",
+                "Pimpika",
+                "IlxxxlI",
+                "Spew Diamond Phillips",
+                "Frisconar",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
             ],
             "values": [
                 null,
                 null,
-                1.0,
                 null,
-                0.5
+                null,
+                null,
+                2.0,
+                1.5,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "legenda99"
+                "brainvape",
+                "FirstClan"
             ],
             "actions": [
                 "CHECK",
@@ -88,45 +104,45 @@
         },
         "post-turn": {
             "players": [
-                "IlxxxlI",
-                "legenda99"
+                "brainvape",
+                "FirstClan",
+                "brainvape"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD"
             ],
             "values": [
                 null,
+                2.37,
                 null
             ]
         },
         "post-river": {
-            "players": [
-                "IlxxxlI",
-                "legenda99"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        "8d 8s",
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        49.99,
-        119.95,
-        84.11,
-        23.97,
-        50.0
+        100.0,
+        197.7,
+        44.08,
+        121.97,
+        38.5,
+        105.05,
+        8.34,
+        236.58
     ]
 }

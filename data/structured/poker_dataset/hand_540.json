@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/29 13:49:33",
-    "game_id": "786990121",
+    "date": "2016/9/5 12:33:10",
+    "game_id": "720267253",
     "variant": "PRR",
-    "table_name": "Kraken-13",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 7,
     "players": [
-        "CrimZnole",
-        "bunnyfox2t",
+        "UrSoDumb",
+        "St3p04ka",
         "IlxxxlI",
-        "AironVega",
-        "flyshark01",
-        "Doubletwentyone"
+        "pokerhawk333",
+        "gust",
+        "jtee95",
+        "PANDAisEVIL",
+        "lars76"
     ],
     "players_seats": [
         1,
@@ -19,90 +21,139 @@
         3,
         4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        144.88,
-        101.5,
-        40.0,
-        110.14,
-        103.31,
-        103.52
+        203.55,
+        127.25,
+        55.9,
+        69.9,
+        80.0,
+        204.57,
+        100.0,
+        104.1
     ],
-    "player_small_blind": "AironVega",
-    "small_blind": 0.5,
-    "player_big_blind": "flyshark01",
-    "big_blind": 1.0,
+    "player_small_blind": "PANDAisEVIL",
+    "small_blind": 1.0,
+    "player_big_blind": "lars76",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "4c"
+        "Jh",
+        "8d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Qs",
+            "Ac",
+            "6c"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "Ks"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Doubletwentyone",
-                "CrimZnole",
-                "bunnyfox2t",
+                "UrSoDumb",
+                "St3p04ka",
                 "IlxxxlI",
-                "AironVega",
-                "flyshark01",
-                "CrimZnole"
+                "pokerhawk333",
+                "gust",
+                "jtee95",
+                "PANDAisEVIL",
+                "lars76"
             ],
             "actions": [
                 "FOLD",
                 "RAISE",
                 "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
-                "RAISE",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                2.4,
+                6.0,
+                null,
+                6.0,
                 null,
                 null,
                 null,
-                8.5,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "St3p04ka",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.55,
+                8.55
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "St3p04ka",
+                "pokerhawk333",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.16,
+                10.16
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "St3p04ka",
+                "pokerhawk333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
+        "Jd 10d",
+        null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        142.48,
-        101.5,
-        40.0,
-        109.64,
-        106.21,
-        103.52
+        203.55,
+        102.53999999999999,
+        55.9,
+        94.99000000000001,
+        80.0,
+        204.57,
+        99.0,
+        102.1
     ]
 }

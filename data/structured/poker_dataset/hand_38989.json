@@ -1,0 +1,154 @@
+{
+    "date": "2016/12/2 22:45:13",
+    "game_id": "789429990",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "AironVega",
+        "KeepKalm",
+        "PANDAisEVIL",
+        "IlxxxlI",
+        "grinchmen",
+        "ElvenEyes",
+        "SLOWROLN"
+    ],
+    "players_seats": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        166.64,
+        96.0,
+        100.0,
+        41.25,
+        154.5,
+        100.0,
+        60.1
+    ],
+    "player_small_blind": "grinchmen",
+    "small_blind": 0.5,
+    "player_big_blind": "ElvenEyes",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "9c",
+            "Ad"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SLOWROLN",
+                "AironVega",
+                "KeepKalm",
+                "PANDAisEVIL",
+                "IlxxxlI",
+                "grinchmen",
+                "ElvenEyes",
+                "SLOWROLN"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SLOWROLN",
+                "PANDAisEVIL",
+                "SLOWROLN"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.42,
+                4.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SLOWROLN",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SLOWROLN",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "6c Ac",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        166.64,
+        96.0,
+        108.11,
+        41.25,
+        154.0,
+        99.0,
+        52.68
+    ]
+}

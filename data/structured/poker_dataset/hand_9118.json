@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/25 22:39:28",
+    "game_id": "805819170",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "wwww111",
+        "IlxxxlI",
+        "Log_in",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        47.08,
+        36.39,
+        16.25,
+        30.68
+    ],
+    "player_small_blind": "wwww111",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "Jc",
+            "As"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Log_in",
+                "so_it_goes",
+                "wwww111",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.1,
+                null,
+                null,
+                0.6
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Log_in",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.55,
+                1.55
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Log_in"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Log_in",
+                "IlxxxlI",
+                "Log_in"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.52,
+                33.74,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        46.83,
+        42.19,
+        10.08,
+        30.68
+    ]
+}

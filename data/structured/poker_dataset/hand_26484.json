@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 7:16:40",
+    "game_id": "793087768",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "smooty",
+        "richkezys",
+        "Ice Bank Mice Elf",
+        "Ksander"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        8.52,
+        33.68,
+        38.26,
+        25.0
+    ],
+    "player_small_blind": "Ice Bank Mice Elf",
+    "small_blind": 0.1,
+    "player_big_blind": "Ksander",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "4s",
+            "10h"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "smooty",
+                "richkezys",
+                "Ice Bank Mice Elf",
+                "Ksander"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksander",
+                "richkezys"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksander",
+                "richkezys"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.35,
+                0.35
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ksander",
+                "richkezys",
+                "Ksander"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.14,
+                6.65,
+                5.51
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Kd Qs",
+        null,
+        "Kh 7h"
+    ],
+    "finishing_stack": [
+        10.0,
+        8.52,
+        26.18,
+        38.16,
+        31.85
+    ]
+}

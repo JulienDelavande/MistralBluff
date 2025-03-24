@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/5 11:28:51",
+    "game_id": "791368117",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "WeakAndWeary",
+        "IlxxxlI",
+        "Thefisherman90",
+        "s7amen",
+        "suited97"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.5,
+        23.14,
+        50.0,
+        87.23,
+        63.51
+    ],
+    "player_small_blind": "s7amen",
+    "small_blind": 0.25,
+    "player_big_blind": "suited97",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "Qs",
+            "7d"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "IlxxxlI",
+                "Thefisherman90",
+                "s7amen",
+                "suited97"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "suited97",
+                "WeakAndWeary",
+                "suited97"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.06,
+                2.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "suited97",
+                "WeakAndWeary",
+                "suited97"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.68,
+                4.68
+            ]
+        },
+        "post-river": {
+            "players": [
+                "suited97",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ks Qh",
+        null,
+        null,
+        null,
+        "Qc Ad"
+    ],
+    "finishing_stack": [
+        42.26,
+        23.14,
+        50.0,
+        86.98,
+        71.17
+    ]
+}

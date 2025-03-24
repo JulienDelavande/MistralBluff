@@ -1,20 +1,19 @@
 {
-    "date": "2016/11/29 15:20:13",
-    "game_id": "787025872",
+    "date": "2016/9/4 2:18:21",
+    "game_id": "718951407",
     "variant": "PRR",
-    "table_name": "Garuda-4",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "GagaPoker",
-        "dankmann",
-        "kid4life",
-        "DRofBooya",
-        "wvlax1425",
-        "Spagetti1",
+        "BIGRAISE",
+        "tcoll16",
+        "cracypoker",
+        "VegetablesArentYummy",
+        "Oakee",
         "IlxxxlI",
-        "haroldbb",
-        "Korobochka"
+        "WalterBlack",
+        "TheFront7"
     ],
     "players_seats": [
         1,
@@ -24,91 +23,126 @@
         5,
         6,
         7,
-        8,
-        9
+        8
     ],
     "starting_stacks": [
-        50.0,
-        100.46,
-        103.43,
-        46.69,
-        48.75,
-        50.01,
-        26.19,
-        64.71,
-        100.7
+        120.0,
+        221.62,
+        303.2,
+        200.0,
+        200.0,
+        80.0,
+        459.65,
+        299.2
     ],
-    "player_small_blind": "dankmann",
-    "small_blind": 0.25,
-    "player_big_blind": "kid4life",
-    "big_blind": 0.5,
+    "player_small_blind": "cracypoker",
+    "small_blind": 2.0,
+    "player_big_blind": "Oakee",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9c",
-        "7h"
+        "6h",
+        "10d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "2c",
+            "Jc",
+            "8d"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "3c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "DRofBooya",
-                "wvlax1425",
-                "Spagetti1",
                 "IlxxxlI",
-                "haroldbb",
-                "Korobochka",
-                "GagaPoker",
-                "dankmann",
-                "kid4life"
+                "WalterBlack",
+                "TheFront7",
+                "BIGRAISE",
+                "tcoll16",
+                "cracypoker",
+                "Oakee"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "RAISE",
-                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                null,
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "cracypoker",
+                "Oakee",
+                "WalterBlack",
+                "cracypoker",
+                "Oakee"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
-                1.5,
-                null,
-                null,
-                null,
-                null,
+                4.0,
+                4.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "cracypoker",
+                "WalterBlack"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "cracypoker",
+                "WalterBlack"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
+        "5h 8h",
         null,
         null,
         null,
@@ -116,14 +150,13 @@
         null
     ],
     "finishing_stack": [
-        50.0,
-        100.21,
-        102.93,
-        46.69,
-        48.75,
-        50.76,
-        26.19,
-        64.71,
-        100.7
+        120.0,
+        221.62,
+        315.0,
+        200.0,
+        196.0,
+        80.0,
+        451.65,
+        299.2
     ]
 }

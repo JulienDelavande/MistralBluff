@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/24 21:3:10",
+    "game_id": "805223227",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "N1cer1ver",
+        "gipper PK",
+        "booya25",
+        "IlxxxlI",
+        "BobbyJones1936"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        36.4,
+        24.85,
+        14.67,
+        45.21,
+        9.3
+    ],
+    "player_small_blind": "booya25",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "9s",
+            "Ah"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BobbyJones1936",
+                "N1cer1ver",
+                "gipper PK",
+                "booya25",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CALL",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                0.25,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "booya25",
+                "IlxxxlI",
+                "BobbyJones1936",
+                "N1cer1ver",
+                "booya25",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                0.25,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BobbyJones1936",
+                "N1cer1ver"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BobbyJones1936",
+                "N1cer1ver",
+                "BobbyJones1936"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.25,
+                1.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Js Ad",
+        null,
+        null,
+        null,
+        "Kc Ac"
+    ],
+    "finishing_stack": [
+        34.4,
+        24.85,
+        14.42,
+        44.96,
+        11.580000000000002
+    ]
+}

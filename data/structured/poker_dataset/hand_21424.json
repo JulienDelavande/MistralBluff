@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/9 8:43:34",
+    "game_id": "793866066",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "critical Eros",
+        "rwnad",
+        "SeemsLegit",
+        "IlxxxlI",
+        "LionHeart76"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        56.38,
+        50.0,
+        61.46,
+        20.75,
+        147.85
+    ],
+    "player_small_blind": "critical Eros",
+    "small_blind": 0.25,
+    "player_big_blind": "rwnad",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "3s",
+            "Qc"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SeemsLegit",
+                "IlxxxlI",
+                "LionHeart76",
+                "critical Eros",
+                "rwnad"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "rwnad",
+                "LionHeart76",
+                "rwnad",
+                "LionHeart76"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                2.84,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "rwnad",
+                "LionHeart76"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.02,
+                5.02
+            ]
+        },
+        "post-river": {
+            "players": [
+                "rwnad",
+                "LionHeart76"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                41.14,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.13,
+        58.22,
+        61.46,
+        20.75,
+        138.99
+    ]
+}

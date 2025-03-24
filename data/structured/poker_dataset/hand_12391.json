@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/24 21:36:31",
+    "game_id": "805232227",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "SkaHot",
+        "ramieliasov",
+        "booya25",
+        "IlxxxlI",
+        "dopey2",
+        "Pro-Bro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        33.53,
+        43.25,
+        23.09,
+        25.0,
+        24.26,
+        42.39
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "ramieliasov",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "2h",
+            "5h"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "booya25",
+                "IlxxxlI",
+                "dopey2",
+                "Pro-Bro",
+                "SkaHot",
+                "ramieliasov",
+                "dopey2",
+                "Pro-Bro"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                1.25,
+                null,
+                null,
+                1.5,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dopey2",
+                "Pro-Bro"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.07,
+                3.07
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dopey2",
+                "Pro-Bro"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.96,
+                6.96
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dopey2",
+                "Pro-Bro"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                11.98,
+                11.98
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "8s 8h",
+        "Ah 3c"
+    ],
+    "finishing_stack": [
+        33.43,
+        43.0,
+        23.09,
+        25.0,
+        0.0,
+        64.56
+    ]
+}

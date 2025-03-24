@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 9:46:9",
+    "game_id": "792516448",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "Tomorrow...",
+        "IlxxxlI",
+        "MAK517",
+        "Ram1789",
+        "monster999",
+        "maxxxim"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.4,
+        5.0,
+        16.24,
+        9.46,
+        4.55,
+        17.47
+    ],
+    "player_small_blind": "monster999",
+    "small_blind": 0.1,
+    "player_big_blind": "maxxxim",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Jd",
+            "6h"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Tomorrow...",
+                "IlxxxlI",
+                "MAK517",
+                "Ram1789",
+                "monster999",
+                "maxxxim"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "monster999",
+                "maxxxim",
+                "monster999"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.5,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "monster999",
+                "maxxxim",
+                "monster999"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.6,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.4,
+        5.0,
+        16.24,
+        9.46,
+        3.55,
+        18.369999999999997
+    ]
+}

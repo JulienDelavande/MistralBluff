@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/22 16:48:12",
+    "game_id": "803705967",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "hotbabe1986",
+        "aleks0v",
+        "your bartender",
+        "St3p04ka",
+        "DirtyDog98"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        60.41,
+        60.64,
+        62.81,
+        22.49,
+        79.63,
+        50.0
+    ],
+    "player_small_blind": "your bartender",
+    "small_blind": 0.25,
+    "player_big_blind": "DirtyDog98",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "9s",
+            "Js"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "hotbabe1986",
+                "aleks0v",
+                "your bartender",
+                "DirtyDog98"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "your bartender",
+                "DirtyDog98",
+                "hotbabe1986",
+                "aleks0v",
+                "your bartender"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                null,
+                5.0,
+                null,
+                3.1
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "your bartender",
+                "hotbabe1986"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.65,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        60.41,
+        54.64,
+        61.81,
+        29.79,
+        79.63,
+        49.0
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/1 21:14:23",
+    "game_id": "788733558",
+    "variant": "PRR",
+    "table_name": "Gorgons-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "WeakAndWeary",
+        "odel_nadel",
+        "espaditas",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        74.69,
+        56.46,
+        48.25,
+        20.76
+    ],
+    "player_small_blind": "espaditas",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "7c",
+            "3h"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "odel_nadel",
+                "espaditas",
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                3.3,
+                2.3
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.48,
+                2.48
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                68.41,
+                14.48
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "7s 7h",
+        null,
+        null,
+        "Qh Qc"
+    ],
+    "finishing_stack": [
+        93.69999999999999,
+        56.46,
+        48.0,
+        0.0
+    ]
+}

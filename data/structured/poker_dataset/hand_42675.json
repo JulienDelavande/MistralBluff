@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/1 21:20:33",
+    "game_id": "788734950",
+    "variant": "PRR",
+    "table_name": "Gorgons-19",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "sp1ros",
+        "odel_nadel",
+        "BLEECKER_ST"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.52,
+        50.0,
+        55.42,
+        49.14
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "BLEECKER_ST",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "Qs"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "6s",
+            "4h"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "sp1ros",
+                "odel_nadel",
+                "BLEECKER_ST"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "odel_nadel",
+                "BLEECKER_ST"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "odel_nadel",
+                "BLEECKER_ST",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.43,
+                1.43
+            ]
+        },
+        "post-river": {
+            "players": [
+                "odel_nadel",
+                "BLEECKER_ST",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.79,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.52,
+        50.0,
+        52.49,
+        51.78
+    ]
+}

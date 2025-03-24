@@ -1,0 +1,105 @@
+{
+    "date": "2016/12/19 20:53:40",
+    "game_id": "801728619",
+    "variant": "PRR",
+    "table_name": "Bahamut",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "Randy Tran",
+        "UltraFish",
+        "Tolstobrov E",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        1.1,
+        1.96,
+        1.27,
+        2.5
+    ],
+    "player_small_blind": "UltraFish",
+    "small_blind": 0.01,
+    "player_big_blind": "Tolstobrov E",
+    "big_blind": 0.02,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "Qc",
+            "2h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Randy Tran",
+                "UltraFish",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.05,
+                null,
+                0.04,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "UltraFish",
+                "IlxxxlI",
+                "UltraFish"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.04,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        1.1,
+        1.91,
+        1.25,
+        2.5700000000000003
+    ]
+}

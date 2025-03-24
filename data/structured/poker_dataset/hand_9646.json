@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/25 15:42:9",
+    "game_id": "805740775",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "afvet333",
+        "ImYourFriend1996",
+        "Sonic3Dblast"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        27.06,
+        27.82,
+        25.0,
+        42.29
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "afvet333",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "Qd",
+            "Qs"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ImYourFriend1996",
+                "Sonic3Dblast",
+                "IlxxxlI",
+                "afvet333"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.62,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "afvet333",
+                "ImYourFriend1996"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "afvet333",
+                "ImYourFriend1996"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "afvet333",
+                "ImYourFriend1996",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.87,
+                0.87
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ac Kd",
+        null
+    ],
+    "finishing_stack": [
+        26.959999999999997,
+        26.080000000000002,
+        26.67,
+        42.29
+    ]
+}

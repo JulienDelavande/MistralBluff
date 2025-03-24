@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 21:26:6",
+    "game_id": "788736266",
+    "variant": "PRR",
+    "table_name": "Gorgons-9",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "odel_nadel",
+        "Oral-Bet",
+        "sucazappa",
+        "sp1ros",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        42.23,
+        50.07,
+        50.0,
+        24.27
+    ],
+    "player_small_blind": "sp1ros",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "Ad",
+            "Ac"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "odel_nadel",
+                "Oral-Bet",
+                "sucazappa",
+                "sp1ros",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "odel_nadel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.03,
+                1.03
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "odel_nadel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.5,
+                4.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "odel_nadel",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                2.0,
+                42.97,
+                15.24
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kd Ks",
+        null,
+        null,
+        null,
+        "Ah 10s"
+    ],
+    "finishing_stack": [
+        72.09,
+        42.23,
+        50.07,
+        49.75,
+        0.0
+    ]
+}

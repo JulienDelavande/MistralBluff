@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/26 13:4:57",
+    "game_id": "806340512",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "constant revelation",
+        "IlxxxlI",
+        "lablador1010",
+        "OMG_VanCandy",
+        "HapKoTuk",
+        "SamuelLJackson"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        31.3,
+        12.5,
+        23.84,
+        11.4,
+        24.25,
+        16.29
+    ],
+    "player_small_blind": "OMG_VanCandy",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "Qs",
+            "6d"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SamuelLJackson",
+                "constant revelation",
+                "IlxxxlI",
+                "lablador1010",
+                "OMG_VanCandy",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "constant revelation"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "constant revelation"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.55,
+        12.5,
+        23.84,
+        11.3,
+        25.02,
+        16.29
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/19 20:59:53",
+    "game_id": "801729482",
+    "variant": "PRR",
+    "table_name": "Dobhar-chu-23",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "MyBand88",
+        "IlxxxlI",
+        "shimonish",
+        "UpDogg",
+        "JayB8415"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        8.77,
+        10.0,
+        9.59,
+        18.02,
+        9.6
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.05,
+    "player_big_blind": "shimonish",
+    "big_blind": 0.1,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "Qd",
+            "Ac"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "UpDogg",
+                "JayB8415",
+                "MyBand88",
+                "IlxxxlI",
+                "shimonish"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.3,
+                null,
+                0.2
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shimonish",
+                "MyBand88",
+                "shimonish"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.3,
+                0.3
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shimonish",
+                "MyBand88"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "shimonish",
+                "MyBand88"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.59,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        8.17,
+        9.95,
+        10.18,
+        18.02,
+        9.6
+    ]
+}

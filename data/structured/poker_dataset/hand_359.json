@@ -1,106 +1,109 @@
 {
-    "date": "2016/11/29 14:29:7",
-    "game_id": "787006683",
+    "date": "2016/9/5 11:51:22",
+    "game_id": "720254626",
     "variant": "PRR",
-    "table_name": "Kraken-23",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
-        "WeakAndWeary",
-        "gust",
-        "LloydXmas",
-        "Sephiroth1",
-        "ElvenEyes",
-        "IlxxxlI"
+        "GranatoBetano",
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "Jimisdumb",
+        "follower1"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
         5,
         6
     ],
     "starting_stacks": [
-        100.0,
-        44.5,
-        130.79,
-        100.0,
-        124.21,
-        44.9
+        278.1,
+        300.0,
+        190.58,
+        137.32,
+        400.15
     ],
-    "player_small_blind": "LloydXmas",
-    "small_blind": 0.5,
-    "player_big_blind": "Sephiroth1",
-    "big_blind": 1.0,
+    "player_small_blind": "follower1",
+    "small_blind": 3.0,
+    "player_big_blind": "GranatoBetano",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qs",
-        "6d"
+        "4d",
+        "7h"
     ],
     "dealed_cards": {
         "flop": [
-            "Kd",
-            "5c",
-            "10d"
+            "9s",
+            "3d",
+            "3s"
         ],
         "turn": [
-            "2s"
+            "5h"
         ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "ElvenEyes",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "WeakAndWeary",
-                "gust",
-                "LloydXmas",
-                "Sephiroth1"
+                "Jimisdumb",
+                "follower1",
+                "GranatoBetano"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
+                15.0,
                 null,
                 null,
                 null,
-                2.0,
-                null,
-                1.0
+                9.0
             ]
         },
         "post-flop": {
             "players": [
-                "Sephiroth1",
-                "gust"
+                "GranatoBetano",
+                "SheppyPOO!!",
+                "GranatoBetano"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
                 null,
-                null
+                15.0,
+                15.0
             ]
         },
         "post-turn": {
             "players": [
-                "Sephiroth1",
-                "gust"
+                "GranatoBetano",
+                "SheppyPOO!!",
+                "GranatoBetano",
+                "SheppyPOO!!"
             ],
             "actions": [
+                "CHECK",
                 "BET",
+                "RAISE",
                 "FOLD"
             ],
             "values": [
-                2.85,
+                null,
+                42.0,
+                115.0,
                 null
             ]
         },
@@ -115,15 +118,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        100.0,
-        42.5,
-        130.29,
-        102.28,
-        124.21,
-        44.9
+        351.65000000000003,
+        228.0,
+        190.58,
+        137.32,
+        397.15
     ]
 }

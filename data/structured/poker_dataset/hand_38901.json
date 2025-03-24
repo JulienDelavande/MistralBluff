@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/2 23:9:38",
+    "game_id": "789437807",
+    "variant": "PRR",
+    "table_name": "Lakhey",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "38979",
+        "Wannabe Baller",
+        "hodisuda",
+        "d1rector",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        207.0,
+        209.87,
+        260.69,
+        116.69,
+        86.4
+    ],
+    "player_small_blind": "hodisuda",
+    "small_blind": 1.0,
+    "player_big_blind": "d1rector",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "10s",
+            "Ah"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "38979",
+                "Wannabe Baller",
+                "hodisuda",
+                "d1rector"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "d1rector",
+                "38979",
+                "Wannabe Baller",
+                "d1rector"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.0,
+                8.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "38979",
+                "Wannabe Baller",
+                "38979"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                14.0,
+                14.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "38979",
+                "Wannabe Baller"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                34.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        235.15,
+        183.87,
+        259.69,
+        112.69,
+        86.4
+    ]
+}

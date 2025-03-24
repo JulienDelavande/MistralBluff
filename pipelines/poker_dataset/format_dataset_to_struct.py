@@ -197,25 +197,36 @@ Player WalterBlack shows: Two pairs. As and 9s [9h 9s]. Bets: 12. Collects: 0. L
 Player TheFront7 does not show cards.Bets: 2. Collects: 0. Loses: 2.
 Game ended at: 2016/9/4 1:53:2"""
 
+    import os
+
     hand_format = format_dataset_to_struct(non_struct_hand)
 
     print(hand_format)
 
     PATH_DATA = Path(__file__).resolve().parents[2] / "data" / "raw" / "poker_dataset" / "Export Holdem Manager 2.0 12292016131233.txt"
+    PATH_DATA = Path(__file__).resolve().parents[2] / "data" / "raw" / "poker_dataset"
     PATH_DATA_OUT = Path(__file__).resolve().parents[2] / "data" / "structured" / "poker_dataset" 
     hand = []
     
-    with open(PATH_DATA, 'r') as f:
-        hands_txt = f.read()
-        hands_txt_list = hands_txt.split("\n\n")
-        print(f"last file: {hands_txt_list[-1]}")
-        for i in range(len(hands_txt_list) -1):
-            if "PokerStars" in hands_txt_list[i]:
-                continue
-            with open(PATH_DATA_OUT / f"hand_{i}.json", 'w') as f:
-                hand = format_dataset_to_struct(hands_txt_list[i])
-                json.dump(hand, f, indent=4)
-    #         hand.append(format_dataset_to_struct(hands_txt_list[i]))
+    files = [f for f in os.listdir(PATH_DATA) if os.path.isfile(os.path.join(PATH_DATA, f))]
+    
+    i = 0
+    for file in files[2:]:
+        print(f"Processing {file}")
+        path_data = PATH_DATA / file
+        with open(path_data, 'r') as f:
+            hands_txt = f.read()
+            hands_txt_list = hands_txt.split("\n\n\n\n")
+            n = len(hands_txt_list)
+            for j in range(n - 1):
+                print(f"Processing hand {j}/{n}, {hands_txt_list[j].split('\n')[0]}")
+                if "PokerStars" in hands_txt_list[j]:
+                    continue
+                with open(PATH_DATA_OUT / f"hand_{i}.json", 'w') as f:
+                    hand = format_dataset_to_struct(hands_txt_list[j])
+                    json.dump(hand, f, indent=4)
+        #         hand.append(format_dataset_to_struct(hands_txt_list[i]))
+                i += 1
 
     
         

@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/25 0:17:38",
+    "game_id": "805289749",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Sonic3Dblast",
+        "anokato",
+        "IlxxxlI",
+        "shimon89"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        25.1,
+        25.0,
+        26.57,
+        15.16
+    ],
+    "player_small_blind": "Sonic3Dblast",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "Qh",
+            "6d"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "shimon89",
+                "Sonic3Dblast",
+                "anokato"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "anokato",
+                "shimon89"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.38,
+                0.38
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "anokato",
+                "shimon89"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.86,
+                0.86
+            ]
+        },
+        "post-river": {
+            "players": [
+                "anokato",
+                "shimon89"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qc 9s",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        26.44,
+        26.57,
+        13.67
+    ]
+}

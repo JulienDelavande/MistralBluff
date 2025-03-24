@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/5 10:47:20",
+    "game_id": "791340329",
+    "variant": "PRR",
+    "table_name": "Gorgons-26",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "ocg123",
+        "Xobkcul",
+        "welld0ne",
+        "Cellar door",
+        "IlxxxlI",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        30.99,
+        54.14,
+        73.96,
+        50.0,
+        24.92,
+        50.0
+    ],
+    "player_small_blind": "ocg123",
+    "small_blind": 0.25,
+    "player_big_blind": "Xobkcul",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "10d",
+            "Qc"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "welld0ne",
+                "Cellar door",
+                "IlxxxlI",
+                "Jui Kuen",
+                "ocg123",
+                "Xobkcul"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                1.5,
+                null,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "welld0ne",
+                "Cellar door",
+                "Jui Kuen",
+                "welld0ne"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.32,
+                null,
+                3.32
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "welld0ne",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "welld0ne",
+                "Cellar door"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Jc Ac",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.74,
+        53.64,
+        84.03999999999999,
+        41.18,
+        24.92,
+        48.5
+    ]
+}

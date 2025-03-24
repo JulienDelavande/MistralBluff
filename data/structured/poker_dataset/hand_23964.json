@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 15:14:56",
+    "game_id": "793415136",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "caballeroXXX",
+        "flyshark01",
+        "hoocher",
+        "rtk231",
+        "iDawg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        50.0,
+        101.15,
+        61.2,
+        19.75,
+        55.66
+    ],
+    "player_small_blind": "caballeroXXX",
+    "small_blind": 0.25,
+    "player_big_blind": "flyshark01",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "3c",
+            "5s"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hoocher",
+                "rtk231",
+                "iDawg",
+                "IlxxxlI",
+                "caballeroXXX",
+                "flyshark01"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "flyshark01",
+                "rtk231",
+                "flyshark01"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "flyshark01",
+                "rtk231"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "flyshark01",
+                "rtk231"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.84,
+                4.84
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10h Ac",
+        null,
+        "4h Qh",
+        null
+    ],
+    "finishing_stack": [
+        20.0,
+        49.75,
+        93.89,
+        61.2,
+        26.53,
+        55.66
+    ]
+}

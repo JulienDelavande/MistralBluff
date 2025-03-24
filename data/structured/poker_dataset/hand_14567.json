@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/23 12:54:44",
+    "game_id": "804401659",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "CroMagnons",
+        "IlxxxlI",
+        "GrnManalishi",
+        "ImYourFriend1996",
+        "quinnri",
+        "BoardGame08"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        30.82,
+        25.2,
+        45.87,
+        20.2,
+        29.26
+    ],
+    "player_small_blind": "BoardGame08",
+    "small_blind": 0.1,
+    "player_big_blind": "CroMagnons",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "8s",
+            "5c"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "GrnManalishi",
+                "ImYourFriend1996",
+                "quinnri",
+                "BoardGame08",
+                "CroMagnons"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CroMagnons",
+                "GrnManalishi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CroMagnons",
+                "GrnManalishi"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.55,
+        30.82,
+        24.7,
+        45.87,
+        20.2,
+        29.16
+    ]
+}

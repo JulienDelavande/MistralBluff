@@ -1,0 +1,128 @@
+{
+    "date": "2016/12/7 20:8:15",
+    "game_id": "792783304",
+    "variant": "PRR",
+    "table_name": "Ettin-4",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "PonkerProst",
+        "Row-z",
+        "ramirocalieron",
+        "chanero",
+        "number7withacoke"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        10.0,
+        25.0,
+        11.1,
+        23.17,
+        3.33,
+        15.71
+    ],
+    "player_small_blind": "Row-z",
+    "small_blind": 0.1,
+    "player_big_blind": "ramirocalieron",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "Ad",
+            "3d"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "7c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "number7withacoke",
+                "IlxxxlI",
+                "PonkerProst",
+                "Row-z",
+                "ramirocalieron",
+                "chanero"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "chanero",
+                "IlxxxlI",
+                "chanero",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.92,
+                2.58,
+                1.66
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Kd 9d",
+        null,
+        null,
+        null,
+        "10c 6s",
+        null
+    ],
+    "finishing_stack": [
+        6.67,
+        25.0,
+        11.0,
+        22.92,
+        6.66,
+        15.71
+    ]
+}

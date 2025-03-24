@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/25 22:4:40",
+    "game_id": "805809918",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "warrior1023",
+        "Old Biker",
+        "lukopti",
+        "AIRSUPPLY"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.5,
+        12.45,
+        20.7,
+        13.51,
+        30.2
+    ],
+    "player_small_blind": "Old Biker",
+    "small_blind": 0.1,
+    "player_big_blind": "lukopti",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "4h",
+            "Kh"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AIRSUPPLY",
+                "IlxxxlI",
+                "warrior1023",
+                "Old Biker",
+                "lukopti"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Old Biker",
+                "lukopti",
+                "AIRSUPPLY",
+                "warrior1023",
+                "Old Biker",
+                "lukopti"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.42,
+                null,
+                null,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "lukopti",
+                "AIRSUPPLY"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "lukopti",
+                "AIRSUPPLY"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10s Qs",
+        null
+    ],
+    "finishing_stack": [
+        12.5,
+        11.7,
+        19.95,
+        16.89,
+        28.03
+    ]
+}

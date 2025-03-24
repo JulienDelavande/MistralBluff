@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/8 23:53:5",
+    "game_id": "793539763",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "THEKELL",
+        "FatzPanda",
+        "freshness911",
+        "IlxxxlI",
+        "deviltrucker",
+        "RockE"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        8.01,
+        18.78,
+        26.67,
+        5.0,
+        13.38,
+        12.69
+    ],
+    "player_small_blind": "THEKELL",
+    "small_blind": 0.1,
+    "player_big_blind": "FatzPanda",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "3c",
+            "2h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "freshness911",
+                "IlxxxlI",
+                "deviltrucker",
+                "RockE",
+                "THEKELL",
+                "FatzPanda"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "THEKELL",
+                "FatzPanda",
+                "RockE"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "THEKELL",
+                "RockE"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.16,
+        18.28,
+        26.67,
+        5.0,
+        13.38,
+        11.94
+    ]
+}

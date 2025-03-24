@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/25 14:20:2",
+    "game_id": "805714607",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "xROCKETMANx",
+        "GreinSeint",
+        "IlxxxlI",
+        "drcurdi",
+        "constant revelation",
+        "DancinDolb"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        137.51,
+        17.5,
+        25.0,
+        37.38,
+        21.0,
+        29.03
+    ],
+    "player_small_blind": "drcurdi",
+    "small_blind": 0.25,
+    "player_big_blind": "constant revelation",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "Ac",
+            "9d"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DancinDolb",
+                "xROCKETMANx",
+                "GreinSeint",
+                "IlxxxlI",
+                "drcurdi",
+                "constant revelation"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.15,
+                null,
+                0.65
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "constant revelation",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "constant revelation",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "constant revelation",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "9h Kh",
+        null,
+        "5c 4s",
+        null
+    ],
+    "finishing_stack": [
+        137.51,
+        17.5,
+        26.73,
+        37.13,
+        19.35,
+        29.03
+    ]
+}

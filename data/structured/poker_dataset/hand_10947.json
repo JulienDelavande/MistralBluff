@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/25 0:7:12",
+    "game_id": "805284507",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "luckyfish777",
+        "Sonic3Dblast",
+        "anokato",
+        "IlxxxlI",
+        "BuckeyeTy47",
+        "shimon89"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        54.43,
+        25.78,
+        25.78,
+        25.0,
+        21.88,
+        14.48
+    ],
+    "player_small_blind": "luckyfish777",
+    "small_blind": 0.1,
+    "player_big_blind": "Sonic3Dblast",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "8d",
+            "Ks"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "IlxxxlI",
+                "BuckeyeTy47",
+                "shimon89",
+                "luckyfish777",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                1.0,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "BuckeyeTy47",
+                "shimon89"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Sonic3Dblast",
+                "BuckeyeTy47",
+                "shimon89",
+                "Sonic3Dblast",
+                "BuckeyeTy47"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.47,
+                null,
+                1.47
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BuckeyeTy47",
+                "shimon89",
+                "BuckeyeTy47"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.82,
+                3.82
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "As Qh",
+        "10d Ad"
+    ],
+    "finishing_stack": [
+        54.33,
+        24.78,
+        25.78,
+        25.0,
+        22.09,
+        14.690000000000001
+    ]
+}

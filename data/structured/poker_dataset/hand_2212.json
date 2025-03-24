@@ -1,104 +1,91 @@
 {
-    "date": "2016/11/28 18:7:39",
-    "game_id": "786346911",
+    "date": "2016/9/18 9:5:7",
+    "game_id": "730244311",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 9,
     "players": [
-        "SenNoSen",
-        "eu4ria",
         "IlxxxlI",
-        "dscshift",
-        "pokanaktus",
-        "wethco"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "Torinsurance",
+        "FishinChips",
+        "aquamarin"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        9
     ],
     "starting_stacks": [
-        114.97,
-        229.72,
-        23.12,
-        20.0,
-        60.27,
-        54.05
+        80.0,
+        149.16,
+        238.91,
+        57.49,
+        79.31,
+        83.12,
+        134.6
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "dscshift",
-    "big_blind": 0.5,
+    "small_blind": 1.0,
+    "player_big_blind": "Pimpika",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qs",
-        "2h"
+        "4c",
+        "2d"
     ],
     "dealed_cards": {
         "flop": [
-            "2c",
-            "8s",
-            "Qc"
+            "Qh",
+            "Qc",
+            "8h"
         ],
         "turn": [
-            "Jh"
+            "6c"
         ],
-        "river": [
-            "7c"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "pokanaktus",
-                "wethco",
-                "SenNoSen",
-                "eu4ria",
+                "VegetablesArentYummy",
+                "GARY888",
+                "Torinsurance",
+                "FishinChips",
+                "aquamarin",
                 "IlxxxlI",
-                "dscshift"
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
+                "FOLD",
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                0.5,
-                null,
-                null,
-                null,
-                null
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "dscshift",
-                "wethco",
-                "dscshift"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
                 "CALL"
             ],
             "values": [
                 null,
-                0.5,
-                0.5
+                null,
+                5.0,
+                null,
+                null,
+                null,
+                3.0
             ]
         },
-        "post-turn": {
+        "post-flop": {
             "players": [
-                "dscshift",
-                "wethco"
+                "Pimpika",
+                "Torinsurance"
             ],
             "actions": [
                 "CHECK",
@@ -109,19 +96,24 @@
                 null
             ]
         },
-        "post-river": {
+        "post-turn": {
             "players": [
-                "dscshift",
-                "wethco"
+                "Pimpika",
+                "Torinsurance"
             ],
             "actions": [
                 "BET",
                 "FOLD"
             ],
             "values": [
-                0.5,
+                6.96,
                 null
             ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -130,14 +122,16 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        114.97,
-        229.72,
-        22.87,
-        21.14,
-        60.27,
-        53.05
+        79.0,
+        154.60999999999999,
+        238.91,
+        57.49,
+        74.31,
+        83.12,
+        134.6
     ]
 }

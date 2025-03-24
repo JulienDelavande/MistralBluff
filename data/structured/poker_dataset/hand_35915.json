@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/4 22:37:50",
+    "game_id": "790786662",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "MrCRABS333",
+        "Zzoom",
+        "IlxxxlI",
+        "d0minata",
+        "IHaveToFold"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        63.87,
+        31.84,
+        10.75,
+        122.37,
+        9.5
+    ],
+    "player_small_blind": "IHaveToFold",
+    "small_blind": 0.25,
+    "player_big_blind": "MrCRABS333",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "6c",
+            "10c"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Zzoom",
+                "IlxxxlI",
+                "d0minata",
+                "IHaveToFold",
+                "MrCRABS333"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IHaveToFold",
+                "d0minata"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IHaveToFold",
+                "d0minata",
+                "IHaveToFold"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IHaveToFold",
+                "d0minata",
+                "IHaveToFold"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ac Kd",
+        null
+    ],
+    "finishing_stack": [
+        63.37,
+        31.84,
+        10.75,
+        127.80000000000001,
+        4.0
+    ]
+}

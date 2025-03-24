@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/5 11:2:39",
+    "game_id": "791350201",
+    "variant": "PRR",
+    "table_name": "Gorgons-23",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Heksebrygg",
+        "welld0ne",
+        "Xobkcul",
+        "Aristophenes",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        52.87,
+        53.74,
+        75.07,
+        44.99,
+        25.09
+    ],
+    "player_small_blind": "Heksebrygg",
+    "small_blind": 0.25,
+    "player_big_blind": "welld0ne",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "Jc",
+            "7d"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Xobkcul",
+                "Aristophenes",
+                "IlxxxlI",
+                "Heksebrygg",
+                "welld0ne",
+                "Aristophenes"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                1.65,
+                null,
+                null,
+                1.15
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Aristophenes",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Aristophenes",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Aristophenes",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "5h Qc",
+        "Kc Jh"
+    ],
+    "finishing_stack": [
+        52.62,
+        53.24,
+        75.07,
+        50.34,
+        19.939999999999998
+    ]
+}

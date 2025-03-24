@@ -1,0 +1,109 @@
+{
+    "date": "2016/10/13 10:21:12",
+    "game_id": "749613500",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Bluffing Every Hand",
+        "ROCKYII",
+        "Ace5kid",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        57.19,
+        52.21,
+        21.95,
+        50.0
+    ],
+    "player_small_blind": "Ace5kid",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "4c",
+            "Jc"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bluffing Every Hand",
+                "ROCKYII",
+                "Ace5kid",
+                "IlxxxlI",
+                "ROCKYII"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                2.75,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ace5kid",
+                "ROCKYII"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                18.95,
+                18.95
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kc Qc",
+        "Js 9h",
+        null
+    ],
+    "finishing_stack": [
+        57.19,
+        72.66,
+        0.0,
+        49.5
+    ]
+}

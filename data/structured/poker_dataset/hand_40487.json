@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/2 15:0:56",
+    "game_id": "789321679",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "WeakAndWeary",
+        "VegetablesArentYummy",
+        "Hakuna_Matata777",
+        "ElvenEyes",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        217.76,
+        100.0,
+        100.68,
+        150.04,
+        40.0
+    ],
+    "player_small_blind": "Hakuna_Matata777",
+    "small_blind": 0.5,
+    "player_big_blind": "ElvenEyes",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "10c",
+            "3c"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "VegetablesArentYummy",
+                "Hakuna_Matata777",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                3.5,
+                null,
+                null,
+                3.0,
+                2.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Hakuna_Matata777",
+                "ElvenEyes",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Hakuna_Matata777",
+                "ElvenEyes",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                6.65,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        217.76,
+        100.0,
+        107.16000000000001,
+        146.54,
+        36.5
+    ]
+}

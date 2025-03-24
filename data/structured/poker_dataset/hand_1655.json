@@ -1,39 +1,45 @@
 {
-    "date": "2016/11/28 20:27:36",
-    "game_id": "786373985",
+    "date": "2016/9/18 7:51:39",
+    "game_id": "730200849",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 2,
     "players": [
-        "SenNoSen",
-        "in_ur_i",
-        "caballeroXXX",
-        "meandkids",
-        "IlxxxlI"
+        "VegetablesArentYummy",
+        "Pimpika",
+        "IlxxxlI",
+        "Spew Diamond Phillips",
+        "gosu36484",
+        "Antimonysayz",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        9
     ],
     "starting_stacks": [
-        50.0,
-        45.31,
-        90.35,
-        48.69,
-        20.0
+        100.0,
+        71.7,
+        40.0,
+        118.77,
+        56.4,
+        85.23,
+        241.08
     ],
-    "player_small_blind": "caballeroXXX",
-    "small_blind": 0.25,
-    "player_big_blind": "meandkids",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Spew Diamond Phillips",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7s",
-        "4h"
+        "Qc",
+        "8h"
     ],
     "dealed_cards": {
         "flop": [],
@@ -43,23 +49,29 @@
     "actions": {
         "pre-flop": {
             "players": [
+                "gosu36484",
+                "Antimonysayz",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
                 "IlxxxlI",
-                "SenNoSen",
-                "in_ur_i",
-                "caballeroXXX",
-                "meandkids"
+                "Spew Diamond Phillips"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "FOLD",
                 "RAISE",
+                "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
                 null,
-                1.5,
+                null,
+                2.5,
+                null,
                 null,
                 null
             ]
@@ -85,13 +97,17 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        50.0,
-        46.06,
-        90.1,
-        48.19,
-        20.0
+        101.5,
+        71.7,
+        39.5,
+        117.77,
+        56.4,
+        85.23,
+        241.08
     ]
 }

@@ -1,83 +1,145 @@
 {
-    "date": "2016/11/28 20:39:41",
-    "game_id": "786376429",
+    "date": "2016/9/18 7:43:50",
+    "game_id": "730195766",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 1,
     "players": [
-        "GreinSeint",
-        "in_ur_i",
-        "caballeroXXX",
-        "meandkids",
-        "IlxxxlI"
+        "A",
+        "IlxxxlI",
+        "Pimpika",
+        "utormico",
+        "wishyouhadnot",
+        "BadBeat79",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
+        1,
         2,
         3,
-        4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        21.4,
-        36.69,
-        114.11,
-        51.5,
-        20.0
+        298.79,
+        84.4,
+        85.5,
+        161.66,
+        187.14,
+        399.48,
+        305.26,
+        297.39
     ],
-    "player_small_blind": "in_ur_i",
-    "small_blind": 0.25,
-    "player_big_blind": "caballeroXXX",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "Pimpika",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7s",
-        "3d"
+        "5h",
+        "6s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "6h",
+            "5s",
+            "8s"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "3c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "meandkids",
+                "utormico",
+                "wishyouhadnot",
+                "BadBeat79",
+                "UrSoDumb",
+                "KeepKalm",
+                "A",
                 "IlxxxlI",
-                "GreinSeint",
-                "in_ur_i"
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
                 null,
+                null,
+                null,
+                null,
+                1.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Pimpika"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.53,
+                2.53
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Pimpika",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                14.0,
+                9.0
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
+        null,
+        "5h 6s",
+        "8h 3s",
         null,
         null,
         null,
@@ -85,10 +147,13 @@
         null
     ],
     "finishing_stack": [
-        21.4,
-        36.44,
-        114.36,
-        51.5,
-        20.0
+        298.79,
+        101.08000000000001,
+        66.97,
+        161.66,
+        187.14,
+        399.48,
+        305.26,
+        297.39
     ]
 }

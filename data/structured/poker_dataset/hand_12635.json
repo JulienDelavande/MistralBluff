@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/24 21:2:33",
+    "game_id": "805223093",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "shim123",
+        "d4av",
+        "IlxxxlI",
+        "KUSH_KING",
+        "Indigol",
+        "38979"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.4,
+        94.75,
+        50.0,
+        93.46,
+        53.57,
+        54.93
+    ],
+    "player_small_blind": "shim123",
+    "small_blind": 0.25,
+    "player_big_blind": "d4av",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Ks",
+            "9d"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "KUSH_KING",
+                "Indigol",
+                "38979",
+                "shim123",
+                "d4av"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shim123",
+                "d4av"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shim123",
+                "d4av"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "shim123",
+                "d4av"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                4.4,
+                4.4
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "9h 8h",
+        "Jd Qc",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.66,
+        83.35,
+        50.0,
+        93.46,
+        53.57,
+        54.93
+    ]
+}

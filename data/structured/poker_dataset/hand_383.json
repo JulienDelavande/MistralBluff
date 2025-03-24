@@ -1,18 +1,20 @@
 {
-    "date": "2016/11/29 14:26:31",
-    "game_id": "787005502",
+    "date": "2016/9/5 11:57:17",
+    "game_id": "720256566",
     "variant": "PRR",
-    "table_name": "Kraken-16",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "MadLifeGrinder",
-        "Sephiroth1",
-        "Beep_Beep",
+        "GranatoBetano",
+        "St3p04ka",
         "IlxxxlI",
-        "gust"
+        "bigrpk22",
+        "Jimisdumb",
+        "follower1"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
@@ -20,59 +22,93 @@
         6
     ],
     "starting_stacks": [
-        108.35,
-        157.32,
-        121.51,
-        40.0,
-        40.0
+        357.65,
+        132.0,
+        166.58,
+        260.55,
+        143.07,
+        423.65
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "gust",
-    "big_blind": 1.0,
+    "small_blind": 3.0,
+    "player_big_blind": "bigrpk22",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "3c"
+        "Qc",
+        "10h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "7s",
+            "Jd",
+            "5s"
+        ],
+        "turn": [
+            "3d"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "Sephiroth1",
-                "Beep_Beep",
+                "Jimisdumb",
+                "follower1",
+                "GranatoBetano",
+                "St3p04ka",
                 "IlxxxlI",
-                "gust"
+                "bigrpk22",
+                "St3p04ka"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "FOLD",
+                "RAISE",
                 "RAISE",
                 "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                3.0,
                 null,
-                null
+                12.0,
+                15.0,
+                null,
+                6.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "St3p04ka"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                11.0,
+                11.0
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "St3p04ka",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                19.87,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -85,13 +121,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        108.35,
-        157.32,
-        123.01,
-        39.5,
-        39.0
+        357.65,
+        166.4,
+        137.58,
+        254.55,
+        143.07,
+        423.65
     ]
 }

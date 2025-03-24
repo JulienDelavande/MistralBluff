@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/23 8:31:22",
+    "game_id": "804212030",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "420_am",
+        "BeatenByJacks",
+        "DKillion",
+        "Ksander",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        16.2,
+        13.88,
+        14.88,
+        5.75,
+        28.77,
+        13.87
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "420_am",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "Qc",
+            "Jc"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BeatenByJacks",
+                "DKillion",
+                "Ksander",
+                "Jui Kuen",
+                "IlxxxlI",
+                "420_am",
+                "Ksander"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                2.38,
+                null,
+                1.73
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ksander"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Ksander",
+                "IlxxxlI",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.37,
+                11.72,
+                7.35
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "As Kh",
+        null,
+        null,
+        null,
+        "Ac Ah",
+        null
+    ],
+    "finishing_stack": [
+        0.0,
+        13.63,
+        14.88,
+        5.75,
+        43.59,
+        13.87
+    ]
+}

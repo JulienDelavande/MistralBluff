@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/9 23:23:36",
+    "game_id": "794208994",
+    "variant": "PRR",
+    "table_name": "Kraken-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "ElvenEyes",
+        "IlxxxlI",
+        "MadLifeGrinder",
+        "GingaSally",
+        "Eddk4"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        118.02,
+        40.0,
+        116.83,
+        130.67,
+        42.32
+    ],
+    "player_small_blind": "ElvenEyes",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "7s",
+            "Qs"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "2s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "GingaSally",
+                "Eddk4",
+                "ElvenEyes",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Eddk4",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.61,
+                2.61
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Eddk4"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Eddk4"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.0,
+                6.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10s Kh",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        117.52,
+        50.480000000000004,
+        116.83,
+        130.67,
+        31.21
+    ]
+}

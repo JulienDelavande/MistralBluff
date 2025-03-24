@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/25 16:16:3",
+    "game_id": "805748202",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "johndg",
+        "ruff_neckk",
+        "Spagetti1",
+        "IlxxxlI",
+        "AAADRUNKKK"
+    ],
+    "players_seats": [
+        4,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        21.71,
+        31.6,
+        40.87,
+        12.5,
+        8.89
+    ],
+    "player_small_blind": "ruff_neckk",
+    "small_blind": 0.1,
+    "player_big_blind": "Spagetti1",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "10s",
+            "Js"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "AAADRUNKKK",
+                "johndg",
+                "ruff_neckk",
+                "Spagetti1"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ruff_neckk",
+                "Spagetti1",
+                "ruff_neckk"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.0,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ruff_neckk",
+                "Spagetti1",
+                "ruff_neckk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ruff_neckk",
+                "Spagetti1",
+                "ruff_neckk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.0,
+                5.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kh 10h",
+        "Qc 7s",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.71,
+        39.03,
+        32.62,
+        12.5,
+        8.89
+    ]
+}

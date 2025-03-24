@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/5 11:21:16",
+    "game_id": "791363159",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "GautamaBuddha",
+        "Wannabe Baller",
+        "ThxBro",
+        "GreinSeint",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        41.71,
+        50.0,
+        50.0,
+        38.03,
+        41.88,
+        51.52
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "GautamaBuddha",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "As",
+            "Jh"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "4h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Wannabe Baller",
+                "ThxBro",
+                "GreinSeint",
+                "St3p04ka",
+                "IlxxxlI",
+                "GautamaBuddha"
+            ],
+            "actions": [
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                1.0,
+                1.0,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GautamaBuddha",
+                "Wannabe Baller",
+                "ThxBro",
+                "GautamaBuddha",
+                "Wannabe Baller"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Wannabe Baller",
+                "ThxBro",
+                "Wannabe Baller"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.51,
+                4.51
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Wannabe Baller",
+                "ThxBro"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10s 9s",
+        "Jc Kc",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        41.21,
+        49.0,
+        59.09,
+        29.520000000000003,
+        41.88,
+        51.52
+    ]
+}

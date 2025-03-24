@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/9 7:37:19",
+    "game_id": "793805674",
+    "variant": "PRR",
+    "table_name": "Ettin-4",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Bandman1",
+        "Maria_Pia",
+        "ilovebacardi",
+        "humabi",
+        "Tzra1",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        16.71,
+        10.47,
+        25.0,
+        11.11,
+        15.98,
+        10.0
+    ],
+    "player_small_blind": "Tzra1",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "6h",
+            "7h"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "5h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bandman1",
+                "Maria_Pia",
+                "ilovebacardi",
+                "humabi",
+                "Tzra1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Tzra1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Tzra1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Tzra1",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "As 7c",
+        "9d 6d"
+    ],
+    "finishing_stack": [
+        16.71,
+        10.47,
+        25.0,
+        11.11,
+        17.11,
+        8.75
+    ]
+}

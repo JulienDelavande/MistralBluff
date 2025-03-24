@@ -1,0 +1,102 @@
+{
+    "date": "2016/12/6 17:21:55",
+    "game_id": "792171005",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WomboComboAA",
+        "IlxxxlI",
+        "IgLa",
+        "YoureClean"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        58.32,
+        25.82,
+        78.2,
+        60.18
+    ],
+    "player_small_blind": "YoureClean",
+    "small_blind": 0.25,
+    "player_big_blind": "WomboComboAA",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "Ah",
+            "9d"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "IgLa",
+                "YoureClean",
+                "WomboComboAA"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "YoureClean",
+                "WomboComboAA"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.5,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        57.82,
+        25.82,
+        78.2,
+        60.63
+    ]
+}

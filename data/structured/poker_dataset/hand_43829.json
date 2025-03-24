@@ -1,0 +1,128 @@
+{
+    "date": "2016/12/1 14:37:50",
+    "game_id": "788643965",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "virtualbox",
+        "tachok77",
+        "QDevilQ",
+        "IlxxxlI",
+        "1000_na_nl25_aga"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        50.0,
+        26.53,
+        74.72,
+        20.75,
+        55.59
+    ],
+    "player_small_blind": "virtualbox",
+    "small_blind": 0.25,
+    "player_big_blind": "tachok77",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "2d",
+            "7d"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "QDevilQ",
+                "IlxxxlI",
+                "1000_na_nl25_aga",
+                "WeakAndWeary",
+                "virtualbox",
+                "tachok77"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "tachok77",
+                "QDevilQ",
+                "tachok77",
+                "QDevilQ"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                2.32,
+                7.0,
+                22.71,
+                18.03
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10c As",
+        "Ah Ad",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        49.75,
+        0.0,
+        98.84,
+        20.75,
+        55.59
+    ]
+}

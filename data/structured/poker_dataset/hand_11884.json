@@ -1,0 +1,156 @@
+{
+    "date": "2016/12/24 22:27:2",
+    "game_id": "805246696",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "shim123",
+        "clemens88",
+        "narrowrange",
+        "IlxxxlI",
+        "MrCat",
+        "sammwigg",
+        "Indigol",
+        "Slim2Nun"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        24.22,
+        50.0,
+        51.25,
+        50.0,
+        50.0,
+        20.58,
+        50.0,
+        17.53
+    ],
+    "player_small_blind": "Indigol",
+    "small_blind": 0.25,
+    "player_big_blind": "Slim2Nun",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "9h",
+            "Qc"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "shim123",
+                "clemens88",
+                "narrowrange",
+                "IlxxxlI",
+                "MrCat",
+                "sammwigg",
+                "Indigol",
+                "Slim2Nun"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Slim2Nun",
+                "MrCat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Slim2Nun",
+                "MrCat"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Slim2Nun",
+                "MrCat"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Ah 5s",
+        null,
+        null,
+        "Ks Ad"
+    ],
+    "finishing_stack": [
+        24.22,
+        50.0,
+        51.25,
+        50.0,
+        50.0,
+        20.58,
+        49.75,
+        17.520000000000003
+    ]
+}

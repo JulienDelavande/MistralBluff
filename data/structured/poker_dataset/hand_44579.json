@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 11:0:27",
+    "game_id": "788513895",
+    "variant": "PRR",
+    "table_name": "Lakhey-10",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "AironVega",
+        "IlxxxlI",
+        "SHER1FFmd",
+        "38979",
+        "Julio Iglesias"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        83.0,
+        587.3,
+        200.0,
+        80.0
+    ],
+    "player_small_blind": "Julio Iglesias",
+    "small_blind": 1.0,
+    "player_big_blind": "AironVega",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "2d",
+            "7c"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "SHER1FFmd",
+                "38979",
+                "Julio Iglesias",
+                "AironVega"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                4.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "38979"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AironVega",
+                "38979",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.7,
+                5.7
+            ]
+        },
+        "post-river": {
+            "players": [
+                "AironVega",
+                "38979"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "6s 10c",
+        null,
+        null,
+        "Ac 5d",
+        null
+    ],
+    "finishing_stack": [
+        209.68,
+        83.0,
+        587.3,
+        190.3,
+        79.0
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/23 12:43:16",
+    "game_id": "804394661",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Ice Bank Mice Elf",
+        "Brucelegend",
+        "IlxxxlI",
+        "Parcker",
+        "dtnfk",
+        "enroute"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        33.76,
+        57.16,
+        33.37,
+        25.35,
+        10.0,
+        25.0
+    ],
+    "player_small_blind": "Ice Bank Mice Elf",
+    "small_blind": 0.1,
+    "player_big_blind": "Brucelegend",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "10s",
+            "5d"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Parcker",
+                "dtnfk",
+                "enroute",
+                "Ice Bank Mice Elf",
+                "Brucelegend"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Brucelegend",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Brucelegend",
+                "dtnfk"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.4,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.66,
+        57.709999999999994,
+        33.37,
+        25.35,
+        9.5,
+        25.0
+    ]
+}

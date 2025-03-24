@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/23 11:42:8",
+    "game_id": "804354367",
+    "variant": "PRR",
+    "table_name": "Ekek-17",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "SlimJim57",
+        "BoTPuMHeDichBro",
+        "MrSrkn",
+        "Ratbastrd"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.1,
+        23.05,
+        25.0,
+        58.53,
+        26.54
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "SlimJim57",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "8d",
+            "Qd"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BoTPuMHeDichBro",
+                "MrSrkn",
+                "Ratbastrd",
+                "IlxxxlI",
+                "SlimJim57"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SlimJim57",
+                "Ratbastrd",
+                "SlimJim57"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.7,
+                0.7
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SlimJim57",
+                "Ratbastrd"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SlimJim57",
+                "Ratbastrd"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.43,
+                1.43
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Jh Qc",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        25.520000000000003,
+        25.0,
+        58.53,
+        23.91
+    ]
+}

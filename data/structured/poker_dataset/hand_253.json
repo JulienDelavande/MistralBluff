@@ -1,89 +1,136 @@
 {
-    "date": "2016/11/29 14:42:13",
-    "game_id": "787012243",
+    "date": "2016/9/4 10:18:25",
+    "game_id": "719291785",
     "variant": "PRR",
-    "table_name": "Kraken-16",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "aleks0v",
-        "AironVega",
-        "Sephiroth1",
-        "ali23imsirovic",
+        "ConstanceHarm",
+        "SheppyPOO!!",
+        "Silverchicken",
+        "BiGFck",
+        "Einstein727",
         "IlxxxlI",
-        "gust"
+        "VegetablesArentYummy",
+        "bet2000"
     ],
     "players_seats": [
         1,
-        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        101.28,
-        100.0,
-        151.29,
-        101.5,
-        86.83,
-        40.78
+        200.0,
+        381.11,
+        240.14,
+        70.65,
+        200.0,
+        100.8,
+        200.0,
+        474.67
     ],
-    "player_small_blind": "aleks0v",
-    "small_blind": 0.5,
-    "player_big_blind": "AironVega",
-    "big_blind": 1.0,
+    "player_small_blind": "Silverchicken",
+    "small_blind": 2.0,
+    "player_big_blind": "Einstein727",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3c",
-        "Ac"
+        "Jd",
+        "Ks"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "3d",
+            "2h",
+            "9c"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "2s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Sephiroth1",
-                "ali23imsirovic",
                 "IlxxxlI",
-                "gust",
-                "aleks0v",
-                "AironVega"
+                "VegetablesArentYummy",
+                "bet2000",
+                "ConstanceHarm",
+                "SheppyPOO!!",
+                "Silverchicken",
+                "Einstein727"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                null,
+                null,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Einstein727",
+                "IlxxxlI",
+                "Einstein727"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
             ],
             "values": [
                 null,
-                null,
-                2.4,
-                null,
+                5.95,
+                5.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Einstein727",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
-        "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Einstein727",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                14.0,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -92,14 +139,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        100.78,
-        99.0,
-        151.29,
-        101.5,
-        88.33,
-        40.78
+        200.0,
+        381.11,
+        238.14,
+        70.65,
+        215.70000000000002,
+        86.85,
+        200.0,
+        474.67
     ]
 }

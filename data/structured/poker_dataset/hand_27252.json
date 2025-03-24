@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/7 19:35:36",
+    "game_id": "792777700",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "emmettbrow",
+        "Bokmal",
+        "Ksowas"
+    ],
+    "players_seats": [
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.48,
+        69.25,
+        50.0,
+        65.62
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "emmettbrow",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "Qd",
+            "Qc"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bokmal",
+                "Ksowas",
+                "IlxxxlI",
+                "emmettbrow"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "emmettbrow",
+                "Ksowas",
+                "emmettbrow"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.14,
+                2.14
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "emmettbrow",
+                "Ksowas"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "emmettbrow",
+                "Ksowas"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.98,
+        73.46,
+        50.0,
+        61.480000000000004
+    ]
+}

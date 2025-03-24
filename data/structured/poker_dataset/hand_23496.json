@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/8 17:47:35",
+    "game_id": "793449819",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "WeakAndWeary",
+        "IampokerKidd",
+        "Bokmal",
+        "IlxxxlI",
+        "Mr.Excel"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        53.68,
+        50.75,
+        55.0,
+        20.0,
+        74.29
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Mr.Excel",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "5h",
+            "4s"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "IampokerKidd",
+                "Bokmal",
+                "IlxxxlI",
+                "Mr.Excel",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                5.0,
+                null,
+                null,
+                3.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IampokerKidd",
+                "Bokmal",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.11,
+                5.11
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IampokerKidd",
+                "Bokmal",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.96,
+                9.96
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IampokerKidd",
+                "Bokmal"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10c 10h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        53.68,
+        30.68,
+        73.78,
+        19.75,
+        73.79
+    ]
+}

@@ -1,83 +1,70 @@
 {
-    "date": "2016/11/29 13:15:6",
-    "game_id": "786971806",
+    "date": "2016/9/6 0:10:29",
+    "game_id": "720616675",
     "variant": "PRR",
-    "table_name": "Gorgons-10",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "WeakAndWeary",
-        "foreseen",
-        "IlxxxlI",
-        "Beep_Beep"
+        "Oldhandsir",
+        "BLackFire-Om",
+        "Ksowas",
+        "Maria26years",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
-        2,
         3,
-        4
+        4,
+        5,
+        6
     ],
     "starting_stacks": [
-        50.0,
-        160.51,
-        20.65,
-        50.25
+        100.0,
+        119.99,
+        180.02,
+        105.0,
+        114.18
     ],
-    "player_small_blind": "Beep_Beep",
-    "small_blind": 0.25,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 0.5,
+    "player_small_blind": "BLackFire-Om",
+    "small_blind": 1.0,
+    "player_big_blind": "Maria26years",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jd",
-        "Kc"
+        "10d",
+        "8d"
     ],
     "dealed_cards": {
-        "flop": [
-            "8h",
-            "4d",
-            "3s"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "foreseen",
                 "IlxxxlI",
-                "Beep_Beep",
-                "WeakAndWeary",
-                "IlxxxlI"
+                "Oldhandsir",
+                "BLackFire-Om",
+                "Maria26years"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
-                "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.5,
-                4.75,
-                null,
-                3.5
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "Beep_Beep",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
+                "RAISE",
                 "FOLD"
             ],
             "values": [
+                null,
+                null,
                 5.0,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -94,12 +81,14 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        49.5,
-        160.51,
-        15.649999999999999,
-        55.230000000000004
+        100.0,
+        121.99,
+        180.02,
+        103.0,
+        114.18
     ]
 }

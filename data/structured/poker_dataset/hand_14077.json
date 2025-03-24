@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/24 0:13:31",
+    "game_id": "804598837",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "TheBronze101",
+        "Sonic3Dblast",
+        "BoScHiNg",
+        "IlxxxlI",
+        "MAGNIT"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.4,
+        32.3,
+        8.83,
+        25.86,
+        32.02
+    ],
+    "player_small_blind": "BoScHiNg",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "2d",
+            "10h"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MAGNIT",
+                "TheBronze101",
+                "Sonic3Dblast",
+                "BoScHiNg",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BoScHiNg",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BoScHiNg",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BoScHiNg",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                4.63,
+                4.63
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ac 10d",
+        "3s Ah",
+        null
+    ],
+    "finishing_stack": [
+        23.4,
+        32.3,
+        0.0,
+        33.81,
+        32.02
+    ]
+}

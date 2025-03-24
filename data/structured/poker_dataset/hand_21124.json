@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 9:11:22",
+    "game_id": "793890200",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Polar1z1ng",
+        "WeakAndWeary",
+        "Arabella505",
+        "LionHeart76",
+        "meandkids",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        116.02,
+        84.91,
+        51.59,
+        50.75,
+        58.56,
+        20.0
+    ],
+    "player_small_blind": "WeakAndWeary",
+    "small_blind": 0.25,
+    "player_big_blind": "Arabella505",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "As",
+            "3s"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LionHeart76",
+                "meandkids",
+                "IlxxxlI",
+                "Polar1z1ng",
+                "WeakAndWeary",
+                "Arabella505",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.25,
+                4.5,
+                3.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Arabella505"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "Arabella505"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        116.02,
+        89.41,
+        46.59,
+        50.75,
+        58.56,
+        20.0
+    ]
+}

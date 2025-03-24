@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 14:41:20",
+    "game_id": "793404448",
+    "variant": "PRR",
+    "table_name": "Ekek-11",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "HapKoTuk",
+        "hotbabe1986",
+        "2Joes",
+        "muchachon",
+        "IlxxxlI",
+        "anokato"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        26.16,
+        54.28,
+        24.74,
+        16.29,
+        10.0,
+        54.39
+    ],
+    "player_small_blind": "muchachon",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "6c",
+            "Jc"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "HapKoTuk",
+                "hotbabe1986",
+                "2Joes",
+                "muchachon",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "muchachon",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "muchachon",
+                "IlxxxlI",
+                "muchachon",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.42,
+                3.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        26.16,
+        54.28,
+        24.74,
+        18.919999999999998,
+        7.08,
+        54.39
+    ]
+}

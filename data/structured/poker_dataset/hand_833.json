@@ -1,20 +1,18 @@
 {
-    "date": "2016/11/29 12:54:36",
-    "game_id": "786960931",
+    "date": "2016/9/6 0:39:28",
+    "game_id": "720642387",
     "variant": "PRR",
-    "table_name": "Kraken-9",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "WeakAndWeary",
-        "LloydXmas",
-        "GagaPoker",
-        "Beep_Beep",
-        "MadLifeGrinder",
-        "IlxxxlI"
+        "john_mambo1",
+        "Im Don King",
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "Leatherass9"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
@@ -22,47 +20,44 @@
         6
     ],
     "starting_stacks": [
-        112.55,
-        105.0,
-        100.0,
-        102.7,
-        100.0,
-        40.0
+        413.73,
+        200.0,
+        80.0,
+        200.0,
+        355.25
     ],
-    "player_small_blind": "MadLifeGrinder",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "john_mambo1",
+    "small_blind": 2.0,
+    "player_big_blind": "Im Don King",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "Ad"
+        "5h",
+        "Qd"
     ],
     "dealed_cards": {
         "flop": [
-            "Ac",
-            "Kd",
-            "8s"
+            "Kh",
+            "7h",
+            "Js"
         ],
         "turn": [
-            "4s"
+            "3d"
         ],
         "river": [
-            "9d"
+            "Jc"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "WeakAndWeary",
-                "LloydXmas",
-                "GagaPoker",
-                "Beep_Beep",
-                "MadLifeGrinder",
-                "IlxxxlI"
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "Leatherass9",
+                "john_mambo1",
+                "Im Don King"
             ],
             "actions": [
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
@@ -72,17 +67,16 @@
             "values": [
                 null,
                 null,
+                8.0,
                 null,
-                3.0,
-                null,
-                2.0
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "Beep_Beep",
-                "IlxxxlI"
+                "Im Don King",
+                "Leatherass9",
+                "Im Don King"
             ],
             "actions": [
                 "CHECK",
@@ -91,31 +85,14 @@
             ],
             "values": [
                 null,
-                4.0,
-                4.0
+                11.9,
+                11.9
             ]
         },
         "post-turn": {
             "players": [
-                "IlxxxlI",
-                "Beep_Beep",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                11.0,
-                11.0
-            ]
-        },
-        "post-river": {
-            "players": [
-                "IlxxxlI",
-                "Beep_Beep"
+                "Im Don King",
+                "Leatherass9"
             ],
             "actions": [
                 "CHECK",
@@ -125,22 +102,34 @@
                 null,
                 null
             ]
+        },
+        "post-river": {
+            "players": [
+                "Im Don King",
+                "Leatherass9"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                60.0,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
-        "Qs 7s",
         null,
-        "10s Ad"
+        null
     ],
     "finishing_stack": [
-        112.55,
-        105.0,
-        100.0,
-        84.7,
-        99.5,
-        56.68
+        411.73,
+        221.5,
+        80.0,
+        200.0,
+        335.35
     ]
 }

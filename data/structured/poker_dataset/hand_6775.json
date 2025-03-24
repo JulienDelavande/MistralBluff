@@ -1,0 +1,135 @@
+{
+    "date": "2016/10/14 22:8:40",
+    "game_id": "750628680",
+    "variant": "PRR",
+    "table_name": "Gorgons-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "EQUITYisnotEV",
+        "Karas321",
+        "IlxxxlI",
+        "MarcusD5",
+        "Anthropocene",
+        "Orondi"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        54.23,
+        48.75,
+        50.0,
+        54.65,
+        52.84,
+        204.15
+    ],
+    "player_small_blind": "Karas321",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "9c",
+            "7c"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MarcusD5",
+                "Anthropocene",
+                "Orondi",
+                "EQUITYisnotEV",
+                "Karas321",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "EQUITYisnotEV",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.81,
+                2.5,
+                1.69
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "EQUITYisnotEV",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.73,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        57.62,
+        48.5,
+        46.5,
+        54.65,
+        52.84,
+        204.15
+    ]
+}

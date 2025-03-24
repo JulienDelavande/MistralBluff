@@ -1,108 +1,139 @@
 {
-    "date": "2016/11/29 7:35:55",
-    "game_id": "786704953",
+    "date": "2016/9/18 7:35:3",
+    "game_id": "730189850",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Cap",
-    "button_seat": 5,
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 2,
     "players": [
-        "wethco",
-        "plin777",
-        "BigBlat",
-        "dbrinker",
-        "coldkilla",
-        "IlxxxlI"
+        "LuckyBoy1980",
+        "BadBeat79",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "gosu36484"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        176.97,
-        69.78,
-        90.0,
-        282.85,
-        101.29,
-        80.0
+        217.35,
+        194.45,
+        306.6,
+        153.05,
+        130.76,
+        227.3,
+        105.45,
+        80.5
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "FatSkinnyGuy",
     "small_blind": 1.0,
-    "player_big_blind": "wethco",
+    "player_big_blind": "Pimpika",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10d",
-        "Ac"
+        "7c",
+        "3d"
     ],
     "dealed_cards": {
         "flop": [
-            "2h",
-            "Kh",
-            "8s"
+            "2d",
+            "8c",
+            "4d"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "5h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "plin777",
-                "BigBlat",
-                "dbrinker",
-                "coldkilla",
+                "ABCD123",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "wethco",
-                "coldkilla"
+                "gosu36484",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "CALL",
+                "FOLD",
+                "FOLD",
                 "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
-                null,
-                null,
-                null,
                 2.0,
+                null,
+                null,
                 6.0,
                 null,
-                5.0
+                null,
+                null,
+                null,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "coldkilla",
-                "IlxxxlI"
+                "ABCD123",
+                "gosu36484"
             ],
             "actions": [
-                "BET",
-                "RAISE",
-                "FOLD"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                7.9,
-                15.8,
+                null,
                 null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "ABCD123",
+                "gosu36484"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "ABCD123",
+                "gosu36484"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -110,15 +141,19 @@
         null,
         null,
         null,
+        "Ah 4h",
+        null,
         null,
         null
     ],
     "finishing_stack": [
-        174.97,
-        69.78,
-        90.0,
-        282.85,
-        116.6,
-        65.1
+        217.35,
+        194.45,
+        305.6,
+        151.05,
+        139.01,
+        227.3,
+        105.45,
+        74.5
     ]
 }

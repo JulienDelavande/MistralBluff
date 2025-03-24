@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/7 20:19:33",
+    "game_id": "792785295",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "odel_nadel",
+        "Bokmal",
+        "xx_HaZ",
+        "Mr.Excel",
+        "Oral-Bet",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        95.86,
+        71.55,
+        50.0,
+        63.43,
+        25.66,
+        20.0
+    ],
+    "player_small_blind": "Oral-Bet",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "2h",
+            "Jc"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "odel_nadel",
+                "Bokmal",
+                "xx_HaZ",
+                "Mr.Excel",
+                "Oral-Bet",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Oral-Bet",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Oral-Bet",
+                "IlxxxlI",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.85,
+                1.85
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Oral-Bet",
+                "IlxxxlI",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.81,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        95.86,
+        71.55,
+        50.0,
+        63.43,
+        21.86,
+        23.419999999999998
+    ]
+}

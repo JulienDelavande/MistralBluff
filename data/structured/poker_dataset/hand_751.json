@@ -1,81 +1,96 @@
 {
-    "date": "2016/11/29 13:6:22",
-    "game_id": "786966637",
+    "date": "2016/9/6 0:23:32",
+    "game_id": "720628669",
     "variant": "PRR",
-    "table_name": "Kraken-22",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
-        "meandkids",
         "IlxxxlI",
-        "Beep_Beep",
-        "gust",
-        "MadLifeGrinder",
-        "WeakAndWeary"
+        "Leatherass9",
+        "Im Don King",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
-        1,
-        2,
         3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        101.5,
-        40.0,
-        100.5,
-        40.0,
-        101.5,
-        278.64
+        44.0,
+        212.76,
+        118.21,
+        176.23
     ],
-    "player_small_blind": "Beep_Beep",
-    "small_blind": 0.5,
-    "player_big_blind": "gust",
-    "big_blind": 1.0,
+    "player_small_blind": "Leatherass9",
+    "small_blind": 1.0,
+    "player_big_blind": "Im Don King",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3h",
-        "5d"
+        "4d",
+        "Qd"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "5s",
+            "9s",
+            "3h"
+        ],
+        "turn": [
+            "Jh"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "WeakAndWeary",
-                "meandkids",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "Beep_Beep"
+                "Leatherass9",
+                "Im Don King"
             ],
             "actions": [
+                "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
+                4.0,
                 null,
                 null,
-                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Im Don King",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Im Don King",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.85,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -87,16 +102,12 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        101.5,
-        40.0,
-        100.0,
-        40.5,
-        101.5,
-        278.64
+        44.0,
+        211.76,
+        122.75999999999999,
+        172.23
     ]
 }

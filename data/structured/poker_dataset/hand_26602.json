@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 7:4:7",
+    "game_id": "793077851",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "smooty",
+        "richkezys",
+        "Ice Bank Mice Elf",
+        "DocHoliday87",
+        "NETWEBS"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        6.48,
+        49.28,
+        31.97,
+        25.36,
+        31.98
+    ],
+    "player_small_blind": "NETWEBS",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "9d",
+            "Jc"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "smooty",
+                "richkezys",
+                "Ice Bank Mice Elf",
+                "DocHoliday87",
+                "NETWEBS",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5,
+                0.5,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "NETWEBS",
+                "richkezys",
+                "Ice Bank Mice Elf",
+                "DocHoliday87",
+                "NETWEBS",
+                "richkezys"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.07,
+                2.14,
+                null,
+                5.35,
+                null,
+                3.21
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "richkezys",
+                "DocHoliday87"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.65,
+                1.65
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "7c 9s",
+        null,
+        "3c 3d",
+        null
+    ],
+    "finishing_stack": [
+        9.75,
+        6.48,
+        41.78,
+        31.47,
+        34.32,
+        30.41
+    ]
+}

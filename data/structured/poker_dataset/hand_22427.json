@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/8 21:45:34",
+    "game_id": "793500129",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Moryak999",
+        "Camdenn",
+        "SkaHot",
+        "IlxxxlI",
+        "burikman",
+        "erotomania"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        57.42,
+        25.35,
+        34.04,
+        10.0,
+        24.65,
+        38.72
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "burikman",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "9s",
+            "4h"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "erotomania",
+                "Moryak999",
+                "Camdenn",
+                "SkaHot",
+                "IlxxxlI",
+                "burikman",
+                "Camdenn"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                1.15,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Camdenn"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Camdenn",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.31,
+                1.31
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Camdenn",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.55,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        57.42,
+        27.900000000000002,
+        34.04,
+        7.4399999999999995,
+        24.4,
+        38.72
+    ]
+}

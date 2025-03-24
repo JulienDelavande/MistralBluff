@@ -1,67 +1,63 @@
 {
-    "date": "2016/11/29 13:0:13",
-    "game_id": "786963254",
+    "date": "2016/9/6 0:33:35",
+    "game_id": "720637399",
     "variant": "PRR",
-    "table_name": "Kraken-22",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "meandkids",
+        "HookahBOSS",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "gust",
-        "MadLifeGrinder",
-        "WeakAndWeary"
+        "Iia007",
+        "Leatherass9"
     ],
     "players_seats": [
         1,
-        2,
         4,
-        5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        100.5,
-        40.0,
-        40.0,
-        100.0,
-        273.52
+        185.75,
+        225.4,
+        80.0,
+        281.03,
+        413.0
     ],
-    "player_small_blind": "meandkids",
-    "small_blind": 0.5,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "Iia007",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6h",
-        "6c"
+        "9s",
+        "6s"
     ],
     "dealed_cards": {
         "flop": [
-            "3c",
-            "9c",
-            "3s"
+            "5d",
+            "Ks",
+            "Kc"
         ],
         "turn": [
-            "10h"
+            "Qc"
         ],
-        "river": [
-            "Qs"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "gust",
-                "MadLifeGrinder",
-                "WeakAndWeary",
-                "meandkids",
+                "Leatherass9",
+                "HookahBOSS",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "WeakAndWeary"
+                "Iia007"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "RAISE",
                 "CALL"
@@ -69,56 +65,46 @@
             "values": [
                 null,
                 null,
-                2.0,
                 null,
-                4.16,
-                3.16
+                6.0,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
                 "IlxxxlI",
-                "WeakAndWeary"
+                "Iia007"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "CALL"
             ],
             "values": [
-                null,
-                null
+                7.92,
+                7.92
             ]
         },
         "post-turn": {
             "players": [
                 "IlxxxlI",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "IlxxxlI",
-                "WeakAndWeary",
+                "Iia007",
                 "IlxxxlI"
             ],
             "actions": [
                 "CHECK",
-                "ALLIN",
+                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                268.36,
+                10.51,
                 null
             ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -129,10 +115,10 @@
         null
     ],
     "finishing_stack": [
-        100.0,
-        34.84,
-        40.0,
-        100.0,
-        278.63999999999993
+        185.75,
+        225.4,
+        64.08,
+        296.65,
+        413.0
     ]
 }

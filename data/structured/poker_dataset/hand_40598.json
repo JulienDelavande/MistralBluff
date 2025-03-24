@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/2 14:45:18",
+    "game_id": "789316355",
+    "variant": "PRR",
+    "table_name": "Lakhey-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "hodisuda",
+        "iknows",
+        "SlovenianGiant",
+        "IlxxxlI",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        201.5,
+        208.91,
+        204.5,
+        124.61,
+        210.54
+    ],
+    "player_small_blind": "iknows",
+    "small_blind": 1.0,
+    "player_big_blind": "SlovenianGiant",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "3d",
+            "8c"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "hodisuda",
+                "iknows",
+                "SlovenianGiant"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                4.0,
+                3.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "iknows",
+                "hodisuda"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.16,
+                3.16
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "iknows",
+                "hodisuda"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.75,
+                7.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "iknows",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8s 10h",
+        "7c 7h",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        216.82,
+        194.0,
+        202.5,
+        124.61,
+        210.54
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/2 15:6:9",
+    "game_id": "789323577",
+    "variant": "PRR",
+    "table_name": "Longana-2",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "IlxxxlI",
+        "AironVega",
+        "dankmann",
+        "VegetablesArentYummy",
+        "hodisuda",
+        "StephCurry",
+        "CharlzM"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        153.44,
+        203.35,
+        200.35,
+        315.98,
+        200.0,
+        200.0,
+        50.62
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "AironVega",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "6s",
+            "7d"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dankmann",
+                "VegetablesArentYummy",
+                "hodisuda",
+                "StephCurry",
+                "CharlzM",
+                "IlxxxlI",
+                "AironVega"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                6.0,
+                6.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "StephCurry",
+                "CharlzM",
+                "AironVega",
+                "StephCurry"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                12.03,
+                12.03,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AironVega",
+                "CharlzM"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                185.32,
+                32.59
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "9d 6d",
+        null,
+        null,
+        null,
+        null,
+        "Ad Qh"
+    ],
+    "finishing_stack": [
+        152.44,
+        257.96999999999997,
+        200.35,
+        315.98,
+        200.0,
+        194.0,
+        0.0
+    ]
+}

@@ -1,82 +1,86 @@
 {
-    "date": "2016/11/29 13:26:7",
-    "game_id": "786978108",
+    "date": "2016/9/5 12:51:32",
+    "game_id": "720272264",
     "variant": "PRR",
-    "table_name": "Lakhey-2",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 7,
     "players": [
-        "KingGuciGuci",
+        "St3p04ka",
         "IlxxxlI",
-        "gust",
-        "SCking",
-        "VegetablesArentYummy",
-        "Pimpika"
+        "pokerhawk333",
+        "jtee95",
+        "PANDAisEVIL"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        5,
-        6
+        7,
+        8
     ],
     "starting_stacks": [
-        208.14,
-        80.0,
-        102.56,
-        578.47,
-        200.0,
-        179.3
+        122.41,
+        40.0,
+        32.86,
+        229.28,
+        136.77
     ],
-    "player_small_blind": "VegetablesArentYummy",
+    "player_small_blind": "PANDAisEVIL",
     "small_blind": 1.0,
-    "player_big_blind": "Pimpika",
+    "player_big_blind": "St3p04ka",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9d",
-        "6s"
+        "Kd",
+        "Qc"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "5s",
+            "3c",
+            "5h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "KingGuciGuci",
                 "IlxxxlI",
-                "gust",
-                "SCking",
-                "VegetablesArentYummy",
-                "Pimpika",
-                "SCking"
+                "pokerhawk333",
+                "jtee95",
+                "PANDAisEVIL",
+                "St3p04ka"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL",
-                "FOLD",
                 "RAISE",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
+                4.0,
                 null,
                 null,
                 null,
-                2.0,
-                null,
-                6.0,
-                null
+                2.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "St3p04ka",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.13,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -94,15 +98,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        208.14,
-        80.0,
-        102.56,
-        576.47,
-        199.0,
-        182.3
+        126.96,
+        36.0,
+        32.86,
+        229.28,
+        135.77
     ]
 }

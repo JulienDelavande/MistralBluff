@@ -1,97 +1,124 @@
 {
-    "date": "2016/11/29 14:46:16",
-    "game_id": "787013914",
+    "date": "2016/9/4 10:10:8",
+    "game_id": "719287969",
     "variant": "PRR",
-    "table_name": "Lakhey-2",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
         "IlxxxlI",
-        "gust",
-        "joonjoonjoon",
-        "VegetablesArentYummy",
-        "JoeRockwell"
+        "Pureprofit4",
+        "SheppyPOO!!",
+        "bet2000"
     ],
     "players_seats": [
         2,
-        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        80.0,
-        108.3,
-        212.25,
-        406.34,
-        332.17
+        175.22,
+        556.36,
+        200.0,
+        603.4
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "gust",
-    "big_blind": 2.0,
+    "player_small_blind": "SheppyPOO!!",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "As",
-        "Ks"
+        "8d",
+        "4d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "6h",
+            "8s",
+            "Qs"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "Qc"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "joonjoonjoon",
-                "VegetablesArentYummy",
-                "JoeRockwell",
-                "IlxxxlI",
-                "gust"
+                "Pureprofit4",
+                "SheppyPOO!!",
+                "IlxxxlI"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "FOLD"
+                "FOLD",
+                "CALL"
             ],
             "values": [
+                8.0,
                 null,
-                null,
-                null,
-                4.0,
-                null
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Pureprofit4",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.9,
+                11.9
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.0,
+                7.0
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Pureprofit4"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
-        null,
-        null,
+        "8d 4d",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        82.0,
-        106.3,
-        212.25,
-        406.34,
-        332.17
+        203.57,
+        529.46,
+        198.0,
+        603.4
     ]
 }

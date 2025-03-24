@@ -1,20 +1,17 @@
 {
-    "date": "2016/11/19 23:12:3",
-    "game_id": "779457092",
+    "date": "2016/9/18 10:13:8",
+    "game_id": "730276475",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "n0hvn",
-        "tbmfc",
-        "naprimer",
-        "Log_in",
+        "Cellar door",
         "IlxxxlI",
-        "coldkilla",
-        "gmjohn",
-        "MANTISGUYV10",
-        "BiGFck"
+        "Origins",
+        "xXCONMANXx",
+        "aquamarin",
+        "VegetablesArentYummy"
     ],
     "players_seats": [
         1,
@@ -22,51 +19,47 @@
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        57.25,
-        29.03,
-        54.31,
-        11.25,
-        20.0,
-        43.96,
-        30.42,
-        58.24,
-        17.75
+        123.45,
+        88.88,
+        163.76,
+        173.25,
+        211.91,
+        103.0
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "gmjohn",
-    "big_blind": 0.5,
+    "small_blind": 1.0,
+    "player_big_blind": "Origins",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "7c"
+        "2d",
+        "Kh"
     ],
     "dealed_cards": {
         "flop": [
-            "4s",
-            "9h",
-            "6c"
+            "8d",
+            "Qs",
+            "Ah"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "3s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MANTISGUYV10",
-                "BiGFck",
-                "n0hvn",
-                "tbmfc",
-                "naprimer",
-                "Log_in",
+                "xXCONMANXx",
+                "aquamarin",
+                "VegetablesArentYummy",
+                "Cellar door",
                 "IlxxxlI",
-                "gmjohn"
+                "Origins"
             ],
             "actions": [
                 "FOLD",
@@ -74,54 +67,68 @@
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                3.0,
+                4.0,
                 null,
-                null,
-                null,
-                2.5
+                2.0
             ]
         },
         "post-flop": {
             "players": [
-                "gmjohn",
-                "tbmfc",
-                "gmjohn"
+                "Origins",
+                "Cellar door"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
-                8.0,
                 null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Origins",
+                "Cellar door",
+                "Origins"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                4.28,
+                12.84,
+                8.56
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Origins",
+                "Cellar door",
+                "Origins"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                21.96,
+                21.96
+            ]
         }
     },
     "card_shown_by_players": [
-        null,
-        null,
-        null,
-        null,
+        "8s Jd",
         null,
         null,
         null,
@@ -129,14 +136,11 @@
         null
     ],
     "finishing_stack": [
-        57.25,
-        31.970000000000002,
-        54.31,
-        11.25,
-        19.75,
-        43.96,
-        27.42,
-        58.24,
-        17.75
+        160.25,
+        87.88,
+        124.96,
+        173.25,
+        211.91,
+        103.0
     ]
 }

@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/9 18:16:13",
+    "game_id": "794146435",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "imperceptible",
+        "IlxxxlI",
+        "Ksowas",
+        "Reloader001",
+        "Macka3oppo13"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        19.02,
+        20.0,
+        57.72,
+        50.0,
+        50.0
+    ],
+    "player_small_blind": "imperceptible",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "As",
+            "8h"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ksowas",
+                "Reloader001",
+                "Macka3oppo13",
+                "imperceptible",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Macka3oppo13"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Macka3oppo13",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Macka3oppo13",
+                "IlxxxlI",
+                "Macka3oppo13"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.0,
+                17.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        18.77,
+        24.29,
+        57.72,
+        50.0,
+        45.5
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/25 14:3:36",
+    "game_id": "805707656",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Casinator",
+        "Xamroll",
+        "Jui Kuen",
+        "ESP_Poker",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        69.7,
+        57.15,
+        67.1,
+        78.56,
+        51.28
+    ],
+    "player_small_blind": "Jui Kuen",
+    "small_blind": 0.25,
+    "player_big_blind": "ESP_Poker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "Qs",
+            "Ks"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Casinator",
+                "Xamroll",
+                "Jui Kuen",
+                "ESP_Poker",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                1.25,
+                null,
+                4.5,
+                null,
+                4.0,
+                3.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ESP_Poker",
+                "IlxxxlI",
+                "Xamroll",
+                "ESP_Poker",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                6.53,
+                6.53,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ESP_Poker",
+                "Xamroll",
+                "ESP_Poker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.73,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        69.7,
+        71.59,
+        66.85,
+        67.53,
+        46.78
+    ]
+}

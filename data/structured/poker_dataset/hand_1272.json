@@ -1,135 +1,72 @@
 {
-    "date": "2016/11/29 8:56:12",
-    "game_id": "786773519",
+    "date": "2016/9/17 11:15:23",
+    "game_id": "729553832",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 7,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
+        "RCSOX",
         "IlxxxlI",
-        "Tilt-A-Whirl",
-        "IamPhamous",
-        "PANDAisEVIL",
-        "Iia007",
-        "322xxx",
-        "L4zy_FiSh",
-        "mr.fargo",
-        "shokerAAss"
+        "Johannah12",
+        "Pureprofit4"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        92.21,
-        220.96,
-        190.39,
-        214.93,
-        212.24,
+        144.97,
+        118.08,
         200.0,
-        200.0,
-        144.55,
-        203.0
+        301.43
     ],
-    "player_small_blind": "mr.fargo",
-    "small_blind": 1.0,
-    "player_big_blind": "shokerAAss",
-    "big_blind": 2.0,
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 2.0,
+    "player_big_blind": "RCSOX",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "Kh"
+        "6d",
+        "Kc"
     ],
     "dealed_cards": {
-        "flop": [
-            "4s",
-            "Jc",
-            "10h"
-        ],
-        "turn": [
-            "7c"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "Tilt-A-Whirl",
-                "IamPhamous",
-                "PANDAisEVIL",
-                "Iia007",
-                "322xxx",
-                "L4zy_FiSh",
-                "mr.fargo",
-                "shokerAAss",
-                "IlxxxlI"
+                "Johannah12",
+                "Pureprofit4",
+                "RCSOX"
             ],
             "actions": [
-                "RAISE",
-                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                7.0,
                 null,
+                8.0,
                 null,
-                16.0,
-                null,
-                null,
-                null,
-                null,
-                null,
-                9.0
+                null
             ]
         },
         "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "PANDAisEVIL",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                16.62,
-                16.62
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "PANDAisEVIL",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "ALLIN",
-                "ALLIN"
-            ],
-            "values": [
-                null,
-                182.31,
-                59.59
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -138,25 +75,15 @@
         }
     },
     "card_shown_by_players": [
-        "Kd Kh",
-        null,
-        null,
-        "4c 5c",
-        null,
         null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        184.42,
-        220.96,
-        190.39,
-        122.72000000000001,
-        212.24,
-        200.0,
-        200.0,
-        143.55,
-        201.0
+        140.97,
+        118.08,
+        206.0,
+        299.43
     ]
 }

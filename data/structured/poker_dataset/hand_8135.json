@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/26 13:14:42",
+    "game_id": "806345703",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "uberlin",
+        "dtnfk",
+        "Ottermode",
+        "Syanala",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.7,
+        10.7,
+        17.39,
+        14.48,
+        26.06,
+        13.55
+    ],
+    "player_small_blind": "uberlin",
+    "small_blind": 0.1,
+    "player_big_blind": "dtnfk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "2h",
+            "Ad"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ottermode",
+                "Syanala",
+                "HapKoTuk",
+                "IlxxxlI",
+                "uberlin",
+                "dtnfk",
+                "Ottermode"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                1.0,
+                null,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ottermode",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ottermode",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ottermode",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                10.48,
+                9.55
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "5c Ac",
+        null,
+        "As Jh"
+    ],
+    "finishing_stack": [
+        12.7,
+        10.6,
+        17.14,
+        27.009999999999998,
+        26.06,
+        0.0
+    ]
+}

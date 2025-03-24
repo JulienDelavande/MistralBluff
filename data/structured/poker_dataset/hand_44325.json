@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 13:22:10",
+    "game_id": "788609395",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "lordboroda",
+        "BHawk12",
+        "mehmehman",
+        "IlxxxlI",
+        "WeakAndWeary"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        54.14,
+        46.44,
+        22.95,
+        20.0,
+        76.68
+    ],
+    "player_small_blind": "BHawk12",
+    "small_blind": 0.25,
+    "player_big_blind": "mehmehman",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Kc",
+            "9c"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "lordboroda",
+                "BHawk12",
+                "mehmehman"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "mehmehman",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mehmehman",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "mehmehman",
+                "WeakAndWeary",
+                "mehmehman"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.64,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        54.14,
+        46.19,
+        21.45,
+        20.0,
+        78.27000000000001
+    ]
+}

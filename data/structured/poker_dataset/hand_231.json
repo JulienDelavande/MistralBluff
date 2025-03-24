@@ -1,42 +1,43 @@
 {
-    "date": "2016/11/29 14:45:41",
-    "game_id": "787013659",
+    "date": "2016/9/4 10:11:31",
+    "game_id": "719288578",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "VegetablesArentYummy",
         "IlxxxlI",
-        "IbetUmuck",
-        "PANDAisEVIL",
-        "AironVega"
+        "SheppyPOO!!",
+        "bet2000",
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
         2,
-        3,
-        5,
+        4,
         6
     ],
     "starting_stacks": [
-        226.05,
-        86.55,
-        863.25,
-        206.0,
-        200.0
+        136.41,
+        512.0,
+        532.81,
+        217.58
     ],
-    "player_small_blind": "AironVega",
-    "small_blind": 1.0,
-    "player_big_blind": "VegetablesArentYummy",
-    "big_blind": 2.0,
+    "player_small_blind": "bet2000",
+    "small_blind": 2.0,
+    "player_big_blind": "ConstanceHarm",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qd",
-        "2d"
+        "2d",
+        "4c"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "7d",
+            "2s",
+            "As"
+        ],
         "turn": [],
         "river": []
     },
@@ -44,27 +45,36 @@
         "pre-flop": {
             "players": [
                 "IlxxxlI",
-                "IbetUmuck",
-                "PANDAisEVIL",
-                "AironVega"
+                "SheppyPOO!!",
+                "bet2000",
+                "ConstanceHarm"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                null,
-                null
+                10.0,
+                8.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "bet2000",
+                "ConstanceHarm"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                15.71,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -81,14 +91,12 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        227.05,
-        86.55,
-        863.25,
-        206.0,
-        199.0
+        136.41,
+        512.0,
+        544.6099999999999,
+        205.58
     ]
 }

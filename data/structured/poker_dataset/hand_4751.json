@@ -1,0 +1,122 @@
+{
+    "date": "2016/9/27 7:47:50",
+    "game_id": "737098956",
+    "variant": "PRR",
+    "table_name": "Longana-4",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "AironVega",
+        "IlxxxlI",
+        "DetectiveUA"
+    ],
+    "players_seats": [
+        1,
+        4,
+        9
+    ],
+    "starting_stacks": [
+        364.65,
+        93.6,
+        225.51
+    ],
+    "player_small_blind": "DetectiveUA",
+    "small_blind": 1.0,
+    "player_big_blind": "AironVega",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "7h",
+            "10c"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "DetectiveUA",
+                "AironVega",
+                "DetectiveUA"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.0,
+                19.0,
+                15.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DetectiveUA",
+                "AironVega",
+                "DetectiveUA"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                13.53,
+                13.53
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DetectiveUA",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DetectiveUA",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kc As",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        398.18,
+        93.6,
+        190.98
+    ]
+}

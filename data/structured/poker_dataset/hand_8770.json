@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/25 23:32:27",
+    "game_id": "805836227",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Indigol",
+        "warrior1023",
+        "so_it_goes",
+        "naprimer",
+        "Beep_Beep",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.75,
+        56.5,
+        52.49,
+        58.58,
+        53.73,
+        72.64
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Indigol",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "4h",
+            "3c"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "warrior1023",
+                "so_it_goes",
+                "naprimer",
+                "Beep_Beep",
+                "IlxxxlI",
+                "Indigol",
+                "so_it_goes"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                4.5,
+                null,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "so_it_goes",
+                "Beep_Beep",
+                "so_it_goes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.5,
+                5.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "so_it_goes",
+                "Beep_Beep"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "so_it_goes",
+                "Beep_Beep",
+                "so_it_goes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                9.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.25,
+        56.5,
+        42.49,
+        58.58,
+        63.449999999999996,
+        72.39
+    ]
+}

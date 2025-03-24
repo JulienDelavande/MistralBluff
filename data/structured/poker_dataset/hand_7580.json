@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/27 16:39:15",
+    "game_id": "807108525",
+    "variant": "PRR",
+    "table_name": "Ekek-19",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "N1cer1ver",
+        "wwww111",
+        "DGS1",
+        "IlxxxlI",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        27.01,
+        13.21,
+        20.65,
+        28.68,
+        25.0
+    ],
+    "player_small_blind": "wwww111",
+    "small_blind": 0.1,
+    "player_big_blind": "DGS1",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "9d",
+            "4c"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "N1cer1ver",
+                "wwww111",
+                "DGS1"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DGS1",
+                "N1cer1ver",
+                "DGS1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DGS1",
+                "N1cer1ver"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DGS1",
+                "N1cer1ver"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.75,
+                2.75
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "9s Qs",
+        null,
+        "9c 8c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        31.17,
+        13.110000000000001,
+        16.14,
+        28.68,
+        25.0
+    ]
+}

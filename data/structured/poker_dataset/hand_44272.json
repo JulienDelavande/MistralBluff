@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 13:36:4",
+    "game_id": "788616399",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "flyshark01",
+        "CattleCorner",
+        "MadLifeGrinder",
+        "lordboroda",
+        "IlxxxlI",
+        "ONeezy89"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        201.37,
+        103.55,
+        108.43,
+        100.5,
+        40.0,
+        151.78
+    ],
+    "player_small_blind": "lordboroda",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "3h",
+            "8c"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ONeezy89",
+                "flyshark01",
+                "CattleCorner",
+                "MadLifeGrinder",
+                "lordboroda",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "lordboroda",
+                "IlxxxlI",
+                "lordboroda"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.26,
+                1.26
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "lordboroda",
+                "IlxxxlI",
+                "lordboroda"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        201.37,
+        103.55,
+        108.43,
+        98.24,
+        42.04,
+        151.78
+    ]
+}

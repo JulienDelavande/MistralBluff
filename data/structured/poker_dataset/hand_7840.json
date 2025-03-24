@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/27 15:59:56",
+    "game_id": "807099707",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "Njakka",
+        "HapKoTuk",
+        "stone1974",
+        "alasku",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        19.26,
+        66.66,
+        14.01,
+        14.83,
+        13.77
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "stone1974",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "5s",
+            "Qd"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "alasku",
+                "IlxxxlI",
+                "Njakka",
+                "HapKoTuk",
+                "stone1974"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "stone1974",
+                "alasku"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "stone1974",
+                "alasku",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HapKoTuk",
+                "stone1974",
+                "alasku",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10s 6d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        19.26,
+        65.16,
+        16.79,
+        13.33,
+        13.77
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "date": "2016/9/23 9:34:50",
+    "game_id": "734114921",
+    "variant": "PRR",
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "AironVega",
+        "IlxxxlI",
+        "Lubner",
+        "VegetablesArentYummy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "starting_stacks": [
+        200.0,
+        115.29,
+        247.25,
+        219.95
+    ],
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "AironVega",
+    "big_blind": 4.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "9h",
+            "Qc"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Lubner",
+                "VegetablesArentYummy",
+                "AironVega"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.5,
+                null,
+                7.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "Lubner"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AironVega",
+                "Lubner"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                18.56,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        213.25,
+        115.29,
+        235.75,
+        217.95
+    ]
+}

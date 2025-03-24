@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/8 7:54:53",
+    "game_id": "793119050",
+    "variant": "PRR",
+    "table_name": "Ekek-5",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "badnuf",
+        "Almost Pat",
+        "Ice Bank Mice Elf",
+        "iKaBiNK",
+        "IlxxxlI",
+        "Karttt5"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        23.8,
+        21.33,
+        37.13,
+        33.9,
+        10.0,
+        23.26
+    ],
+    "player_small_blind": "Almost Pat",
+    "small_blind": 0.1,
+    "player_big_blind": "Ice Bank Mice Elf",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jh",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "2d",
+            "8s"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "iKaBiNK",
+                "IlxxxlI",
+                "Karttt5",
+                "badnuf",
+                "Almost Pat",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Almost Pat",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.47,
+                0.47
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Almost Pat",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.61,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.8,
+        22.21,
+        36.160000000000004,
+        33.9,
+        10.0,
+        23.26
+    ]
+}

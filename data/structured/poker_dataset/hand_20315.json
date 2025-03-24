@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/9 11:31:59",
+    "game_id": "794008001",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "welld0ne",
+        "Heksebrygg",
+        "yumcumgetsum",
+        "machetemex",
+        "IlxxxlI",
+        "Hawkbacker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        64.85,
+        50.65,
+        40.75,
+        20.0,
+        56.72
+    ],
+    "player_small_blind": "welld0ne",
+    "small_blind": 0.25,
+    "player_big_blind": "Heksebrygg",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "6c",
+            "7d"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "yumcumgetsum",
+                "machetemex",
+                "IlxxxlI",
+                "Hawkbacker",
+                "welld0ne",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "welld0ne",
+                "Heksebrygg",
+                "yumcumgetsum"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "welld0ne",
+                "Heksebrygg",
+                "yumcumgetsum",
+                "welld0ne",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.95,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        49.5,
+        64.35,
+        51.58,
+        40.75,
+        20.0,
+        56.72
+    ]
+}

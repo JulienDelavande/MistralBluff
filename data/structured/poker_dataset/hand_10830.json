@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/25 0:20:6",
+    "game_id": "805290922",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "thefatfatfish",
+        "MAGNIT",
+        "booya25",
+        "DarkStar24",
+        "wwww111",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.04,
+        37.02,
+        12.95,
+        5.06,
+        5.0,
+        12.5
+    ],
+    "player_small_blind": "DarkStar24",
+    "small_blind": 0.1,
+    "player_big_blind": "wwww111",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "Jc",
+            "Jd"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "thefatfatfish",
+                "MAGNIT",
+                "booya25",
+                "DarkStar24",
+                "wwww111"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "wwww111",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "wwww111",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "wwww111",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.6,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.04,
+        37.02,
+        12.95,
+        4.96,
+        6.68,
+        10.74
+    ]
+}

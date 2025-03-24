@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/9 8:53:47",
+    "game_id": "793876159",
+    "variant": "PRR",
+    "table_name": "Kraken-7",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Bokmal",
+        "VegetablesArentYummy",
+        "WeakAndWeary",
+        "IlxxxlI",
+        "MadLifeGrinder",
+        "g-vine"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        112.77,
+        136.72,
+        40.0,
+        103.68,
+        155.44
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "MadLifeGrinder",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "10d",
+            "10s"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "g-vine",
+                "Bokmal",
+                "VegetablesArentYummy",
+                "WeakAndWeary",
+                "IlxxxlI",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "Bokmal",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                4.51,
+                null,
+                4.51
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MadLifeGrinder",
+                "WeakAndWeary",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.8,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        97.0,
+        112.77,
+        146.81,
+        39.5,
+        96.17,
+        155.44
+    ]
+}

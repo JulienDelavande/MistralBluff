@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/3 15:54:25",
+    "game_id": "790016118",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "dankmann",
+        "AironVega",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "RunnerLucker",
+        "gust"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        9
+    ],
+    "starting_stacks": [
+        205.26,
+        154.85,
+        424.28,
+        40.0,
+        102.68,
+        49.29
+    ],
+    "player_small_blind": "gust",
+    "small_blind": 0.5,
+    "player_big_blind": "dankmann",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "5c",
+            "7c"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AironVega",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "RunnerLucker",
+                "gust",
+                "dankmann"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                2.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "RunnerLucker",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.09,
+                3.09
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "RunnerLucker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "RunnerLucker"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                15.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        204.26,
+        154.85,
+        424.28,
+        46.459999999999994,
+        97.09,
+        48.79
+    ]
+}

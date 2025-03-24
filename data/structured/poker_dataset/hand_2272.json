@@ -1,145 +1,99 @@
 {
-    "date": "2016/11/21 15:7:48",
-    "game_id": "781111301",
+    "date": "2016/9/18 9:13:35",
+    "game_id": "730248874",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 6,
     "players": [
-        "GagaPoker",
-        "FirstClan",
-        "texaswarthog",
-        "Chipburnner",
-        "Parcker",
-        "sobrr",
-        "HorsePussy",
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "Pablo46",
+        "gosu36484",
         "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
         3,
-        4,
-        5,
         6,
-        7,
-        8,
         9
     ],
     "starting_stacks": [
-        67.09,
-        50.0,
-        44.37,
-        33.06,
-        50.0,
-        20.0,
-        31.47,
-        25.82
+        171.19,
+        105.76,
+        100.0,
+        39.03,
+        42.78
     ],
-    "player_small_blind": "Parcker",
-    "small_blind": 0.25,
-    "player_big_blind": "sobrr",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "BlitzWaut",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8s",
-        "2h"
+        "4h",
+        "Qh"
     ],
     "dealed_cards": {
         "flop": [
-            "5h",
-            "Jh",
-            "Qh"
+            "9d",
+            "Kh",
+            "3d"
         ],
-        "turn": [
-            "Ac"
-        ],
-        "river": [
-            "2s"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "HorsePussy",
+                "VegetablesArentYummy",
+                "Pablo46",
+                "gosu36484",
                 "IlxxxlI",
-                "GagaPoker",
-                "FirstClan",
-                "texaswarthog",
-                "Chipburnner",
-                "Parcker",
-                "sobrr"
+                "BlitzWaut"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL",
-                "FOLD",
-                "FOLD",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                1.5,
-                1.5,
-                null,
-                null,
-                null
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "FirstClan",
-                "texaswarthog",
-                "FirstClan"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
                 "CALL"
             ],
             "values": [
                 null,
-                1.78,
-                1.78
+                null,
+                null,
+                1.5,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "BlitzWaut"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.9,
+                null
             ]
         },
         "post-turn": {
-            "players": [
-                "FirstClan",
-                "texaswarthog"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "FirstClan",
-                "texaswarthog"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        null,
-        null,
-        "As 3s",
         null,
         null,
         null,
@@ -147,13 +101,10 @@
         null
     ],
     "finishing_stack": [
-        67.09,
-        46.72,
-        48.04,
-        33.06,
-        49.75,
-        19.5,
-        31.47,
-        25.82
+        169.19,
+        105.76,
+        100.0,
+        39.03,
+        44.58
     ]
 }

@@ -1,101 +1,91 @@
 {
-    "date": "2016/11/29 11:32:3",
-    "game_id": "786901850",
+    "date": "2016/9/13 13:11:28",
+    "game_id": "726610086",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
+        "Wei2huge",
         "IlxxxlI",
-        "beachrog",
-        "Maria_Pia",
-        "imperceptible"
+        "DOR1",
+        "uncle_argyle",
+        "PANDAisEVIL",
+        "ravenh94"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        27.56,
-        21.44,
-        31.24,
-        31.53
+        160.27,
+        40.0,
+        32.5,
+        102.62,
+        100.0,
+        78.45
     ],
-    "player_small_blind": "imperceptible",
-    "small_blind": 0.25,
+    "player_small_blind": "Wei2huge",
+    "small_blind": 1.0,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ah",
-        "10h"
+        "3h",
+        "7c"
     ],
     "dealed_cards": {
         "flop": [
-            "2s",
-            "4h",
-            "Ad"
+            "6c",
+            "5h",
+            "Ks"
         ],
         "turn": [
-            "10c"
+            "5c"
         ],
-        "river": [
-            "3c"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "beachrog",
-                "Maria_Pia",
-                "imperceptible",
+                "DOR1",
+                "uncle_argyle",
+                "PANDAisEVIL",
+                "ravenh94",
+                "Wei2huge",
                 "IlxxxlI",
-                "beachrog"
+                "DOR1",
+                "PANDAisEVIL"
             ],
             "actions": [
                 "CALL",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
                 "CALL"
             ],
             "values": [
-                0.5,
-                1.25,
+                2.0,
                 null,
-                0.75,
-                0.75
+                6.0,
+                null,
+                17.0,
+                null,
+                null,
+                12.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "beachrog",
-                "Maria_Pia",
-                "IlxxxlI",
-                "beachrog"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "BET",
-                "CALL",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                null,
-                1.7,
-                1.7,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "Maria_Pia"
+                "Wei2huge",
+                "PANDAisEVIL"
             ],
             "actions": [
                 "CHECK",
@@ -106,31 +96,40 @@
                 null
             ]
         },
-        "post-river": {
+        "post-turn": {
             "players": [
-                "IlxxxlI",
-                "Maria_Pia"
+                "Wei2huge",
+                "PANDAisEVIL"
             ],
             "actions": [
                 "BET",
                 "FOLD"
             ],
             "values": [
-                3.51,
+                19.0,
                 null
             ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        31.64,
-        20.19,
-        28.29,
-        31.28
+        180.27,
+        38.0,
+        30.5,
+        102.62,
+        82.0,
+        78.45
     ]
 }

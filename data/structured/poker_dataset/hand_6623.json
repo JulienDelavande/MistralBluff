@@ -1,0 +1,127 @@
+{
+    "date": "2016/10/13 10:4:3",
+    "game_id": "749606362",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "sobrr",
+        "deddycool",
+        "Bluffing Every Hand",
+        "EQUITYisnotEV",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.9,
+        54.15,
+        50.0,
+        66.95,
+        50.0
+    ],
+    "player_small_blind": "EQUITYisnotEV",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "8s",
+            "10c"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "sobrr",
+                "deddycool",
+                "Bluffing Every Hand",
+                "EQUITYisnotEV",
+                "IlxxxlI",
+                "Bluffing Every Hand"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                3.0,
+                2.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Bluffing Every Hand"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.62,
+                2.62
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Bluffing Every Hand",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.9,
+        54.15,
+        55.75,
+        66.7,
+        43.88
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/3 11:52:48",
+    "game_id": "789899099",
+    "variant": "PRR",
+    "table_name": "Karkadann-4",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "Pimpika",
+        "RunnerLucker",
+        "GagaPoker",
+        "BiGFck",
+        "TheNutters",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        122.95,
+        312.7,
+        199.6,
+        39.6,
+        45.05,
+        42.5
+    ],
+    "player_small_blind": "Pimpika",
+    "small_blind": 0.5,
+    "player_big_blind": "RunnerLucker",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "4s",
+            "10h"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GagaPoker",
+                "BiGFck",
+                "TheNutters",
+                "IlxxxlI",
+                "Pimpika",
+                "RunnerLucker"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                2.0,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GagaPoker",
+                "BiGFck"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "GagaPoker",
+                "BiGFck",
+                "GagaPoker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.61,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        122.45,
+        311.7,
+        197.6,
+        42.83,
+        45.05,
+        42.5
+    ]
+}

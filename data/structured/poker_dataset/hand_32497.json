@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/6 0:11:4",
+    "game_id": "791597507",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "MadLifeGrinder",
+        "GagaPoker",
+        "Chubrica",
+        "meandkids",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        100.0,
+        132.91,
+        103.35,
+        40.0
+    ],
+    "player_small_blind": "Chubrica",
+    "small_blind": 0.5,
+    "player_big_blind": "meandkids",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "4d",
+            "Jc"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "GagaPoker",
+                "Chubrica",
+                "meandkids",
+                "GagaPoker"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                8.5,
+                8.0,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Chubrica",
+                "meandkids",
+                "GagaPoker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Chubrica",
+                "meandkids",
+                "GagaPoker",
+                "Chubrica"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                17.1,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        91.0,
+        123.91,
+        120.0,
+        40.0
+    ]
+}

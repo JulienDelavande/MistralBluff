@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/6 16:38:52",
+    "game_id": "792161819",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Qatro",
+        "Br4dy12",
+        "HapKoTuk",
+        "Moryak999",
+        "anokato",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.07,
+        33.08,
+        30.55,
+        23.55,
+        29.06,
+        10.0
+    ],
+    "player_small_blind": "Br4dy12",
+    "small_blind": 0.1,
+    "player_big_blind": "HapKoTuk",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "7s",
+            "Ad"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Moryak999",
+                "anokato",
+                "IlxxxlI",
+                "Qatro",
+                "Br4dy12",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "anokato",
+                "Qatro"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.17,
+                1.17
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "anokato",
+                "Qatro"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.75,
+                2.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "anokato",
+                "Qatro",
+                "anokato"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.6,
+                4.6
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "5d Kd",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        35.75,
+        32.98,
+        30.3,
+        23.55,
+        19.79,
+        10.0
+    ]
+}

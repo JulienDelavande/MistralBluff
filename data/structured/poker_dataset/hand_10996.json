@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/25 0:2:1",
+    "game_id": "805282042",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "luckyfish777",
+        "Sonic3Dblast",
+        "anokato",
+        "IlxxxlI",
+        "shimon89"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        54.03,
+        25.1,
+        25.45,
+        25.0,
+        12.82
+    ],
+    "player_small_blind": "Sonic3Dblast",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "Jc",
+            "3d"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "shimon89",
+                "luckyfish777",
+                "Sonic3Dblast",
+                "anokato"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "anokato",
+                "luckyfish777"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Sonic3Dblast",
+                "anokato",
+                "luckyfish777"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Sonic3Dblast",
+                "anokato",
+                "luckyfish777"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                2.05,
+                2.05,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10c Qc",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        53.28,
+        28.34,
+        22.65,
+        25.0,
+        12.82
+    ]
+}

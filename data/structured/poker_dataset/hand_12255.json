@@ -1,0 +1,137 @@
+{
+    "date": "2016/12/24 21:50:50",
+    "game_id": "805236228",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "Skoby101",
+        "DrCash1977",
+        "SkaHot",
+        "PersonaGrata2016",
+        "IlxxxlI",
+        "booya25"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        31.93,
+        7.04,
+        18.8,
+        14.35,
+        12.5,
+        32.25
+    ],
+    "player_small_blind": "DrCash1977",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "3c",
+            "Jc"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "Ac"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PersonaGrata2016",
+                "IlxxxlI",
+                "booya25",
+                "Skoby101",
+                "DrCash1977",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.62,
+                null,
+                null,
+                0.52,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DrCash1977",
+                "IlxxxlI",
+                "DrCash1977",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                1.5,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DrCash1977",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                4.92,
+                4.92
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "9c 4c",
+        null,
+        null,
+        "Kc Kh",
+        null
+    ],
+    "finishing_stack": [
+        31.93,
+        13.62,
+        18.55,
+        14.35,
+        5.46,
+        32.25
+    ]
+}

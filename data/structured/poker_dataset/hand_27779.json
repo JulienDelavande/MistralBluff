@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/7 15:56:52",
+    "game_id": "792731390",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Camdenn",
+        "anokato",
+        "IlxxxlI",
+        "Irene13",
+        "NOTGYINA3WAY",
+        "ABMTLQC"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        59.61,
+        31.07,
+        10.0,
+        91.94,
+        25.0,
+        25.0
+    ],
+    "player_small_blind": "NOTGYINA3WAY",
+    "small_blind": 0.1,
+    "player_big_blind": "ABMTLQC",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "3c",
+            "2d"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Camdenn",
+                "anokato",
+                "IlxxxlI",
+                "Irene13",
+                "NOTGYINA3WAY",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ABMTLQC",
+                "Camdenn",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ABMTLQC",
+                "Camdenn",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.29,
+                2.29
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ABMTLQC",
+                "Camdenn",
+                "ABMTLQC",
+                "Camdenn"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.19,
+                20.95,
+                15.76
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "2s 2c",
+        null,
+        null,
+        null,
+        null,
+        "10s 10d"
+    ],
+    "finishing_stack": [
+        34.61,
+        31.07,
+        10.0,
+        91.94,
+        24.9,
+        47.6
+    ]
+}

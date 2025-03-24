@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/23 11:35:22",
+    "game_id": "804349289",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "Ice Bank Mice Elf",
+        "CroMagnons",
+        "s7amen",
+        "Vik3011",
+        "MrSrkn"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        25.0,
+        33.77,
+        25.0,
+        29.31,
+        28.71
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Ice Bank Mice Elf",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "9c",
+            "4s"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CroMagnons",
+                "s7amen",
+                "Vik3011",
+                "MrSrkn",
+                "IlxxxlI",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CroMagnons",
+                "Vik3011"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CroMagnons",
+                "Vik3011"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CroMagnons",
+                "Vik3011",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.3,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.9,
+        24.75,
+        31.520000000000003,
+        25.0,
+        31.669999999999998,
+        28.71
+    ]
+}

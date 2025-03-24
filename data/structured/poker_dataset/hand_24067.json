@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/8 15:0:36",
+    "game_id": "793410684",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "PhillipHellmuth",
+        "IlxxxlI",
+        "HapKoTuk",
+        "kkennybz",
+        "anokato"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        60.43,
+        11.57,
+        27.65,
+        19.45,
+        47.47
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "kkennybz",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "3s",
+            "9s"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "PhillipHellmuth",
+                "IlxxxlI",
+                "HapKoTuk",
+                "kkennybz"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "kkennybz",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        60.43,
+        11.57,
+        27.15,
+        19.9,
+        47.47
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/3 15:46:33",
+    "game_id": "790013754",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "Jui Kuen",
+        "xxHandSoloxx",
+        "IlxxxlI",
+        "juanny_c",
+        "TroyDM5"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        111.35,
+        10.0,
+        30.53,
+        16.25
+    ],
+    "player_small_blind": "xxHandSoloxx",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "3s",
+            "3h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "juanny_c",
+                "TroyDM5",
+                "Jui Kuen",
+                "xxHandSoloxx",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "xxHandSoloxx",
+                "IlxxxlI",
+                "juanny_c"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "xxHandSoloxx",
+                "IlxxxlI",
+                "juanny_c",
+                "xxHandSoloxx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "juanny_c"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "5d Ad",
+        "2d As",
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        110.85,
+        10.19,
+        30.720000000000002,
+        16.25
+    ]
+}

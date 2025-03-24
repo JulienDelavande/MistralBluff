@@ -1,0 +1,118 @@
+{
+    "date": "2016/9/27 7:14:24",
+    "game_id": "737076462",
+    "variant": "PRR",
+    "table_name": "Lakhey-6",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "enron_kenlay",
+        "KeepKalm",
+        "Heksebrygg",
+        "IlxxxlI",
+        "DetectiveUA"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        210.58,
+        283.25,
+        200.0,
+        80.18,
+        203.63
+    ],
+    "player_small_blind": "DetectiveUA",
+    "small_blind": 1.0,
+    "player_big_blind": "KeepKalm",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "Kd",
+            "10h"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Heksebrygg",
+                "IlxxxlI",
+                "DetectiveUA",
+                "KeepKalm"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                4.0,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DetectiveUA",
+                "KeepKalm"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DetectiveUA",
+                "KeepKalm"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                6.33,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        210.58,
+        278.25,
+        200.0,
+        80.18,
+        208.13
+    ]
+}

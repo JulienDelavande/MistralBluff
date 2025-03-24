@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/8 21:55:56",
+    "game_id": "793502826",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "orgonox",
+        "IlxxxlI",
+        "bennyben6",
+        "SonUTSucker",
+        "BogeyGuy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        11.29,
+        10.0,
+        25.0,
+        49.85,
+        8.75
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "bennyben6",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "4d",
+            "Ac"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SonUTSucker",
+                "BogeyGuy",
+                "orgonox",
+                "IlxxxlI",
+                "bennyben6"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "bennyben6",
+                "BogeyGuy",
+                "orgonox",
+                "bennyben6"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.12,
+                null,
+                1.12
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bennyben6",
+                "BogeyGuy",
+                "bennyben6"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.91,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.54,
+        9.9,
+        23.13,
+        49.85,
+        11.25
+    ]
+}

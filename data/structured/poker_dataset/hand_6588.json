@@ -1,0 +1,132 @@
+{
+    "date": "2016/10/13 1:38:52",
+    "game_id": "749217488",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "v0landito",
+        "AironVega",
+        "IlxxxlI",
+        "iDawg",
+        "dresden3"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        101.5,
+        129.25,
+        100.0,
+        115.09,
+        72.51
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "iDawg",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "10s",
+            "Ah"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dresden3",
+                "v0landito",
+                "AironVega",
+                "IlxxxlI",
+                "iDawg"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "v0landito",
+                "AironVega"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.57,
+                3.57
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "v0landito",
+                "AironVega"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.28,
+                9.28
+            ]
+        },
+        "post-river": {
+            "players": [
+                "v0landito",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Qh 10d",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        117.19,
+        113.4,
+        99.5,
+        114.09,
+        72.51
+    ]
+}

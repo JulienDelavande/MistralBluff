@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/27 17:2:33",
+    "game_id": "807112956",
+    "variant": "PRR",
+    "table_name": "Ekek-19",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "N1cer1ver",
+        "DGS1",
+        "IlxxxlI",
+        "DopeDope",
+        "JohnnyTwoShots"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        36.06,
+        20.11,
+        25.25,
+        26.15,
+        25.0
+    ],
+    "player_small_blind": "DopeDope",
+    "small_blind": 0.1,
+    "player_big_blind": "JohnnyTwoShots",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "10d",
+            "Qh"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "N1cer1ver",
+                "DGS1",
+                "IlxxxlI",
+                "DopeDope",
+                "JohnnyTwoShots"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.58,
+                0.48,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DopeDope",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DopeDope",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DopeDope",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.89,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        36.06,
+        20.11,
+        24.67,
+        26.91,
+        24.75
+    ]
+}

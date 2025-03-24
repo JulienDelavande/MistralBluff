@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/8 17:11:32",
+    "game_id": "793443157",
+    "variant": "PRR",
+    "table_name": "Gorgons-14",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "Kayhandag",
+        "Mr.trucksalt",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        97.9,
+        19.45,
+        50.0,
+        20.25
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "9c",
+            "8d"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Kayhandag",
+                "Mr.trucksalt",
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                1.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Kayhandag",
+                "Mr.trucksalt",
+                "Kayhandag"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.31,
+                1.31
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Kayhandag",
+                "Mr.trucksalt"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Kayhandag",
+                "Mr.trucksalt"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        97.4,
+        22.25,
+        47.69,
+        20.0
+    ]
+}

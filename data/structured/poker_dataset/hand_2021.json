@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 19:5:1",
-    "game_id": "786357361",
+    "date": "2016/9/18 8:39:45",
+    "game_id": "730230305",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 1,
     "players": [
-        "SenNoSen",
-        "eu4ria",
+        "LuckyBoy1980",
+        "BadBeat79",
+        "Cellar door",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "Goomashroom",
-        "legenda99",
-        "wethco"
+        "utormico"
     ],
     "players_seats": [
         1,
@@ -19,71 +21,119 @@
         3,
         4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        50.0,
-        288.11,
-        20.0,
-        105.81,
-        53.67,
-        64.0
+        203.05,
+        239.58,
+        203.0,
+        319.35,
+        176.15,
+        200.0,
+        116.3,
+        124.0
     ],
-    "player_small_blind": "legenda99",
-    "small_blind": 0.25,
-    "player_big_blind": "wethco",
-    "big_blind": 0.5,
+    "player_small_blind": "BadBeat79",
+    "small_blind": 1.0,
+    "player_big_blind": "Cellar door",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3c",
-        "8c"
+        "4h",
+        "Ad"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "6h",
+            "5h",
+            "2h"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "Ac"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "SenNoSen",
-                "eu4ria",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "Goomashroom",
-                "legenda99",
-                "wethco"
+                "utormico",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "Cellar door"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
+                "CALL",
                 "FOLD"
             ],
             "values": [
-                1.5,
+                null,
+                null,
+                5.0,
                 null,
                 null,
                 null,
-                null,
+                4.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BadBeat79",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BadBeat79",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BadBeat79",
+                "VegetablesArentYummy",
+                "BadBeat79"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.7,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -92,14 +142,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        50.75,
-        288.11,
-        20.0,
-        105.81,
-        53.42,
-        63.5
+        203.05,
+        234.58,
+        201.0,
+        319.35,
+        176.15,
+        206.4,
+        116.3,
+        124.0
     ]
 }

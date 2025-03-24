@@ -1,73 +1,110 @@
 {
-    "date": "2016/11/28 20:24:38",
-    "game_id": "786373410",
+    "date": "2016/9/18 7:53:12",
+    "game_id": "730201837",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 9,
     "players": [
-        "caballeroXXX",
-        "DonkReaper",
-        "in_ur_i",
-        "Cinch23",
-        "IlxxxlI"
+        "A",
+        "IlxxxlI",
+        "Pimpika",
+        "VegetablesArentYummy",
+        "utormico",
+        "BadBeat79",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        67.67,
-        73.62,
-        45.71,
-        19.81,
-        20.0
+        308.24,
+        98.2,
+        90.05,
+        200.0,
+        158.66,
+        414.89,
+        301.81,
+        269.11
     ],
-    "player_small_blind": "caballeroXXX",
-    "small_blind": 0.25,
-    "player_big_blind": "DonkReaper",
-    "big_blind": 0.5,
+    "player_small_blind": "A",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6d",
-        "9d"
+        "9h",
+        "Kh"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "10s",
+            "4h",
+            "6d"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "in_ur_i",
-                "Cinch23",
+                "Pimpika",
+                "VegetablesArentYummy",
+                "utormico",
+                "BadBeat79",
+                "UrSoDumb",
+                "KeepKalm",
+                "A",
                 "IlxxxlI",
-                "caballeroXXX",
-                "DonkReaper"
+                "BadBeat79"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                1.5,
                 null,
                 null,
                 null,
-                null
+                2.0,
+                null,
+                8.0,
+                null,
+                null,
+                6.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BadBeat79",
+                "KeepKalm",
+                "BadBeat79"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                6.01,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -85,13 +122,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        67.42,
-        73.12,
-        46.46,
-        19.81,
-        20.0
+        307.24,
+        96.2,
+        90.05,
+        200.0,
+        158.66,
+        406.89,
+        301.81,
+        279.16
     ]
 }

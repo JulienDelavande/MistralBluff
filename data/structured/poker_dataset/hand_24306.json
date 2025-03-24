@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/8 14:38:27",
+    "game_id": "793403395",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "ialexander",
+        "IlxxxlI",
+        "anokato",
+        "PhillipHellmuth",
+        "hotbabe1986",
+        "muchachon"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        36.7,
+        10.25,
+        36.06,
+        26.63,
+        47.1,
+        10.0
+    ],
+    "player_small_blind": "ialexander",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "2s",
+            "Qs"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "PhillipHellmuth",
+                "hotbabe1986",
+                "muchachon",
+                "ialexander",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ialexander",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ialexander",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ialexander",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ah 10h",
+        "Ad 8c",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        36.63,
+        10.17,
+        36.06,
+        26.63,
+        47.1,
+        10.0
+    ]
+}

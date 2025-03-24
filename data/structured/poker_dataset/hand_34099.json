@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/5 11:53:58",
+    "game_id": "791384362",
+    "variant": "PRR",
+    "table_name": "Kraken-14",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "Ksowas",
+        "Heksebrygg",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        107.27,
+        117.3,
+        40.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "Ksowas",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "3c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "9d",
+            "6d"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Heksebrygg",
+                "St3p04ka",
+                "IlxxxlI",
+                "Ksowas"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.55,
+                null,
+                1.55
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksowas",
+                "St3p04ka"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksowas",
+                "St3p04ka"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.66,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        39.5,
+        110.03999999999999,
+        117.3,
+        37.45
+    ]
+}

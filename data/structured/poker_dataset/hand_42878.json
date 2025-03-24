@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 20:54:54",
+    "game_id": "788729530",
+    "variant": "PRR",
+    "table_name": "Gorgons-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "odel_nadel",
+        "MrCRABS333",
+        "sucazappa",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        65.66,
+        63.82,
+        146.12,
+        50.0,
+        20.75
+    ],
+    "player_small_blind": "odel_nadel",
+    "small_blind": 0.25,
+    "player_big_blind": "MrCRABS333",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "Ac",
+            "Qc"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "sucazappa",
+                "IlxxxlI",
+                "WeakAndWeary",
+                "odel_nadel",
+                "MrCRABS333"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "sucazappa",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "sucazappa",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "sucazappa",
+                "WeakAndWeary",
+                "sucazappa"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.79,
+                1.79
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Jd Ah",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        69.34,
+        63.57,
+        145.62,
+        46.71,
+        20.75
+    ]
+}

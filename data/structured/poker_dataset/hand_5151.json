@@ -1,0 +1,138 @@
+{
+    "date": "2016/9/28 11:48:33",
+    "game_id": "737948454",
+    "variant": "PRR",
+    "table_name": "Lakhey-13",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WarrenBluffett",
+        "IlxxxlI",
+        "dresden3",
+        "FingerMyButt",
+        "Anastasia31"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        80.0,
+        128.94,
+        106.55,
+        210.14,
+        269.18
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "dresden3",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "Ks",
+            "Js"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FingerMyButt",
+                "Anastasia31",
+                "WarrenBluffett",
+                "IlxxxlI",
+                "dresden3"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                2.0,
+                null,
+                2.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dresden3",
+                "FingerMyButt",
+                "WarrenBluffett",
+                "dresden3"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                null,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dresden3",
+                "FingerMyButt"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.5,
+                9.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dresden3",
+                "FingerMyButt"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "4h Jd",
+        "Jh Kc",
+        null
+    ],
+    "finishing_stack": [
+        78.0,
+        127.94,
+        91.05,
+        226.94,
+        269.18
+    ]
+}

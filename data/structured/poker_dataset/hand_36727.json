@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/3 15:53:25",
+    "game_id": "790015802",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "AironVega",
+        "Azaladog",
+        "IlxxxlI",
+        "WeakAndWeary",
+        "HomoPokerus"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        188.71,
+        88.65,
+        41.9,
+        113.29,
+        117.64
+    ],
+    "player_small_blind": "AironVega",
+    "small_blind": 0.5,
+    "player_big_blind": "Azaladog",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "Qd",
+            "3h"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary",
+                "HomoPokerus",
+                "AironVega",
+                "Azaladog",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                null,
+                8.0,
+                6.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Azaladog",
+                "HomoPokerus",
+                "Azaladog"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                7.0,
+                7.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Azaladog",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Azaladog",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "10c Js"
+    ],
+    "finishing_stack": [
+        188.21,
+        72.65,
+        41.9,
+        113.29,
+        132.52
+    ]
+}

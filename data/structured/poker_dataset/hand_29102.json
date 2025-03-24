@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 9:31:36",
+    "game_id": "792503786",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "tszis",
+        "JohnnyTwoShots",
+        "raraAvis8",
+        "IlxxxlI",
+        "ABMTLQC"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        30.52,
+        24.75,
+        31.77,
+        10.33,
+        30.28
+    ],
+    "player_small_blind": "JohnnyTwoShots",
+    "small_blind": 0.1,
+    "player_big_blind": "raraAvis8",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "2c",
+            "Ah"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "ABMTLQC",
+                "tszis",
+                "JohnnyTwoShots",
+                "raraAvis8"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JohnnyTwoShots",
+                "raraAvis8",
+                "JohnnyTwoShots"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "JohnnyTwoShots",
+                "raraAvis8"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "JohnnyTwoShots",
+                "raraAvis8"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.52,
+        25.43,
+        31.02,
+        10.33,
+        30.28
+    ]
+}

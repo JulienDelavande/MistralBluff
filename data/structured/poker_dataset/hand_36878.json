@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/3 14:23:27",
+    "game_id": "789984488",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 4,
+    "players": [
+        "ShowStacky",
+        "hodisuda",
+        "gust",
+        "Ksowas",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        91.35,
+        157.29,
+        40.0,
+        51.38,
+        21.5
+    ],
+    "player_small_blind": "Ksowas",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4c",
+            "Ac",
+            "6d"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ShowStacky",
+                "hodisuda",
+                "gust",
+                "Ksowas",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                1.0,
+                null,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksowas",
+                "IlxxxlI",
+                "ShowStacky",
+                "Ksowas",
+                "IlxxxlI",
+                "ShowStacky",
+                "Ksowas"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "ALLIN",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0,
+                8.64,
+                6.64,
+                18.5,
+                11.86,
+                11.86
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksowas",
+                "ShowStacky"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ksowas",
+                "ShowStacky"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                29.88,
+                29.88
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8c Jc",
+        null,
+        null,
+        "5c Kc",
+        "10c 9c"
+    ],
+    "finishing_stack": [
+        39.96999999999999,
+        157.29,
+        40.0,
+        121.26,
+        0.0
+    ]
+}

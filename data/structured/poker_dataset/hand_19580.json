@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/9 18:16:46",
+    "game_id": "794146505",
+    "variant": "PRR",
+    "table_name": "Gorgons-14",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "beachrog",
+        "Macka3oppo13",
+        "IlxxxlI",
+        "Ksowas"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        19.01,
+        50.0,
+        24.1,
+        51.39
+    ],
+    "player_small_blind": "beachrog",
+    "small_blind": 0.25,
+    "player_big_blind": "Macka3oppo13",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "3s",
+            "Qh"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ksowas",
+                "beachrog",
+                "Macka3oppo13"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "beachrog",
+                "Ksowas",
+                "beachrog"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.19,
+                1.19
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "beachrog",
+                "Ksowas",
+                "beachrog"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.32,
+                2.32
+            ]
+        },
+        "post-river": {
+            "players": [
+                "beachrog",
+                "Ksowas"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "2h 4h",
+        null,
+        null,
+        "7c Ks"
+    ],
+    "finishing_stack": [
+        23.550000000000004,
+        49.5,
+        24.1,
+        46.88
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/6 13:35:47",
+    "game_id": "792096436",
+    "variant": "PRR",
+    "table_name": "Gorgons-15",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "PattyCakes1014",
+        "3starballer",
+        "errrrrrrrrr",
+        "IlxxxlI",
+        "hyssemalou",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.57,
+        18.04,
+        138.54,
+        20.0,
+        30.99,
+        50.77
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.25,
+    "player_big_blind": "PattyCakes1014",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "6h",
+            "8c"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "3starballer",
+                "errrrrrrrrr",
+                "IlxxxlI",
+                "hyssemalou",
+                "Parcker",
+                "PattyCakes1014"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PattyCakes1014",
+                "hyssemalou",
+                "PattyCakes1014"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.54,
+                1.54
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PattyCakes1014",
+                "hyssemalou"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "PattyCakes1014",
+                "hyssemalou"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.27,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        29.35,
+        18.04,
+        138.54,
+        20.0,
+        25.95,
+        50.52
+    ]
+}

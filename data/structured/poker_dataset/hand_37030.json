@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/3 14:3:14",
+    "game_id": "789975132",
+    "variant": "PRR",
+    "table_name": "Ekek-27",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Ksander",
+        "rungood4life",
+        "IlxxxlI",
+        "Donkey_Hunter"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        25.0,
+        31.22,
+        10.35,
+        13.9
+    ],
+    "player_small_blind": "rungood4life",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "Qd",
+            "7c"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Donkey_Hunter",
+                "Ksander",
+                "rungood4life",
+                "IlxxxlI",
+                "Donkey_Hunter"
+            ],
+            "actions": [
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.0,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Donkey_Hunter",
+                "Ksander",
+                "Donkey_Hunter"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.25,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Donkey_Hunter",
+                "Ksander",
+                "Donkey_Hunter"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Donkey_Hunter",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ad 10c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.060000000000002,
+        31.119999999999997,
+        10.1,
+        8.65
+    ]
+}

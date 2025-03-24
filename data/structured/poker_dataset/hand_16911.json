@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/19 20:24:25",
+    "game_id": "801723508",
+    "variant": "PRR",
+    "table_name": "Bahamut",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "doctor rick",
+        "Tolstobrov E",
+        "JohnnyB3692",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        1.8,
+        1.13,
+        2.3,
+        2.0
+    ],
+    "player_small_blind": "JohnnyB3692",
+    "small_blind": 0.01,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.02,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "Qh",
+            "10h"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "doctor rick",
+                "Tolstobrov E",
+                "JohnnyB3692",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                0.02,
+                0.01,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JohnnyB3692",
+                "IlxxxlI",
+                "Tolstobrov E",
+                "JohnnyB3692",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.03,
+                null,
+                0.03
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Tolstobrov E",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.06,
+                0.06
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Tolstobrov E"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kc 3c",
+        null,
+        "4d Qd"
+    ],
+    "finishing_stack": [
+        1.8,
+        1.0199999999999998,
+        2.28,
+        2.12
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/25 15:10:7",
+    "game_id": "805731547",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Sonic3Dblast",
+        "groshelnik",
+        "3ubble3utt",
+        "anokato",
+        "MrTamPham"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        26.45,
+        54.89,
+        25.0,
+        25.23,
+        61.34,
+        45.15
+    ],
+    "player_small_blind": "groshelnik",
+    "small_blind": 0.1,
+    "player_big_blind": "3ubble3utt",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "Ac",
+            "9d"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "MrTamPham",
+                "IlxxxlI",
+                "Sonic3Dblast",
+                "groshelnik",
+                "3ubble3utt",
+                "anokato"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                null,
+                null,
+                2.25,
+                1.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "3ubble3utt",
+                "anokato",
+                "3ubble3utt"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.42,
+                2.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "3ubble3utt",
+                "anokato",
+                "3ubble3utt"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.5,
+                5.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "3ubble3utt",
+                "anokato"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                14.81,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        26.45,
+        54.89,
+        24.9,
+        34.71,
+        50.92,
+        45.15
+    ]
+}

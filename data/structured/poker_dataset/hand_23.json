@@ -1,91 +1,123 @@
 {
-    "date": "2016/11/29 15:20:44",
-    "game_id": "787026050",
+    "date": "2016/9/4 2:15:42",
+    "game_id": "718949125",
     "variant": "PRR",
-    "table_name": "Karkadann",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 9,
     "players": [
-        "StephCurry",
-        "PANDAisEVIL",
-        "AironVega",
+        "BIGRAISE",
+        "tcoll16",
+        "cracypoker",
+        "VegetablesArentYummy",
+        "Oakee",
         "IlxxxlI",
-        "dankmann",
-        "ElvenEyes",
-        "gust",
-        "VegetablesArentYummy"
+        "WalterBlack",
+        "TheFront7",
+        "NoSugarJoe"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
+        5,
         6,
         7,
         8,
         9
     ],
     "starting_stacks": [
-        105.78,
-        100.0,
-        103.2,
-        44.5,
-        210.52,
-        111.8,
-        47.0,
-        270.09
+        120.0,
+        229.62,
+        261.95,
+        200.0,
+        200.0,
+        80.0,
+        475.85,
+        299.2,
+        16.2
     ],
-    "player_small_blind": "PANDAisEVIL",
-    "small_blind": 0.5,
-    "player_big_blind": "AironVega",
-    "big_blind": 1.0,
+    "player_small_blind": "BIGRAISE",
+    "small_blind": 2.0,
+    "player_big_blind": "tcoll16",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9c",
-        "6s"
+        "5d",
+        "Qc"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Qh",
+            "7d",
+            "Jd"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "9s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "dankmann",
-                "ElvenEyes",
-                "gust",
+                "cracypoker",
                 "VegetablesArentYummy",
-                "StephCurry",
-                "PANDAisEVIL",
-                "AironVega"
+                "Oakee",
+                "IlxxxlI",
+                "WalterBlack",
+                "TheFront7",
+                "NoSugarJoe",
+                "BIGRAISE",
+                "tcoll16"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "RAISE",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
                 null,
                 null,
+                4.0,
                 null,
+                4.0,
                 null,
-                2.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "tcoll16",
+                "WalterBlack",
+                "NoSugarJoe",
+                "tcoll16",
+                "WalterBlack"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                12.2,
+                null,
+                8.2
+            ]
         },
         "post-turn": {
             "players": [],
@@ -105,17 +137,19 @@
         null,
         null,
         null,
+        "3d 3h",
         null,
-        null
+        "10h Js"
     ],
     "finishing_stack": [
-        105.78,
-        101.0,
-        102.2,
-        44.5,
-        210.52,
-        111.8,
-        47.0,
-        270.09
+        118.0,
+        225.62,
+        261.95,
+        200.0,
+        200.0,
+        80.0,
+        459.65000000000003,
+        299.2,
+        38.05
     ]
 }

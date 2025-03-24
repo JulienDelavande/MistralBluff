@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 14:0:24",
+    "game_id": "805706283",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "afvet333",
+        "dtnfk",
+        "IlxxxlI",
+        "Jui Kuen",
+        "paulk1234",
+        "Parcker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.9,
+        34.83,
+        12.5,
+        13.0,
+        39.13,
+        13.02
+    ],
+    "player_small_blind": "paulk1234",
+    "small_blind": 0.1,
+    "player_big_blind": "Parcker",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kd",
+            "10d",
+            "Js"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "afvet333",
+                "dtnfk",
+                "IlxxxlI",
+                "Jui Kuen",
+                "paulk1234",
+                "Parcker",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                1.15,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "paulk1234",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "paulk1234",
+                "Jui Kuen",
+                "paulk1234"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                1.31,
+                4.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.9,
+        34.83,
+        12.5,
+        15.55,
+        36.57,
+        12.77
+    ]
+}

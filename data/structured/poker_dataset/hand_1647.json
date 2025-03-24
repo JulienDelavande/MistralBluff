@@ -1,138 +1,153 @@
 {
-    "date": "2016/11/28 20:29:33",
-    "game_id": "786374386",
+    "date": "2016/9/18 7:50:37",
+    "game_id": "730200173",
     "variant": "PRR",
-    "table_name": "Gorgons",
+    "table_name": "Karkadann",
     "type_game": "Hold'em",
-    "button_seat": 1,
+    "button_seat": 7,
     "players": [
-        "SenNoSen",
-        "in_ur_i",
-        "caballeroXXX",
-        "meandkids",
-        "IlxxxlI"
+        "IlxxxlI",
+        "0nlyDaNuts",
+        "VegetablesArentYummy",
+        "gosu36484",
+        "Pimpika",
+        "BlitzWaut",
+        "Immortal.",
+        "dartx",
+        "Chicubs2016"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        50.5,
-        45.56,
-        102.07,
-        35.44,
-        20.0
+        78.69,
+        110.96,
+        100.0,
+        38.5,
+        50.59,
+        126.54,
+        100.0,
+        40.82,
+        65.34
     ],
-    "player_small_blind": "in_ur_i",
-    "small_blind": 0.25,
-    "player_big_blind": "caballeroXXX",
-    "big_blind": 0.5,
+    "player_small_blind": "dartx",
+    "small_blind": 0.5,
+    "player_big_blind": "Chicubs2016",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3d",
-        "7c"
+        "8d",
+        "5d"
     ],
     "dealed_cards": {
         "flop": [
-            "Ac",
-            "6s",
-            "7d"
+            "9c",
+            "10h",
+            "Js"
         ],
         "turn": [
-            "6d"
+            "7d"
         ],
-        "river": [
-            "2c"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "meandkids",
                 "IlxxxlI",
-                "SenNoSen",
-                "in_ur_i",
-                "caballeroXXX"
+                "0nlyDaNuts",
+                "VegetablesArentYummy",
+                "gosu36484",
+                "Pimpika",
+                "BlitzWaut",
+                "Immortal.",
+                "dartx",
+                "Chicubs2016"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "CALL",
-                "CHECK"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                0.25,
-                null
+                null,
+                null,
+                null,
+                null,
+                1.5,
+                1.0
             ]
         },
         "post-flop": {
             "players": [
-                "in_ur_i",
-                "caballeroXXX"
+                "dartx",
+                "Chicubs2016"
             ],
             "actions": [
                 "BET",
                 "CALL"
             ],
             "values": [
-                0.5,
-                0.5
+                1.26,
+                1.26
             ]
         },
         "post-turn": {
             "players": [
-                "in_ur_i",
-                "caballeroXXX",
-                "in_ur_i"
+                "dartx",
+                "Chicubs2016"
             ],
             "actions": [
-                "CHECK",
                 "BET",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                null,
-                0.95,
-                0.95
+                3.1,
+                null
             ]
         },
         "post-river": {
-            "players": [
-                "in_ur_i",
-                "caballeroXXX",
-                "in_ur_i"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.5,
-                1.5
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "Qd 6c",
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
     ],
     "finishing_stack": [
-        50.5,
-        42.11,
-        105.17999999999999,
-        35.44,
-        20.0
+        78.69,
+        110.96,
+        100.0,
+        38.5,
+        50.59,
+        126.54,
+        100.0,
+        43.760000000000005,
+        62.080000000000005
     ]
 }

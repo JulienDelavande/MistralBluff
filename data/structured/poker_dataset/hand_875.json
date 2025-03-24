@@ -1,64 +1,93 @@
 {
-    "date": "2016/11/29 12:47:15",
-    "game_id": "786956410",
+    "date": "2016/9/6 0:49:8",
+    "game_id": "720650581",
     "variant": "PRR",
-    "table_name": "Kraken-8",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 7,
     "players": [
-        "MadLifeGrinder",
+        "PANDAisEVIL",
+        "VegetablesArentYummy",
+        "Im Don King",
         "IlxxxlI",
-        "lordboroda",
-        "rook_",
-        "LloydXmas"
+        "cuzyagood",
+        "Leatherass9",
+        "PandaWang"
     ],
     "players_seats": [
         1,
-        2,
-        3,
         4,
-        5
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        100.0,
-        42.5,
-        112.6,
-        160.98,
-        100.0
+        214.0,
+        205.4,
+        206.0,
+        124.46,
+        200.0,
+        417.0,
+        246.45
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "lordboroda",
-    "big_blind": 1.0,
+    "player_small_blind": "Leatherass9",
+    "small_blind": 2.0,
+    "player_big_blind": "PandaWang",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4s",
-        "6d"
+        "Jd",
+        "Js"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Jc",
+            "6s",
+            "2s"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "Qs"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "rook_",
-                "LloydXmas",
-                "MadLifeGrinder",
-                "IlxxxlI"
+                "PANDAisEVIL",
+                "VegetablesArentYummy",
+                "Im Don King",
+                "IlxxxlI",
+                "cuzyagood",
+                "Leatherass9",
+                "PandaWang",
+                "IlxxxlI",
+                "cuzyagood"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "ALLIN",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
                 null,
-                null
+                8.0,
+                24.0,
+                null,
+                null,
+                116.46,
+                100.46
             ]
         },
         "post-flop": {
@@ -81,14 +110,18 @@
         null,
         null,
         null,
+        "Jd Js",
+        "Ks Kc",
         null,
         null
     ],
     "finishing_stack": [
-        100.0,
-        42.0,
-        113.1,
-        160.98,
-        100.0
+        214.0,
+        205.4,
+        206.0,
+        0.0,
+        327.96,
+        415.0,
+        242.45
     ]
 }

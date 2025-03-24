@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/23 7:31:27",
+    "game_id": "804163757",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "nemesh123",
+        "itsmejdg",
+        "Ksander",
+        "MadYugo"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.44,
+        11.76,
+        12.15,
+        26.31,
+        28.02
+    ],
+    "player_small_blind": "Ksander",
+    "small_blind": 0.1,
+    "player_big_blind": "MadYugo",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Jd",
+            "6d"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "nemesh123",
+                "itsmejdg",
+                "Ksander",
+                "MadYugo"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadYugo",
+                "nemesh123",
+                "MadYugo"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadYugo",
+                "nemesh123"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MadYugo",
+                "nemesh123",
+                "MadYugo"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        13.44,
+        12.53,
+        12.15,
+        26.209999999999997,
+        27.27
+    ]
+}

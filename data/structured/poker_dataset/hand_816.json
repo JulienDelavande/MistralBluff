@@ -1,130 +1,97 @@
 {
-    "date": "2016/11/29 12:57:38",
-    "game_id": "786962182",
+    "date": "2016/9/6 0:36:39",
+    "game_id": "720639942",
     "variant": "PRR",
-    "table_name": "Kraken-22",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
+        "bassman33",
+        "Leatherass9",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "gust",
-        "MadLifeGrinder",
-        "WeakAndWeary"
+        "anarkopoker"
     ],
     "players_seats": [
+        1,
         2,
+        3,
         4,
-        5,
-        6
+        5
     ],
     "starting_stacks": [
-        40.0,
-        41.0,
-        100.0,
-        264.81
+        167.62,
+        287.7,
+        214.0,
+        153.34,
+        385.61
     ],
-    "player_small_blind": "MadLifeGrinder",
-    "small_blind": 0.5,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 1.0,
+    "player_small_blind": "bassman33",
+    "small_blind": 2.0,
+    "player_big_blind": "Leatherass9",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Js",
-        "3d"
+        "6c",
+        "10s"
     ],
     "dealed_cards": {
-        "flop": [
-            "7d",
-            "Qs",
-            "7s"
-        ],
-        "turn": [
-            "Jc"
-        ],
-        "river": [
-            "Qc"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "gust",
-                "MadLifeGrinder",
-                "WeakAndWeary"
+                "anarkopoker",
+                "bassman33",
+                "Leatherass9"
             ],
             "actions": [
+                "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL"
+                "FOLD"
             ],
             "values": [
                 null,
-                2.0,
                 null,
-                1.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "WeakAndWeary",
-                "gust",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                2.14,
-                2.14
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "WeakAndWeary",
-                "gust",
-                "WeakAndWeary"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                5.56,
-                5.56
-            ]
-        },
-        "post-river": {
-            "players": [
-                "WeakAndWeary",
-                "gust"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
+                8.6,
                 null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
-        "10d Kh",
         null,
-        "7c 6c"
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        40.0,
-        31.3,
-        99.5,
-        274.02000000000004
+        165.62,
+        283.7,
+        214.0,
+        153.34,
+        391.61
     ]
 }

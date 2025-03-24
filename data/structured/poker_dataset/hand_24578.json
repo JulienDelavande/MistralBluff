@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 11:56:29",
+    "game_id": "793322978",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "_glocklee_",
+        "IlxxxlI",
+        "GreinSeint",
+        "gipper PK",
+        "Palkan93"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        14.8,
+        25.0,
+        26.8,
+        29.79
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "GreinSeint",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "7d",
+            "Ac"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "gipper PK",
+                "Palkan93",
+                "_glocklee_",
+                "IlxxxlI",
+                "GreinSeint"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "GreinSeint",
+                "_glocklee_",
+                "GreinSeint"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "GreinSeint",
+                "_glocklee_"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "GreinSeint",
+                "_glocklee_"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qh 10d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        23.24,
+        14.700000000000001,
+        26.68,
+        26.8,
+        29.79
+    ]
+}

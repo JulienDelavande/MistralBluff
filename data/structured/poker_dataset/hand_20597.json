@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/9 10:13:23",
+    "game_id": "793943814",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "thegambler327",
+        "IlxxxlI",
+        "Jui Kuen",
+        "IgLa",
+        "avamole",
+        "Tilt-A-Whirl"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        62.09,
+        20.75,
+        50.0,
+        50.75,
+        46.79,
+        79.67
+    ],
+    "player_small_blind": "Tilt-A-Whirl",
+    "small_blind": 0.25,
+    "player_big_blind": "thegambler327",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "Ac",
+            "3s"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "As"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Jui Kuen",
+                "IgLa",
+                "avamole",
+                "Tilt-A-Whirl",
+                "thegambler327"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.75,
+                null,
+                null,
+                1.75,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "thegambler327",
+                "IlxxxlI",
+                "avamole",
+                "thegambler327",
+                "IlxxxlI",
+                "avamole"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.48,
+                10.0,
+                null,
+                6.52
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "thegambler327",
+                "avamole"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                3.25,
+                3.25
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Ad 3d",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        77.49000000000001,
+        19.0,
+        50.0,
+        50.75,
+        31.79,
+        79.42
+    ]
+}

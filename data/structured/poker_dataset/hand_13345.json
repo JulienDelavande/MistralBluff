@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 10:11:12",
+    "game_id": "804971128",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "Quest4dAcAsh",
+        "Slamit111",
+        "huiloputin",
+        "dtnfk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        25.0,
+        28.84,
+        25.07,
+        33.73,
+        10.45
+    ],
+    "player_small_blind": "Quest4dAcAsh",
+    "small_blind": 0.1,
+    "player_big_blind": "Slamit111",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "8d",
+            "Qh"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "huiloputin",
+                "dtnfk",
+                "IlxxxlI",
+                "Quest4dAcAsh",
+                "Slamit111"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.58,
+                0.48,
+                0.33
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Quest4dAcAsh",
+                "Slamit111",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.83,
+                0.83,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Quest4dAcAsh",
+                "Slamit111"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.15,
+                2.15
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Quest4dAcAsh",
+                "Slamit111"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.44,
+                2.44
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "2s 2h",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.42,
+        34.8,
+        19.07,
+        33.73,
+        10.45
+    ]
+}

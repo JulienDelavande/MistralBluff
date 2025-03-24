@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/7 19:17:3",
+    "game_id": "792774297",
+    "variant": "PRR",
+    "table_name": "Gorgons-24",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "darKK228",
+        "Bokmal",
+        "IgLa",
+        "lovecola",
+        "Mr.Excel",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        51.25,
+        22.12,
+        63.43,
+        83.87,
+        20.0
+    ],
+    "player_small_blind": "Mr.Excel",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "4h",
+            "10c"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "darKK228",
+                "Bokmal",
+                "IgLa",
+                "lovecola",
+                "Mr.Excel",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "lovecola",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "lovecola"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "lovecola",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.42,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        51.25,
+        22.12,
+        64.57,
+        83.62,
+        19.0
+    ]
+}

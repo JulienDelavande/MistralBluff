@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/26 13:8:42",
+    "game_id": "806342523",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "dtnfk",
+        "Artemone",
+        "misky10",
+        "ImYourFriend1996",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        28.22,
+        12.05,
+        26.44,
+        28.09,
+        25.67,
+        30.34
+    ],
+    "player_small_blind": "dtnfk",
+    "small_blind": 0.1,
+    "player_big_blind": "Artemone",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "5h",
+            "4h"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "misky10",
+                "ImYourFriend1996",
+                "HapKoTuk",
+                "IlxxxlI",
+                "dtnfk",
+                "Artemone",
+                "misky10",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                0.82,
+                null,
+                2.75,
+                null,
+                2.18
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Artemone",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.02,
+                3.02
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Artemone",
+                "IlxxxlI",
+                "Artemone",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.25,
+                20.42,
+                15.17
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "5d 5s",
+        null,
+        "As Ac",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.349999999999994,
+        11.950000000000001,
+        0.0,
+        27.84,
+        25.67,
+        30.34
+    ]
+}

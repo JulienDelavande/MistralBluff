@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/24 20:45:9",
+    "game_id": "805219850",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "ChameleoNN-",
+        "IlxxxlI",
+        "Indigol",
+        "KUSH_KING",
+        "38979",
+        "shim123"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        59.46,
+        52.25,
+        50.75,
+        52.52,
+        50.0,
+        61.35
+    ],
+    "player_small_blind": "38979",
+    "small_blind": 0.25,
+    "player_big_blind": "shim123",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "10d",
+            "2h"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ChameleoNN-",
+                "IlxxxlI",
+                "Indigol",
+                "KUSH_KING",
+                "38979",
+                "shim123"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shim123",
+                "KUSH_KING",
+                "shim123"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.07,
+                1.07
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shim123",
+                "KUSH_KING",
+                "shim123"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.09,
+                2.09
+            ]
+        },
+        "post-river": {
+            "players": [
+                "shim123",
+                "KUSH_KING"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Qs 8d",
+        null,
+        "2s Kc"
+    ],
+    "finishing_stack": [
+        59.46,
+        52.25,
+        50.75,
+        48.36,
+        49.75,
+        65.34
+    ]
+}

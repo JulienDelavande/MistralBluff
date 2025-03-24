@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 9:54:21",
+    "game_id": "793226585",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "beachrog",
+        "xPoker Jokerx",
+        "jaque y mate",
+        "xxRepoManxx",
+        "Big Hadgi",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        22.8,
+        29.85,
+        21.12,
+        26.7,
+        14.38,
+        10.0
+    ],
+    "player_small_blind": "xxRepoManxx",
+    "small_blind": 0.25,
+    "player_big_blind": "Big Hadgi",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "9c",
+            "5s"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "beachrog",
+                "xPoker Jokerx",
+                "jaque y mate",
+                "xxRepoManxx",
+                "Big Hadgi"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Big Hadgi",
+                "beachrog",
+                "Big Hadgi"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.07,
+                1.07
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Big Hadgi",
+                "beachrog"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Big Hadgi",
+                "beachrog"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "5c 5h",
+        null,
+        null,
+        null,
+        "2c 7d",
+        null
+    ],
+    "finishing_stack": [
+        26.26,
+        29.85,
+        21.12,
+        26.45,
+        10.81,
+        10.0
+    ]
+}

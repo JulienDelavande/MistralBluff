@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/25 13:30:31",
+    "game_id": "805693618",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "maxi1848",
+        "anokato",
+        "IlxxxlI",
+        "MrTamPham",
+        "Sonic3Dblast"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        27.56,
+        38.92,
+        25.0,
+        25.0,
+        25.34
+    ],
+    "player_small_blind": "Sonic3Dblast",
+    "small_blind": 0.1,
+    "player_big_blind": "maxi1848",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "Qc",
+            "Qs"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "IlxxxlI",
+                "MrTamPham",
+                "Sonic3Dblast",
+                "maxi1848"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "anokato",
+                "MrTamPham"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Sonic3Dblast",
+                "anokato",
+                "MrTamPham",
+                "Sonic3Dblast"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.58,
+                1.58,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "anokato",
+                "MrTamPham"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.69,
+                2.69
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "10h Kh",
+        null,
+        "10s Ks",
+        null
+    ],
+    "finishing_stack": [
+        27.31,
+        39.14000000000001,
+        25.0,
+        25.23,
+        24.59
+    ]
+}

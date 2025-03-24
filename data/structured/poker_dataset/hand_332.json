@@ -1,20 +1,18 @@
 {
-    "date": "2016/11/29 14:32:16",
-    "game_id": "787008073",
+    "date": "2016/9/5 11:43:9",
+    "game_id": "720251785",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "VegetablesArentYummy",
+        "SheppyPOO!!",
         "IlxxxlI",
-        "IbetUmuck",
-        "DonCesarGrinder",
-        "MadLifeGrinder",
-        "LloydXmas"
+        "graphicup",
+        "Jimisdumb",
+        "follower1"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
@@ -22,45 +20,44 @@
         6
     ],
     "starting_stacks": [
-        229.65,
-        84.35,
-        863.9,
-        262.02,
-        215.06,
-        230.73
+        300.0,
+        153.35,
+        240.0,
+        194.0,
+        358.05
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "IbetUmuck",
-    "big_blind": 2.0,
+    "player_small_blind": "Jimisdumb",
+    "small_blind": 3.0,
+    "player_big_blind": "follower1",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "5c"
+        "5h",
+        "10d"
     ],
     "dealed_cards": {
         "flop": [
-            "Jd",
-            "3h",
-            "7d"
+            "10h",
+            "Kd",
+            "9h"
         ],
         "turn": [
-            "5d"
+            "Qc"
         ],
-        "river": []
+        "river": [
+            "Jc"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "DonCesarGrinder",
-                "MadLifeGrinder",
-                "LloydXmas",
-                "VegetablesArentYummy",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "IbetUmuck"
+                "graphicup",
+                "Jimisdumb",
+                "follower1"
             ],
             "actions": [
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
@@ -71,46 +68,54 @@
                 null,
                 null,
                 null,
-                null,
-                4.0,
-                3.0
+                9.0,
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "IbetUmuck",
-                "IlxxxlI"
+                "Jimisdumb",
+                "follower1"
             ],
             "actions": [
-                "CHECK",
                 "BET",
                 "CALL"
             ],
             "values": [
-                null,
-                4.75,
-                4.75
+                11.9,
+                11.9
             ]
         },
         "post-turn": {
             "players": [
-                "IlxxxlI",
-                "IbetUmuck"
+                "Jimisdumb",
+                "follower1"
             ],
             "actions": [
                 "BET",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                8.0,
-                null
+                15.78,
+                15.78
             ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Jimisdumb",
+                "follower1",
+                "Jimisdumb"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                318.37,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -118,15 +123,13 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        229.65,
-        93.13,
-        854.15,
-        262.02,
-        215.06,
-        230.73
+        300.0,
+        153.35,
+        240.0,
+        154.32,
+        396.98
     ]
 }

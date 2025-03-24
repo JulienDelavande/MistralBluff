@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 19:1:54",
+    "game_id": "792771877",
+    "variant": "PRR",
+    "table_name": "Ekek-12",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IampokerKidd",
+        "KUSH_KING",
+        "huiloputin",
+        "IlxxxlI",
+        "Irene13"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        26.93,
+        42.68,
+        25.0,
+        10.0,
+        35.8
+    ],
+    "player_small_blind": "KUSH_KING",
+    "small_blind": 0.1,
+    "player_big_blind": "huiloputin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "Ac",
+            "3c"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Irene13",
+                "IampokerKidd",
+                "KUSH_KING",
+                "huiloputin",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                2.25,
+                1.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "huiloputin",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "huiloputin",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.9,
+                2.9
+            ]
+        },
+        "post-river": {
+            "players": [
+                "huiloputin",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                7.46,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.53,
+        42.58,
+        29.96,
+        10.0,
+        35.8
+    ]
+}

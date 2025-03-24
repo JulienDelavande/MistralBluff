@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/25 15:3:32",
+    "game_id": "805729421",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "minmoney5",
+        "Sonic3Dblast",
+        "anokato",
+        "IlxxxlI",
+        "MrTamPham",
+        "ImYourFriend1996"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        52.72,
+        25.0,
+        25.0,
+        35.35,
+        32.7
+    ],
+    "player_small_blind": "Sonic3Dblast",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "9s",
+            "3s"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "MrTamPham",
+                "ImYourFriend1996",
+                "minmoney5",
+                "Sonic3Dblast",
+                "anokato",
+                "minmoney5"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.62,
+                null,
+                1.75,
+                1.38
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "anokato",
+                "minmoney5"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.95,
+                1.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "anokato",
+                "minmoney5"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.05,
+        52.62,
+        28.65,
+        25.0,
+        35.35,
+        32.7
+    ]
+}

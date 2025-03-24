@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/22 21:57:13",
+    "game_id": "803794991",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "booya25",
+        "tywhoyou",
+        "densis",
+        "naprimer",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        15.55,
+        20.3,
+        28.94,
+        34.23,
+        34.29
+    ],
+    "player_small_blind": "densis",
+    "small_blind": 0.1,
+    "player_big_blind": "naprimer",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "4d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "Ac",
+            "8h"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "booya25",
+                "tywhoyou",
+                "densis",
+                "naprimer"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "densis",
+                "naprimer"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "densis",
+                "naprimer"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "densis",
+                "naprimer"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ad Ah",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        15.55,
+        20.3,
+        32.32,
+        30.479999999999997,
+        34.29
+    ]
+}

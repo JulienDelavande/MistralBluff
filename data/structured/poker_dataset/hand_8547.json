@@ -1,0 +1,134 @@
+{
+    "date": "2016/12/26 12:30:50",
+    "game_id": "806321921",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "sr86",
+        "WinL2328",
+        "CardShark98",
+        "IlxxxlI",
+        "DuggleBogey",
+        "Syanala"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        14.48,
+        3.3,
+        17.07,
+        12.5,
+        12.69,
+        15.44
+    ],
+    "player_small_blind": "sr86",
+    "small_blind": 0.1,
+    "player_big_blind": "WinL2328",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "8d",
+            "Js"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CardShark98",
+                "IlxxxlI",
+                "DuggleBogey",
+                "Syanala",
+                "sr86",
+                "WinL2328"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "sr86",
+                "WinL2328"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "sr86",
+                "WinL2328",
+                "sr86"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.55,
+                1.55
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Qd 9d",
+        "Kc 8s",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.18,
+        6.27,
+        17.07,
+        12.5,
+        12.69,
+        15.44
+    ]
+}

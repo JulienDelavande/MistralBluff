@@ -1,0 +1,111 @@
+{
+    "date": "2016/12/6 8:46:57",
+    "game_id": "791896284",
+    "variant": "PRR",
+    "table_name": "Gorgons-11",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "peedee2211",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2
+    ],
+    "starting_stacks": [
+        51.0,
+        23.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "peedee2211",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "2c",
+            "10d"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "peedee2211"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "peedee2211",
+                "IlxxxlI",
+                "peedee2211"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.24,
+                1.24
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "peedee2211",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "peedee2211",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "3c As",
+        "Qh 6h"
+    ],
+    "finishing_stack": [
+        53.25,
+        20.509999999999998
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "date": "2016/10/13 10:23:16",
+    "game_id": "749614308",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "nefis",
+        "ROCKYII",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        49.5,
+        53.66,
+        50.5
+    ],
+    "player_small_blind": "nefis",
+    "small_blind": 0.25,
+    "player_big_blind": "ROCKYII",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10c",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "Kh",
+            "3h"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "nefis",
+                "ROCKYII"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "nefis",
+                "ROCKYII",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "nefis",
+                "ROCKYII",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "nefis",
+                "ROCKYII",
+                "IlxxxlI",
+                "nefis"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        48.0,
+        56.44,
+        49.0
+    ]
+}

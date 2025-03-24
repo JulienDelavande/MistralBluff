@@ -1,100 +1,100 @@
 {
-    "date": "2016/11/21 10:48:14",
-    "game_id": "780949347",
+    "date": "2016/9/18 9:54:41",
+    "game_id": "730268891",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 4,
     "players": [
-        "sr86",
+        "Lewass99",
         "IlxxxlI",
-        "WICHONSKI",
-        "Brucelegend",
-        "parmele",
-        "ChrisNola",
-        "iflopznuts",
-        "FirstClan"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "cracypoker",
+        "kalabanaspirit",
+        "sobrr",
+        "xx_HaZ"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
         5,
         6,
-        7,
         8,
         9
     ],
     "starting_stacks": [
-        26.17,
-        10.0,
-        44.58,
-        24.25,
-        24.5,
-        27.21,
-        59.82,
-        25.0
+        190.7,
+        99.68,
+        447.0,
+        295.83,
+        218.03,
+        218.76,
+        80.0,
+        203.0
     ],
-    "player_small_blind": "parmele",
-    "small_blind": 0.25,
-    "player_big_blind": "ChrisNola",
-    "big_blind": 0.5,
+    "player_small_blind": "cracypoker",
+    "small_blind": 1.0,
+    "player_big_blind": "kalabanaspirit",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Js",
-        "7c"
+        "Kd",
+        "4c"
     ],
     "dealed_cards": {
         "flop": [
-            "3c",
-            "8h",
-            "Jc"
+            "Jh",
+            "4s",
+            "6s"
         ],
         "turn": [
-            "9h"
+            "10d"
         ],
         "river": [
-            "4c"
+            "6c"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "iflopznuts",
-                "FirstClan",
-                "sr86",
+                "sobrr",
+                "xx_HaZ",
+                "Lewass99",
                 "IlxxxlI",
-                "WICHONSKI",
-                "Brucelegend",
-                "parmele",
-                "ChrisNola"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "cracypoker",
+                "kalabanaspirit"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "CALL",
-                "CALL"
+                "CHECK"
             ],
             "values": [
+                null,
+                null,
+                2.0,
+                null,
+                null,
+                null,
                 1.0,
-                null,
-                null,
-                null,
-                null,
-                null,
-                0.75,
-                0.5
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "parmele",
-                "ChrisNola",
-                "iflopznuts"
+                "cracypoker",
+                "kalabanaspirit",
+                "Lewass99"
             ],
             "actions": [
                 "CHECK",
@@ -109,57 +109,54 @@
         },
         "post-turn": {
             "players": [
-                "parmele",
-                "ChrisNola",
-                "iflopznuts",
-                "parmele"
+                "cracypoker",
+                "kalabanaspirit",
+                "Lewass99"
             ],
             "actions": [
-                "CHECK",
                 "BET",
-                "CALL",
-                "FOLD"
+                "FOLD",
+                "CALL"
             ],
             "values": [
+                8.0,
                 null,
-                0.95,
-                0.95,
-                null
+                8.0
             ]
         },
         "post-river": {
             "players": [
-                "ChrisNola",
-                "iflopznuts"
+                "cracypoker",
+                "Lewass99"
             ],
             "actions": [
                 "BET",
-                "FOLD"
+                "CALL"
             ],
             "values": [
-                2.5,
-                null
+                20.0,
+                20.0
             ]
         }
     },
     "card_shown_by_players": [
+        "Jd Ad",
         null,
         null,
         null,
-        null,
-        null,
+        "Qc 9s",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        26.17,
-        10.0,
-        44.58,
-        24.25,
-        23.5,
-        29.92,
-        57.87,
-        25.0
+        219.7,
+        99.68,
+        447.0,
+        295.83,
+        188.03,
+        216.76,
+        80.0,
+        203.0
     ]
 }

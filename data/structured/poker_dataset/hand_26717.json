@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/8 6:52:5",
+    "game_id": "793070862",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "fortecco",
+        "FirstClan",
+        "foldemfoley",
+        "BeatsHappen",
+        "strodawg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        5.0,
+        29.01,
+        12.5,
+        4.26,
+        13.15,
+        35.76
+    ],
+    "player_small_blind": "fortecco",
+    "small_blind": 0.1,
+    "player_big_blind": "FirstClan",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "2c",
+            "Ks"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "foldemfoley",
+                "BeatsHappen",
+                "strodawg",
+                "IlxxxlI",
+                "fortecco",
+                "FirstClan"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "fortecco",
+                "FirstClan"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.71,
+                0.71
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "fortecco",
+                "FirstClan"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "fortecco",
+                "FirstClan"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "5c Ah",
+        "Ad 8c",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        5.0,
+        28.89,
+        12.379999999999999,
+        4.26,
+        13.15,
+        35.76
+    ]
+}

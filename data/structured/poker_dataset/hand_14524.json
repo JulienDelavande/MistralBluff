@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/23 12:59:24",
+    "game_id": "804403568",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "CroMagnons",
+        "bgibson9970",
+        "Parcker",
+        "Zzzzzzz10"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        32.49,
+        31.44,
+        12.25,
+        19.53,
+        13.61
+    ],
+    "player_small_blind": "CroMagnons",
+    "small_blind": 0.1,
+    "player_big_blind": "bgibson9970",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "Jh",
+            "3d"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Parcker",
+                "Zzzzzzz10",
+                "IlxxxlI",
+                "CroMagnons",
+                "bgibson9970",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.58,
+                1.65,
+                null,
+                1.17
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CroMagnons",
+                "IlxxxlI",
+                "CroMagnons"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.75,
+                3.5,
+                1.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CroMagnons",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CroMagnons",
+                "IlxxxlI",
+                "CroMagnons"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.11,
+                5.11
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "8s 10s",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        42.06,
+        21.080000000000002,
+        12.0,
+        19.53,
+        13.61
+    ]
+}

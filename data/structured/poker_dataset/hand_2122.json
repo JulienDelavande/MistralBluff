@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:36:23",
-    "game_id": "786352728",
+    "date": "2016/9/18 8:52:48",
+    "game_id": "730237848",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 4,
     "players": [
-        "SenNoSen",
-        "eu4ria",
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "Goomashroom",
-        "Hakuna_Matata777",
-        "wethco"
+        "PolitcallyiC2.0",
+        "Frisconar",
+        "Pablo46",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
@@ -19,66 +22,82 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        117.91,
-        235.96,
-        21.75,
-        50.0,
-        50.53,
-        70.98
+        101.5,
+        184.67,
+        40.0,
+        118.72,
+        36.0,
+        100.0,
+        101.5,
+        37.45,
+        240.51
     ],
-    "player_small_blind": "Goomashroom",
-    "small_blind": 0.25,
-    "player_big_blind": "wethco",
-    "big_blind": 0.5,
+    "player_small_blind": "Frisconar",
+    "small_blind": 0.5,
+    "player_big_blind": "Pablo46",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3c",
-        "Kc"
+        "10h",
+        "9d"
     ],
     "dealed_cards": {
         "flop": [
-            "3d",
-            "4d",
-            "Qc"
+            "Jc",
+            "Jh",
+            "As"
         ],
         "turn": [
-            "5s"
+            "3c"
         ],
-        "river": [
-            "5c"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "SenNoSen",
-                "eu4ria",
+                "FirstClan",
+                "brainvape",
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
                 "IlxxxlI",
-                "Goomashroom",
-                "wethco"
+                "PolitcallyiC2.0",
+                "Frisconar",
+                "Pablo46"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
                 1.5,
-                null,
-                null,
                 1.0
             ]
         },
         "post-flop": {
             "players": [
-                "wethco",
-                "eu4ria"
+                "Frisconar",
+                "Pablo46"
             ],
             "actions": [
                 "CHECK",
@@ -91,31 +110,22 @@
         },
         "post-turn": {
             "players": [
-                "wethco",
-                "eu4ria"
+                "Frisconar",
+                "Pablo46"
             ],
             "actions": [
-                "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD"
             ],
             "values": [
-                null,
+                1.9,
                 null
             ]
         },
         "post-river": {
-            "players": [
-                "wethco",
-                "eu4ria"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -124,14 +134,20 @@
         null,
         null,
         null,
-        "6c Ac"
+        null,
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        117.91,
-        234.46,
-        21.75,
-        49.75,
-        50.53,
-        72.57000000000001
+        101.5,
+        184.67,
+        40.0,
+        118.72,
+        37.8,
+        98.0,
+        101.5,
+        37.45,
+        240.51
     ]
 }

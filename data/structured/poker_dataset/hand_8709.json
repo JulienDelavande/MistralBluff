@@ -1,0 +1,157 @@
+{
+    "date": "2016/12/25 23:41:25",
+    "game_id": "805839304",
+    "variant": "PRR",
+    "table_name": "Ettin-4",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "spd4960",
+        "nemesh123",
+        "IlxxxlI",
+        "tutofu84",
+        "shilat",
+        "MaxPrime",
+        "dogfaced"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        5.73,
+        8.46,
+        22.5,
+        25.0,
+        28.69,
+        16.26,
+        33.76
+    ],
+    "player_small_blind": "MaxPrime",
+    "small_blind": 0.1,
+    "player_big_blind": "dogfaced",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "9d",
+            "3c"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "spd4960",
+                "nemesh123",
+                "IlxxxlI",
+                "tutofu84",
+                "shilat",
+                "MaxPrime",
+                "dogfaced",
+                "nemesh123",
+                "tutofu84"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null,
+                1.0,
+                0.9,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MaxPrime",
+                "shilat",
+                "MaxPrime"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MaxPrime",
+                "shilat"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MaxPrime",
+                "shilat"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.73,
+                2.73
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "10h 9h",
+        null
+    ],
+    "finishing_stack": [
+        5.73,
+        8.21,
+        22.5,
+        24.75,
+        23.46,
+        21.68,
+        33.51
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/3 11:23:6",
+    "game_id": "789877690",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "davetheman",
+        "rudyru",
+        "IlxxxlI",
+        "Flushdogg",
+        "EBDuBois",
+        "imperceptible"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        37.09,
+        24.24,
+        20.0,
+        19.14,
+        29.38,
+        27.08
+    ],
+    "player_small_blind": "rudyru",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "7d",
+            "4h"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Flushdogg",
+                "EBDuBois",
+                "imperceptible",
+                "davetheman",
+                "rudyru",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "imperceptible"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "imperceptible",
+                "IlxxxlI",
+                "imperceptible"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                6.0,
+                11.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        37.09,
+        23.99,
+        26.54,
+        19.14,
+        29.38,
+        20.08
+    ]
+}

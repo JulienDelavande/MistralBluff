@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/19 22:3:26",
+    "game_id": "801743593",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "AceSeven",
+        "IlxxxlI",
+        "ChritterBug",
+        "DavidAsher"
+    ],
+    "players_seats": [
+        1,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        29.4,
+        25.0,
+        29.75,
+        10.92
+    ],
+    "player_small_blind": "ChritterBug",
+    "small_blind": 0.1,
+    "player_big_blind": "DavidAsher",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "Kd",
+            "7s"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AceSeven",
+                "IlxxxlI",
+                "ChritterBug",
+                "DavidAsher"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.58,
+                null,
+                0.33
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DavidAsher",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DavidAsher",
+                "IlxxxlI",
+                "DavidAsher"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.8,
+                5.0,
+                4.2
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DavidAsher",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                5.34,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        29.4,
+        19.42,
+        29.65,
+        16.04
+    ]
+}

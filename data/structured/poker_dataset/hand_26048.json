@@ -1,0 +1,121 @@
+{
+    "date": "2016/12/8 8:8:4",
+    "game_id": "793128026",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "ranchos1",
+        "Prostodursen",
+        "IlxxxlI",
+        "MadLifeGrinder",
+        "speechboy71"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        54.2,
+        111.15,
+        40.0,
+        191.92,
+        143.44
+    ],
+    "player_small_blind": "speechboy71",
+    "small_blind": 0.5,
+    "player_big_blind": "ranchos1",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "6c",
+            "7s"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Prostodursen",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "speechboy71",
+                "ranchos1"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ranchos1",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ranchos1",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.93000000000001,
+        111.15,
+        40.0,
+        189.42,
+        142.94
+    ]
+}

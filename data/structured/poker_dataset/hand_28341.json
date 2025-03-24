@@ -1,0 +1,105 @@
+{
+    "date": "2016/12/7 10:33:9",
+    "game_id": "792545236",
+    "variant": "PRR",
+    "table_name": "Ekek-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "imJonny",
+        "IlxxxlI",
+        "sir.caffeine",
+        "_glocklee_"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        27.25,
+        11.04,
+        25.93,
+        25.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "sir.caffeine",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "9h",
+            "8c"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "_glocklee_",
+                "imJonny",
+                "IlxxxlI",
+                "sir.caffeine"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "sir.caffeine",
+                "imJonny",
+                "sir.caffeine"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.52,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        27.8,
+        10.94,
+        25.43,
+        25.0
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "date": "2016/12/27 16:15:40",
+    "game_id": "807103682",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "HapKoTuk",
+        "stone1974",
+        "shimonish",
+        "heraklinos89",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        66.4,
+        11.83,
+        8.14,
+        19.82,
+        12.5
+    ],
+    "player_small_blind": "shimonish",
+    "small_blind": 0.1,
+    "player_big_blind": "heraklinos89",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "10s",
+            "10h"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "stone1974",
+                "shimonish",
+                "heraklinos89",
+                "IlxxxlI",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5,
+                0.75,
+                0.65,
+                0.5,
+                0.25,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shimonish",
+                "heraklinos89",
+                "IlxxxlI",
+                "HapKoTuk",
+                "stone1974"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.78,
+                null,
+                null,
+                null,
+                1.78
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shimonish",
+                "stone1974"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.47,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        65.65,
+        9.3,
+        12.560000000000002,
+        19.07,
+        11.75
+    ]
+}

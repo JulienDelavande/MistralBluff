@@ -1,77 +1,76 @@
 {
-    "date": "2016/11/28 20:7:31",
-    "game_id": "786369563",
+    "date": "2016/9/18 8:3:17",
+    "game_id": "730207421",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "short",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "Cinch23",
         "38979",
-        "IlxxxlI"
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "Cellar door",
+        "wjb024"
     ],
     "players_seats": [
         1,
         2,
-        5
+        3,
+        4,
+        5,
+        6
     ],
     "starting_stacks": [
-        68.33,
-        73.2,
-        45.33
+        101.0,
+        44.55,
+        105.45,
+        156.2,
+        100.0,
+        80.35
     ],
-    "player_small_blind": "Cinch23",
-    "small_blind": 0.5,
-    "player_big_blind": "38979",
-    "big_blind": 1.0,
+    "player_small_blind": "38979",
+    "small_blind": 1.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6h",
-        "6s"
+        "Kh",
+        "6c"
     ],
     "dealed_cards": {
-        "flop": [
-            "4d",
-            "2c",
-            "8s"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "Cinch23",
-                "38979",
-                "IlxxxlI"
+                "VegetablesArentYummy",
+                "KeepKalm",
+                "Cellar door",
+                "wjb024",
+                "38979"
             ],
             "actions": [
-                "RAISE",
                 "FOLD",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                3.0,
-                null,
-                10.0,
-                8.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "38979",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                14.0,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -87,11 +86,17 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        67.83,
-        83.7,
-        34.33
+        100.0,
+        45.55,
+        105.45,
+        156.2,
+        100.0,
+        80.35
     ]
 }

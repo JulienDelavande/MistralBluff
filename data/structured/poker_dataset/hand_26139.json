@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 7:59:43",
+    "game_id": "793121142",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "caballeroXXX",
+        "flyshark01",
+        "Xobkcul",
+        "Ice Bank Mice Elf",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        83.46,
+        54.8,
+        50.0,
+        50.0,
+        20.0
+    ],
+    "player_small_blind": "Ice Bank Mice Elf",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "4s",
+            "Jh"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "caballeroXXX",
+                "flyshark01",
+                "Xobkcul",
+                "Ice Bank Mice Elf",
+                "IlxxxlI",
+                "flyshark01"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null,
+                3.5,
+                2.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "flyshark01"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.92,
+                3.92
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "flyshark01"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "flyshark01",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                46.88,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        83.46,
+        62.169999999999995,
+        50.0,
+        49.75,
+        12.08
+    ]
+}

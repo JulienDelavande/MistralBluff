@@ -1,143 +1,164 @@
 {
-    "date": "2016/11/29 12:57:35",
-    "game_id": "786962162",
+    "date": "2016/9/6 0:36:54",
+    "game_id": "720640159",
     "variant": "PRR",
-    "table_name": "Garuda-4",
-    "type_game": "Hold'em",
-    "button_seat": 9,
+    "table_name": "Monopod",
+    "type_game": "Cap",
+    "button_seat": 5,
     "players": [
-        "wrongcolorchip",
-        "IlxxxlI",
-        "kid4life",
-        "MortalLock",
-        "Spagetti1",
-        "Hakuna_Matata777",
-        "arito02",
-        "constant revelation"
+        "BigLou1212",
+        "BIGRAISE",
+        "HookahBOSS",
+        "Maria26years",
+        "Leatherass9",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
-        6,
+        5,
         7,
-        8,
-        9
+        8
     ],
     "starting_stacks": [
-        155.83,
-        25.77,
-        63.91,
-        50.0,
-        24.0,
-        93.92,
-        44.33,
-        25.42
+        241.59,
+        198.55,
+        366.31,
+        359.34,
+        400.7,
+        160.0
     ],
-    "player_small_blind": "wrongcolorchip",
-    "small_blind": 0.25,
+    "player_small_blind": "Leatherass9",
+    "small_blind": 2.0,
     "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jh",
-        "As"
+        "3d",
+        "6h"
     ],
     "dealed_cards": {
         "flop": [
-            "4c",
-            "2d",
-            "3h"
+            "Js",
+            "8d",
+            "As"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "5s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "kid4life",
-                "MortalLock",
-                "Spagetti1",
-                "Hakuna_Matata777",
-                "arito02",
-                "constant revelation",
-                "wrongcolorchip",
-                "IlxxxlI",
-                "kid4life"
+                "BigLou1212",
+                "BIGRAISE",
+                "HookahBOSS",
+                "Maria26years",
+                "Leatherass9",
+                "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "RAISE",
                 "CALL",
-                "FOLD",
-                "FOLD",
+                "CALL",
+                "CALL",
                 "CALL"
             ],
             "values": [
-                1.5,
                 null,
-                null,
-                null,
-                2.5,
-                2.5,
-                null,
-                null,
-                1.0
+                8.8,
+                8.8,
+                8.8,
+                6.8,
+                4.8
             ]
         },
         "post-flop": {
             "players": [
-                "kid4life",
-                "arito02",
-                "constant revelation",
-                "kid4life"
+                "Leatherass9",
+                "IlxxxlI",
+                "BIGRAISE",
+                "HookahBOSS",
+                "Maria26years"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "FOLD",
-                "FOLD"
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "CHECK"
             ],
             "values": [
                 null,
-                3.92,
+                null,
+                null,
                 null,
                 null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Leatherass9",
+                "IlxxxlI",
+                "BIGRAISE",
+                "HookahBOSS",
+                "Maria26years",
+                "Leatherass9",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                21.8,
+                null,
+                21.8,
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BIGRAISE",
+                "Maria26years"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
-        null,
-        null,
-        null,
+        "Qs Ac",
         null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        155.58,
-        25.27,
-        61.41,
-        50.0,
-        24.0,
-        93.92,
-        49.67,
-        22.92
+        241.59,
+        254.70000000000002,
+        357.51,
+        328.73999999999995,
+        391.9,
+        151.2
     ]
 }

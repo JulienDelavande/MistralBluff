@@ -1,108 +1,112 @@
 {
-    "date": "2016/11/28 20:4:28",
-    "game_id": "786368847",
+    "date": "2016/9/18 8:5:49",
+    "game_id": "730209063",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 4,
+    "table_name": "Karkadann-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
     "players": [
+        "VegetablesArentYummy",
+        "Pimpika",
         "IlxxxlI",
-        "38979",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "Spew Diamond Phillips",
+        "gosu36484",
+        "Antimonysayz",
+        "FirstClan",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
         2,
+        3,
         4,
         5,
-        6
+        6,
+        7,
+        9
     ],
     "starting_stacks": [
+        101.5,
+        81.85,
         40.0,
-        227.67,
-        111.1,
-        116.24,
-        94.64
+        134.34,
+        53.4,
+        92.5,
+        100.0,
+        239.58
     ],
-    "player_small_blind": "meandkids",
-    "small_blind": 1.0,
-    "player_big_blind": "Are you with me",
-    "big_blind": 2.0,
+    "player_small_blind": "Antimonysayz",
+    "small_blind": 0.5,
+    "player_big_blind": "FirstClan",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qh",
-        "4c"
+        "5h",
+        "3s"
     ],
     "dealed_cards": {
         "flop": [
-            "Ad",
-            "8s",
-            "Kd"
+            "2c",
+            "8d",
+            "3h"
         ],
-        "turn": [
-            "Ac"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
                 "IlxxxlI",
-                "38979",
-                "Wollverin",
-                "meandkids",
-                "Are you with me"
+                "Spew Diamond Phillips",
+                "gosu36484",
+                "Antimonysayz",
+                "FirstClan"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
                 "RAISE",
-                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
+                2.5,
                 null,
-                4.0,
-                3.0,
-                2.0
+                null,
+                null,
+                null,
+                null,
+                1.5
             ]
         },
         "post-flop": {
             "players": [
-                "meandkids",
-                "Are you with me",
-                "Wollverin"
+                "FirstClan",
+                "VegetablesArentYummy",
+                "FirstClan"
             ],
             "actions": [
                 "CHECK",
-                "CHECK",
-                "CHECK"
+                "BET",
+                "FOLD"
             ],
             "values": [
                 null,
-                null,
+                2.11,
                 null
             ]
         },
         "post-turn": {
-            "players": [
-                "meandkids",
-                "Are you with me",
-                "Wollverin"
-            ],
-            "actions": [
-                "BET",
-                "FOLD",
-                "FOLD"
-            ],
-            "values": [
-                7.6,
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -115,13 +119,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
+        104.23,
+        81.85,
         40.0,
-        227.67,
-        107.1,
-        123.64,
-        90.64
+        134.34,
+        53.4,
+        92.0,
+        97.5,
+        239.58
     ]
 }

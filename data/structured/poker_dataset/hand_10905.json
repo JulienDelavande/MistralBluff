@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 0:11:23",
+    "game_id": "805286706",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "thefatfatfish",
+        "MAGNIT",
+        "booya25",
+        "Blakepc91",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.32,
+        35.64,
+        13.65,
+        34.05,
+        12.85
+    ],
+    "player_small_blind": "Blakepc91",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "4s",
+            "9d"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "Jh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "thefatfatfish",
+                "MAGNIT",
+                "booya25",
+                "Blakepc91",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.55,
+                0.4
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Blakepc91",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.62,
+                0.62
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Blakepc91",
+                "IlxxxlI",
+                "Blakepc91"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.75,
+                1.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Blakepc91",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.32,
+        35.64,
+        13.65,
+        36.769999999999996,
+        9.83
+    ]
+}

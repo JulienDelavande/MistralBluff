@@ -1,80 +1,76 @@
 {
-    "date": "2016/11/28 19:59:12",
-    "game_id": "786367656",
+    "date": "2016/9/18 8:10:35",
+    "game_id": "730212178",
     "variant": "PRR",
     "table_name": "Lakhey",
     "type_game": "Short",
-    "button_seat": 2,
+    "button_seat": 4,
     "players": [
-        "IlxxxlI",
         "38979",
-        "sheenius81",
-        "Wollverin"
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "KeepKalm",
+        "Cellar door",
+        "wjb024"
     ],
     "players_seats": [
         1,
         2,
         3,
-        5
+        4,
+        5,
+        6
     ],
     "starting_stacks": [
-        40.0,
-        193.18,
-        107.57,
-        100.0
+        104.0,
+        48.1,
+        100.0,
+        168.62,
+        100.0,
+        72.85
     ],
-    "player_small_blind": "sheenius81",
+    "player_small_blind": "Cellar door",
     "small_blind": 1.0,
-    "player_big_blind": "Wollverin",
+    "player_big_blind": "wjb024",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8s",
-        "5s"
+        "Jd",
+        "3d"
     ],
     "dealed_cards": {
-        "flop": [
-            "Jd",
-            "6d",
-            "Ad"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
                 "38979",
-                "sheenius81",
-                "Wollverin"
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "KeepKalm",
+                "Cellar door"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                3.0,
-                2.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "sheenius81",
-                "Wollverin"
-            ],
-            "actions": [
-                "BET",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                5.06,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -91,12 +87,16 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.0,
-        193.18,
-        111.16999999999999,
-        96.0
+        104.0,
+        48.1,
+        100.0,
+        168.62,
+        99.0,
+        73.85
     ]
 }

@@ -1,0 +1,141 @@
+{
+    "date": "2016/10/12 22:40:16",
+    "game_id": "749094151",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Orondi",
+        "Critlane",
+        "FBones23",
+        "nirpoker",
+        "IlxxxlI",
+        "38979"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        123.6,
+        117.51,
+        143.5,
+        101.5,
+        113.08,
+        63.93
+    ],
+    "player_small_blind": "Orondi",
+    "small_blind": 0.5,
+    "player_big_blind": "Critlane",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "3d",
+            "Jd"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FBones23",
+                "nirpoker",
+                "IlxxxlI",
+                "38979",
+                "Orondi",
+                "Critlane"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Critlane",
+                "nirpoker",
+                "38979",
+                "Critlane",
+                "nirpoker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                7.0,
+                7.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Critlane",
+                "38979",
+                "Critlane"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                15.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        123.1,
+        107.51,
+        143.5,
+        98.5,
+        113.08,
+        76.25999999999999
+    ]
+}

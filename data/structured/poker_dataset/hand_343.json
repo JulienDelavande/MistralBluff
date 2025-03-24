@@ -1,65 +1,86 @@
 {
-    "date": "2016/11/29 14:31:15",
-    "game_id": "787007619",
+    "date": "2016/9/5 11:46:32",
+    "game_id": "720252935",
     "variant": "PRR",
-    "table_name": "Kraken-23",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 8,
     "players": [
-        "WeakAndWeary",
-        "gust",
-        "LloydXmas",
-        "Sephiroth1",
-        "ElvenEyes",
-        "IlxxxlI"
+        "RapaNui",
+        "SheppyPOO!!",
+        "IlxxxlI",
+        "Sailor1704",
+        "markthegreat100",
+        "ShtrafBat",
+        "follower1",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        100.0,
-        44.0,
-        130.29,
-        101.78,
-        124.21,
-        43.9
+        626.85,
+        601.3,
+        152.65,
+        1114.21,
+        120.0,
+        158.3,
+        394.63,
+        240.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "WeakAndWeary",
-    "big_blind": 1.0,
+    "player_small_blind": "TheManiac89",
+    "small_blind": 3.0,
+    "player_big_blind": "RapaNui",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "Kh"
+        "2h",
+        "3s"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "Ks",
+            "Ac",
+            "4s"
+        ],
+        "turn": [
+            "Qh"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "gust",
-                "LloydXmas",
-                "Sephiroth1",
-                "ElvenEyes",
-                "IlxxxlI"
+                "SheppyPOO!!",
+                "IlxxxlI",
+                "Sailor1704",
+                "markthegreat100",
+                "ShtrafBat",
+                "follower1",
+                "TheManiac89",
+                "RapaNui"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "CHECK",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
+                null,
+                null,
+                null,
                 null,
                 null,
                 null,
@@ -68,14 +89,35 @@
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "RapaNui",
+                "markthegreat100"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "RapaNui",
+                "markthegreat100",
+                "RapaNui"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -89,14 +131,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        100.5,
-        44.0,
-        130.29,
-        101.78,
-        124.21,
-        43.4
+        620.85,
+        601.3,
+        152.65,
+        1114.21,
+        128.85,
+        158.3,
+        394.63,
+        237.0
     ]
 }

@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/6 0:47:38",
+    "game_id": "791611694",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "solasso",
+        "MDA",
+        "legenda99",
+        "Augusta_72",
+        "Donbama"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        20.45,
+        30.62,
+        49.75,
+        52.9,
+        34.62,
+        20.0
+    ],
+    "player_small_blind": "Augusta_72",
+    "small_blind": 0.25,
+    "player_big_blind": "Donbama",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "5s",
+            "8c"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "solasso",
+                "MDA",
+                "legenda99",
+                "Augusta_72",
+                "Donbama"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Donbama",
+                "MDA",
+                "Donbama"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.07,
+                1.07
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Donbama",
+                "MDA",
+                "Donbama"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.78,
+                2.78
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Donbama",
+                "MDA",
+                "Donbama"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.73,
+                4.73
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "9h 10h",
+        null,
+        null,
+        "7h 9s"
+    ],
+    "finishing_stack": [
+        20.45,
+        30.62,
+        40.17,
+        52.9,
+        34.37,
+        28.86
+    ]
+}

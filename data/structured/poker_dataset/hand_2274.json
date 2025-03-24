@@ -1,157 +1,105 @@
 {
-    "date": "2016/11/21 15:5:1",
-    "game_id": "781110231",
+    "date": "2016/9/18 9:14:16",
+    "game_id": "730249198",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "GagaPoker",
-        "FirstClan",
-        "texaswarthog",
-        "Chipburnner",
-        "Parcker",
-        "HorsePussy",
+        "winchy21",
+        "VegetablesArentYummy",
+        "flyzlcomb07",
+        "Pureprofit4",
+        "graphicup",
         "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        67.09,
-        53.5,
-        37.63,
-        34.81,
-        50.0,
-        31.47,
-        23.75
+        96.74,
+        309.87,
+        414.46,
+        202.62,
+        350.5,
+        89.85
     ],
-    "player_small_blind": "texaswarthog",
-    "small_blind": 0.25,
-    "player_big_blind": "Chipburnner",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 2.0,
+    "player_big_blind": "flyzlcomb07",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "Jd"
+        "2h",
+        "7h"
     ],
     "dealed_cards": {
-        "flop": [
-            "5s",
-            "5d",
-            "4s"
-        ],
-        "turn": [
-            "3h"
-        ],
-        "river": [
-            "7h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Parcker",
-                "HorsePussy",
+                "Pureprofit4",
+                "graphicup",
                 "IlxxxlI",
-                "GagaPoker",
-                "FirstClan",
-                "texaswarthog",
-                "Chipburnner"
+                "winchy21",
+                "VegetablesArentYummy",
+                "flyzlcomb07"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "CALL",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                null,
-                1.5,
-                1.25,
-                1.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "texaswarthog",
-                "Chipburnner",
-                "FirstClan",
-                "texaswarthog",
-                "Chipburnner"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "BET",
-                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
+                12.0,
                 null,
                 null,
-                1.42,
-                1.42,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "texaswarthog",
-                "FirstClan"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "texaswarthog",
-                "FirstClan"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                4.65,
-                4.65
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "7s 10h",
         null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        67.09,
-        45.93,
-        45.870000000000005,
-        33.31,
-        50.0,
-        31.47,
-        23.75
+        96.74,
+        307.87,
+        410.46,
+        208.62,
+        350.5,
+        89.85
     ]
 }

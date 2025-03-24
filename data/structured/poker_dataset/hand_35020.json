@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/5 9:50:50",
+    "game_id": "791295131",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "GautamaBuddha",
+        "St3p04ka",
+        "IlxxxlI",
+        "flyshark01",
+        "Heksebrygg",
+        "rivergods"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        40.0,
+        40.0,
+        263.77,
+        124.0,
+        114.95
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "6h",
+            "Kh"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "flyshark01",
+                "Heksebrygg",
+                "rivergods",
+                "GautamaBuddha",
+                "St3p04ka",
+                "IlxxxlI",
+                "rivergods"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                6.28,
+                4.28
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "rivergods",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.0,
+                5.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "rivergods",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        39.5,
+        27.72,
+        263.77,
+        124.0,
+        126.48
+    ]
+}

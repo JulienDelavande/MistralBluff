@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/9 14:18:41",
+    "game_id": "794097991",
+    "variant": "PRR",
+    "table_name": "Gorgons-15",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Ksander",
+        "iDawg",
+        "IlxxxlI",
+        "FelterSkelter",
+        "Xobkcul",
+        "GagaPoker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        94.25,
+        27.95,
+        46.97,
+        50.0,
+        53.62
+    ],
+    "player_small_blind": "Xobkcul",
+    "small_blind": 0.25,
+    "player_big_blind": "GagaPoker",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "10s",
+            "9c"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ksander",
+                "iDawg",
+                "IlxxxlI",
+                "FelterSkelter",
+                "Xobkcul",
+                "GagaPoker",
+                "Xobkcul"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.25,
+                1.0,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Xobkcul",
+                "GagaPoker",
+                "Xobkcul"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Xobkcul",
+                "GagaPoker",
+                "Xobkcul"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        94.25,
+        27.95,
+        46.97,
+        47.08,
+        56.24999999999999
+    ]
+}

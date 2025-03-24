@@ -1,108 +1,165 @@
 {
-    "date": "2016/11/29 7:45:8",
-    "game_id": "786712411",
+    "date": "2016/9/18 7:30:40",
+    "game_id": "730186837",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Cap",
-    "button_seat": 3,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "wethco",
-        "BigBlat",
-        "dbrinker",
-        "coldkilla",
-        "IlxxxlI"
+        "ABCD123",
+        "klizzyklein",
+        "TryNotToTilt",
+        "UrSoDumb",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
+        "IlxxxlI",
+        "Silverchicken"
     ],
     "players_seats": [
         1,
-        3,
+        2,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        165.63,
-        107.42,
-        277.85,
-        103.14,
-        80.0
+        121.53,
+        234.63,
+        353.46,
+        313.6,
+        200.0,
+        200.0,
+        80.0,
+        275.7
     ],
-    "player_small_blind": "dbrinker",
-    "small_blind": 1.0,
-    "player_big_blind": "coldkilla",
-    "big_blind": 2.0,
+    "player_small_blind": "klizzyklein",
+    "small_blind": 2.0,
+    "player_big_blind": "TryNotToTilt",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9c",
-        "6c"
+        "Kc",
+        "7c"
     ],
     "dealed_cards": {
         "flop": [
-            "Kh",
-            "Qc",
-            "8c"
+            "9c",
+            "3s",
+            "2d"
         ],
         "turn": [
-            "Ks"
+            "2s"
         ],
         "river": [
-            "2s"
+            "4c"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "UrSoDumb",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "wethco",
-                "BigBlat",
-                "dbrinker",
-                "coldkilla",
-                "BigBlat"
+                "Silverchicken",
+                "ABCD123",
+                "klizzyklein",
+                "TryNotToTilt"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "RAISE",
+                "CALL",
+                "CALL",
+                "CALL",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
-                4.0,
                 null,
-                58.0,
-                56.0
+                8.0,
+                8.0,
+                8.0,
+                6.0,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "klizzyklein",
+                "TryNotToTilt",
+                "IlxxxlI",
+                "Silverchicken",
+                "ABCD123"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                30.0,
+                30.0,
+                null,
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "klizzyklein",
+                "TryNotToTilt"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                60.0,
+                60.0
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "klizzyklein",
+                "TryNotToTilt"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                136.63,
+                136.63
+            ]
         }
     },
     "card_shown_by_players": [
         null,
-        "Kc Ad",
+        "9d 7d",
+        "2h 2c",
         null,
-        "3c 3s",
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        165.63,
-        165.42000000000002,
-        276.85,
-        43.14,
-        80.0
+        113.53,
+        0.0,
+        609.0899999999999,
+        313.6,
+        200.0,
+        200.0,
+        72.0,
+        267.7
     ]
 }

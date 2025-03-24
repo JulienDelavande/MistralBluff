@@ -1,81 +1,93 @@
 {
-    "date": "2016/11/28 19:49:12",
-    "game_id": "786365913",
+    "date": "2016/9/18 8:22:49",
+    "game_id": "730219928",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 1,
     "players": [
-        "DonkReaper",
-        "legenda99",
-        "Goomashroom",
-        "IlxxxlI",
-        "caballeroXXX"
+        "LuckyBoy1980",
+        "BadBeat79",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
-        6
+        5,
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        68.14,
-        122.56,
-        81.11,
-        23.85,
-        50.0
+        200.0,
+        267.9,
+        273.65,
+        182.15,
+        254.0,
+        206.4,
+        143.05
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "caballeroXXX",
-    "big_blind": 0.5,
+    "player_small_blind": "BadBeat79",
+    "small_blind": 1.0,
+    "player_big_blind": "FatSkinnyGuy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kc",
-        "4s"
+        "6d",
+        "Ac"
     ],
     "dealed_cards": {
         "flop": [
-            "8h",
-            "6c",
-            "Ah"
+            "4c",
+            "Ad",
+            "5h"
         ],
         "turn": [
-            "5d"
+            "9s"
         ],
         "river": [
-            "3s"
+            "7s"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "DonkReaper",
-                "legenda99",
-                "Goomashroom",
+                "Pimpika",
+                "ABCD123",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "caballeroXXX"
+                "LuckyBoy1980",
+                "BadBeat79",
+                "FatSkinnyGuy"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
             ],
             "values": [
                 null,
+                6.0,
                 null,
-                1.13,
                 null,
-                0.63
+                null,
+                5.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "caballeroXXX",
-                "Goomashroom"
+                "BadBeat79",
+                "ABCD123"
             ],
             "actions": [
                 "CHECK",
@@ -88,30 +100,30 @@
         },
         "post-turn": {
             "players": [
-                "caballeroXXX",
-                "Goomashroom"
+                "BadBeat79",
+                "ABCD123"
             ],
             "actions": [
-                "BET",
-                "CALL"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                2.0,
-                2.0
+                null,
+                null
             ]
         },
         "post-river": {
             "players": [
-                "caballeroXXX",
-                "Goomashroom"
+                "BadBeat79",
+                "ABCD123"
             ],
             "actions": [
                 "BET",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                6.0,
-                6.0
+                8.86,
+                null
             ]
         }
     },
@@ -120,13 +132,17 @@
         null,
         null,
         null,
-        "6s 6h"
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        68.14,
-        122.56,
-        71.98,
-        23.6,
-        58.459999999999994
+        200.0,
+        275.2,
+        271.65,
+        182.15,
+        248.0,
+        206.4,
+        143.05
     ]
 }

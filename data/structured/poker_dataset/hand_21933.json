@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 0:1:54",
+    "game_id": "793542520",
+    "variant": "PRR",
+    "table_name": "Gorgons-21",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "DopeDope",
+        "IgLa",
+        "WomboComboAA",
+        "odel_nadel"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        48.0,
+        50.0,
+        199.52,
+        57.25
+    ],
+    "player_small_blind": "DopeDope",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "4d",
+            "10c"
+        ],
+        "turn": [
+            "8d"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WomboComboAA",
+                "odel_nadel",
+                "IlxxxlI",
+                "DopeDope",
+                "IgLa"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IgLa",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IgLa",
+                "odel_nadel"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IgLa",
+                "odel_nadel"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.7,
+                1.7
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Kc 9c",
+        null,
+        "4c Ac"
+    ],
+    "finishing_stack": [
+        20.0,
+        47.75,
+        46.8,
+        199.52,
+        60.37
+    ]
+}

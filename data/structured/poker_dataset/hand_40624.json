@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/2 14:41:10",
+    "game_id": "789314786",
+    "variant": "PRR",
+    "table_name": "Kraken-4",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "HomoPokerus",
+        "WeakAndWeary",
+        "LuxuryMaster"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.77,
+        107.64,
+        224.67,
+        90.07
+    ],
+    "player_small_blind": "WeakAndWeary",
+    "small_blind": 0.5,
+    "player_big_blind": "LuxuryMaster",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "6c",
+            "Jh"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HomoPokerus",
+                "WeakAndWeary",
+                "LuxuryMaster"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "LuxuryMaster"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.8,
+                3.8
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "LuxuryMaster",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                8.62,
+                21.0,
+                12.38
+            ]
+        },
+        "post-river": {
+            "players": [
+                "WeakAndWeary",
+                "LuxuryMaster",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                62.27,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.77,
+        107.64,
+        196.86999999999998,
+        115.87
+    ]
+}

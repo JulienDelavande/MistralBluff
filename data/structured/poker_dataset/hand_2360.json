@@ -1,19 +1,18 @@
 {
-    "date": "2016/11/21 11:15:34",
-    "game_id": "780971993",
+    "date": "2016/9/18 9:41:47",
+    "game_id": "730262719",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 4,
     "players": [
-        "Haid Dasalami",
-        "BBDub27",
-        "sr86",
-        "johnnyboxx7",
-        "FirstClan",
+        "Lewass99",
         "IlxxxlI",
-        "VegasMike420",
-        "solasso"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "cracypoker",
+        "kalabanaspirit",
+        "sr86"
     ],
     "players_seats": [
         1,
@@ -22,119 +21,114 @@
         4,
         5,
         6,
-        8,
-        9
+        7
     ],
     "starting_stacks": [
-        47.73,
-        77.23,
-        141.7,
-        46.25,
-        54.68,
-        36.84,
-        43.23,
-        28.79
+        200.32,
+        80.0,
+        455.0,
+        298.83,
+        206.35,
+        236.76,
+        200.0
     ],
-    "player_small_blind": "VegasMike420",
-    "small_blind": 0.25,
-    "player_big_blind": "solasso",
-    "big_blind": 0.5,
+    "player_small_blind": "cracypoker",
+    "small_blind": 1.0,
+    "player_big_blind": "kalabanaspirit",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8h",
-        "2c"
+        "3c",
+        "Jh"
     ],
     "dealed_cards": {
         "flop": [
-            "8d",
-            "3d",
-            "Ad"
+            "9h",
+            "5s",
+            "7c"
         ],
         "turn": [
-            "2d"
+            "Qc"
         ],
         "river": [
-            "9c"
+            "Kd"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Haid Dasalami",
-                "BBDub27",
                 "sr86",
-                "johnnyboxx7",
-                "FirstClan",
+                "Lewass99",
                 "IlxxxlI",
-                "VegasMike420",
-                "solasso",
-                "BBDub27"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "cracypoker",
+                "kalabanaspirit"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
                 "CALL"
             ],
             "values": [
                 null,
-                1.5,
                 null,
                 null,
-                4.5,
+                5.0,
                 null,
-                null,
-                null,
+                4.0,
                 3.0
             ]
         },
         "post-flop": {
             "players": [
-                "BBDub27",
-                "FirstClan",
-                "BBDub27"
+                "cracypoker",
+                "kalabanaspirit",
+                "Pimpika"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                6.18,
-                6.18
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "BBDub27",
-                "FirstClan"
-            ],
-            "actions": [
                 "CHECK",
                 "CHECK"
             ],
             "values": [
                 null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "cracypoker",
+                "kalabanaspirit",
+                "Pimpika"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                8.0,
                 null
             ]
         },
         "post-river": {
             "players": [
-                "BBDub27",
-                "FirstClan"
+                "cracypoker",
+                "kalabanaspirit"
             ],
             "actions": [
                 "BET",
                 "FOLD"
             ],
             "values": [
-                12.0,
+                18.0,
                 null
             ]
         }
@@ -146,17 +140,15 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        47.73,
-        87.56000000000002,
-        141.7,
-        46.25,
-        44.0,
-        36.84,
-        42.98,
-        28.29
+        200.32,
+        80.0,
+        450.0,
+        298.83,
+        222.79999999999998,
+        223.76,
+        200.0
     ]
 }

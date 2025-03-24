@@ -1,70 +1,95 @@
 {
-    "date": "2016/11/29 14:20:41",
-    "game_id": "787003032",
+    "date": "2016/9/5 12:9:38",
+    "game_id": "720260337",
     "variant": "PRR",
-    "table_name": "Kraken-16",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 4,
     "players": [
-        "GagaPoker",
-        "MadLifeGrinder",
-        "Sephiroth1",
-        "Beep_Beep",
-        "IlxxxlI"
+        "follower1",
+        "IlxxxlI",
+        "whitnez33",
+        "bigrpk22",
+        "RapaNui",
+        "RumCola 86"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6
     ],
     "starting_stacks": [
-        100.34,
-        106.85,
-        111.0,
-        121.51,
-        40.0
+        200.0,
+        88.0,
+        284.35,
+        244.85,
+        200.0,
+        127.37
     ],
-    "player_small_blind": "GagaPoker",
-    "small_blind": 0.5,
-    "player_big_blind": "MadLifeGrinder",
-    "big_blind": 1.0,
+    "player_small_blind": "RapaNui",
+    "small_blind": 2.0,
+    "player_big_blind": "RumCola 86",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4s",
-        "9c"
+        "Qc",
+        "3c"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "8d",
+            "2c",
+            "7h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Sephiroth1",
-                "Beep_Beep",
+                "follower1",
                 "IlxxxlI",
-                "GagaPoker"
+                "whitnez33",
+                "bigrpk22",
+                "RapaNui",
+                "RumCola 86",
+                "whitnez33"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "RAISE",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                4.0,
                 null,
-                null
+                null,
+                4.0,
+                4.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "RumCola 86",
+                "whitnez33"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                16.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -82,13 +107,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        99.84,
-        107.35,
-        111.0,
-        121.51,
-        40.0
+        200.0,
+        88.0,
+        276.35,
+        244.85,
+        198.0,
+        137.22
     ]
 }

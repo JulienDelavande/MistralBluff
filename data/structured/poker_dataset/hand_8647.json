@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/25 23:49:7",
+    "game_id": "805842001",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "xFishookx",
+        "nemesh123",
+        "warrior1023",
+        "IlxxxlI",
+        "MAGNIT"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        15.61,
+        10.96,
+        38.84,
+        25.0,
+        38.08
+    ],
+    "player_small_blind": "nemesh123",
+    "small_blind": 0.1,
+    "player_big_blind": "warrior1023",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "7s",
+            "4h"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "MAGNIT",
+                "xFishookx",
+                "nemesh123",
+                "warrior1023"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "warrior1023",
+                "xFishookx"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "warrior1023",
+                "xFishookx"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "warrior1023",
+                "xFishookx",
+                "warrior1023",
+                "xFishookx",
+                "warrior1023",
+                "xFishookx"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "RAISE",
+                "RAISE",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                0.25,
+                1.0,
+                4.5,
+                7.5,
+                33.84,
+                6.86
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ks Kd",
+        null,
+        "3d 7d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        29.76,
+        10.860000000000001,
+        23.230000000000004,
+        25.0,
+        38.08
+    ]
+}

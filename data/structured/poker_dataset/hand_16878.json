@@ -1,0 +1,117 @@
+{
+    "date": "2016/12/19 20:53:7",
+    "game_id": "801728508",
+    "variant": "PRR",
+    "table_name": "Bahamut",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "Randy Tran",
+        "UltraFish",
+        "Tolstobrov E",
+        "IlxxxlI",
+        "Serb1one"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        1.12,
+        1.65,
+        1.27,
+        2.5,
+        0.32
+    ],
+    "player_small_blind": "Serb1one",
+    "small_blind": 0.01,
+    "player_big_blind": "Randy Tran",
+    "big_blind": 0.02,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "8d",
+            "2c"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "UltraFish",
+                "Tolstobrov E",
+                "IlxxxlI",
+                "Serb1one",
+                "Randy Tran",
+                "UltraFish"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.02,
+                null,
+                null,
+                0.09,
+                null,
+                0.08
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Serb1one",
+                "UltraFish"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                0.22,
+                0.22
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qc 10h",
+        null,
+        null,
+        "Js Ac"
+    ],
+    "finishing_stack": [
+        1.1,
+        1.96,
+        1.27,
+        2.5,
+        0.0
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/10/12 23:23:39",
+    "game_id": "749121961",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Orondi",
+        "Gargantuatua",
+        "Cleveland23",
+        "DonCesarGrinder",
+        "IlxxxlI",
+        "FishFold"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        189.74,
+        118.75,
+        172.5,
+        105.95,
+        100.0,
+        95.78
+    ],
+    "player_small_blind": "Gargantuatua",
+    "small_blind": 0.5,
+    "player_big_blind": "Cleveland23",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10d",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "Qd",
+            "2h"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "DonCesarGrinder",
+                "IlxxxlI",
+                "FishFold",
+                "Orondi",
+                "Gargantuatua",
+                "Cleveland23"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Cleveland23",
+                "Orondi",
+                "Cleveland23"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.75,
+                2.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Cleveland23",
+                "Orondi",
+                "Cleveland23"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.4,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        194.94,
+        118.25,
+        167.25,
+        105.95,
+        100.0,
+        95.78
+    ]
+}

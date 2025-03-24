@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 13:3:25",
+    "game_id": "792079042",
+    "variant": "PRR",
+    "table_name": "Kraken-8",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "FaceMelt",
+        "ElvenEyes",
+        "flyshark01",
+        "Doubletwentyone",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        101.5,
+        101.5,
+        217.49,
+        104.3,
+        51.2
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "FaceMelt",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "Kc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "Qd",
+            "5c"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ElvenEyes",
+                "flyshark01",
+                "Doubletwentyone",
+                "IlxxxlI",
+                "FaceMelt"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "flyshark01",
+                "Doubletwentyone"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.76,
+                4.76
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "flyshark01",
+                "Doubletwentyone"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.09,
+                8.09
+            ]
+        },
+        "post-river": {
+            "players": [
+                "flyshark01",
+                "Doubletwentyone",
+                "flyshark01"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                21.04,
+                63.12,
+                42.08
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "7d 5d",
+        null
+    ],
+    "finishing_stack": [
+        100.5,
+        101.5,
+        138.52,
+        181.76999999999998,
+        50.7
+    ]
+}

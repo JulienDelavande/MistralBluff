@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/26 13:25:20",
+    "game_id": "806351133",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "uberlin",
+        "AIRSUPPLY",
+        "CardShark98",
+        "IlxxxlI",
+        "HapKoTuk",
+        "Syanala"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        3.53,
+        25.17,
+        16.66,
+        22.9,
+        19.06,
+        13.7
+    ],
+    "player_small_blind": "AIRSUPPLY",
+    "small_blind": 0.1,
+    "player_big_blind": "CardShark98",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7h",
+            "4s",
+            "Ad"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "Syanala",
+                "uberlin",
+                "AIRSUPPLY",
+                "CardShark98"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75,
+                0.75,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AIRSUPPLY",
+                "HapKoTuk",
+                "Syanala",
+                "uberlin",
+                "AIRSUPPLY"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.06,
+                null,
+                null,
+                2.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AIRSUPPLY",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "AIRSUPPLY",
+                "HapKoTuk",
+                "AIRSUPPLY"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                3.5,
+                16.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        2.78,
+        18.860000000000003,
+        16.41,
+        22.9,
+        26.41,
+        12.95
+    ]
+}

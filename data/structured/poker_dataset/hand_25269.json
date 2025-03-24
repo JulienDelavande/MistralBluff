@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/8 10:1:11",
+    "game_id": "793230202",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "beachrog",
+        "xPoker Jokerx",
+        "jaque y mate",
+        "xxRepoManxx",
+        "Big Hadgi",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.51,
+        28.85,
+        39.12,
+        25.0,
+        7.23,
+        10.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "beachrog",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "Jc",
+            "3s"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "xPoker Jokerx",
+                "jaque y mate",
+                "xxRepoManxx",
+                "Big Hadgi",
+                "IlxxxlI",
+                "beachrog",
+                "xPoker Jokerx"
+            ],
+            "actions": [
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                2.5,
+                null,
+                2.5,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "xPoker Jokerx",
+                "jaque y mate",
+                "Big Hadgi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "xPoker Jokerx",
+                "jaque y mate",
+                "Big Hadgi",
+                "xPoker Jokerx",
+                "jaque y mate"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                4.73,
+                null,
+                2.23
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "8c 8h",
+        null,
+        "9s Kh",
+        null
+    ],
+    "finishing_stack": [
+        24.01,
+        26.35,
+        48.72,
+        25.0,
+        0.0,
+        9.75
+    ]
+}

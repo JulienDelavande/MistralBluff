@@ -1,0 +1,165 @@
+{
+    "date": "2016/12/2 15:34:39",
+    "game_id": "789333011",
+    "variant": "PRR",
+    "table_name": "Longana-2",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "AironVega",
+        "dankmann",
+        "VegetablesArentYummy",
+        "dolphin1609",
+        "hodisuda",
+        "StephCurry",
+        "pakatak"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        126.44,
+        270.92,
+        210.4,
+        391.88,
+        280.88,
+        203.7,
+        200.0,
+        202.25
+    ],
+    "player_small_blind": "StephCurry",
+    "small_blind": 1.0,
+    "player_big_blind": "pakatak",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "9h",
+            "Qc"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "AironVega",
+                "dankmann",
+                "VegetablesArentYummy",
+                "dolphin1609",
+                "hodisuda",
+                "StephCurry",
+                "pakatak"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                4.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "pakatak",
+                "dolphin1609",
+                "pakatak",
+                "dolphin1609"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.85,
+                9.0,
+                6.15
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "pakatak",
+                "dolphin1609"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                14.0,
+                14.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "pakatak",
+                "dolphin1609",
+                "pakatak"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                48.0,
+                48.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Jd Jh",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        126.44,
+        270.92,
+        210.4,
+        391.88,
+        353.88,
+        203.7,
+        199.0,
+        127.25
+    ]
+}

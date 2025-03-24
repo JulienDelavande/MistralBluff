@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 22:3:3",
+    "game_id": "793504497",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "sour159",
+        "gust",
+        "aleks0v",
+        "meandkids"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        45.45,
+        87.54,
+        40.0,
+        107.96,
+        101.25
+    ],
+    "player_small_blind": "aleks0v",
+    "small_blind": 0.5,
+    "player_big_blind": "meandkids",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "9d",
+            "Qs"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "sour159",
+                "gust",
+                "aleks0v",
+                "meandkids"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "meandkids",
+                "sour159"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "meandkids",
+                "sour159",
+                "meandkids"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.58,
+                3.16,
+                1.58
+            ]
+        },
+        "post-river": {
+            "players": [
+                "meandkids",
+                "sour159",
+                "meandkids"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        45.45,
+        91.76,
+        40.0,
+        107.46,
+        97.09
+    ]
+}

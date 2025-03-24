@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/25 0:7:42",
+    "game_id": "805284769",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "booya25",
+        "PokerLver420",
+        "SkaHot",
+        "Nicos_Baba",
+        "IlxxxlI",
+        "majomx"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.9,
+        12.04,
+        26.65,
+        10.01,
+        25.85,
+        6.18
+    ],
+    "player_small_blind": "majomx",
+    "small_blind": 0.1,
+    "player_big_blind": "booya25",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "8c",
+            "4c"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PokerLver420",
+                "SkaHot",
+                "Nicos_Baba",
+                "IlxxxlI",
+                "majomx",
+                "booya25"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "booya25",
+                "PokerLver420"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "booya25",
+                "PokerLver420",
+                "booya25"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.76,
+                0.76
+            ]
+        },
+        "post-river": {
+            "players": [
+                "booya25",
+                "PokerLver420"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        15.360000000000001,
+        10.53,
+        26.65,
+        10.01,
+        25.85,
+        6.08
+    ]
+}

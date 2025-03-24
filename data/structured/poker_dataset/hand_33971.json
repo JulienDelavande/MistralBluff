@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/5 12:10:27",
+    "game_id": "791393692",
+    "variant": "PRR",
+    "table_name": "Gorgons-19",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "sharkdone",
+        "BHawk12",
+        "IlxxxlI",
+        "Evilclown",
+        "Thefisherman90",
+        "Remi1738"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        56.44,
+        20.0,
+        16.25,
+        67.07,
+        70.42
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Evilclown",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "Qs",
+            "8h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "Jc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Thefisherman90",
+                "Remi1738",
+                "sharkdone",
+                "BHawk12",
+                "IlxxxlI",
+                "Evilclown"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Evilclown",
+                "sharkdone"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Evilclown",
+                "sharkdone"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Evilclown",
+                "sharkdone"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        48.0,
+        56.44,
+        19.75,
+        18.29,
+        67.07,
+        70.42
+    ]
+}

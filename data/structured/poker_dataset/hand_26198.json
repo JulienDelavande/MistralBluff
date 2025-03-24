@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 7:54:8",
+    "game_id": "793118386",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "fortecco",
+        "ijhAA",
+        "Ice Bank Mice Elf",
+        "Bunkman",
+        "apjames"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.88,
+        58.26,
+        12.7,
+        13.05,
+        23.92,
+        21.83
+    ],
+    "player_small_blind": "apjames",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "5d",
+            "3s"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "fortecco",
+                "ijhAA",
+                "Ice Bank Mice Elf",
+                "Bunkman",
+                "apjames",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.63,
+                0.63,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "Bunkman"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.68,
+                0.68
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "Bunkman"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.12,
+                2.12
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ice Bank Mice Elf",
+                "Bunkman",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Kd Jh",
+        "2c Ac",
+        null
+    ],
+    "finishing_stack": [
+        10.63,
+        58.26,
+        12.7,
+        18.72,
+        17.990000000000002,
+        21.729999999999997
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "date": "2016/12/5 12:5:34",
+    "game_id": "791390506",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "HomoPokerus",
+        "colethomas",
+        "Rut-Roh",
+        "GautamaBuddha",
+        "IlxxxlI",
+        "WeakAndWeary"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        122.06,
+        121.51,
+        100.0,
+        221.65,
+        46.5,
+        165.02
+    ],
+    "player_small_blind": "Rut-Roh",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "6h",
+            "6d"
+        ],
+        "turn": [
+            "9c"
+        ],
+        "river": [
+            "8c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "HomoPokerus",
+                "colethomas",
+                "Rut-Roh",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.88,
+                2.88
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Kd 7d",
+        null
+    ],
+    "finishing_stack": [
+        114.68,
+        121.51,
+        99.5,
+        221.65,
+        53.62,
+        165.02
+    ]
+}

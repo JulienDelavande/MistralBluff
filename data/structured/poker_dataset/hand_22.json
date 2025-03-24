@@ -1,24 +1,26 @@
 {
-    "date": "2016/11/29 15:20:54",
-    "game_id": "787026104",
+    "date": "2016/9/4 2:14:48",
+    "game_id": "718948359",
     "variant": "PRR",
-    "table_name": "Garuda-4",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 8,
     "players": [
-        "GagaPoker",
-        "dankmann",
-        "kid4life",
-        "wvlax1425",
-        "Spagetti1",
+        "BIGRAISE",
+        "tcoll16",
+        "cracypoker",
+        "VegetablesArentYummy",
+        "Oakee",
         "IlxxxlI",
-        "haroldbb",
-        "Korobochka"
+        "WalterBlack",
+        "TheFront7",
+        "NoSugarJoe"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
         6,
         7,
@@ -26,39 +28,46 @@
         9
     ],
     "starting_stacks": [
-        50.0,
-        100.21,
-        102.93,
-        48.75,
-        50.76,
-        26.19,
-        64.71,
-        100.7
+        120.0,
+        229.62,
+        261.95,
+        200.0,
+        200.0,
+        80.0,
+        469.95,
+        299.2,
+        18.2
     ],
-    "player_small_blind": "kid4life",
-    "small_blind": 0.25,
-    "player_big_blind": "wvlax1425",
-    "big_blind": 0.5,
+    "player_small_blind": "NoSugarJoe",
+    "small_blind": 2.0,
+    "player_big_blind": "BIGRAISE",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "2c"
+        "7s",
+        "Qd"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "5d",
+            "Ad",
+            "Qh"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Spagetti1",
+                "tcoll16",
+                "cracypoker",
+                "VegetablesArentYummy",
+                "Oakee",
                 "IlxxxlI",
-                "haroldbb",
-                "Korobochka",
-                "GagaPoker",
-                "dankmann",
-                "kid4life"
+                "WalterBlack",
+                "TheFront7",
+                "NoSugarJoe",
+                "BIGRAISE"
             ],
             "actions": [
                 "FOLD",
@@ -66,8 +75,10 @@
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
@@ -75,14 +86,28 @@
                 null,
                 null,
                 null,
+                4.0,
+                null,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BIGRAISE",
+                "WalterBlack",
+                "BIGRAISE"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -103,16 +128,18 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        50.0,
-        100.21,
-        102.68,
-        49.0,
-        50.76,
-        26.19,
-        64.71,
-        100.7
+        116.0,
+        229.62,
+        261.95,
+        200.0,
+        200.0,
+        80.0,
+        475.84999999999997,
+        299.2,
+        16.2
     ]
 }

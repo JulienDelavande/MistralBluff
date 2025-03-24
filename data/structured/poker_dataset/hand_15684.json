@@ -1,0 +1,116 @@
+{
+    "date": "2016/12/22 23:17:44",
+    "game_id": "803877670",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "sikilocci",
+        "SkaHot",
+        "afvet333",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        71.13,
+        25.07,
+        35.82,
+        28.23
+    ],
+    "player_small_blind": "sikilocci",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "5h",
+            "Jd"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "afvet333",
+                "IlxxxlI",
+                "sikilocci",
+                "SkaHot"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                null,
+                0.9,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "sikilocci",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "sikilocci",
+                "afvet333",
+                "sikilocci"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.42,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "9h 7d",
+        null
+    ],
+    "finishing_stack": [
+        70.13,
+        24.82,
+        36.96,
+        28.23
+    ]
+}

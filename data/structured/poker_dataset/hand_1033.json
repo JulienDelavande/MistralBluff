@@ -1,36 +1,39 @@
 {
-    "date": "2016/11/29 11:38:47",
-    "game_id": "786907066",
+    "date": "2016/9/12 12:5:1",
+    "game_id": "725844547",
     "variant": "PRR",
-    "table_name": "Gorgons-13",
-    "type_game": "Hold'em",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
+        "vachips",
+        "Ksowas",
         "IlxxxlI",
-        "Maria_Pia",
-        "528 Hertz",
-        "foreseen"
+        "gust",
+        "Anastasia31"
     ],
     "players_seats": [
-        1,
         2,
+        3,
         4,
-        5
+        5,
+        6
     ],
     "starting_stacks": [
-        20.77,
-        23.24,
-        86.63,
-        86.2
+        49.57,
+        203.23,
+        47.3,
+        99.56,
+        233.79
     ],
-    "player_small_blind": "foreseen",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "Anastasia31",
+    "small_blind": 1.0,
+    "player_big_blind": "vachips",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "10d"
+        "4s",
+        "4d"
     ],
     "dealed_cards": {
         "flop": [],
@@ -40,25 +43,31 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "Maria_Pia",
-                "528 Hertz",
-                "foreseen",
+                "Ksowas",
                 "IlxxxlI",
-                "foreseen"
+                "gust",
+                "Anastasia31",
+                "vachips",
+                "Ksowas",
+                "gust"
             ],
             "actions": [
-                "FOLD",
+                "RAISE",
                 "FOLD",
                 "RAISE",
-                "RAISE",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "ALLIN",
+                "ALLIN"
             ],
             "values": [
+                6.0,
+                null,
+                14.0,
                 null,
                 null,
-                1.39,
-                3.49,
-                null
+                197.23,
+                85.56
             ]
         },
         "post-flop": {
@@ -79,14 +88,16 @@
     },
     "card_shown_by_players": [
         null,
+        "Jc Jh",
         null,
-        null,
+        "10d 10c",
         null
     ],
     "finishing_stack": [
-        22.41,
-        23.24,
-        86.63,
-        84.56
+        47.57,
+        103.66999999999999,
+        47.3,
+        199.12,
+        232.79
     ]
 }

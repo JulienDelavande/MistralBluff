@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/22 22:19:34",
+    "game_id": "803805044",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "HapKoTuk",
+        "sikilocci",
+        "SkaHot",
+        "afvet333",
+        "booya25",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        34.63,
+        25.32,
+        26.13,
+        52.63,
+        3.67,
+        30.07
+    ],
+    "player_small_blind": "booya25",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "7d",
+            "6s"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "sikilocci",
+                "SkaHot",
+                "afvet333",
+                "booya25",
+                "IlxxxlI",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.62,
+                0.99,
+                null,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "afvet333",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "afvet333"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qd Qh",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        34.63,
+        25.32,
+        28.71,
+        50.14,
+        3.57,
+        29.82
+    ]
+}

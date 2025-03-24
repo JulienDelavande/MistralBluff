@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/5 11:27:18",
+    "game_id": "791367098",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Aslargs",
+        "QDevilQ",
+        "Heksebrygg",
+        "IlxxxlI",
+        "Thefisherman90"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        126.3,
+        91.67,
+        60.35,
+        22.02,
+        50.25
+    ],
+    "player_small_blind": "Thefisherman90",
+    "small_blind": 0.25,
+    "player_big_blind": "Aslargs",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "Qs",
+            "Kd"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "QDevilQ",
+                "Heksebrygg",
+                "IlxxxlI",
+                "Thefisherman90",
+                "Aslargs",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.15,
+                3.5,
+                3.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Thefisherman90",
+                "Aslargs"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.74,
+                2.74
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Thefisherman90",
+                "Aslargs",
+                "Thefisherman90"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                8.95,
+                44.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        141.29,
+        91.67,
+        60.35,
+        20.87,
+        34.81
+    ]
+}

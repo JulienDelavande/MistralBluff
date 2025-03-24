@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/9 14:43:13",
+    "game_id": "794107878",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "WeakAndWeary",
+        "Masterfrosty",
+        "iDawg",
+        "Tilt-A-Whirl",
+        "IlxxxlI",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        90.49,
+        18.5,
+        59.09,
+        56.17,
+        22.98,
+        52.12
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Jui Kuen",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "Jc",
+            "4h"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Masterfrosty",
+                "iDawg",
+                "Tilt-A-Whirl",
+                "IlxxxlI",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jui Kuen",
+                "WeakAndWeary",
+                "Masterfrosty"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jui Kuen",
+                "WeakAndWeary",
+                "Masterfrosty",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.5,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        93.50999999999999,
+        17.0,
+        59.09,
+        56.17,
+        22.73,
+        50.62
+    ]
+}

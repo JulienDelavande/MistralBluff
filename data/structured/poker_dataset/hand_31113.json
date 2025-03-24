@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/6 13:52:56",
+    "game_id": "792104471",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 4,
+    "players": [
+        "BiGFck",
+        "furburger85",
+        "Like a Sunday Morn",
+        "IlxxxlI",
+        "ElvenEyes"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        16.0,
+        42.55,
+        14.42,
+        25.4,
+        52.8
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "ElvenEyes",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "7h",
+            "9s"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BiGFck",
+                "furburger85",
+                "Like a Sunday Morn",
+                "IlxxxlI",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ElvenEyes",
+                "Like a Sunday Morn",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ElvenEyes",
+                "Like a Sunday Morn",
+                "ElvenEyes",
+                "Like a Sunday Morn"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                2.0,
+                50.8,
+                10.42
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "9h 6h",
+        null,
+        "8s 3s"
+    ],
+    "finishing_stack": [
+        16.0,
+        42.55,
+        27.88,
+        24.9,
+        38.379999999999995
+    ]
+}

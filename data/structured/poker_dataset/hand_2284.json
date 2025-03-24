@@ -1,19 +1,20 @@
 {
-    "date": "2016/11/21 14:49:34",
-    "game_id": "781104509",
+    "date": "2016/9/18 9:17:14",
+    "game_id": "730250645",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 1,
+    "button_seat": 2,
     "players": [
-        "GagaPoker",
-        "imperceptible",
-        "FirstClan",
-        "texaswarthog",
-        "Chipburnner",
-        "Parcker",
-        "ACESOVAKINGZ",
-        "IlxxxlI"
+        "Lewass99",
+        "IlxxxlI",
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "OnOnePoker",
+        "FishinChips",
+        "hangiie",
+        "aquamarin"
     ],
     "players_seats": [
         1,
@@ -23,110 +24,94 @@
         5,
         6,
         7,
+        8,
         9
     ],
     "starting_stacks": [
-        50.0,
-        17.25,
-        50.0,
-        42.8,
-        14.44,
-        50.25,
-        72.56,
-        21.75
+        158.49,
+        80.0,
+        189.76,
+        235.91,
+        100.36,
+        18.85,
+        82.25,
+        85.97,
+        149.3
     ],
-    "player_small_blind": "imperceptible",
-    "small_blind": 0.25,
-    "player_big_blind": "FirstClan",
-    "big_blind": 0.5,
+    "player_small_blind": "Pimpika",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9s",
-        "Ad"
+        "5c",
+        "Js"
     ],
     "dealed_cards": {
-        "flop": [
-            "10s",
-            "8d",
-            "6h"
-        ],
-        "turn": [
-            "10c"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "texaswarthog",
-                "Chipburnner",
-                "Parcker",
-                "ACESOVAKINGZ",
+                "GARY888",
+                "OnOnePoker",
+                "FishinChips",
+                "hangiie",
+                "aquamarin",
+                "Lewass99",
                 "IlxxxlI",
-                "GagaPoker",
-                "imperceptible",
-                "FirstClan"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "OnOnePoker",
+                "FishinChips",
+                "Lewass99",
+                "Pimpika",
+                "Lewass99"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "CALL",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
                 "CALL",
-                "CHECK"
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "ALLIN",
+                "ALLIN",
+                "CALL",
+                "ALLIN",
+                "ALLIN"
             ],
             "values": [
                 null,
-                0.5,
+                6.0,
+                6.0,
                 null,
                 null,
+                6.0,
                 null,
+                23.0,
                 null,
-                0.25,
-                null
+                12.85,
+                76.25,
+                76.25,
+                165.76,
+                76.24
             ]
         },
         "post-flop": {
-            "players": [
-                "imperceptible",
-                "FirstClan",
-                "Chipburnner",
-                "imperceptible",
-                "FirstClan"
-            ],
-            "actions": [
-                "BET",
-                "CALL",
-                "RAISE",
-                "FOLD",
-                "CALL"
-            ],
-            "values": [
-                1.0,
-                1.0,
-                2.0,
-                null,
-                1.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "FirstClan",
-                "Chipburnner",
-                "FirstClan"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                3.09,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -135,23 +120,25 @@
         }
     },
     "card_shown_by_players": [
+        "8c 8d",
+        null,
+        "Ah Jh",
         null,
         null,
-        null,
-        null,
-        null,
-        null,
+        "8h 9c",
+        "Kd As",
         null,
         null
     ],
     "finishing_stack": [
-        50.0,
-        15.75,
-        47.5,
-        42.8,
-        18.119999999999997,
-        50.25,
-        72.56,
-        21.75
+        0.0,
+        80.0,
+        448.34999999999997,
+        233.91,
+        100.36,
+        0.0,
+        0.0,
+        85.97,
+        149.3
     ]
 }

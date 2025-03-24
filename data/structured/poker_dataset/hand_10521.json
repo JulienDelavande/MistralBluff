@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/25 13:40:38",
+    "game_id": "805698216",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "chardcheez18",
+        "Ksander",
+        "IlxxxlI",
+        "marrone85"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "starting_stacks": [
+        18.12,
+        14.16,
+        12.5,
+        12.72
+    ],
+    "player_small_blind": "chardcheez18",
+    "small_blind": 0.1,
+    "player_big_blind": "Ksander",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "Qd",
+            "6s"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "marrone85",
+                "chardcheez18",
+                "Ksander"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ksander",
+                "marrone85",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.01,
+                1.01
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ksander",
+                "marrone85"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ksander",
+                "marrone85",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.96,
+                10.96
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ks 9s",
+        null,
+        "5d 2d"
+    ],
+    "finishing_stack": [
+        18.02,
+        25.71,
+        12.5,
+        0.0
+    ]
+}

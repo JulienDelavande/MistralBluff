@@ -1,0 +1,155 @@
+{
+    "date": "2016/12/6 0:46:0",
+    "game_id": "791611024",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "solasso",
+        "MDA",
+        "legenda99",
+        "imperceptible",
+        "Augusta_72"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        20.45,
+        30.62,
+        39.7,
+        53.9,
+        41.48,
+        44.73
+    ],
+    "player_small_blind": "legenda99",
+    "small_blind": 0.25,
+    "player_big_blind": "Augusta_72",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "Qh",
+            "6s"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "solasso",
+                "MDA",
+                "legenda99",
+                "Augusta_72"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "legenda99",
+                "Augusta_72",
+                "MDA",
+                "legenda99",
+                "Augusta_72",
+                "MDA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.9,
+                null,
+                5.0,
+                3.1
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Augusta_72",
+                "MDA",
+                "Augusta_72"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.11,
+                4.11
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Augusta_72",
+                "MDA",
+                "Augusta_72"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                13.44,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.45,
+        30.62,
+        49.75,
+        52.9,
+        41.48,
+        34.62
+    ]
+}

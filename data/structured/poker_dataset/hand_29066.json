@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/7 9:35:28",
+    "game_id": "792507221",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "tszis",
+        "JohnnyTwoShots",
+        "raraAvis8",
+        "IlxxxlI",
+        "ABMTLQC"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        32.45,
+        21.63,
+        32.83,
+        10.33,
+        29.93
+    ],
+    "player_small_blind": "tszis",
+    "small_blind": 0.1,
+    "player_big_blind": "JohnnyTwoShots",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "Qh",
+            "Kd"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "raraAvis8",
+                "IlxxxlI",
+                "ABMTLQC",
+                "tszis",
+                "JohnnyTwoShots"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "tszis",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "tszis",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "tszis",
+                "ABMTLQC",
+                "tszis"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.59,
+                0.59
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Qc As"
+    ],
+    "finishing_stack": [
+        31.360000000000003,
+        21.38,
+        32.83,
+        10.33,
+        31.15
+    ]
+}

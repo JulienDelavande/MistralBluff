@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/29 16:38:26",
+    "game_id": "808312161",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "SoapMaker326",
+        "1jackoff1",
+        "bayuya",
+        "IlxxxlI",
+        "DeBruin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        22.59,
+        7.15,
+        28.83,
+        37.6,
+        19.8
+    ],
+    "player_small_blind": "SoapMaker326",
+    "small_blind": 0.1,
+    "player_big_blind": "1jackoff1",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "8c",
+            "7c"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bayuya",
+                "IlxxxlI",
+                "DeBruin",
+                "SoapMaker326",
+                "1jackoff1"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "1jackoff1",
+                "bayuya",
+                "DeBruin",
+                "1jackoff1"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.57,
+                0.57,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bayuya",
+                "DeBruin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "bayuya",
+                "DeBruin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "9h 10s",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        22.49,
+        6.65,
+        30.369999999999997,
+        37.6,
+        18.73
+    ]
+}

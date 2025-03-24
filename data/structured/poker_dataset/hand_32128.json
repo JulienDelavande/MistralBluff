@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/6 8:9:42",
+    "game_id": "791864640",
+    "variant": "PRR",
+    "table_name": "Ekek-3",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "OlegGazmanoy",
+        "jayg320",
+        "Irene13",
+        "iKaBiNK",
+        "rapidfire1269"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.56,
+        27.84,
+        25.0,
+        47.85,
+        27.0,
+        32.85
+    ],
+    "player_small_blind": "Irene13",
+    "small_blind": 0.1,
+    "player_big_blind": "iKaBiNK",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "6d",
+            "6s"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "rapidfire1269",
+                "IlxxxlI",
+                "OlegGazmanoy",
+                "jayg320",
+                "Irene13",
+                "iKaBiNK"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Irene13",
+                "iKaBiNK"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Irene13",
+                "iKaBiNK",
+                "Irene13"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.75,
+                1.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Irene13",
+                "iKaBiNK"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ah 7c",
+        "Ad 5h",
+        null
+    ],
+    "finishing_stack": [
+        11.56,
+        27.84,
+        25.0,
+        50.78,
+        23.75,
+        32.85
+    ]
+}

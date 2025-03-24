@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 10:4:35",
+    "game_id": "804966120",
+    "variant": "PRR",
+    "table_name": "Gorgons-8",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Polar1z1ng",
+        "threekingsriver",
+        "IlxxxlI",
+        "Mikeygogogo",
+        "WomboComboAA",
+        "38979"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        96.25,
+        52.5,
+        104.52,
+        55.52,
+        57.38
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Mikeygogogo",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "3h",
+            "6c"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WomboComboAA",
+                "38979",
+                "Polar1z1ng",
+                "threekingsriver",
+                "IlxxxlI",
+                "Mikeygogogo"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Mikeygogogo",
+                "Polar1z1ng",
+                "Mikeygogogo"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.05,
+                1.05
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Mikeygogogo",
+                "Polar1z1ng",
+                "Mikeygogogo"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.09,
+        96.25,
+        52.25,
+        102.47,
+        55.52,
+        57.38
+    ]
+}

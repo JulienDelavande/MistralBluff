@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 13:52:28",
-    "game_id": "786991509",
+    "date": "2016/9/5 12:30:28",
+    "game_id": "720266495",
     "variant": "PRR",
-    "table_name": "Kraken-20",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
+        "SheppyPOO!!",
         "IlxxxlI",
-        "MadLifeGrinder",
-        "AironVega",
-        "WeakAndWeary",
-        "bunnyfox2t",
-        "quant_theo"
+        "whitnez33",
+        "bigrpk22",
+        "RapaNui",
+        "St3p04ka"
     ],
     "players_seats": [
         1,
@@ -22,131 +22,87 @@
         6
     ],
     "starting_stacks": [
-        40.0,
-        123.45,
-        100.0,
-        115.88,
-        100.0,
-        102.36
+        200.0,
+        152.13,
+        405.14,
+        162.6,
+        233.7,
+        89.2
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "MadLifeGrinder",
-    "big_blind": 1.0,
+    "small_blind": 2.0,
+    "player_big_blind": "whitnez33",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10h",
-        "As"
+        "7s",
+        "5c"
     ],
     "dealed_cards": {
-        "flop": [
-            "10c",
-            "7h",
-            "Kh"
-        ],
-        "turn": [
-            "2s"
-        ],
-        "river": [
-            "7d"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "AironVega",
-                "WeakAndWeary",
-                "bunnyfox2t",
-                "quant_theo",
+                "bigrpk22",
+                "RapaNui",
+                "St3p04ka",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "MadLifeGrinder",
-                "quant_theo"
+                "whitnez33",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "RAISE",
-                "RAISE",
                 "FOLD",
-                "CALL"
+                "CALL",
+                "RAISE",
+                "FOLD"
             ],
             "values": [
                 null,
                 null,
                 null,
-                3.0,
-                4.5,
                 null,
-                2.0
+                2.0,
+                8.0,
+                null
             ]
         },
         "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "quant_theo",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                6.0,
-                6.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "quant_theo",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                10.0,
-                10.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "IlxxxlI",
-                "quant_theo",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "ALLIN"
-            ],
-            "values": [
-                null,
-                19.0,
-                19.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "10h As",
         null,
         null,
         null,
         null,
-        "7c 2d"
+        null,
+        null
     ],
     "finishing_stack": [
-        0.0,
-        122.45,
-        100.0,
-        115.88,
-        100.0,
-        140.36
+        200.0,
+        148.13,
+        409.14,
+        162.6,
+        233.7,
+        89.2
     ]
 }

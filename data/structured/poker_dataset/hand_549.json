@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 13:47:46",
-    "game_id": "786989231",
+    "date": "2016/9/5 12:35:52",
+    "game_id": "720268001",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Short",
-    "button_seat": 3,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 8,
     "players": [
-        "Ball Crusher",
-        "Jui Kuen",
-        "PokerBrat1127",
-        "Hakuna_Matata777",
+        "RapaNui",
+        "St3p04ka",
+        "GranatoBetano",
         "IlxxxlI",
-        "anabeliangrape"
+        "SheppyPOO!!",
+        "markthegreat100",
+        "oleg_dagi",
+        "ShtrafBat",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
@@ -19,59 +22,66 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        110.71,
-        39.14,
-        17.08,
-        25.0,
-        10.0,
-        26.5
+        654.61,
+        449.3,
+        336.76,
+        135.87,
+        698.94,
+        46.03,
+        366.4,
+        111.0,
+        147.15
     ],
-    "player_small_blind": "Hakuna_Matata777",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "TheManiac89",
+    "small_blind": 3.0,
+    "player_big_blind": "RapaNui",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "5s"
+        "4h",
+        "Ad"
     ],
     "dealed_cards": {
-        "flop": [
-            "2c",
-            "7d",
-            "10h"
-        ],
-        "turn": [
-            "9c"
-        ],
-        "river": [
-            "7h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "anabeliangrape",
-                "Ball Crusher",
-                "Jui Kuen",
-                "PokerBrat1127",
-                "Hakuna_Matata777",
-                "IlxxxlI"
+                "St3p04ka",
+                "GranatoBetano",
+                "IlxxxlI",
+                "SheppyPOO!!",
+                "markthegreat100",
+                "oleg_dagi",
+                "ShtrafBat",
+                "TheManiac89",
+                "RapaNui"
             ],
             "actions": [
+                "FOLD",
                 "RAISE",
-                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
-                1.5,
-                1.5,
+                null,
+                12.0,
+                null,
+                null,
+                null,
                 null,
                 null,
                 null,
@@ -79,56 +89,26 @@
             ]
         },
         "post-flop": {
-            "players": [
-                "anabeliangrape",
-                "Ball Crusher",
-                "anabeliangrape"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.78,
-                1.78
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "anabeliangrape",
-                "Ball Crusher",
-                "anabeliangrape"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                3.47,
-                3.47
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "anabeliangrape",
-                "Ball Crusher"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "5d 5c",
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null,
@@ -136,11 +116,14 @@
         null
     ],
     "finishing_stack": [
-        117.5,
-        39.14,
-        17.08,
-        24.75,
-        9.5,
-        19.75
+        648.61,
+        449.3,
+        345.76,
+        135.87,
+        698.94,
+        46.03,
+        366.4,
+        111.0,
+        144.15
     ]
 }

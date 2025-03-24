@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/24 23:20:54",
+    "game_id": "805265703",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "popeyebt2",
+        "JloJIKa",
+        "so_it_goes",
+        "hloverka",
+        "QDevilQ"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        63.59,
+        131.0,
+        50.0,
+        50.25,
+        50.0,
+        50.75
+    ],
+    "player_small_blind": "so_it_goes",
+    "small_blind": 0.25,
+    "player_big_blind": "hloverka",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "2d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "9c",
+            "9h"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "QDevilQ",
+                "IlxxxlI",
+                "popeyebt2",
+                "JloJIKa",
+                "so_it_goes",
+                "hloverka"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "hloverka",
+                "popeyebt2",
+                "hloverka",
+                "popeyebt2"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.06,
+                7.0,
+                4.94
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "hloverka",
+                "popeyebt2",
+                "hloverka",
+                "popeyebt2"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                8.19,
+                41.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        63.59,
+        114.31,
+        50.0,
+        50.0,
+        65.26,
+        50.75
+    ]
+}

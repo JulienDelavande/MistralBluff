@@ -1,131 +1,84 @@
 {
-    "date": "2016/11/29 8:2:36",
-    "game_id": "786725031",
+    "date": "2016/9/18 7:13:10",
+    "game_id": "730174109",
     "variant": "PRR",
-    "table_name": "Karkadann-2",
+    "table_name": "Kraken-6",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 3,
     "players": [
-        "shokerAAss",
-        "St3p04ka",
+        "iDawg",
+        "jackson319",
         "IlxxxlI",
-        "Iia007",
-        "Winter is here",
-        "aleaga",
-        "Qrenor",
-        "PeLanpapa"
+        "Gargantuatua",
+        "BlitzWaut",
+        "Pimpika"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        104.44,
-        174.36,
-        49.71,
-        102.0,
-        199.49,
-        207.46,
-        249.65,
-        100.0
+        146.16,
+        106.31,
+        40.5,
+        100.5,
+        113.98,
+        40.0
     ],
-    "player_small_blind": "Iia007",
+    "player_small_blind": "Gargantuatua",
     "small_blind": 0.5,
-    "player_big_blind": "Winter is here",
+    "player_big_blind": "BlitzWaut",
     "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jc",
-        "Jd"
+        "6s",
+        "3h"
     ],
     "dealed_cards": {
         "flop": [
-            "9s",
-            "3s",
-            "9h"
+            "4s",
+            "10c",
+            "10h"
         ],
-        "turn": [
-            "Kc"
-        ],
-        "river": [
-            "4c"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "aleaga",
-                "Qrenor",
-                "PeLanpapa",
-                "shokerAAss",
-                "St3p04ka",
+                "Pimpika",
+                "iDawg",
+                "jackson319",
                 "IlxxxlI",
-                "Iia007",
-                "Winter is here",
-                "IlxxxlI"
+                "Gargantuatua",
+                "BlitzWaut"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "RAISE",
+                "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
-                null,
-                null,
-                null,
                 3.0,
-                8.5,
                 null,
-                6.0
+                null,
+                2.0
             ]
         },
         "post-flop": {
             "players": [
-                "Iia007",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                7.0,
-                7.0
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Iia007",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "Iia007",
-                "IlxxxlI",
-                "Iia007"
+                "BlitzWaut",
+                "jackson319",
+                "BlitzWaut"
             ],
             "actions": [
                 "CHECK",
@@ -134,9 +87,19 @@
             ],
             "values": [
                 null,
-                7.52,
+                3.09,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -145,18 +108,14 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        104.44,
-        174.36,
-        65.06,
-        86.0,
-        198.49,
-        207.46,
-        249.65,
-        100.0
+        146.16,
+        109.49000000000001,
+        40.5,
+        100.0,
+        110.98,
+        40.0
     ]
 }

@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/7 10:4:53",
+    "game_id": "792529832",
+    "variant": "PRR",
+    "table_name": "Gorgons-5",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "WeakAndWeary",
+        "IgLa",
+        "dragggonfly",
+        "KingRey33",
+        "IlxxxlI",
+        "braaaap"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        59.55,
+        73.16,
+        76.52,
+        19.83,
+        23.43,
+        23.45
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "braaaap",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "8c",
+            "3d"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "IgLa",
+                "dragggonfly",
+                "KingRey33",
+                "IlxxxlI",
+                "braaaap"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dragggonfly",
+                "KingRey33"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dragggonfly",
+                "KingRey33",
+                "dragggonfly"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                8.0,
+                5.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dragggonfly",
+                "KingRey33",
+                "dragggonfly"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.83,
+                8.83
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Jh Jc",
+        "Kc 10c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        59.55,
+        73.16,
+        56.69,
+        38.39,
+        23.18,
+        22.95
+    ]
+}

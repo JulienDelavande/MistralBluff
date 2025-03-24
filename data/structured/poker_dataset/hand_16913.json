@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/19 20:22:5",
+    "game_id": "801723192",
+    "variant": "PRR",
+    "table_name": "Bahamut",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "doctor rick",
+        "UltraFish",
+        "Tolstobrov E",
+        "JohnnyB3692",
+        "IlxxxlI",
+        "Mr.Holmes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        1.41,
+        1.77,
+        1.14,
+        2.36,
+        2.0,
+        0.1
+    ],
+    "player_small_blind": "Mr.Holmes",
+    "small_blind": 0.01,
+    "player_big_blind": "doctor rick",
+    "big_blind": 0.02,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "9d",
+            "9c"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "UltraFish",
+                "Tolstobrov E",
+                "JohnnyB3692",
+                "IlxxxlI",
+                "Mr.Holmes",
+                "doctor rick",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "ALLIN",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.05,
+                0.09,
+                0.08,
+                0.05
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "doctor rick",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.14,
+                0.14
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "doctor rick",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                0.36,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Ac 8c",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        1.73,
+        1.77,
+        1.14,
+        2.36,
+        1.76,
+        0.0
+    ]
+}

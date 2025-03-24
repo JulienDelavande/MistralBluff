@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/8 14:35:0",
+    "game_id": "793402105",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Parcker",
+        "erotomania",
+        "IlxxxlI",
+        "anokato",
+        "hotbabe1986"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        25.0,
+        25.0,
+        10.0,
+        27.95,
+        36.45
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "Qs",
+            "9d"
+        ],
+        "turn": [
+            "As"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hotbabe1986",
+                "Parcker",
+                "erotomania",
+                "IlxxxlI",
+                "anokato"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "anokato",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.78,
+                0.78
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "anokato",
+                "IlxxxlI",
+                "anokato"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                8.6,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        25.0,
+        12.61,
+        25.05,
+        36.45
+    ]
+}

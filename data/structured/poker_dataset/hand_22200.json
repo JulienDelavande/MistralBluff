@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/8 22:4:15",
+    "game_id": "793504831",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Kovrol99",
+        "IlxxxlI",
+        "HapKoTuk",
+        "SonUTSucker",
+        "SkaHot"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        5.14,
+        10.7,
+        25.0,
+        25.0,
+        48.25
+    ],
+    "player_small_blind": "SkaHot",
+    "small_blind": 0.1,
+    "player_big_blind": "Kovrol99",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4d",
+            "3s",
+            "5d"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "SonUTSucker",
+                "SkaHot",
+                "Kovrol99"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "SonUTSucker",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.79,
+                0.79
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "SonUTSucker",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "SonUTSucker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "8c Ac",
+        "Js Ad"
+    ],
+    "finishing_stack": [
+        4.89,
+        10.7,
+        25.0,
+        22.21,
+        51.0
+    ]
+}

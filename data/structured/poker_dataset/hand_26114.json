@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/8 8:2:20",
+    "game_id": "793122871",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "LoveandLuck111",
+        "Bunkman",
+        "IlxxxlI",
+        "DJ FOKISS",
+        "sir.caffeine"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        27.55,
+        25.6,
+        10.0,
+        19.1,
+        28.81
+    ],
+    "player_small_blind": "DJ FOKISS",
+    "small_blind": 0.1,
+    "player_big_blind": "sir.caffeine",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "Jc",
+            "Js"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "LoveandLuck111",
+                "Bunkman",
+                "IlxxxlI",
+                "DJ FOKISS",
+                "sir.caffeine",
+                "LoveandLuck111"
+            ],
+            "actions": [
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                1.0,
+                null,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "LoveandLuck111",
+                "Bunkman",
+                "LoveandLuck111"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                1.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "LoveandLuck111",
+                "Bunkman",
+                "LoveandLuck111"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.75,
+                3.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "LoveandLuck111",
+                "Bunkman"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.87,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        33.29,
+        19.6,
+        10.0,
+        19.0,
+        28.56
+    ]
+}

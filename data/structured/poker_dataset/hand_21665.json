@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 8:4:49",
+    "game_id": "793826993",
+    "variant": "PRR",
+    "table_name": "Kraken-3",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IlxxxlI",
+        "Bokmal",
+        "Towelie_",
+        "Heksebrygg",
+        "LazyFish",
+        "g-vine"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        100.0,
+        101.5,
+        100.0,
+        211.0,
+        106.25
+    ],
+    "player_small_blind": "Bokmal",
+    "small_blind": 0.5,
+    "player_big_blind": "Towelie_",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "Ks",
+            "4d"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Heksebrygg",
+                "LazyFish",
+                "g-vine",
+                "IlxxxlI",
+                "Bokmal",
+                "Towelie_"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Towelie_",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Towelie_",
+                "Heksebrygg",
+                "Towelie_"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.12,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.0,
+        99.5,
+        98.5,
+        103.18,
+        211.0,
+        106.25
+    ]
+}

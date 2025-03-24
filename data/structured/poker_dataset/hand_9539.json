@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/25 16:0:8",
+    "game_id": "805744668",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Indigol",
+        "IlxxxlI",
+        "unicellular",
+        "ImYourFriend1996",
+        "Time_Will_Tell",
+        "Xamroll"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        51.09,
+        56.65,
+        102.82,
+        65.98,
+        79.56,
+        50.0
+    ],
+    "player_small_blind": "Indigol",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "6h",
+            "4c"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "unicellular",
+                "ImYourFriend1996",
+                "Time_Will_Tell",
+                "Xamroll",
+                "Indigol",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Time_Will_Tell"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Time_Will_Tell"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                2.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Time_Will_Tell"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                7.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.84,
+        60.489999999999995,
+        102.82,
+        65.98,
+        75.56,
+        50.0
+    ]
+}

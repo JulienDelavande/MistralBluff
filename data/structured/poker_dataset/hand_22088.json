@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/8 22:12:35",
+    "game_id": "793507088",
+    "variant": "PRR",
+    "table_name": "Kraken-3",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "IgLa",
+        "gust",
+        "MadLifeGrinder",
+        "aleks0v"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        137.18,
+        41.34,
+        125.23,
+        100.0
+    ],
+    "player_small_blind": "gust",
+    "small_blind": 0.5,
+    "player_big_blind": "MadLifeGrinder",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4h",
+            "7h",
+            "Jc"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aleks0v",
+                "IlxxxlI",
+                "IgLa",
+                "gust",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "IgLa",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.88,
+                2.88
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "IgLa",
+                "MadLifeGrinder",
+                "IgLa"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.0,
+                30.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        40.0,
+        124.80000000000001,
+        40.84,
+        136.85000000000002,
+        100.0
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "date": "2016/12/24 23:37:6",
+    "game_id": "805272379",
+    "variant": "PRR",
+    "table_name": "Ettin-5",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Steelrain76",
+        "BigRedMonkey",
+        "IlxxxlI",
+        "AAADRUNKKK",
+        "Slamit111",
+        "Svitch",
+        "Artemone"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        21.48,
+        9.21,
+        25.95,
+        7.43,
+        24.65,
+        25.1,
+        25.0
+    ],
+    "player_small_blind": "Svitch",
+    "small_blind": 0.1,
+    "player_big_blind": "Artemone",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "4s",
+            "Qh"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Steelrain76",
+                "BigRedMonkey",
+                "IlxxxlI",
+                "AAADRUNKKK",
+                "Slamit111",
+                "Svitch",
+                "Artemone"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                null,
+                0.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Steelrain76",
+                "Slamit111"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Steelrain76",
+                "Slamit111",
+                "Steelrain76"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                2.0,
+                1.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Steelrain76",
+                "Slamit111"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "7s 6s",
+        null,
+        null,
+        null,
+        "Jc Ac",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.52,
+        9.21,
+        25.95,
+        7.43,
+        21.65,
+        25.0,
+        24.75
+    ]
+}

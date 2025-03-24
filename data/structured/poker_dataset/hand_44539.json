@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/1 11:5:37",
+    "game_id": "788517953",
+    "variant": "PRR",
+    "table_name": "Gorgons-2",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "iKaBiNK",
+        "Xobkcul",
+        "lordboroda",
+        "momma_bear",
+        "GagaPoker",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        54.37,
+        50.0,
+        50.0,
+        62.82,
+        65.09,
+        20.27
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "iKaBiNK",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7s",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "6c",
+            "2h"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Xobkcul",
+                "lordboroda",
+                "momma_bear",
+                "GagaPoker",
+                "IlxxxlI",
+                "iKaBiNK",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.0,
+                3.5,
+                2.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "iKaBiNK",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.0,
+                5.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "iKaBiNK",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                11.27,
+                11.27
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "As Ad",
+        null,
+        null,
+        null,
+        null,
+        "7s 7c"
+    ],
+    "finishing_stack": [
+        72.62,
+        50.0,
+        50.0,
+        62.82,
+        65.09,
+        0.0
+    ]
+}

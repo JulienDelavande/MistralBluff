@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/29 7:53:45",
-    "game_id": "786719511",
+    "date": "2016/9/18 7:23:59",
+    "game_id": "730181982",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "short",
+    "table_name": "Karkadann-3",
+    "type_game": "Hold'em",
     "button_seat": 5,
     "players": [
-        "thethinmanlb",
-        "St3p04ka",
-        "BigBlat",
-        "IlxxxlI",
-        "Qrenor",
-        "badboy85"
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "noFOLDbutton3",
+        "Gargantuatua",
+        "Pimpika",
+        "kalabanaspirit",
+        "FirstClan",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -19,48 +21,65 @@
         3,
         4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        68.83,
-        68.17,
-        50.07,
-        20.0,
-        76.74,
-        106.28
+        104.54,
+        115.7,
+        183.04,
+        100.0,
+        81.51,
+        100.5,
+        145.23,
+        41.5
     ],
-    "player_small_blind": "badboy85",
+    "player_small_blind": "kalabanaspirit",
     "small_blind": 0.5,
-    "player_big_blind": "thethinmanlb",
+    "player_big_blind": "FirstClan",
     "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7s",
-        "2d"
+        "10h",
+        "9s"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "Jh",
+            "10s",
+            "8s"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "St3p04ka",
-                "BigBlat",
                 "IlxxxlI",
-                "Qrenor",
-                "badboy85"
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "noFOLDbutton3",
+                "Gargantuatua",
+                "Pimpika",
+                "kalabanaspirit",
+                "FirstClan"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
+                null,
+                null,
+                1.0,
                 null,
                 null,
                 null,
@@ -68,9 +87,21 @@
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FirstClan",
+                "noFOLDbutton3",
+                "FirstClan"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -89,14 +120,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        69.33,
-        68.17,
-        50.07,
-        20.0,
-        76.74,
-        105.78
+        104.54,
+        115.7,
+        184.42,
+        100.0,
+        81.51,
+        100.0,
+        144.23,
+        41.5
     ]
 }

@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 21:9:50",
+    "game_id": "788732533",
+    "variant": "PRR",
+    "table_name": "Lakhey-2",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "moneyteam24",
+        "Are you with me",
+        "Chubrica",
+        "espaditas"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        80.0,
+        26.52,
+        78.0,
+        338.33,
+        85.65
+    ],
+    "player_small_blind": "Are you with me",
+    "small_blind": 1.0,
+    "player_big_blind": "Chubrica",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "6h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "9d",
+            "10h"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "espaditas",
+                "IlxxxlI",
+                "moneyteam24",
+                "Are you with me",
+                "Chubrica"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Are you with me",
+                "Chubrica",
+                "moneyteam24"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                4.0,
+                null,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Are you with me",
+                "moneyteam24"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Are you with me",
+                "moneyteam24"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        80.0,
+        20.52,
+        85.3,
+        336.33,
+        85.65
+    ]
+}

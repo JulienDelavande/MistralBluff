@@ -1,0 +1,130 @@
+{
+    "date": "2016/10/13 1:9:25",
+    "game_id": "749194665",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Orondi",
+        "aleks0v",
+        "IlxxxlI",
+        "iDawg"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        274.51,
+        100.0,
+        100.0,
+        104.89
+    ],
+    "player_small_blind": "aleks0v",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "4d",
+            "7d"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "iDawg",
+                "Orondi",
+                "aleks0v",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Orondi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.75,
+                2.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Orondi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                7.4,
+                7.4
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10h 9c",
+        null,
+        "9s Js",
+        null
+    ],
+    "finishing_stack": [
+        261.86,
+        99.5,
+        111.86,
+        104.89
+    ]
+}

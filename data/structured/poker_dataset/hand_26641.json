@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/8 7:0:30",
+    "game_id": "793075254",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "fortecco",
+        "FirstClan",
+        "foldemfoley",
+        "BeatsHappen",
+        "strodawg"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        5.41,
+        28.39,
+        12.5,
+        3.89,
+        13.88,
+        35.76
+    ],
+    "player_small_blind": "BeatsHappen",
+    "small_blind": 0.1,
+    "player_big_blind": "strodawg",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "As",
+            "Js",
+            "3h"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "4h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "fortecco",
+                "FirstClan",
+                "foldemfoley",
+                "BeatsHappen",
+                "strodawg"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.55,
+                null,
+                null,
+                0.3
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "strodawg",
+                "FirstClan",
+                "strodawg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.76,
+                0.76
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "strodawg",
+                "FirstClan",
+                "strodawg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.29,
+                1.29
+            ]
+        },
+        "post-river": {
+            "players": [
+                "strodawg",
+                "FirstClan",
+                "strodawg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        5.41,
+        28.39,
+        14.940000000000001,
+        3.89,
+        13.780000000000001,
+        33.16
+    ]
+}

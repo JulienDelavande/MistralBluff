@@ -1,0 +1,137 @@
+{
+    "date": "2016/12/5 21:0:59",
+    "game_id": "791545663",
+    "variant": "PRR",
+    "table_name": "Kraken-4",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Orondi",
+        "38979",
+        "Oral-Bet",
+        "IlxxxlI",
+        "bicccper",
+        "Azaladog"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        127.63,
+        105.05,
+        46.5,
+        42.73,
+        40.75,
+        105.54
+    ],
+    "player_small_blind": "Orondi",
+    "small_blind": 0.5,
+    "player_big_blind": "38979",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "5d",
+            "4s"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Oral-Bet",
+                "IlxxxlI",
+                "bicccper",
+                "Azaladog",
+                "Orondi",
+                "38979",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                null,
+                null,
+                null,
+                8.5,
+                null,
+                6.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Orondi",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.03,
+                9.03
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Orondi",
+                "Oral-Bet",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                null,
+                28.47,
+                28.47
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Kh Ad",
+        null,
+        "9s As",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        172.13,
+        104.05,
+        0.0,
+        42.73,
+        40.75,
+        105.54
+    ]
+}

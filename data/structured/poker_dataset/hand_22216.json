@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 22:3:18",
+    "game_id": "793504569",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Kovrol99",
+        "SkaHot",
+        "HapKoTuk",
+        "IlxxxlI",
+        "Camdenn"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        9.3,
+        29.57,
+        35.08,
+        12.79,
+        25.0
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "Ks",
+            "Kh"
+        ],
+        "turn": [
+            "Kc"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Camdenn",
+                "Kovrol99",
+                "SkaHot",
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "IlxxxlI",
+                "Camdenn"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "Camdenn"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HapKoTuk",
+                "Camdenn"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "8s 8d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.3,
+        29.57,
+        37.82,
+        12.04,
+        22.75
+    ]
+}

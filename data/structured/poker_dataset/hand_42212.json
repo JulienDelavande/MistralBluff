@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/2 9:27:36",
+    "game_id": "789119391",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 4,
+    "players": [
+        "St3p04ka",
+        "PANDAisEVIL",
+        "IlxxxlI",
+        "Gronkowski69",
+        "AironVega"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        133.43,
+        56.57,
+        20.0,
+        135.85,
+        51.5
+    ],
+    "player_small_blind": "Gronkowski69",
+    "small_blind": 0.5,
+    "player_big_blind": "AironVega",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "8c",
+            "Kd"
+        ],
+        "turn": [
+            "7h"
+        ],
+        "river": [
+            "Ah"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "St3p04ka",
+                "PANDAisEVIL",
+                "IlxxxlI",
+                "Gronkowski69",
+                "AironVega"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "IlxxxlI",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.23,
+                2.23
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "AironVega",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "AironVega",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "7c Jc",
+        null,
+        "2c 2d"
+    ],
+    "finishing_stack": [
+        133.43,
+        56.57,
+        15.77,
+        135.35,
+        55.78999999999999
+    ]
+}

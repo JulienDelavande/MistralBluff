@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/23 8:15:1",
+    "game_id": "804196954",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "SwoogieSlayer",
+        "IlxxxlI",
+        "DicksOutForHarambe",
+        "hobbslima",
+        "eatMYaszzz",
+        "Sonic3Dblast"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        24.65,
+        25.0,
+        25.0,
+        18.26,
+        27.21,
+        27.49
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "DicksOutForHarambe",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "7h",
+            "5h"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "hobbslima",
+                "eatMYaszzz",
+                "Sonic3Dblast",
+                "SwoogieSlayer",
+                "IlxxxlI",
+                "DicksOutForHarambe"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DicksOutForHarambe",
+                "eatMYaszzz"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DicksOutForHarambe",
+                "eatMYaszzz"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.01,
+                1.01
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DicksOutForHarambe",
+                "eatMYaszzz"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        24.65,
+        24.9,
+        26.68,
+        18.26,
+        25.45,
+        27.49
+    ]
+}

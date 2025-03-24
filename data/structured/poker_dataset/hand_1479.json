@@ -1,16 +1,18 @@
 {
-    "date": "2016/11/29 7:54:13",
-    "game_id": "786719947",
+    "date": "2016/9/18 7:23:31",
+    "game_id": "730181642",
     "variant": "PRR",
-    "table_name": "Kraken-2",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 3,
+    "button_seat": 4,
     "players": [
-        "MrCRABS333",
-        "AironVega",
-        "St3p04ka",
-        "Qrenor",
-        "MadLifeGrinder",
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "noFOLDbutton3",
+        "Gargantuatua",
+        "Pimpika",
+        "kalabanaspirit",
+        "FirstClan",
         "IlxxxlI"
     ],
     "players_seats": [
@@ -19,96 +21,73 @@
         3,
         4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        179.55,
-        110.2,
+        104.54,
+        115.7,
+        183.04,
         100.0,
-        423.7,
-        104.05,
-        51.68
+        82.01,
+        100.0,
+        145.23,
+        41.5
     ],
-    "player_small_blind": "Qrenor",
+    "player_small_blind": "Pimpika",
     "small_blind": 0.5,
-    "player_big_blind": "MadLifeGrinder",
+    "player_big_blind": "kalabanaspirit",
     "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6d",
-        "7d"
+        "3d",
+        "8d"
     ],
     "dealed_cards": {
-        "flop": [
-            "Ac",
-            "2h",
-            "6s"
-        ],
-        "turn": [
-            "5h"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "FirstClan",
                 "IlxxxlI",
-                "MrCRABS333",
-                "AironVega",
-                "St3p04ka",
-                "Qrenor",
-                "MadLifeGrinder",
-                "St3p04ka"
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "noFOLDbutton3",
+                "Gargantuatua",
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "RAISE",
-                "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                3.1,
-                9.8,
-                null,
-                7.2
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "Qrenor",
-                "St3p04ka"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                10.26,
-                10.26
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Qrenor",
-                "St3p04ka",
-                "Qrenor"
-            ],
-            "actions": [
-                "BET",
-                "ALLIN",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                25.0,
-                79.44,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -122,14 +101,18 @@
         null,
         null,
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        179.55,
-        110.2,
-        143.56,
-        378.14,
-        103.05,
-        51.68
+        104.54,
+        115.7,
+        183.04,
+        100.0,
+        81.51,
+        100.5,
+        145.23,
+        41.5
     ]
 }

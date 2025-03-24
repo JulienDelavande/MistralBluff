@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/24 23:53:58",
+    "game_id": "805279371",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "MrZPoker",
+        "Jerin.J.",
+        "IlxxxlI",
+        "N1cer1ver",
+        "Log_in"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.1,
+        12.09,
+        40.69,
+        25.0,
+        10.0
+    ],
+    "player_small_blind": "N1cer1ver",
+    "small_blind": 0.1,
+    "player_big_blind": "Log_in",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "3h",
+            "Kc"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MrZPoker",
+                "Jerin.J.",
+                "IlxxxlI",
+                "N1cer1ver",
+                "Log_in"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "N1cer1ver",
+                "Log_in",
+                "MrZPoker",
+                "N1cer1ver",
+                "Log_in"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Log_in",
+                "MrZPoker",
+                "Log_in"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        14.25,
+        12.09,
+        40.69,
+        24.5,
+        9.25
+    ]
+}

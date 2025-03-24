@@ -1,0 +1,105 @@
+{
+    "date": "2016/12/1 21:13:45",
+    "game_id": "788733406",
+    "variant": "PRR",
+    "table_name": "Kraken-14",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "Chubrica",
+        "Rekruol",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        318.98,
+        140.5,
+        110.29,
+        40.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "6h",
+            "6d"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Chubrica",
+                "Rekruol",
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Chubrica",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.42,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        316.98,
+        142.78,
+        110.29,
+        39.5
+    ]
+}

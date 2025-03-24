@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 22:19:16",
+    "game_id": "805813756",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "lukopti",
+        "d0nkeym0ney",
+        "Indigol",
+        "IlxxxlI",
+        "whitebeaver77"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        44.86,
+        18.9,
+        61.73,
+        25.0,
+        15.18
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "whitebeaver77",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "10c",
+            "8s"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "lukopti",
+                "d0nkeym0ney",
+                "Indigol",
+                "IlxxxlI",
+                "whitebeaver77"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.72,
+                0.57
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "whitebeaver77",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.78,
+                1.56,
+                0.78
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "whitebeaver77"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "whitebeaver77"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ac Ks",
+        null
+    ],
+    "finishing_stack": [
+        44.86,
+        18.9,
+        61.73,
+        27.150000000000002,
+        12.8
+    ]
+}

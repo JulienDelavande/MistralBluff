@@ -1,79 +1,81 @@
 {
-    "date": "2016/11/29 14:47:8",
-    "game_id": "787014265",
+    "date": "2016/9/4 10:9:3",
+    "game_id": "719287466",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "VegetablesArentYummy",
         "IlxxxlI",
-        "IbetUmuck",
-        "PANDAisEVIL",
-        "AironVega"
+        "SheppyPOO!!",
+        "VegetablesArentYummy",
+        "bet2000",
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
         2,
         3,
-        5,
+        4,
         6
     ],
     "starting_stacks": [
-        226.05,
-        82.55,
-        863.25,
+        180.0,
+        523.2,
         206.0,
-        204.55
+        479.07,
+        217.58
     ],
     "player_small_blind": "IlxxxlI",
-    "small_blind": 1.0,
-    "player_big_blind": "IbetUmuck",
-    "big_blind": 2.0,
+    "small_blind": 2.0,
+    "player_big_blind": "SheppyPOO!!",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8s",
-        "3h"
+        "3d",
+        "4h"
     ],
     "dealed_cards": {
         "flop": [
-            "6d",
-            "Ah",
-            "Kc"
+            "3s",
+            "5d",
+            "10c"
         ],
         "turn": [
-            "Ks"
+            "Ad"
         ],
-        "river": []
+        "river": [
+            "7d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "PANDAisEVIL",
-                "AironVega",
                 "VegetablesArentYummy",
+                "bet2000",
+                "ConstanceHarm",
                 "IlxxxlI",
-                "IbetUmuck"
+                "SheppyPOO!!"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
                 "RAISE",
+                "FOLD",
                 "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
+                9.2,
                 null,
-                5.0,
                 null,
-                3.0
+                5.2
             ]
         },
         "post-flop": {
             "players": [
-                "IbetUmuck",
-                "VegetablesArentYummy"
+                "SheppyPOO!!",
+                "bet2000"
             ],
             "actions": [
                 "CHECK",
@@ -86,9 +88,23 @@
         },
         "post-turn": {
             "players": [
-                "IbetUmuck",
-                "VegetablesArentYummy",
-                "IbetUmuck"
+                "SheppyPOO!!",
+                "bet2000"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SheppyPOO!!",
+                "bet2000",
+                "SheppyPOO!!"
             ],
             "actions": [
                 "CHECK",
@@ -97,14 +113,9 @@
             ],
             "values": [
                 null,
-                6.96,
+                17.17,
                 null
             ]
-        },
-        "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
         }
     },
     "card_shown_by_players": [
@@ -115,10 +126,10 @@
         null
     ],
     "finishing_stack": [
-        231.5,
-        81.55,
-        858.25,
+        178.0,
+        514.0,
         206.0,
-        204.55
+        490.07,
+        217.58
     ]
 }

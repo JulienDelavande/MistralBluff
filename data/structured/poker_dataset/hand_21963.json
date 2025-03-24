@@ -1,0 +1,164 @@
+{
+    "date": "2016/12/8 23:59:18",
+    "game_id": "793541634",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "THEKELL",
+        "FatzPanda",
+        "freshness911",
+        "IlxxxlI",
+        "deviltrucker",
+        "RockE"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        8.91,
+        16.12,
+        22.6,
+        15.41,
+        7.08,
+        13.11
+    ],
+    "player_small_blind": "THEKELL",
+    "small_blind": 0.1,
+    "player_big_blind": "FatzPanda",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "10d",
+            "As"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "freshness911",
+                "IlxxxlI",
+                "deviltrucker",
+                "RockE",
+                "THEKELL",
+                "FatzPanda"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                0.25,
+                null,
+                null,
+                0.25,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "THEKELL",
+                "FatzPanda",
+                "freshness911",
+                "RockE",
+                "THEKELL",
+                "FatzPanda",
+                "freshness911"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.47,
+                null,
+                0.47,
+                0.47
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FatzPanda",
+                "freshness911",
+                "RockE"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FatzPanda",
+                "freshness911",
+                "RockE",
+                "FatzPanda"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        8.66,
+        15.4,
+        24.17,
+        15.41,
+        7.08,
+        12.389999999999999
+    ]
+}

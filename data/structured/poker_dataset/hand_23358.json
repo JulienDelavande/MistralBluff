@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/8 18:19:58",
+    "game_id": "793456189",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "IampokerKidd",
+        "boosaz",
+        "IlxxxlI",
+        "Moryak999"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        28.61,
+        25.0,
+        10.25,
+        29.74
+    ],
+    "player_small_blind": "boosaz",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "4s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "Jd",
+            "3d"
+        ],
+        "turn": [
+            "Qd"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Moryak999",
+                "IampokerKidd",
+                "boosaz",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "boosaz",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "boosaz",
+                "IampokerKidd",
+                "boosaz"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.11,
+                1.11
+            ]
+        },
+        "post-river": {
+            "players": [
+                "boosaz",
+                "IampokerKidd",
+                "boosaz"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.89,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.53,
+        23.14,
+        10.0,
+        29.74
+    ]
+}

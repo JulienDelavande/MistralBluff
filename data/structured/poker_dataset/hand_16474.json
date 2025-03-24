@@ -1,0 +1,168 @@
+{
+    "date": "2016/12/22 20:45:54",
+    "game_id": "803763730",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "IlxxxlI",
+        "befuddeled",
+        "Heteon",
+        "aldough1",
+        "HapKoTuk",
+        "bigbuford",
+        "Slim2Nun",
+        "DaRocks"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        50.0,
+        54.75,
+        124.42,
+        20.94,
+        50.0,
+        41.85,
+        19.25,
+        37.57
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "befuddeled",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6d",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "5h",
+            "10h"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Heteon",
+                "aldough1",
+                "HapKoTuk",
+                "bigbuford",
+                "Slim2Nun",
+                "DaRocks",
+                "IlxxxlI",
+                "befuddeled"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                1.5,
+                null,
+                1.5,
+                null,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Heteon",
+                "aldough1",
+                "bigbuford",
+                "DaRocks",
+                "Heteon"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Heteon",
+                "aldough1",
+                "Heteon"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Heteon",
+                "aldough1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "9d 9s",
+        "Ac Js",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        49.75,
+        54.25,
+        132.94,
+        15.440000000000001,
+        50.0,
+        40.35,
+        19.25,
+        36.07
+    ]
+}

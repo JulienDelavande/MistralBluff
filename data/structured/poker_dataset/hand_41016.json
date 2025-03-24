@@ -1,0 +1,151 @@
+{
+    "date": "2016/12/2 12:39:48",
+    "game_id": "789258009",
+    "variant": "PRR",
+    "table_name": "Longana-5",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "dankmann",
+        "IlxxxlI",
+        "lt_falcone",
+        "StephCurry",
+        "St3p04ka",
+        "VegetablesArentYummy",
+        "JstClcknBtns"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        202.0,
+        130.94,
+        102.22,
+        200.0,
+        113.08,
+        213.4,
+        200.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "lt_falcone",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "3c",
+            "6h"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "StephCurry",
+                "St3p04ka",
+                "VegetablesArentYummy",
+                "JstClcknBtns",
+                "dankmann",
+                "IlxxxlI",
+                "lt_falcone"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                4.0,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "lt_falcone",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                4.94,
+                10.0,
+                5.06
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "lt_falcone"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "lt_falcone"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Kc As",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        202.0,
+        144.44,
+        87.22,
+        200.0,
+        113.08,
+        213.4,
+        200.0
+    ]
+}

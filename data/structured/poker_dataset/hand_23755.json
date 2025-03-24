@@ -1,0 +1,102 @@
+{
+    "date": "2016/12/8 17:19:12",
+    "game_id": "793444406",
+    "variant": "PRR",
+    "table_name": "Gorgons-21",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "WeakAndWeary",
+        "IlxxxlI",
+        "Azaladog",
+        "DopeDope"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        169.75,
+        20.0,
+        51.6,
+        48.5
+    ],
+    "player_small_blind": "DopeDope",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "Ac",
+            "9c"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Azaladog",
+                "DopeDope",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DopeDope",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.42,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        168.25,
+        20.0,
+        51.6,
+        49.85
+    ]
+}

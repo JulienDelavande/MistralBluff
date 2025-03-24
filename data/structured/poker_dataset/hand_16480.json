@@ -1,0 +1,151 @@
+{
+    "date": "2016/12/22 20:43:53",
+    "game_id": "803762314",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "IlxxxlI",
+        "befuddeled",
+        "Heteon",
+        "HapKoTuk",
+        "bigbuford",
+        "Slim2Nun",
+        "DaRocks"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        50.0,
+        50.0,
+        126.42,
+        50.0,
+        37.53,
+        21.5,
+        38.32
+    ],
+    "player_small_blind": "Slim2Nun",
+    "small_blind": 0.25,
+    "player_big_blind": "DaRocks",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "Jd",
+            "Ks"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "befuddeled",
+                "Heteon",
+                "HapKoTuk",
+                "bigbuford",
+                "Slim2Nun",
+                "DaRocks"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.5,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "bigbuford"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "bigbuford"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HapKoTuk",
+                "bigbuford",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.16,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        50.0,
+        126.42,
+        46.0,
+        41.85,
+        21.25,
+        37.82
+    ]
+}

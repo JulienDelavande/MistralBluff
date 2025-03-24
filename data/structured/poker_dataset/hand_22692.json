@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/8 21:22:9",
+    "game_id": "793493685",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "WeakAndWeary",
+        "Hawkbacker",
+        "mightydark",
+        "Bokmal",
+        "DonkReaper",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        56.65,
+        47.71,
+        39.63,
+        59.37,
+        79.46,
+        20.87
+    ],
+    "player_small_blind": "DonkReaper",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "4s",
+            "5h"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Hawkbacker",
+                "mightydark",
+                "Bokmal",
+                "DonkReaper",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.5,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DonkReaper",
+                "IlxxxlI",
+                "mightydark",
+                "Bokmal",
+                "DonkReaper",
+                "IlxxxlI",
+                "mightydark"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                4.0,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mightydark",
+                "Bokmal",
+                "mightydark"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                6.65,
+                53.87,
+                27.48
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "10d Ac",
+        "5d 5c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.65,
+        47.71,
+        0.0,
+        99.0,
+        77.96,
+        19.37
+    ]
+}

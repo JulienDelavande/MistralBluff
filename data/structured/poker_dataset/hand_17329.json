@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/15 11:39:36",
+    "game_id": "798379825",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Cap",
+    "button_seat": 5,
+    "players": [
+        "38979",
+        "mr.fargo",
+        "IlxxxlI",
+        "jpoker88",
+        "ThxBro",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        82.1,
+        105.91,
+        136.29,
+        40.0,
+        56.29
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "38979",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "6h",
+            "5s"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mr.fargo",
+                "IlxxxlI",
+                "jpoker88",
+                "ThxBro",
+                "St3p04ka",
+                "38979"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                null,
+                2.5,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "38979",
+                "mr.fargo",
+                "jpoker88",
+                "38979",
+                "mr.fargo"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mr.fargo",
+                "jpoker88"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "mr.fargo",
+                "jpoker88"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                6.65,
+                6.65
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "4s 4c",
+        null,
+        "Ah Jh",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        97.5,
+        69.94999999999999,
+        105.91,
+        150.07999999999998,
+        40.0,
+        55.79
+    ]
+}

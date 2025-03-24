@@ -1,0 +1,125 @@
+{
+    "date": "2016/12/5 12:24:22",
+    "game_id": "791402382",
+    "variant": "PRR",
+    "table_name": "Kraken-2",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "WeakAndWeary",
+        "HomoPokerus",
+        "IlxxxlI",
+        "St3p04ka"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5
+    ],
+    "starting_stacks": [
+        177.58,
+        100.0,
+        40.0,
+        52.79
+    ],
+    "player_small_blind": "St3p04ka",
+    "small_blind": 0.5,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "Ad",
+            "5c"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HomoPokerus",
+                "IlxxxlI",
+                "St3p04ka",
+                "WeakAndWeary",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                5.75,
+                null,
+                null,
+                3.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HomoPokerus",
+                "IlxxxlI",
+                "HomoPokerus"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HomoPokerus",
+                "IlxxxlI",
+                "HomoPokerus",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                6.65,
+                90.25,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        176.58,
+        116.19,
+        23.6,
+        52.29
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/1 13:48:4",
+    "game_id": "788622173",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "flyshark01",
+        "CattleCorner",
+        "MadLifeGrinder",
+        "GautamaBuddha",
+        "IlxxxlI",
+        "ONeezy89"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        201.37,
+        100.55,
+        106.75,
+        100.0,
+        46.98,
+        165.51
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 0.5,
+    "player_big_blind": "GautamaBuddha",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jd",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "5d",
+            "Qs"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "Ks"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "ONeezy89",
+                "flyshark01",
+                "CattleCorner",
+                "MadLifeGrinder",
+                "GautamaBuddha",
+                "CattleCorner"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                4.0,
+                13.5,
+                null,
+                10.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "CattleCorner"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                14.0,
+                14.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "CattleCorner"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MadLifeGrinder",
+                "CattleCorner",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                72.55,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        201.37,
+        126.69999999999999,
+        78.75,
+        99.0,
+        46.98,
+        165.51
+    ]
+}

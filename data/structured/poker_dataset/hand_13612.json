@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/24 9:42:57",
+    "game_id": "804951601",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Rhombo",
+        "IlxxxlI",
+        "Envireux",
+        "chintrogdin",
+        "CroMagnons",
+        "huiloputin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        41.59,
+        25.1,
+        25.0,
+        12.08,
+        35.75,
+        35.7
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Envireux",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6h",
+            "Jd",
+            "6s"
+        ],
+        "turn": [
+            "2c"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "chintrogdin",
+                "CroMagnons",
+                "huiloputin",
+                "Rhombo",
+                "IlxxxlI",
+                "Envireux"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.72,
+                0.72,
+                null,
+                null,
+                null,
+                0.47
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Envireux",
+                "chintrogdin",
+                "CroMagnons"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.75,
+                null,
+                1.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Envireux",
+                "CroMagnons"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                5.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Envireux",
+                "CroMagnons",
+                "Envireux"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                6.0,
+                21.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        41.59,
+        25.0,
+        11.53,
+        11.36,
+        48.66,
+        35.7
+    ]
+}

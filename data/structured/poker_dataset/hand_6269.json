@@ -1,0 +1,179 @@
+{
+    "date": "2016/10/13 0:45:40",
+    "game_id": "749178267",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "BadBeat79",
+        "luckyacer",
+        "xXfEzZXx",
+        "IlxxxlI",
+        "ManiacForces",
+        "VegetablesArentYummy",
+        "karamg",
+        "mr.fargo",
+        "PANDAisEVIL"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        48.41,
+        89.57,
+        106.32,
+        100.0,
+        100.0,
+        156.15,
+        37.79,
+        58.47,
+        101.75
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "ManiacForces",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "Kc",
+            "7s"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "VegetablesArentYummy",
+                "karamg",
+                "mr.fargo",
+                "PANDAisEVIL",
+                "BadBeat79",
+                "luckyacer",
+                "xXfEzZXx",
+                "IlxxxlI",
+                "ManiacForces"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ManiacForces",
+                "karamg",
+                "luckyacer"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ManiacForces",
+                "karamg",
+                "luckyacer",
+                "ManiacForces",
+                "karamg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                3.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "karamg",
+                "luckyacer",
+                "karamg"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                5.0,
+                5.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "6h Kh",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        48.41,
+        99.1,
+        106.32,
+        99.5,
+        99.0,
+        156.15,
+        28.79,
+        58.47,
+        101.75
+    ]
+}

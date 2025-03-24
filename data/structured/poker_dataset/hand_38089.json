@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/3 9:21:36",
+    "game_id": "789786638",
+    "variant": "PRR",
+    "table_name": "Garuda-2",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Buhasko",
+        "IlxxxlI",
+        "Ice Bank Mice Elf",
+        "HoodedHarpoon",
+        "roftbr100k",
+        "nrey2831"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+    ],
+    "starting_stacks": [
+        74.5,
+        20.0,
+        51.37,
+        102.66,
+        69.31,
+        154.8
+    ],
+    "player_small_blind": "nrey2831",
+    "small_blind": 0.25,
+    "player_big_blind": "Buhasko",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7d",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "6c",
+            "10s"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Ice Bank Mice Elf",
+                "HoodedHarpoon",
+                "roftbr100k",
+                "nrey2831",
+                "Buhasko"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.25,
+                null,
+                null,
+                1.0,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "nrey2831",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "nrey2831",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.23,
+                3.23
+            ]
+        },
+        "post-river": {
+            "players": [
+                "nrey2831",
+                "Ice Bank Mice Elf",
+                "nrey2831"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                6.3,
+                18.9,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        74.0,
+        20.0,
+        63.26,
+        102.66,
+        69.31,
+        142.12
+    ]
+}

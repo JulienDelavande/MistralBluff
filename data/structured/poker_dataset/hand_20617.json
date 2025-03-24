@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 10:12:5",
+    "game_id": "793942698",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "ANGRYLESBIAN",
+        "pkwiz",
+        "braaaap",
+        "njiegw",
+        "Prostodursen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        21.64,
+        20.39,
+        17.0,
+        20.0,
+        52.1,
+        67.2
+    ],
+    "player_small_blind": "braaaap",
+    "small_blind": 0.25,
+    "player_big_blind": "njiegw",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "2h",
+            "9c"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Prostodursen",
+                "IlxxxlI",
+                "ANGRYLESBIAN",
+                "pkwiz",
+                "braaaap",
+                "njiegw"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "braaaap",
+                "njiegw",
+                "ANGRYLESBIAN"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                null,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "braaaap",
+                "ANGRYLESBIAN"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.55,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.64,
+        18.44,
+        17.0,
+        22.71,
+        51.1,
+        67.2
+    ]
+}

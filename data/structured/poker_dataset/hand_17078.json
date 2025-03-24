@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/15 13:18:1",
+    "game_id": "798441807",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 5,
+    "players": [
+        "St3p04ka",
+        "IlxxxlI",
+        "gust",
+        "pineapplesand",
+        "JustCliknButtons"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        44.25,
+        50.0,
+        58.98,
+        23.28,
+        168.23
+    ],
+    "player_small_blind": "JustCliknButtons",
+    "small_blind": 0.5,
+    "player_big_blind": "St3p04ka",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "3s",
+            "4s"
+        ],
+        "turn": [
+            "Ks"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "gust",
+                "pineapplesand",
+                "JustCliknButtons",
+                "St3p04ka"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                2.0,
+                null,
+                null,
+                1.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "JustCliknButtons",
+                "IlxxxlI",
+                "JustCliknButtons"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.37,
+                2.37
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "JustCliknButtons",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "JustCliknButtons",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.63,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        43.25,
+        45.63,
+        58.98,
+        23.28,
+        173.11999999999998
+    ]
+}

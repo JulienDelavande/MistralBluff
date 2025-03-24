@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/6 16:43:11",
+    "game_id": "792162892",
+    "variant": "PRR",
+    "table_name": "Gorgons-11",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "aleks0v",
+        "WomboComboAA",
+        "joshe8",
+        "IlxxxlI",
+        "Xobkcul",
+        "imperceptible"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        52.5,
+        55.79,
+        20.0,
+        22.33,
+        91.43,
+        20.49
+    ],
+    "player_small_blind": "joshe8",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "5c",
+            "Qs"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Xobkcul",
+                "imperceptible",
+                "aleks0v",
+                "WomboComboAA",
+                "joshe8",
+                "IlxxxlI",
+                "Xobkcul"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.12,
+                null,
+                null,
+                null,
+                3.35,
+                null,
+                2.48
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "joshe8",
+                "Xobkcul",
+                "joshe8"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.66,
+                3.66
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "joshe8",
+                "Xobkcul",
+                "joshe8"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                84.17,
+                12.74
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qh Qc",
+        null,
+        "Ad As",
+        null
+    ],
+    "finishing_stack": [
+        52.5,
+        55.79,
+        38.48,
+        21.83,
+        71.43,
+        20.49
+    ]
+}

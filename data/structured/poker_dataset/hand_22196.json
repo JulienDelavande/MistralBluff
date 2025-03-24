@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 22:4:35",
+    "game_id": "793504935",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Maria_Pia",
+        "Camdenn",
+        "SkaHot",
+        "IlxxxlI",
+        "SonUTSucker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        10.0,
+        29.19,
+        45.49,
+        10.0,
+        25.0
+    ],
+    "player_small_blind": "Camdenn",
+    "small_blind": 0.1,
+    "player_big_blind": "SkaHot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "4d",
+            "8s"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "SonUTSucker",
+                "Maria_Pia",
+                "Camdenn",
+                "SkaHot"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SkaHot",
+                "Maria_Pia",
+                "SkaHot"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.47,
+                0.47
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Js Kd",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.03,
+        29.09,
+        46.46,
+        10.0,
+        25.0
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "date": "2016/12/8 19:52:12",
+    "game_id": "793474420",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "huiloputin",
+        "IlxxxlI",
+        "IampokerKidd",
+        "Tolik89"
+    ],
+    "players_seats": [
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        31.23,
+        10.1,
+        24.65,
+        25.25
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "IampokerKidd",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ac",
+            "2s",
+            "Qh"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Tolik89",
+                "huiloputin",
+                "IlxxxlI",
+                "IampokerKidd"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IampokerKidd",
+                "huiloputin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IampokerKidd",
+                "huiloputin"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.7,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.73,
+        10.0,
+        25.2,
+        25.25
+    ]
+}

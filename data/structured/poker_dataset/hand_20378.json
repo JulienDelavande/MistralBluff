@@ -1,0 +1,108 @@
+{
+    "date": "2016/12/9 11:24:11",
+    "game_id": "794002064",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "Bluffing Every Hand",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4
+    ],
+    "starting_stacks": [
+        68.08,
+        50.0,
+        20.0
+    ],
+    "player_small_blind": "Bluffing Every Hand",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "10d",
+            "Jd"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Bluffing Every Hand",
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                null,
+                2.0,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        65.58,
+        49.75,
+        22.490000000000002
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/5 11:2:46",
+    "game_id": "791350286",
+    "variant": "PRR",
+    "table_name": "Gorgons-26",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "ocg123",
+        "Xobkcul",
+        "welld0ne",
+        "IlxxxlI",
+        "Jui Kuen"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.89,
+        59.8,
+        101.57,
+        20.0,
+        50.0
+    ],
+    "player_small_blind": "Xobkcul",
+    "small_blind": 0.25,
+    "player_big_blind": "welld0ne",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "2d",
+            "4h"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Jui Kuen",
+                "ocg123",
+                "Xobkcul",
+                "welld0ne"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "welld0ne",
+                "IlxxxlI",
+                "ocg123",
+                "welld0ne",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.03,
+                null,
+                1.03
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "ocg123"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "ocg123"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.860000000000001,
+        59.55,
+        100.57,
+        23.02,
+        50.0
+    ]
+}

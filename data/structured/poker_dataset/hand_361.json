@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 14:28:41",
-    "game_id": "787006504",
+    "date": "2016/9/5 11:52:7",
+    "game_id": "720254886",
     "variant": "PRR",
-    "table_name": "Gorgons-15",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 2,
     "players": [
-        "WeakAndWeary",
-        "IampokerKidd",
-        "imger8",
+        "RapaNui",
+        "SheppyPOO!!",
+        "GranatoBetano",
         "IlxxxlI",
-        "foreseen",
-        "BiGFck"
+        "Sailor1704",
+        "markthegreat100",
+        "ShtrafBat",
+        "follower1",
+        "TheManiac89"
     ],
     "players_seats": [
         1,
@@ -19,70 +22,84 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        52.33,
-        105.01,
-        43.09,
-        21.5,
-        52.7,
-        13.18
+        446.85,
+        745.4,
+        228.0,
+        152.65,
+        985.36,
+        299.7,
+        158.3,
+        394.63,
+        231.0
     ],
-    "player_small_blind": "IampokerKidd",
-    "small_blind": 0.25,
-    "player_big_blind": "imger8",
-    "big_blind": 0.5,
+    "player_small_blind": "GranatoBetano",
+    "small_blind": 3.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9s",
-        "Kd"
+        "7c",
+        "6h"
     ],
     "dealed_cards": {
         "flop": [
-            "10c",
-            "4c",
-            "2d"
+            "Kh",
+            "7h",
+            "10h"
         ],
         "turn": [
-            "3h"
+            "3d"
         ],
-        "river": []
+        "river": [
+            "5d"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "foreseen",
-                "BiGFck",
-                "WeakAndWeary",
-                "IampokerKidd",
-                "imger8",
-                "BiGFck"
+                "Sailor1704",
+                "markthegreat100",
+                "ShtrafBat",
+                "follower1",
+                "TheManiac89",
+                "RapaNui",
+                "SheppyPOO!!",
+                "GranatoBetano",
+                "IlxxxlI"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL",
-                "FOLD"
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                1.0,
-                2.5,
                 null,
-                2.0,
-                null
+                null,
+                null,
+                12.0,
+                null,
+                null,
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "imger8",
-                "WeakAndWeary"
+                "IlxxxlI",
+                "RapaNui"
             ],
             "actions": [
                 "CHECK",
@@ -95,29 +112,41 @@
         },
         "post-turn": {
             "players": [
-                "imger8",
-                "WeakAndWeary",
-                "imger8"
+                "IlxxxlI",
+                "RapaNui"
             ],
             "actions": [
-                "BET",
-                "RAISE",
-                "FOLD"
+                "CHECK",
+                "CHECK"
             ],
             "values": [
-                3.5,
-                16.0,
+                null,
                 null
             ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "RapaNui",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.91,
+                8.91
+            ]
         }
     },
     "card_shown_by_players": [
+        "Jc 10d",
         null,
+        null,
+        "7c 6h",
         null,
         null,
         null,
@@ -125,11 +154,14 @@
         null
     ],
     "finishing_stack": [
-        58.92,
-        104.76,
-        37.09,
-        21.5,
-        52.7,
-        12.18
+        470.36,
+        745.4,
+        225.0,
+        131.74,
+        985.36,
+        299.7,
+        158.3,
+        394.63,
+        231.0
     ]
 }

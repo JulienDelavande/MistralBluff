@@ -1,0 +1,179 @@
+{
+    "date": "2016/12/9 14:45:36",
+    "game_id": "794108771",
+    "variant": "PRR",
+    "table_name": "Garuda",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "dankmann",
+        "TZhang",
+        "haroldbb",
+        "Ksander",
+        "IlxxxlI",
+        "little casino1",
+        "mcjvtny",
+        "arshole1",
+        "hoocher"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        50.0,
+        58.26,
+        62.1,
+        50.0,
+        20.0,
+        36.35,
+        42.25,
+        81.97,
+        23.95
+    ],
+    "player_small_blind": "Ksander",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "3h",
+            "Kc"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "little casino1",
+                "mcjvtny",
+                "arshole1",
+                "hoocher",
+                "dankmann",
+                "TZhang",
+                "haroldbb",
+                "Ksander",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5,
+                null,
+                null,
+                null,
+                1.5,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "mcjvtny",
+                "arshole1",
+                "haroldbb",
+                "IlxxxlI",
+                "mcjvtny",
+                "arshole1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.96,
+                null,
+                3.96,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mcjvtny",
+                "haroldbb"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "mcjvtny",
+                "haroldbb"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.99,
+                7.99
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ks 9s",
+        null,
+        null,
+        null,
+        "10d 10h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        58.26,
+        77.30000000000001,
+        49.75,
+        18.5,
+        36.35,
+        28.8,
+        80.47,
+        23.95
+    ]
+}

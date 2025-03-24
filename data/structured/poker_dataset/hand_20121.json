@@ -1,0 +1,147 @@
+{
+    "date": "2016/12/9 13:37:48",
+    "game_id": "794080420",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "braaaap",
+        "Parcker",
+        "xxHandSoloxx",
+        "IlxxxlI",
+        "iowamike",
+        "Tilt-A-Whirl"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        21.43,
+        55.1,
+        21.84,
+        20.0,
+        46.46,
+        97.62
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.25,
+    "player_big_blind": "xxHandSoloxx",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "3s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "6s",
+            "3h"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "iowamike",
+                "Tilt-A-Whirl",
+                "braaaap",
+                "Parcker",
+                "xxHandSoloxx",
+                "iowamike"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                1.0,
+                1.0,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "iowamike",
+                "Tilt-A-Whirl",
+                "braaaap",
+                "iowamike",
+                "Tilt-A-Whirl"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.78,
+                1.78,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "iowamike",
+                "braaaap",
+                "iowamike",
+                "braaaap"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.47,
+                6.94,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        15.18,
+        54.85,
+        21.34,
+        20.0,
+        53.75,
+        96.62
+    ]
+}

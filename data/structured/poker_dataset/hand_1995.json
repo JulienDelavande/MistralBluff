@@ -1,65 +1,70 @@
 {
-    "date": "2016/11/28 19:15:54",
-    "game_id": "786359208",
+    "date": "2016/9/18 8:36:53",
+    "game_id": "730228602",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 4,
     "players": [
-        "caballeroXXX",
-        "ILiK3PaStA",
-        "Goomashroom",
         "IlxxxlI",
-        "allaebalaamballa",
-        "38979"
+        "Pimpika",
+        "VegetablesArentYummy",
+        "Torinsurance",
+        "FishinChips",
+        "Crabbapple",
+        "KeepKalm"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
-        5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        51.75,
-        50.0,
-        50.75,
-        41.43,
-        20.0,
-        50.0
+        87.21,
+        99.78,
+        236.91,
+        90.0,
+        120.96,
+        155.64,
+        322.36
     ],
-    "player_small_blind": "caballeroXXX",
-    "small_blind": 0.25,
-    "player_big_blind": "ILiK3PaStA",
-    "big_blind": 0.5,
+    "player_small_blind": "Torinsurance",
+    "small_blind": 1.0,
+    "player_big_blind": "FishinChips",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "Qc"
+        "6s",
+        "9s"
     ],
     "dealed_cards": {
         "flop": [
-            "Qd",
-            "8h",
-            "Qs"
+            "4d",
+            "Js",
+            "Ah"
         ],
-        "turn": [
-            "Ac"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
+                "Crabbapple",
+                "KeepKalm",
                 "IlxxxlI",
-                "allaebalaamballa",
-                "38979",
-                "caballeroXXX",
-                "ILiK3PaStA"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "Torinsurance",
+                "FishinChips",
+                "KeepKalm"
             ],
             "actions": [
+                "FOLD",
+                "RAISE",
                 "FOLD",
                 "RAISE",
                 "FOLD",
@@ -69,32 +74,20 @@
             ],
             "values": [
                 null,
-                1.0,
+                6.0,
+                null,
+                16.0,
                 null,
                 null,
                 null,
-                0.5
+                10.0
             ]
         },
         "post-flop": {
             "players": [
-                "ILiK3PaStA",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "ILiK3PaStA",
-                "IlxxxlI",
-                "ILiK3PaStA"
+                "KeepKalm",
+                "Pimpika",
+                "KeepKalm"
             ],
             "actions": [
                 "CHECK",
@@ -103,9 +96,14 @@
             ],
             "values": [
                 null,
-                2.5,
+                16.62,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -119,14 +117,16 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        51.5,
-        49.0,
-        50.75,
-        42.57,
-        20.0,
-        50.0
+        87.21,
+        117.03,
+        236.91,
+        89.0,
+        118.96,
+        155.64,
+        306.36
     ]
 }

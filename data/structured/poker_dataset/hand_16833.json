@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/19 21:29:40",
+    "game_id": "801735562",
+    "variant": "PRR",
+    "table_name": "Ekek-10",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "dinger226",
+        "LUCERtola38",
+        "IlxxxlI",
+        "s7amen",
+        "ChritterBug"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        20.38,
+        16.19,
+        25.0,
+        38.74,
+        27.45
+    ],
+    "player_small_blind": "dinger226",
+    "small_blind": 0.1,
+    "player_big_blind": "LUCERtola38",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "As",
+            "Jc"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "s7amen",
+                "ChritterBug",
+                "dinger226",
+                "LUCERtola38"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "dinger226",
+                "ChritterBug"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "dinger226",
+                "ChritterBug"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.83,
+                0.83
+            ]
+        },
+        "post-river": {
+            "players": [
+                "dinger226",
+                "ChritterBug"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "7s Ah",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        22.04,
+        15.940000000000001,
+        25.0,
+        38.74,
+        25.869999999999997
+    ]
+}

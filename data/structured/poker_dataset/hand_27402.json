@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/7 19:23:13",
+    "game_id": "792775379",
+    "variant": "PRR",
+    "table_name": "Ekek-2",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Irene13",
+        "IlxxxlI",
+        "SkaHot",
+        "huiloputin",
+        "Qatro",
+        "Poteplie"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        32.85,
+        10.63,
+        26.58,
+        25.8,
+        21.99,
+        29.46
+    ],
+    "player_small_blind": "Irene13",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "9d",
+            "9s"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "4h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "SkaHot",
+                "huiloputin",
+                "Qatro",
+                "Poteplie",
+                "Irene13",
+                "IlxxxlI",
+                "Qatro"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                0.9,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Irene13",
+                "Qatro"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Irene13",
+                "Qatro",
+                "Irene13"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.25,
+                2.5,
+                1.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Irene13",
+                "Qatro",
+                "Irene13"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.59,
+                4.59
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "8s 9h",
+        null
+    ],
+    "finishing_stack": [
+        24.76,
+        10.38,
+        26.58,
+        25.8,
+        29.509999999999998,
+        29.46
+    ]
+}

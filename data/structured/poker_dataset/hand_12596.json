@@ -1,0 +1,158 @@
+{
+    "date": "2016/12/24 21:9:51",
+    "game_id": "805224853",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 2,
+    "players": [
+        "N1cer1ver",
+        "gipper PK",
+        "booya25",
+        "IlxxxlI",
+        "BobbyJones1936",
+        "runsdeeply"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        34.05,
+        36.8,
+        10.02,
+        44.86,
+        10.86,
+        23.35
+    ],
+    "player_small_blind": "booya25",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "10s",
+            "5s"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BobbyJones1936",
+                "runsdeeply",
+                "N1cer1ver",
+                "gipper PK",
+                "booya25",
+                "IlxxxlI",
+                "runsdeeply",
+                "booya25"
+            ],
+            "actions": [
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                null,
+                null,
+                0.15,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "booya25",
+                "IlxxxlI",
+                "runsdeeply"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                1.42,
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "booya25",
+                "IlxxxlI",
+                "runsdeeply",
+                "booya25"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                null,
+                1.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "booya25",
+                "IlxxxlI",
+                "booya25"
+            ],
+            "actions": [
+                "CHECK",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.08,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        34.05,
+        36.8,
+        6.6,
+        50.0,
+        10.86,
+        21.18
+    ]
+}

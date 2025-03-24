@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/2 10:56:42",
+    "game_id": "789188482",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "PANDAisEVIL",
+        "pingtennis",
+        "hodisuda",
+        "GautamaBuddha",
+        "Fetters10",
+        "IlxxxlI",
+        "aleaga"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "starting_stacks": [
+        100.0,
+        50.66,
+        105.0,
+        100.0,
+        101.39,
+        40.5,
+        125.05
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "aleaga",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8h",
+        "Qd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "Ad",
+            "Qc"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PANDAisEVIL",
+                "pingtennis",
+                "hodisuda",
+                "GautamaBuddha",
+                "Fetters10",
+                "IlxxxlI",
+                "aleaga"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.5,
+                2.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "aleaga",
+                "GautamaBuddha",
+                "Fetters10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "aleaga",
+                "GautamaBuddha",
+                "Fetters10",
+                "aleaga",
+                "GautamaBuddha"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                4.0,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        50.66,
+        105.0,
+        97.5,
+        106.49,
+        40.0,
+        122.55
+    ]
+}

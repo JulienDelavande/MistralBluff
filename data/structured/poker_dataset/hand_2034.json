@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:58:49",
-    "game_id": "786356444",
+    "date": "2016/9/18 8:41:2",
+    "game_id": "730231059",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
+    "table_name": "Karkadann",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 9,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "Goomashroom",
         "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "0nlyDaNuts",
+        "VegetablesArentYummy",
+        "gosu36484",
+        "Pimpika",
+        "BlitzWaut",
+        "01001111",
+        "dartx",
+        "Frisconar"
     ],
     "players_seats": [
         1,
@@ -19,51 +22,70 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        30.87,
-        77.31,
-        53.63,
-        24.84,
-        79.32,
-        52.36
+        54.7,
+        131.2,
+        202.87,
+        37.75,
+        56.68,
+        108.95,
+        100.0,
+        102.54,
+        37.0
     ],
-    "player_small_blind": "BoTPuMHeDichBro",
-    "small_blind": 0.25,
-    "player_big_blind": "eu4ria",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "0nlyDaNuts",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2c",
-        "6c"
+        "Qc",
+        "9s"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "10h",
+            "Kc",
+            "8h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Smok5 Js",
-                "SenNoSen",
-                "Goomashroom",
+                "VegetablesArentYummy",
+                "gosu36484",
+                "Pimpika",
+                "BlitzWaut",
+                "01001111",
+                "dartx",
+                "Frisconar",
                 "IlxxxlI",
-                "BoTPuMHeDichBro",
-                "eu4ria"
+                "0nlyDaNuts"
             ],
             "actions": [
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "CHECK",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
-                1.5,
+                null,
+                null,
+                null,
+                null,
                 null,
                 null,
                 null,
@@ -71,9 +93,21 @@
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "0nlyDaNuts",
+                "01001111",
+                "0nlyDaNuts"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.19,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -92,14 +126,20 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        30.87,
-        78.06,
-        53.63,
-        24.84,
-        79.07,
-        51.86
+        54.2,
+        130.2,
+        202.87,
+        37.75,
+        56.68,
+        108.95,
+        101.38,
+        102.54,
+        37.0
     ]
 }

@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/4 13:43:59",
+    "game_id": "790649193",
+    "variant": "PRR",
+    "table_name": "Kraken-17",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "mav_nov",
+        "Heksebrygg",
+        "dresden3",
+        "IlxxxlI",
+        "flyshark01"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        38.0,
+        100.0,
+        66.93,
+        40.0,
+        100.35
+    ],
+    "player_small_blind": "mav_nov",
+    "small_blind": 0.5,
+    "player_big_blind": "Heksebrygg",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qs",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "Ks",
+            "8h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "dresden3",
+                "IlxxxlI",
+                "flyshark01",
+                "mav_nov",
+                "Heksebrygg",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.5,
+                8.0,
+                7.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "mav_nov",
+                "flyshark01",
+                "mav_nov"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.27,
+                9.27
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mav_nov",
+                "flyshark01"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "mav_nov",
+                "flyshark01"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                18.07,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.870000000000005,
+        99.0,
+        66.93,
+        37.5,
+        83.08
+    ]
+}

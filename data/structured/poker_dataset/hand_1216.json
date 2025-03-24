@@ -1,148 +1,99 @@
 {
-    "date": "2016/11/29 9:6:22",
-    "game_id": "786781076",
+    "date": "2016/9/17 10:29:52",
+    "game_id": "729536609",
     "variant": "PRR",
-    "table_name": "Longana-4",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "Iia007",
-        "IAmClueless",
-        "PANDAisEVIL",
-        "mr.fargo",
-        "L4zy_FiSh",
+        "flyzlcomb07",
+        "RCSOX",
         "IlxxxlI",
-        "LazyFish",
-        "Gronkowski69",
-        "pokerforfun1"
+        "graphicup",
+        "Pureprofit4"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        277.87,
-        431.23,
-        343.97,
-        81.7,
-        204.55,
-        80.0,
-        200.0,
-        200.0,
-        54.25
+        385.75,
+        102.45,
+        95.85,
+        230.88,
+        298.64
     ],
-    "player_small_blind": "IAmClueless",
-    "small_blind": 1.0,
-    "player_big_blind": "PANDAisEVIL",
-    "big_blind": 2.0,
+    "player_small_blind": "flyzlcomb07",
+    "small_blind": 2.0,
+    "player_big_blind": "RCSOX",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "8c"
+        "Kc",
+        "6c"
     ],
     "dealed_cards": {
         "flop": [
-            "4s",
-            "Jh",
-            "7s"
+            "4c",
+            "9c",
+            "2c"
         ],
-        "turn": [
-            "Kh"
-        ],
-        "river": [
-            "Jd"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "mr.fargo",
-                "L4zy_FiSh",
                 "IlxxxlI",
-                "LazyFish",
-                "Gronkowski69",
-                "pokerforfun1",
-                "Iia007",
-                "IAmClueless",
-                "PANDAisEVIL"
+                "graphicup",
+                "Pureprofit4",
+                "flyzlcomb07",
+                "RCSOX"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "CALL",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 null,
+                8.0,
                 null,
-                null,
-                5.0,
-                null,
-                null,
-                4.0,
-                null
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "IAmClueless",
-                "Gronkowski69",
-                "IAmClueless"
+                "RCSOX",
+                "Pureprofit4",
+                "RCSOX"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "CALL"
+                "FOLD"
             ],
             "values": [
                 null,
-                7.0,
-                7.0
+                11.9,
+                null
             ]
         },
         "post-turn": {
-            "players": [
-                "IAmClueless",
-                "Gronkowski69",
-                "IAmClueless"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                16.0,
-                16.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "IAmClueless",
-                "Gronkowski69"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
@@ -150,21 +101,13 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        "Ad Kd",
         null
     ],
     "finishing_stack": [
-        277.87,
-        403.23,
-        341.97,
-        81.7,
-        204.55,
-        80.0,
-        200.0,
-        227.1,
-        54.25
+        383.75,
+        94.45,
+        95.85,
+        230.88,
+        308.49
     ]
 }

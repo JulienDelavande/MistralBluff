@@ -1,108 +1,84 @@
 {
-    "date": "2016/11/29 13:20:51",
-    "game_id": "786975095",
+    "date": "2016/9/5 13:0:3",
+    "game_id": "720274225",
     "variant": "PRR",
-    "table_name": "Kraken-22",
-    "type_game": "Hold'em",
-    "button_seat": 6,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
+        "St3p04ka",
         "IlxxxlI",
-        "Beep_Beep",
+        "pokerhawk333",
         "gust",
-        "MadLifeGrinder",
-        "WeakAndWeary"
+        "jtee95",
+        "PANDAisEVIL"
     ],
     "players_seats": [
         2,
         3,
         4,
         5,
-        6
+        7,
+        8
     ],
     "starting_stacks": [
-        40.0,
-        228.88,
-        42.28,
-        104.5,
-        263.42
+        122.41,
+        48.3,
+        30.52,
+        80.0,
+        242.51,
+        127.77
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "gust",
-    "big_blind": 1.0,
+    "player_small_blind": "jtee95",
+    "small_blind": 1.0,
+    "player_big_blind": "PANDAisEVIL",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qc",
-        "Ks"
+        "Js",
+        "Jh"
     ],
     "dealed_cards": {
-        "flop": [
-            "Ah",
-            "Qh",
-            "5s"
-        ],
-        "turn": [
-            "Jc"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "WeakAndWeary",
+                "St3p04ka",
                 "IlxxxlI",
+                "pokerhawk333",
                 "gust",
-                "WeakAndWeary"
+                "jtee95",
+                "PANDAisEVIL"
             ],
             "actions": [
                 "FOLD",
                 "RAISE",
-                "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                3.0,
-                5.5,
-                null,
-                3.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "WeakAndWeary",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                6.18,
-                6.18
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "WeakAndWeary",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                16.07,
+                4.0,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -115,13 +91,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        27.82,
-        228.88,
-        41.28,
-        104.5,
-        275.34000000000003
+        122.41,
+        51.3,
+        30.52,
+        80.0,
+        241.51,
+        125.77
     ]
 }

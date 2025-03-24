@@ -1,18 +1,20 @@
 {
-    "date": "2016/11/29 15:5:38",
-    "game_id": "787020894",
+    "date": "2016/9/4 9:49:45",
+    "game_id": "719278775",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 3,
+    "table_name": "Pegasus",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "IlxxxlI",
-        "jjeannin1",
-        "trader063",
-        "Parcker",
-        "Jui Kuen"
+        "Martyrs",
+        "bet2000",
+        "Pureprofit4",
+        "Kak_Ded_Y4il",
+        "SheppyPOO!!",
+        "IlxxxlI"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
@@ -20,94 +22,119 @@
         6
     ],
     "starting_stacks": [
-        20.0,
-        40.78,
-        35.72,
-        84.2,
-        75.78
+        421.99,
+        300.0,
+        365.6,
+        499.37,
+        319.8,
+        155.25
     ],
-    "player_small_blind": "trader063",
-    "small_blind": 0.25,
-    "player_big_blind": "Parcker",
-    "big_blind": 0.5,
+    "player_small_blind": "Pureprofit4",
+    "small_blind": 3.0,
+    "player_big_blind": "Kak_Ded_Y4il",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4h",
-        "Ac"
+        "Ad",
+        "4c"
     ],
     "dealed_cards": {
         "flop": [
-            "8h",
-            "Jc",
-            "6c"
+            "Kc",
+            "6s",
+            "Ks"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "Ac"
+        ],
+        "river": [
+            "Qh"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Jui Kuen",
+                "SheppyPOO!!",
                 "IlxxxlI",
-                "jjeannin1",
-                "trader063",
-                "Parcker"
+                "Martyrs",
+                "bet2000",
+                "Pureprofit4",
+                "Kak_Ded_Y4il"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "RAISE",
                 "FOLD",
+                "FOLD",
                 "CALL"
             ],
             "values": [
                 null,
                 null,
-                1.0,
+                12.0,
                 null,
-                0.5
+                null,
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "Parcker",
-                "jjeannin1",
-                "Parcker"
+                "Kak_Ded_Y4il",
+                "Martyrs"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
-                1.0,
                 null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Kak_Ded_Y4il",
+                "Martyrs"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Kak_Ded_Y4il",
+                "Martyrs"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
         null,
+        "5h As",
         null,
         null
     ],
     "finishing_stack": [
-        20.0,
-        41.92,
-        35.47,
-        83.2,
-        75.78
+        409.99,
+        300.0,
+        362.6,
+        514.12,
+        319.8,
+        155.25
     ]
 }

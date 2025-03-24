@@ -1,0 +1,124 @@
+{
+    "date": "2016/12/23 11:37:0",
+    "game_id": "804350535",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Cellar door",
+        "Boeing-747",
+        "threekingsriver",
+        "Maria_Pia",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.25,
+        56.69,
+        51.08,
+        20.0,
+        57.08
+    ],
+    "player_small_blind": "Cellar door",
+    "small_blind": 0.25,
+    "player_big_blind": "Boeing-747",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "3h",
+            "10c"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "threekingsriver",
+                "Maria_Pia",
+                "IlxxxlI",
+                "Cellar door",
+                "Boeing-747"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Cellar door",
+                "Boeing-747"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Cellar door",
+                "Boeing-747",
+                "Cellar door"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        46.85,
+        59.75,
+        51.08,
+        20.0,
+        57.08
+    ]
+}

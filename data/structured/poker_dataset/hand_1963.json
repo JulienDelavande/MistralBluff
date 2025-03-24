@@ -1,138 +1,113 @@
 {
-    "date": "2016/11/28 19:34:15",
-    "game_id": "786363092",
+    "date": "2016/9/18 8:33:19",
+    "game_id": "730226379",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
+    "table_name": "Kraken-6",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 5,
     "players": [
-        "DonkReaper",
-        "legenda99",
-        "Goomashroom",
+        "iDawg",
+        "hotandcold=hold",
         "IlxxxlI",
-        "caballeroXXX"
+        "gosu36484",
+        "BlitzWaut"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        6
+        5
     ],
     "starting_stacks": [
-        55.24,
-        60.49,
-        86.36,
-        22.83,
-        56.73
+        113.43,
+        128.11,
+        45.2,
+        36.93,
+        100.0
     ],
-    "player_small_blind": "DonkReaper",
-    "small_blind": 0.25,
-    "player_big_blind": "legenda99",
-    "big_blind": 0.5,
+    "player_small_blind": "iDawg",
+    "small_blind": 0.5,
+    "player_big_blind": "hotandcold=hold",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4c",
-        "Jc"
+        "9d",
+        "Jd"
     ],
     "dealed_cards": {
         "flop": [
-            "2h",
-            "Js",
-            "Jd"
+            "Qc",
+            "Jc",
+            "3c"
         ],
-        "turn": [
-            "5d"
-        ],
-        "river": [
-            "7s"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
                 "IlxxxlI",
-                "caballeroXXX",
-                "DonkReaper",
-                "legenda99",
-                "Goomashroom",
-                "caballeroXXX"
+                "gosu36484",
+                "BlitzWaut",
+                "iDawg",
+                "hotandcold=hold"
             ],
             "actions": [
                 "RAISE",
                 "FOLD",
-                "CALL",
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "CALL"
             ],
             "values": [
-                1.5,
+                2.0,
                 null,
-                1.5,
                 null,
-                6.0,
                 null,
-                5.0
+                1.0
             ]
         },
         "post-flop": {
             "players": [
-                "legenda99",
-                "caballeroXXX"
+                "hotandcold=hold",
+                "IlxxxlI",
+                "hotandcold=hold"
             ],
             "actions": [
+                "CHECK",
                 "BET",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                7.5,
-                7.5
+                null,
+                2.14,
+                null
             ]
         },
         "post-turn": {
-            "players": [
-                "legenda99",
-                "caballeroXXX"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                16.5,
-                16.5
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "legenda99",
-                "caballeroXXX"
-            ],
-            "actions": [
-                "ALLIN",
-                "ALLIN"
-            ],
-            "values": [
-                29.99,
-                26.23
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
-        "As Ah",
         null,
         null,
-        "Qh Qc"
+        null,
+        null
     ],
     "finishing_stack": [
-        54.99,
-        115.97,
-        84.86,
-        22.83,
-        0.0
+        112.93,
+        126.11000000000001,
+        47.480000000000004,
+        36.93,
+        100.0
     ]
 }

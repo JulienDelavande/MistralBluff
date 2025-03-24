@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 18:41:14",
-    "game_id": "786353615",
+    "date": "2016/9/18 8:48:43",
+    "game_id": "730235521",
     "variant": "PRR",
-    "table_name": "Gorgons-17",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 3,
     "players": [
-        "Smok5 Js",
-        "SenNoSen",
-        "Hakuna_Matata777",
-        "IlxxxlI",
-        "BoTPuMHeDichBro",
-        "eu4ria"
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "Pablo46",
+        "BullsNationBitch",
+        "Pimpika",
+        "gosu36484",
+        "Frisconar",
+        "FirstClan",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -19,75 +22,128 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        41.71,
-        76.72,
-        61.75,
-        22.08,
-        76.61,
-        53.86
+        102.0,
+        100.0,
+        100.0,
+        46.38,
+        86.31,
+        41.5,
+        40.58,
+        148.88,
+        51.19
     ],
-    "player_small_blind": "BoTPuMHeDichBro",
-    "small_blind": 0.25,
-    "player_big_blind": "eu4ria",
-    "big_blind": 0.5,
+    "player_small_blind": "BullsNationBitch",
+    "small_blind": 0.5,
+    "player_big_blind": "Pimpika",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10c",
-        "2h"
+        "9s",
+        "Ah"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "7h",
+            "Qh",
+            "Kh"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "2s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Smok5 Js",
-                "SenNoSen",
-                "Hakuna_Matata777",
+                "gosu36484",
+                "Frisconar",
+                "FirstClan",
                 "IlxxxlI",
-                "BoTPuMHeDichBro",
-                "eu4ria"
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pablo46",
+                "BullsNationBitch",
+                "Pimpika"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
-                1.0,
                 null,
                 null,
+                null,
+                null,
+                null,
+                0.5,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BullsNationBitch",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BullsNationBitch",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "BullsNationBitch",
+                "Pimpika"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
+        null,
+        null,
+        "6d 6s",
         null,
         null,
         null,
@@ -95,11 +151,14 @@
         null
     ],
     "finishing_stack": [
-        41.71,
-        76.72,
-        62.5,
-        22.08,
-        76.36,
-        53.36
+        102.0,
+        100.0,
+        100.0,
+        47.28,
+        85.31,
+        41.5,
+        40.58,
+        148.88,
+        51.19
     ]
 }

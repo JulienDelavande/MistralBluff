@@ -1,0 +1,135 @@
+{
+    "date": "2016/10/12 23:0:38",
+    "game_id": "749106967",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Orondi",
+        "Gargantuatua",
+        "DonCesarGrinder",
+        "IlxxxlI",
+        "FishFold"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        177.44,
+        107.33,
+        112.7,
+        100.0,
+        95.0
+    ],
+    "player_small_blind": "FishFold",
+    "small_blind": 0.5,
+    "player_big_blind": "Orondi",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "4s",
+            "3h"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Gargantuatua",
+                "DonCesarGrinder",
+                "IlxxxlI",
+                "FishFold",
+                "Orondi"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "FishFold",
+                "Orondi"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "FishFold",
+                "Orondi"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "FishFold",
+                "Orondi",
+                "FishFold"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                4.0,
+                14.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        186.44,
+        107.33,
+        112.7,
+        100.0,
+        85.0
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/22 21:3:17",
+    "game_id": "803772316",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Ratbastrd",
+        "Zameer",
+        "HapKoTuk",
+        "IlxxxlI",
+        "38979",
+        "MasterFresh"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        85.0,
+        60.92,
+        59.56,
+        50.0,
+        52.85,
+        66.54
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "7d",
+            "3c"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "Kh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "38979",
+                "MasterFresh",
+                "Ratbastrd",
+                "Zameer",
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "HapKoTuk",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qh Ad",
+        "7h 6d",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        85.0,
+        60.92,
+        56.06,
+        53.15,
+        52.85,
+        66.54
+    ]
+}

@@ -1,18 +1,17 @@
 {
-    "date": "2016/11/29 8:52:41",
-    "game_id": "786770836",
+    "date": "2016/9/17 11:27:16",
+    "game_id": "729557475",
     "variant": "PRR",
-    "table_name": "Garuda",
-    "type_game": "Hold'em",
+    "table_name": "Medusa",
+    "type_game": "Short",
     "button_seat": 1,
     "players": [
-        "Aquaman75",
+        "SheppyPOO!!",
+        "RCSOX",
         "IlxxxlI",
-        "Ice Bank Mice Elf",
-        "Log_in",
-        "CumBckMuny",
-        "XxDominationxX",
-        "coldkilla"
+        "Johannah12",
+        "pokerhawk333",
+        "Pureprofit4"
     ],
     "players_seats": [
         1,
@@ -20,32 +19,30 @@
         3,
         4,
         5,
-        6,
-        7
+        6
     ],
     "starting_stacks": [
-        64.28,
-        21.04,
-        62.68,
-        13.5,
-        31.39,
-        82.75,
-        62.48
+        210.7,
+        68.15,
+        273.08,
+        220.32,
+        108.43,
+        309.5
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "Ice Bank Mice Elf",
-    "big_blind": 0.5,
+    "player_small_blind": "RCSOX",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5c",
-        "10h"
+        "5h",
+        "Kh"
     ],
     "dealed_cards": {
         "flop": [
-            "4h",
-            "Jc",
-            "7h"
+            "5d",
+            "10h",
+            "Ad"
         ],
         "turn": [],
         "river": []
@@ -53,47 +50,59 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "Log_in",
-                "CumBckMuny",
-                "XxDominationxX",
-                "coldkilla",
-                "Aquaman75",
+                "Johannah12",
+                "pokerhawk333",
+                "Pureprofit4",
+                "SheppyPOO!!",
+                "RCSOX",
                 "IlxxxlI",
-                "Ice Bank Mice Elf"
+                "pokerhawk333"
             ],
             "actions": [
                 "FOLD",
+                "CALL",
                 "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
+                "CALL",
                 "CALL"
             ],
             "values": [
                 null,
-                1.5,
+                4.0,
+                8.0,
                 null,
-                null,
-                null,
-                null,
-                1.0
+                6.0,
+                4.0,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "Ice Bank Mice Elf",
-                "CumBckMuny",
-                "Ice Bank Mice Elf"
+                "RCSOX",
+                "IlxxxlI",
+                "pokerhawk333",
+                "Pureprofit4",
+                "RCSOX",
+                "IlxxxlI",
+                "pokerhawk333"
             ],
             "actions": [
                 "CHECK",
+                "CHECK",
+                "CHECK",
                 "BET",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                1.54,
+                null,
+                null,
+                28.0,
+                null,
+                null,
                 null
             ]
         },
@@ -114,16 +123,14 @@
         null,
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        64.28,
-        20.79,
-        61.18,
-        13.5,
-        32.980000000000004,
-        82.75,
-        62.48
+        210.7,
+        60.150000000000006,
+        265.08,
+        220.32,
+        100.43,
+        333.2
     ]
 }

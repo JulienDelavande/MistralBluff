@@ -1,0 +1,159 @@
+{
+    "date": "2016/12/22 22:19:3",
+    "game_id": "803804614",
+    "variant": "PRR",
+    "table_name": "Ettin-6",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "tywhoyou",
+        "IlxxxlI",
+        "MeromAd",
+        "naprimer",
+        "booya25",
+        "majomx",
+        "enroute",
+        "notyourpot"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        33.29,
+        32.71,
+        7.29,
+        25.0,
+        22.96,
+        25.75,
+        26.27,
+        40.34
+    ],
+    "player_small_blind": "enroute",
+    "small_blind": 0.1,
+    "player_big_blind": "notyourpot",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "9c",
+            "5h"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "tywhoyou",
+                "IlxxxlI",
+                "MeromAd",
+                "naprimer",
+                "booya25",
+                "majomx",
+                "enroute",
+                "notyourpot"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "enroute",
+                "notyourpot"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "enroute",
+                "notyourpot",
+                "enroute"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "enroute",
+                "notyourpot"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "5s 5d",
+        "Ks Jd"
+    ],
+    "finishing_stack": [
+        33.29,
+        32.71,
+        7.29,
+        25.0,
+        22.96,
+        25.75,
+        29.15,
+        37.14
+    ]
+}

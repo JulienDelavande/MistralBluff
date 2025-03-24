@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/22 16:23:18",
+    "game_id": "803699748",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "hotbabe1986",
+        "aleks0v",
+        "Pyrok",
+        "DirtyDog98"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        65.39,
+        86.75,
+        50.61,
+        60.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "aleks0v",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3s",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9h",
+            "7h",
+            "8c"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "Kc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Pyrok",
+                "DirtyDog98",
+                "IlxxxlI",
+                "aleks0v"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Pyrok",
+                "DirtyDog98",
+                "Pyrok",
+                "DirtyDog98"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.78,
+                4.5,
+                8.16,
+                5.44
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Pyrok",
+                "DirtyDog98"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                14.96,
+                14.96
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Pyrok",
+                "DirtyDog98"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                24.21,
+                24.21
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "10c Jd",
+        "Kh Qh"
+    ],
+    "finishing_stack": [
+        49.75,
+        65.39,
+        86.25,
+        98.97,
+        9.89
+    ]
+}

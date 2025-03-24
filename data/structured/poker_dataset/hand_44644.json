@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/1 10:52:25",
+    "game_id": "788509020",
+    "variant": "PRR",
+    "table_name": "Kraken-10",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IlxxxlI",
+        "Qrenor",
+        "TheRealTaco",
+        "St3p04ka",
+        "g-vine"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        40.0,
+        192.63,
+        139.58,
+        64.84,
+        156.58
+    ],
+    "player_small_blind": "g-vine",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "6h",
+            "8d"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Qrenor",
+                "TheRealTaco",
+                "St3p04ka",
+                "g-vine",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                null,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Qrenor"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Qrenor",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.14,
+                3.14
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Qrenor",
+                "IlxxxlI",
+                "Qrenor"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.46,
+                34.36,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.269999999999996,
+        179.53,
+        139.58,
+        64.84,
+        156.08
+    ]
+}

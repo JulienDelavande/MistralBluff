@@ -1,66 +1,132 @@
 {
-    "date": "2016/11/29 13:45:52",
-    "game_id": "786988346",
+    "date": "2016/9/5 12:37:25",
+    "game_id": "720268428",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 4,
+    "table_name": "Pegacorn",
+    "type_game": "short",
+    "button_seat": 1,
     "players": [
-        "VegetablesArentYummy",
+        "RapaNui",
+        "St3p04ka",
+        "GranatoBetano",
         "IlxxxlI",
-        "AironVega"
+        "SheppyPOO!!",
+        "markthegreat100",
+        "oleg_dagi",
+        "ShtrafBat",
+        "TheManiac89"
     ],
     "players_seats": [
+        1,
+        2,
         3,
         4,
-        5
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        218.53,
-        43.0,
-        101.0
+        645.61,
+        403.27,
+        345.76,
+        135.87,
+        698.94,
+        94.11,
+        366.4,
+        111.0,
+        144.15
     ],
-    "player_small_blind": "AironVega",
-    "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 2.0,
+    "player_small_blind": "St3p04ka",
+    "small_blind": 3.0,
+    "player_big_blind": "GranatoBetano",
+    "big_blind": 6.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ac",
-        "3c"
+        "5d",
+        "Jh"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "8d",
+            "3d",
+            "9c"
+        ],
+        "turn": [
+            "Qs"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "AironVega",
                 "IlxxxlI",
-                "AironVega"
+                "SheppyPOO!!",
+                "markthegreat100",
+                "oleg_dagi",
+                "ShtrafBat",
+                "TheManiac89",
+                "RapaNui",
+                "St3p04ka",
+                "GranatoBetano"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "ALLIN",
-                "FOLD"
+                "FOLD",
+                "CALL"
             ],
             "values": [
-                5.0,
-                41.0,
-                null
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                12.0,
+                null,
+                6.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "GranatoBetano",
+                "RapaNui",
+                "GranatoBetano"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                17.83,
+                17.83
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "GranatoBetano",
+                "RapaNui",
+                "GranatoBetano"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                54.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -71,11 +137,23 @@
     "card_shown_by_players": [
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        218.53,
-        49.0,
-        95.0
+        677.8399999999999,
+        400.27,
+        315.93,
+        135.87,
+        698.94,
+        94.11,
+        366.4,
+        111.0,
+        144.15
     ]
 }

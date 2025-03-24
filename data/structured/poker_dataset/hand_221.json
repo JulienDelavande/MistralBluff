@@ -1,85 +1,72 @@
 {
-    "date": "2016/11/29 14:47:6",
-    "game_id": "787014255",
+    "date": "2016/9/4 10:9:8",
+    "game_id": "719287506",
     "variant": "PRR",
-    "table_name": "Karkadann-3",
-    "type_game": "Hold'em",
-    "button_seat": 3,
+    "table_name": "Medusa",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "ElvenEyes",
-        "StephCurry",
-        "gust",
-        "pineapplesand",
-        "AironVega",
         "IlxxxlI",
-        "dankmann",
-        "VegetablesArentYummy"
+        "Pureprofit4",
+        "SheppyPOO!!",
+        "bet2000"
     ],
     "players_seats": [
         2,
-        3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        165.75,
-        101.5,
-        52.45,
-        43.46,
-        102.28,
-        41.5,
-        154.69,
-        257.91
+        83.46,
+        562.36,
+        200.0,
+        686.86
     ],
-    "player_small_blind": "gust",
-    "small_blind": 0.5,
-    "player_big_blind": "pineapplesand",
-    "big_blind": 1.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "Pureprofit4",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "Jd"
+        "Qh",
+        "Ac"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "10h",
+            "2c",
+            "Kh"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "Ah"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "AironVega",
+                "SheppyPOO!!",
+                "bet2000",
                 "IlxxxlI",
-                "dankmann",
-                "VegetablesArentYummy",
-                "ElvenEyes",
-                "StephCurry",
-                "gust",
-                "pineapplesand"
+                "Pureprofit4",
+                "bet2000"
             ],
             "actions": [
                 "FOLD",
                 "RAISE",
+                "ALLIN",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
-                3.5,
+                9.2,
+                81.46,
                 null,
-                null,
-                null,
-                null,
-                null,
-                null
+                74.26
             ]
         },
         "post-flop": {
@@ -99,23 +86,15 @@
         }
     },
     "card_shown_by_players": [
+        "Qh Ac",
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "9c 9d"
     ],
     "finishing_stack": [
-        165.75,
-        101.5,
-        51.95,
-        42.46,
-        102.28,
-        43.0,
-        154.69,
-        257.91
+        169.22,
+        558.36,
+        200.0,
+        603.4
     ]
 }

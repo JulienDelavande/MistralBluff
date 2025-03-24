@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/10 9:30:58",
+    "game_id": "794564230",
+    "variant": "PRR",
+    "table_name": "Dobhar-chu-28",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "tony2012",
+        "BigDaddy496",
+        "RKelly",
+        "norkid"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        4.8,
+        3.45,
+        14.15,
+        5.77,
+        10.0
+    ],
+    "player_small_blind": "BigDaddy496",
+    "small_blind": 0.05,
+    "player_big_blind": "RKelly",
+    "big_blind": 0.1,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "4s",
+            "3s",
+            "5h"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "Qs"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "norkid",
+                "IlxxxlI",
+                "tony2012",
+                "BigDaddy496",
+                "RKelly"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.05,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BigDaddy496",
+                "RKelly",
+                "BigDaddy496"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.1,
+                0.1
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BigDaddy496",
+                "RKelly"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BigDaddy496",
+                "RKelly"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.39,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        4.8,
+        3.45,
+        14.330000000000002,
+        5.569999999999999,
+        10.0
+    ]
+}

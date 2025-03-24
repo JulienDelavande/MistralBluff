@@ -1,0 +1,170 @@
+{
+    "date": "2016/12/3 10:23:57",
+    "game_id": "789834528",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "0nlyDaNuts",
+        "hodisuda",
+        "Pimpika",
+        "IlxxxlI",
+        "boourgone",
+        "pingtennis",
+        "GagaPoker",
+        "RunnerLucker",
+        "foldemfoley"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        204.42,
+        133.48,
+        40.3,
+        37.0,
+        126.26,
+        100.0,
+        100.0,
+        108.4,
+        67.06
+    ],
+    "player_small_blind": "pingtennis",
+    "small_blind": 0.5,
+    "player_big_blind": "GagaPoker",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "7s",
+            "9d"
+        ],
+        "turn": [
+            "Kh"
+        ],
+        "river": [
+            "9c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "RunnerLucker",
+                "foldemfoley",
+                "0nlyDaNuts",
+                "hodisuda",
+                "Pimpika",
+                "IlxxxlI",
+                "boourgone",
+                "pingtennis",
+                "GagaPoker"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                3.0,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "hodisuda",
+                "boourgone"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.99,
+                4.99
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "hodisuda",
+                "boourgone",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                8.31,
+                8.31
+            ]
+        },
+        "post-river": {
+            "players": [
+                "hodisuda",
+                "boourgone",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.0,
+                11.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "10h Jh",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        204.42,
+        106.17999999999999,
+        40.3,
+        37.0,
+        152.26,
+        99.5,
+        99.0,
+        108.4,
+        67.06
+    ]
+}

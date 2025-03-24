@@ -1,108 +1,98 @@
 {
-    "date": "2016/11/29 11:29:11",
-    "game_id": "786899622",
+    "date": "2016/9/13 13:18:55",
+    "game_id": "726611650",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 4,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
+        "Wei2huge",
         "IlxxxlI",
-        "beachrog",
-        "Maria_Pia",
-        "imperceptible"
+        "DOR1",
+        "uncle_argyle",
+        "PANDAisEVIL",
+        "ravenh94"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
+        5,
         6
     ],
     "starting_stacks": [
-        28.31,
-        27.19,
-        34.99,
-        22.02
+        146.67,
+        77.0,
+        20.54,
+        110.94,
+        100.0,
+        74.45
     ],
-    "player_small_blind": "imperceptible",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "DOR1",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2h",
-        "10c"
+        "5d",
+        "4d"
     ],
     "dealed_cards": {
         "flop": [
-            "7h",
-            "Ac",
-            "As"
+            "5s",
+            "2c",
+            "Js"
         ],
         "turn": [
-            "2d"
+            "8s"
         ],
-        "river": []
+        "river": [
+            "10s"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "beachrog",
-                "Maria_Pia",
-                "imperceptible",
+                "uncle_argyle",
+                "PANDAisEVIL",
+                "ravenh94",
+                "Wei2huge",
                 "IlxxxlI",
-                "beachrog",
-                "Maria_Pia"
+                "DOR1",
+                "ravenh94",
+                "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
-                "CALL",
-                "RAISE",
+                "FOLD",
                 "FOLD",
                 "CALL",
-                "CALL"
-            ],
-            "values": [
-                1.0,
-                1.0,
-                2.75,
-                null,
-                2.0,
-                2.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "imperceptible",
-                "beachrog",
-                "Maria_Pia"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "imperceptible",
-                "beachrog",
-                "Maria_Pia"
-            ],
-            "actions": [
-                "BET",
                 "FOLD",
+                "CALL",
+                "ALLIN",
+                "CALL",
                 "FOLD"
             ],
             "values": [
-                3.01,
                 null,
+                null,
+                2.0,
+                null,
+                1.0,
+                18.54,
+                18.54,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -113,13 +103,17 @@
     "card_shown_by_players": [
         null,
         null,
+        "10c Ac",
         null,
-        null
+        null,
+        "Ah Kd"
     ],
     "finishing_stack": [
-        27.81,
-        24.19,
-        31.990000000000002,
-        28.049999999999997
+        146.67,
+        75.0,
+        40.93,
+        110.94,
+        100.0,
+        53.910000000000004
     ]
 }

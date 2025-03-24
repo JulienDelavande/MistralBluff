@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 9:3:0",
+    "game_id": "793177565",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Neketa999",
+        "DarkKnight247",
+        "IlxxxlI",
+        "ttownabe",
+        "Led177",
+        "viva el ocho",
+        "lovemiscou"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        25.0,
+        9.94,
+        10.0,
+        25.35,
+        49.34,
+        41.22,
+        27.28
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "ttownabe",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "Jh",
+            "9d"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Led177",
+                "viva el ocho",
+                "lovemiscou",
+                "Neketa999",
+                "DarkKnight247",
+                "IlxxxlI",
+                "ttownabe"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ttownabe",
+                "lovemiscou",
+                "ttownabe"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ttownabe",
+                "lovemiscou",
+                "ttownabe"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        9.94,
+        9.9,
+        23.6,
+        49.34,
+        41.22,
+        28.950000000000003
+    ]
+}

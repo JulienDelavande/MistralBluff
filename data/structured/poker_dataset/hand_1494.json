@@ -1,92 +1,94 @@
 {
-    "date": "2016/11/29 7:51:1",
-    "game_id": "786717193",
+    "date": "2016/9/18 7:25:59",
+    "game_id": "730183413",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Cap",
-    "button_seat": 2,
+    "table_name": "Longana",
+    "type_game": "Hold'em",
+    "button_seat": 3,
     "players": [
-        "wethco",
-        "plin777",
-        "BigBlat",
-        "coldkilla",
-        "IlxxxlI"
+        "A",
+        "IlxxxlI",
+        "Pimpika",
+        "drdboy",
+        "utormico",
+        "wishyouhadnot",
+        "BadBeat79",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        157.63,
-        99.9,
-        129.79,
-        82.16,
-        83.0
+        294.21,
+        83.6,
+        83.45,
+        90.73,
+        172.51,
+        191.05,
+        302.23,
+        315.26,
+        203.0
     ],
-    "player_small_blind": "BigBlat",
+    "player_small_blind": "drdboy",
     "small_blind": 1.0,
-    "player_big_blind": "coldkilla",
+    "player_big_blind": "utormico",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7d",
-        "Jc"
+        "2h",
+        "3h"
     ],
     "dealed_cards": {
-        "flop": [
-            "Ac",
-            "Kc",
-            "4h"
-        ],
+        "flop": [],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "wishyouhadnot",
+                "BadBeat79",
+                "UrSoDumb",
+                "KeepKalm",
+                "A",
                 "IlxxxlI",
-                "wethco",
-                "plin777",
-                "BigBlat",
-                "coldkilla",
-                "wethco"
+                "Pimpika",
+                "drdboy"
             ],
             "actions": [
                 "FOLD",
-                "CALL",
                 "FOLD",
-                "RAISE",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                2.0,
-                null,
-                7.0,
-                null,
-                6.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "BigBlat",
-                "wethco",
-                "BigBlat"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
                 null,
-                5.7,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
             "players": [],
@@ -104,13 +106,21 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        166.73,
-        99.9,
-        121.78999999999999,
-        80.16,
-        83.0
+        294.21,
+        83.6,
+        83.45,
+        89.73,
+        173.51,
+        191.05,
+        302.23,
+        315.26,
+        203.0
     ]
 }

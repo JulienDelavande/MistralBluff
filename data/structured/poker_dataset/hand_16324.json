@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/22 21:31:51",
+    "game_id": "803784480",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "illoke",
+        "HapKoTuk",
+        "aleks0v",
+        "roastbeans",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        50.5,
+        54.9,
+        78.07,
+        26.86,
+        50.5
+    ],
+    "player_small_blind": "HapKoTuk",
+    "small_blind": 0.25,
+    "player_big_blind": "aleks0v",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "8s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "As",
+            "Jc"
+        ],
+        "turn": [
+            "Js"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "roastbeans",
+                "IlxxxlI",
+                "illoke",
+                "HapKoTuk",
+                "aleks0v"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.25,
+                null,
+                null,
+                0.75
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "aleks0v",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "aleks0v",
+                "IlxxxlI",
+                "aleks0v"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                1.75,
+                3.5,
+                1.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "aleks0v",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qh Jd",
+        null,
+        "Ah 8s"
+    ],
+    "finishing_stack": [
+        50.5,
+        54.65,
+        82.58999999999999,
+        26.86,
+        45.75
+    ]
+}

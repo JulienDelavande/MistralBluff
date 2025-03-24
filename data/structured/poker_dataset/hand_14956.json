@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/23 11:52:23",
+    "game_id": "804361808",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "ImYourFriend1996",
+        "Brucelegend",
+        "IlxxxlI",
+        "Parcker",
+        "pfflyer",
+        "chintrogdin"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.66,
+        57.7,
+        25.0,
+        25.0,
+        39.65,
+        32.18
+    ],
+    "player_small_blind": "Parcker",
+    "small_blind": 0.1,
+    "player_big_blind": "chintrogdin",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "Kd",
+            "5c"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ImYourFriend1996",
+                "Brucelegend",
+                "IlxxxlI",
+                "Parcker",
+                "chintrogdin",
+                "Brucelegend"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                2.9,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Parcker",
+                "Brucelegend"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.97,
+                2.97
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Parcker",
+                "Brucelegend",
+                "Parcker"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.79,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.66,
+        63.32000000000001,
+        25.0,
+        19.03,
+        39.65,
+        31.93
+    ]
+}

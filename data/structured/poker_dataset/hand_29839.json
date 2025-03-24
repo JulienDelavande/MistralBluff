@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/7 8:19:2",
+    "game_id": "792438090",
+    "variant": "PRR",
+    "table_name": "Gorgons-14",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "LionHeart76",
+        "xROCKETMANx",
+        "IlxxxlI",
+        "Heksebrygg"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.0,
+        89.57,
+        21.34,
+        55.64
+    ],
+    "player_small_blind": "xROCKETMANx",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5d",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "8c",
+            "6s"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Heksebrygg",
+                "LionHeart76",
+                "xROCKETMANx",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "xROCKETMANx",
+                "Heksebrygg",
+                "xROCKETMANx"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.22,
+                2.22
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "xROCKETMANx",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "xROCKETMANx",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.03,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        93.39999999999999,
+        20.84,
+        51.92
+    ]
+}

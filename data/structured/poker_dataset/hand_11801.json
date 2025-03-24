@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 22:35:17",
+    "game_id": "805249535",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Gaboosh",
+        "IlxxxlI",
+        "caballeroXXX",
+        "Indigol",
+        "Xamroll"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        62.64,
+        116.43,
+        52.76,
+        70.61
+    ],
+    "player_small_blind": "Indigol",
+    "small_blind": 0.25,
+    "player_big_blind": "Xamroll",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "10h",
+            "9s"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Gaboosh",
+                "IlxxxlI",
+                "caballeroXXX",
+                "Indigol",
+                "Xamroll"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Xamroll",
+                "caballeroXXX"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Xamroll",
+                "caballeroXXX",
+                "Xamroll"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Xamroll",
+                "caballeroXXX"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Qd 5d",
+        null,
+        "Ad 8c"
+    ],
+    "finishing_stack": [
+        50.0,
+        62.64,
+        113.93,
+        52.51,
+        73.1
+    ]
+}

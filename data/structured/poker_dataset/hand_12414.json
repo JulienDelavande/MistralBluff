@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/24 21:33:52",
+    "game_id": "805231543",
+    "variant": "PRR",
+    "table_name": "Gorgons-10",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "caballeroXXX",
+        "dellindi",
+        "Indigol",
+        "Xamroll"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        51.1,
+        62.61,
+        48.5,
+        55.42,
+        58.95
+    ],
+    "player_small_blind": "Indigol",
+    "small_blind": 0.25,
+    "player_big_blind": "Xamroll",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "6c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kc",
+            "Kh",
+            "5c"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "caballeroXXX",
+                "dellindi",
+                "Indigol",
+                "Xamroll"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Indigol",
+                "Xamroll",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Indigol",
+                "Xamroll",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.33,
+                2.33
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Indigol",
+                "Xamroll",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.54,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        51.1,
+        62.61,
+        48.5,
+        50.64,
+        63.260000000000005
+    ]
+}

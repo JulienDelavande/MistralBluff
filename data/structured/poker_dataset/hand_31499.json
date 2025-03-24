@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/6 9:6:42",
+    "game_id": "791910578",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "bublejam_mn",
+        "Bunkman",
+        "Zzzzzzz10",
+        "maxxxim",
+        "IlxxxlI",
+        "Log_in"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        13.6,
+        12.85,
+        16.57,
+        18.8,
+        6.42,
+        7.15
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Log_in",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "5d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "Ks",
+            "Ad"
+        ],
+        "turn": [
+            "6s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "bublejam_mn",
+                "Bunkman",
+                "Zzzzzzz10",
+                "maxxxim",
+                "IlxxxlI",
+                "Log_in"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Log_in",
+                "bublejam_mn",
+                "Zzzzzzz10",
+                "Log_in"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.12,
+                1.12,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "bublejam_mn",
+                "Zzzzzzz10",
+                "bublejam_mn"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.73,
+        12.85,
+        19.07,
+        18.8,
+        6.32,
+        6.4
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "date": "2016/12/22 21:54:52",
+    "game_id": "803794496",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "booya25",
+        "tywhoyou",
+        "densis",
+        "naprimer",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        23.4,
+        20.3,
+        28.84,
+        27.24,
+        34.29
+    ],
+    "player_small_blind": "naprimer",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "2c",
+            "6d"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "booya25",
+                "tywhoyou",
+                "densis",
+                "naprimer",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                0.65,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "naprimer",
+                "booya25",
+                "naprimer",
+                "booya25",
+                "naprimer"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                3.0,
+                6.0,
+                3.75
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "Qc Ac",
+        null,
+        null,
+        "6s 6h",
+        null
+    ],
+    "finishing_stack": [
+        15.899999999999999,
+        20.3,
+        28.84,
+        34.23,
+        34.04
+    ]
+}

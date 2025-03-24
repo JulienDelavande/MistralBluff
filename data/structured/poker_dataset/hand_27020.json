@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/7 19:55:59",
+    "game_id": "792781202",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 6,
+    "players": [
+        "Blaze3535",
+        "Oral-Bet",
+        "IlxxxlI",
+        "Bokmal",
+        "PANDAisEVIL"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        72.52,
+        61.1,
+        20.0,
+        58.74,
+        51.0
+    ],
+    "player_small_blind": "Blaze3535",
+    "small_blind": 0.5,
+    "player_big_blind": "Oral-Bet",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "Ac",
+            "10s"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Bokmal",
+                "PANDAisEVIL",
+                "Blaze3535",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Blaze3535",
+                "Oral-Bet",
+                "IlxxxlI",
+                "Bokmal",
+                "Blaze3535",
+                "Oral-Bet"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                5.7,
+                5.7,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Bokmal"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "Bokmal"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                11.3,
+                11.3
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ah Qh",
+        "As Qd",
+        null
+    ],
+    "finishing_stack": [
+        69.52,
+        58.1,
+        21.85,
+        60.59,
+        51.0
+    ]
+}

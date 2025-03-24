@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/1 13:33:26",
+    "game_id": "788615100",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "ElvenEyes",
+        "MadLifeGrinder",
+        "CattleCorner",
+        "rook_",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        100.0,
+        103.2,
+        161.99,
+        100.0,
+        41.78
+    ],
+    "player_small_blind": "ElvenEyes",
+    "small_blind": 0.5,
+    "player_big_blind": "MadLifeGrinder",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9h",
+        "Ah"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "3h",
+            "3s"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CattleCorner",
+                "rook_",
+                "IlxxxlI",
+                "ElvenEyes",
+                "MadLifeGrinder",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                8.0,
+                6.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "IlxxxlI",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                11.72,
+                11.72
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MadLifeGrinder",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ad Qd",
+        null,
+        null,
+        "9h Ah"
+    ],
+    "finishing_stack": [
+        99.5,
+        122.33000000000001,
+        161.99,
+        100.0,
+        21.060000000000002
+    ]
+}

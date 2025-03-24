@@ -1,0 +1,158 @@
+{
+    "date": "2016/12/24 21:43:32",
+    "game_id": "805234131",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "SkaHot",
+        "ramieliasov",
+        "booya25",
+        "IlxxxlI",
+        "AcesHigh14",
+        "Pro-Bro"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        36.5,
+        39.75,
+        23.69,
+        25.0,
+        8.9,
+        64.76
+    ],
+    "player_small_blind": "booya25",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "2c",
+            "Ah"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AcesHigh14",
+                "Pro-Bro",
+                "SkaHot",
+                "ramieliasov",
+                "booya25",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.62,
+                0.62,
+                0.52,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "booya25",
+                "IlxxxlI",
+                "SkaHot",
+                "ramieliasov",
+                "booya25",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                2.0,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SkaHot",
+                "ramieliasov",
+                "SkaHot",
+                "ramieliasov"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.5,
+                12.0,
+                8.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SkaHot",
+                "ramieliasov"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                21.88,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.84,
+        25.130000000000003,
+        23.07,
+        24.38,
+        8.9,
+        64.76
+    ]
+}

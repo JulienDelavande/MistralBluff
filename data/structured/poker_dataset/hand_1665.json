@@ -1,78 +1,120 @@
 {
-    "date": "2016/11/28 20:25:36",
-    "game_id": "786373593",
+    "date": "2016/9/18 7:52:51",
+    "game_id": "730201617",
     "variant": "PRR",
-    "table_name": "Lakhey",
+    "table_name": "Monopod",
     "type_game": "Short",
     "button_seat": 1,
     "players": [
-        "IlxxxlI",
-        "BBDub27",
-        "Wollverin",
-        "meandkids",
-        "Are you with me"
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "UrSoDumb",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8
     ],
     "starting_stacks": [
-        53.53,
-        128.75,
-        131.7,
-        114.44,
-        70.0
+        261.54,
+        275.2,
+        200.0,
+        567.38,
+        275.6,
+        211.8,
+        299.65,
+        136.9
     ],
-    "player_small_blind": "BBDub27",
-    "small_blind": 1.0,
-    "player_big_blind": "Wollverin",
-    "big_blind": 2.0,
+    "player_small_blind": "liniang",
+    "small_blind": 2.0,
+    "player_big_blind": "Cellar door",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7h",
-        "9s"
+        "6h",
+        "Jc"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "7d",
+            "10h",
+            "9d"
+        ],
+        "turn": [
+            "Qd"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "meandkids",
-                "Are you with me",
+                "TryNotToTilt",
+                "UrSoDumb",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "BBDub27",
-                "Wollverin"
+                "ABCD123",
+                "liniang",
+                "Cellar door"
             ],
             "actions": [
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "ALLIN",
+                "FOLD",
+                "CALL",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
+                12.0,
                 null,
                 null,
                 null,
-                127.75,
+                null,
+                12.0,
+                null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TryNotToTilt",
+                "ABCD123"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "TryNotToTilt",
+                "ABCD123"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                19.8,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -85,13 +127,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        53.53,
-        130.75,
-        129.7,
-        114.44,
-        70.0
+        249.54000000000002,
+        273.2,
+        196.0,
+        585.08,
+        275.6,
+        211.8,
+        299.65,
+        136.9
     ]
 }

@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/19 21:23:27",
+    "game_id": "801734101",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "DarkStar24",
+        "LUCERtola38",
+        "ChritterBug",
+        "s7amen",
+        "IlxxxlI",
+        "blackmambaa"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        8.78,
+        24.15,
+        16.95,
+        47.44,
+        27.94,
+        26.94
+    ],
+    "player_small_blind": "LUCERtola38",
+    "small_blind": 0.1,
+    "player_big_blind": "ChritterBug",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qd",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "Js",
+            "5d"
+        ],
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "s7amen",
+                "IlxxxlI",
+                "blackmambaa",
+                "DarkStar24",
+                "LUCERtola38",
+                "ChritterBug"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "LUCERtola38",
+                "ChritterBug",
+                "LUCERtola38"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                0.71,
+                2.85,
+                2.14
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "LUCERtola38",
+                "ChritterBug"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "LUCERtola38",
+                "ChritterBug"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.56,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        8.78,
+        27.389999999999997,
+        13.35,
+        47.44,
+        27.94,
+        26.94
+    ]
+}

@@ -1,111 +1,86 @@
 {
-    "date": "2016/11/29 8:27:59",
-    "game_id": "786748409",
+    "date": "2016/9/17 15:17:54",
+    "game_id": "729613079",
     "variant": "PRR",
-    "table_name": "Longana",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 2,
     "players": [
-        "PANDAisEVIL",
-        "IlxxxlI"
+        "jbaker10031",
+        "38979",
+        "IlxxxlI",
+        "Fuck-P-Stars"
     ],
     "players_seats": [
+        1,
         2,
-        3
+        3,
+        4
     ],
     "starting_stacks": [
-        295.31,
-        80.0
+        25.47,
+        121.41,
+        82.12,
+        139.12
     ],
-    "player_small_blind": "PANDAisEVIL",
+    "player_small_blind": "IlxxxlI",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "Fuck-P-Stars",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "As",
-        "10s"
+        "10c",
+        "3d"
     ],
     "dealed_cards": {
-        "flop": [
-            "2s",
-            "3s",
-            "Ac"
-        ],
-        "turn": [
-            "8c"
-        ],
-        "river": [
-            "10h"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "PANDAisEVIL",
-                "IlxxxlI",
-                "PANDAisEVIL"
+                "jbaker10031",
+                "38979",
+                "IlxxxlI"
             ],
             "actions": [
-                "RAISE",
-                "RAISE",
-                "CALL"
+                "FOLD",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
-                4.0,
-                10.15,
-                7.15
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "IlxxxlI",
-                "PANDAisEVIL"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                7.93,
-                7.93
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "PANDAisEVIL"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
+                null,
                 null,
                 null
             ]
         },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
         "post-river": {
-            "players": [
-                "IlxxxlI",
-                "PANDAisEVIL"
-            ],
-            "actions": [
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                32.0,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        275.23,
-        99.58
+        25.47,
+        121.41,
+        81.12,
+        140.12
     ]
 }

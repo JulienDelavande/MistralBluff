@@ -1,125 +1,139 @@
 {
-    "date": "2016/11/29 8:4:47",
-    "game_id": "786727027",
+    "date": "2016/9/17 16:13:31",
+    "game_id": "729625902",
     "variant": "PRR",
-    "table_name": "Karkadann-2",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "shokerAAss",
-        "St3p04ka",
+        "jbaker10031",
+        "38979",
         "IlxxxlI",
-        "Iia007",
-        "Winter is here",
-        "aleaga",
-        "Qrenor",
-        "PeLanpapa"
+        "blaz77",
+        "Full Circle",
+        "gust"
     ],
     "players_seats": [
+        1,
         2,
         3,
         4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        104.44,
-        174.36,
-        65.06,
-        86.0,
-        198.49,
-        207.46,
-        249.65,
-        100.0
+        49.94,
+        116.24,
+        149.69,
+        83.54,
+        70.16,
+        86.21
     ],
-    "player_small_blind": "Winter is here",
-    "small_blind": 0.5,
-    "player_big_blind": "aleaga",
-    "big_blind": 1.0,
+    "player_small_blind": "jbaker10031",
+    "small_blind": 1.0,
+    "player_big_blind": "38979",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qh",
-        "Jd"
+        "Ad",
+        "3c"
     ],
     "dealed_cards": {
         "flop": [
-            "5c",
-            "Ks",
-            "Ac"
+            "Qh",
+            "8s",
+            "6s"
         ],
         "turn": [
-            "Ad"
+            "9d"
         ],
-        "river": []
+        "river": [
+            "Jh"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Qrenor",
-                "PeLanpapa",
-                "shokerAAss",
-                "St3p04ka",
                 "IlxxxlI",
-                "Iia007",
-                "Winter is here",
-                "aleaga"
+                "blaz77",
+                "Full Circle",
+                "gust",
+                "jbaker10031",
+                "38979"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
+                "CALL",
                 "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
-                null,
+                4.0,
+                4.0,
+                4.0,
                 3.0,
-                null,
-                null,
-                null,
-                2.5,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "Winter is here",
-                "shokerAAss"
+                "jbaker10031",
+                "blaz77",
+                "Full Circle",
+                "gust",
+                "jbaker10031"
             ],
             "actions": [
                 "CHECK",
-                "CHECK"
+                "BET",
+                "CALL",
+                "CALL",
+                "FOLD"
             ],
             "values": [
                 null,
+                6.0,
+                6.0,
+                6.0,
                 null
             ]
         },
         "post-turn": {
             "players": [
-                "Winter is here",
-                "shokerAAss"
+                "blaz77",
+                "Full Circle",
+                "gust",
+                "blaz77"
             ],
             "actions": [
+                "CHECK",
                 "BET",
+                "CALL",
                 "FOLD"
             ],
             "values": [
-                3.32,
+                null,
+                22.8,
+                22.8,
                 null
             ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Full Circle",
+                "gust"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                37.36,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -128,18 +142,14 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        101.44,
-        174.36,
-        65.06,
-        86.0,
-        202.14000000000001,
-        206.46,
-        249.65,
-        100.0
+        45.94,
+        114.24,
+        149.69,
+        73.54,
+        115.96,
+        53.41
     ]
 }

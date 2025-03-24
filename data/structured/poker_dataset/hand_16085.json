@@ -1,0 +1,130 @@
+{
+    "date": "2016/12/22 22:14:12",
+    "game_id": "803801293",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "booya25",
+        "densis",
+        "Hkb2145",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.29,
+        26.21,
+        16.15,
+        44.09
+    ],
+    "player_small_blind": "densis",
+    "small_blind": 0.1,
+    "player_big_blind": "Hkb2145",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "6c",
+            "6d"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "booya25",
+                "densis",
+                "Hkb2145"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.4,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "densis",
+                "Hkb2145"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "densis",
+                "Hkb2145",
+                "densis"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.63,
+                0.63
+            ]
+        },
+        "post-river": {
+            "players": [
+                "densis",
+                "Hkb2145",
+                "densis"
+            ],
+            "actions": [
+                "CHECK",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                5.87,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.29,
+        24.580000000000002,
+        17.62,
+        44.09
+    ]
+}

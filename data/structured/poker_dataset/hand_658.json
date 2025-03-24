@@ -1,70 +1,95 @@
 {
-    "date": "2016/11/29 13:18:39",
-    "game_id": "786973817",
+    "date": "2016/9/5 13:3:36",
+    "game_id": "720275073",
     "variant": "PRR",
-    "table_name": "Kraken-22",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 5,
     "players": [
+        "St3p04ka",
         "IlxxxlI",
-        "Beep_Beep",
+        "pokerhawk333",
         "gust",
-        "MadLifeGrinder",
-        "WeakAndWeary"
+        "jtee95",
+        "PANDAisEVIL"
     ],
     "players_seats": [
         2,
         3,
         4,
         5,
-        6
+        7,
+        8
     ],
     "starting_stacks": [
-        40.0,
-        229.38,
-        42.28,
-        103.0,
-        263.42
+        128.41,
+        48.3,
+        53.24,
+        80.0,
+        207.99,
+        133.77
     ],
-    "player_small_blind": "Beep_Beep",
-    "small_blind": 0.5,
-    "player_big_blind": "gust",
-    "big_blind": 1.0,
+    "player_small_blind": "jtee95",
+    "small_blind": 1.0,
+    "player_big_blind": "PANDAisEVIL",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Jc",
-        "2d"
+        "3d",
+        "5c"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "2s",
+            "Js",
+            "Jc"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "WeakAndWeary",
+                "St3p04ka",
                 "IlxxxlI",
-                "Beep_Beep"
+                "pokerhawk333",
+                "gust",
+                "jtee95",
+                "PANDAisEVIL"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
+                "CALL",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "CHECK"
             ],
             "values": [
                 null,
+                null,
+                2.0,
                 null,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "PANDAisEVIL",
+                "pokerhawk333",
+                "PANDAisEVIL"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.0,
+                null
+            ]
         },
         "post-turn": {
             "players": [],
@@ -82,13 +107,15 @@
         null,
         null,
         null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.0,
-        228.88,
-        42.78,
-        103.0,
-        263.42
+        128.41,
+        48.3,
+        55.99,
+        80.0,
+        206.99,
+        131.77
     ]
 }

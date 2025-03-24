@@ -1,108 +1,66 @@
 {
-    "date": "2016/11/29 14:39:41",
-    "game_id": "787011195",
+    "date": "2016/9/4 22:49:22",
+    "game_id": "719618120",
     "variant": "PRR",
-    "table_name": "Gorgons-15",
-    "type_game": "Hold'em",
-    "button_seat": 5,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
-        "WeakAndWeary",
-        "IampokerKidd",
+        "38979",
         "IlxxxlI",
-        "foreseen"
+        "Leatherass9"
     ],
     "players_seats": [
-        1,
         2,
         4,
         5
     ],
     "starting_stacks": [
-        75.25,
-        104.01,
-        30.25,
-        55.15
+        100.0,
+        41.0,
+        177.86
     ],
-    "player_small_blind": "WeakAndWeary",
-    "small_blind": 0.25,
-    "player_big_blind": "IampokerKidd",
-    "big_blind": 0.5,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 1.0,
+    "player_big_blind": "Leatherass9",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2h",
-        "2d"
+        "6h",
+        "9c"
     ],
     "dealed_cards": {
-        "flop": [
-            "7s",
-            "6s",
-            "10c"
-        ],
-        "turn": [
-            "Qd"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "38979",
                 "IlxxxlI",
-                "foreseen",
-                "WeakAndWeary",
-                "IampokerKidd",
-                "IlxxxlI",
-                "WeakAndWeary"
+                "Leatherass9"
             ],
             "actions": [
-                "CALL",
-                "FOLD",
-                "CALL",
                 "RAISE",
-                "CALL",
-                "CALL"
-            ],
-            "values": [
-                0.5,
-                null,
-                0.25,
-                1.5,
-                1.5,
-                1.5
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "WeakAndWeary",
-                "IampokerKidd",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "WeakAndWeary",
-                "IampokerKidd",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "BET",
                 "FOLD",
                 "FOLD"
             ],
             "values": [
-                4.5,
+                6.0,
                 null,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -113,13 +71,11 @@
     "card_shown_by_players": [
         null,
         null,
-        null,
         null
     ],
     "finishing_stack": [
-        78.95,
-        102.01,
-        28.25,
-        55.15
+        103.0,
+        40.0,
+        175.86
     ]
 }

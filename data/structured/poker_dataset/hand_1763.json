@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 20:3:10",
-    "game_id": "786368534",
+    "date": "2016/9/18 8:6:52",
+    "game_id": "730209753",
     "variant": "PRR",
-    "table_name": "Kraken",
-    "type_game": "short",
-    "button_seat": 2,
+    "table_name": "Karkadann-3",
+    "type_game": "Hold'em",
+    "button_seat": 9,
     "players": [
-        "Cinch23",
-        "38979",
-        "Bhodisattva",
-        "TranscendencE",
-        "IlxxxlI",
-        "meandkids"
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "BiggestFan07",
+        "BullsNationBitch",
+        "Pimpika",
+        "gosu36484",
+        "FirstClan",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -19,137 +21,107 @@
         3,
         4,
         5,
-        6
+        6,
+        8,
+        9
     ],
     "starting_stacks": [
-        73.88,
-        55.39,
-        23.18,
-        65.69,
-        32.29,
-        50.0
+        101.38,
+        104.56,
+        71.19,
+        52.14,
+        76.51,
+        39.5,
+        140.82,
+        41.3
     ],
-    "player_small_blind": "Bhodisattva",
+    "player_small_blind": "BlitzWaut",
     "small_blind": 0.5,
-    "player_big_blind": "TranscendencE",
+    "player_big_blind": "VegetablesArentYummy",
     "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9s",
-        "Jc"
+        "5s",
+        "8d"
     ],
     "dealed_cards": {
-        "flop": [
-            "10d",
-            "7c",
-            "Qh"
-        ],
-        "turn": [
-            "Jd"
-        ],
-        "river": [
-            "4c"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "BiggestFan07",
+                "BullsNationBitch",
+                "Pimpika",
+                "gosu36484",
+                "FirstClan",
                 "IlxxxlI",
-                "meandkids",
-                "Cinch23",
-                "38979",
-                "Bhodisattva",
-                "TranscendencE"
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "BiggestFan07",
+                "gosu36484"
             ],
             "actions": [
-                "FOLD",
+                "CALL",
                 "FOLD",
                 "FOLD",
                 "RAISE",
-                "CALL",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                null,
-                3.0,
-                2.5,
-                2.0
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "Bhodisattva",
-                "TranscendencE",
-                "38979"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Bhodisattva",
-                "TranscendencE",
-                "38979",
-                "Bhodisattva",
-                "TranscendencE"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "BET",
-                "CALL",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
+                1.0,
                 null,
                 null,
-                5.7,
-                5.7,
+                3.0,
+                9.0,
+                null,
+                null,
+                null,
+                null,
                 null
             ]
         },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
         "post-river": {
-            "players": [
-                "Bhodisattva",
-                "38979",
-                "Bhodisattva"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                12.92,
-                12.92
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
-        "Ad Kd",
+        null,
+        null,
+        null,
         null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        73.88,
-        77.69999999999999,
-        1.5599999999999987,
-        62.69,
-        32.29,
-        50.0
+        100.88,
+        103.56,
+        70.19,
+        52.14,
+        76.51,
+        36.5,
+        146.32,
+        41.3
     ]
 }

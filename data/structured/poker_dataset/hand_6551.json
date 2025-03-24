@@ -1,0 +1,141 @@
+{
+    "date": "2016/10/13 1:32:14",
+    "game_id": "749212308",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 6,
+    "players": [
+        "havenakalou",
+        "badboy85",
+        "mr.fargo",
+        "Gargantuatua",
+        "IlxxxlI",
+        "PANDAisEVIL"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        63.26,
+        40.0,
+        141.19,
+        50.0,
+        91.78,
+        102.51
+    ],
+    "player_small_blind": "havenakalou",
+    "small_blind": 0.5,
+    "player_big_blind": "badboy85",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "9d",
+            "10h"
+        ],
+        "turn": [
+            "Ac"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mr.fargo",
+                "Gargantuatua",
+                "IlxxxlI",
+                "PANDAisEVIL",
+                "havenakalou",
+                "badboy85"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                2.5,
+                null,
+                null,
+                null,
+                2.0,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "havenakalou",
+                "badboy85",
+                "mr.fargo"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "havenakalou",
+                "badboy85",
+                "mr.fargo",
+                "havenakalou",
+                "badboy85"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                4.28,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        60.76,
+        37.5,
+        145.82,
+        50.0,
+        91.78,
+        102.51
+    ]
+}

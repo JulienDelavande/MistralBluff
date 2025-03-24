@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/2 11:9:32",
+    "game_id": "789196472",
+    "variant": "PRR",
+    "table_name": "Kraken-10",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Gronkowski69",
+        "PANDAisEVIL",
+        "GagaPoker",
+        "meandkids"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        56.92,
+        253.88,
+        195.72,
+        135.91,
+        137.98
+    ],
+    "player_small_blind": "GagaPoker",
+    "small_blind": 0.5,
+    "player_big_blind": "meandkids",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "Ac",
+            "8c"
+        ],
+        "turn": [
+            "8s"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Gronkowski69",
+                "PANDAisEVIL",
+                "GagaPoker",
+                "meandkids"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                null,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "meandkids",
+                "Gronkowski69",
+                "meandkids"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "meandkids",
+                "Gronkowski69",
+                "meandkids"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.0,
+                6.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "meandkids",
+                "Gronkowski69",
+                "meandkids"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                12.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        56.92,
+        263.81,
+        195.72,
+        135.41,
+        127.47999999999999
+    ]
+}

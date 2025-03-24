@@ -1,0 +1,148 @@
+{
+    "date": "2016/12/24 22:49:13",
+    "game_id": "805254154",
+    "variant": "PRR",
+    "table_name": "Ettin-2",
+    "type_game": "Hold'em",
+    "button_seat": 9,
+    "players": [
+        "shocktheworld",
+        "TheKingBigD",
+        "AcesHigh14",
+        "IlxxxlI",
+        "___AAA___",
+        "Zzzzzzz10",
+        "Falcons99"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        26.28,
+        32.33,
+        27.63,
+        25.0,
+        25.0,
+        29.78,
+        15.75
+    ],
+    "player_small_blind": "shocktheworld",
+    "small_blind": 0.1,
+    "player_big_blind": "TheKingBigD",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8c",
+            "2s",
+            "6h"
+        ],
+        "turn": [
+            "5s"
+        ],
+        "river": [
+            "10d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "AcesHigh14",
+                "IlxxxlI",
+                "___AAA___",
+                "Zzzzzzz10",
+                "Falcons99",
+                "shocktheworld",
+                "TheKingBigD"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "shocktheworld",
+                "TheKingBigD"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "shocktheworld",
+                "TheKingBigD"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-river": {
+            "players": [
+                "shocktheworld",
+                "TheKingBigD"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.07,
+                1.07
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "As Ad",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        28.78,
+        29.56,
+        27.63,
+        25.0,
+        25.0,
+        29.78,
+        15.75
+    ]
+}

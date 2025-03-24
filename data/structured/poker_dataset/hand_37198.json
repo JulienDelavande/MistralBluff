@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/3 11:47:53",
+    "game_id": "789895639",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 6,
+    "players": [
+        "davetheman",
+        "rudyru",
+        "IlxxxlI",
+        "Flushdogg",
+        "imperceptible"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        34.5,
+        51.01,
+        20.0,
+        31.55,
+        33.41
+    ],
+    "player_small_blind": "davetheman",
+    "small_blind": 0.25,
+    "player_big_blind": "rudyru",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4s",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "10d",
+            "4h"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "Kd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Flushdogg",
+                "imperceptible",
+                "davetheman",
+                "rudyru"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                1.75,
+                null,
+                null,
+                1.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "davetheman",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.8,
+                3.8
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "davetheman",
+                "IlxxxlI",
+                "davetheman"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.0,
+                4.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "davetheman",
+                "IlxxxlI",
+                "davetheman"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                3.5,
+                5.45,
+                1.95
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "4s 4c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        19.5,
+        50.51,
+        33.980000000000004,
+        31.55,
+        33.41
+    ]
+}

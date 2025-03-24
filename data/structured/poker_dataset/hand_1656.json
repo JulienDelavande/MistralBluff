@@ -1,126 +1,153 @@
 {
-    "date": "2016/11/28 20:27:16",
-    "game_id": "786373930",
+    "date": "2016/9/18 7:51:41",
+    "game_id": "730200869",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 9,
     "players": [
-        "caballeroXXX",
-        "DonkReaper",
-        "in_ur_i",
-        "Cinch23",
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "BiggestFan07",
+        "BullsNationBitch",
+        "Pimpika",
+        "gosu36484",
+        "FirstClan",
         "IlxxxlI"
     ],
     "players_seats": [
         1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        8,
+        9
     ],
     "starting_stacks": [
-        66.92,
-        72.87,
-        47.21,
-        20.96,
-        20.0
+        107.8,
+        103.33,
+        55.54,
+        46.5,
+        78.51,
+        40.0,
+        162.32,
+        40.0
     ],
-    "player_small_blind": "caballeroXXX",
-    "small_blind": 0.25,
-    "player_big_blind": "DonkReaper",
-    "big_blind": 0.5,
+    "player_small_blind": "BlitzWaut",
+    "small_blind": 0.5,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "10d"
+        "2s",
+        "4d"
     ],
     "dealed_cards": {
         "flop": [
-            "Ac",
-            "4s",
-            "Ah"
+            "7s",
+            "3s",
+            "10s"
         ],
         "turn": [
-            "3s"
+            "3h"
         ],
         "river": [
-            "Kc"
+            "Qs"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "in_ur_i",
-                "Cinch23",
+                "BiggestFan07",
+                "BullsNationBitch",
+                "Pimpika",
+                "gosu36484",
+                "FirstClan",
                 "IlxxxlI",
-                "caballeroXXX",
-                "DonkReaper"
+                "BlitzWaut",
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "FOLD",
-                "RAISE",
+                "CALL",
                 "CALL",
                 "FOLD",
-                "CALL"
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "CHECK"
             ],
             "values": [
-                null,
                 1.0,
                 1.0,
                 null,
-                0.5
+                null,
+                1.0,
+                null,
+                0.5,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "DonkReaper",
-                "Cinch23",
-                "IlxxxlI",
-                "DonkReaper",
-                "Cinch23"
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "BiggestFan07",
+                "BullsNationBitch",
+                "FirstClan",
+                "BlitzWaut",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "CHECK",
                 "CHECK",
                 "BET",
                 "FOLD",
-                "CALL"
+                "CALL",
+                "FOLD",
+                "FOLD"
             ],
             "values": [
                 null,
                 null,
-                1.03,
+                4.0,
                 null,
-                1.03
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "Cinch23",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
+                4.0,
                 null,
                 null
             ]
         },
-        "post-river": {
+        "post-turn": {
             "players": [
-                "Cinch23",
-                "IlxxxlI"
+                "BiggestFan07",
+                "FirstClan",
+                "BiggestFan07"
             ],
             "actions": [
                 "BET",
+                "RAISE",
                 "CALL"
             ],
             "values": [
-                4.0,
-                4.0
+                5.0,
+                12.0,
+                7.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BiggestFan07",
+                "FirstClan"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                9.0,
+                null
             ]
         }
     },
@@ -128,14 +155,20 @@
         null,
         null,
         null,
-        "Ad 10h",
-        "Kd 10d"
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "finishing_stack": [
-        66.67,
-        71.87,
-        47.21,
-        27.58,
-        13.969999999999999
+        106.8,
+        102.33,
+        73.69,
+        45.5,
+        78.51,
+        40.0,
+        145.32,
+        40.0
     ]
 }

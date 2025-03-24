@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/5 11:16:27",
+    "game_id": "791359995",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Aslargs",
+        "QDevilQ",
+        "Jui Kuen",
+        "Heksebrygg",
+        "IlxxxlI",
+        "Beep_Beep"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        105.83,
+        97.42,
+        121.19,
+        60.14,
+        20.47,
+        51.79
+    ],
+    "player_small_blind": "Aslargs",
+    "small_blind": 0.25,
+    "player_big_blind": "QDevilQ",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "Qd",
+            "8s"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Jui Kuen",
+                "Heksebrygg",
+                "IlxxxlI",
+                "Beep_Beep",
+                "Aslargs",
+                "QDevilQ"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                1.5,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jui Kuen",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jui Kuen",
+                "Heksebrygg",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.18,
+                6.18
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Jui Kuen",
+                "Heksebrygg"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ad Kd",
+        "Ks Ac",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        105.58,
+        96.92,
+        121.02,
+        59.96,
+        20.47,
+        51.79
+    ]
+}

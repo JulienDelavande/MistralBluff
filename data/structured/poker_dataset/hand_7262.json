@@ -1,0 +1,127 @@
+{
+    "date": "2016/12/28 10:17:52",
+    "game_id": "807594573",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "420_am",
+        "IlxxxlI",
+        "Bunddler88",
+        "pointsix420"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        13.27,
+        14.73,
+        34.86,
+        3.94
+    ],
+    "player_small_blind": "420_am",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "2s",
+            "9s"
+        ],
+        "turn": [
+            "9h"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Bunddler88",
+                "pointsix420",
+                "420_am",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                0.6
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "420_am",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "420_am",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "420_am",
+                "IlxxxlI",
+                "420_am"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                4.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.92,
+        16.85,
+        34.86,
+        3.94
+    ]
+}

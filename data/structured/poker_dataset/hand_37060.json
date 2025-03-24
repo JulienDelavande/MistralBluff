@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/3 13:59:48",
+    "game_id": "789973555",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 3,
+    "players": [
+        "ShowStacky",
+        "Pimpika",
+        "hodisuda",
+        "gust",
+        "SISYPHUS100",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        74.04,
+        47.18,
+        50.0,
+        44.1,
+        62.08,
+        20.0
+    ],
+    "player_small_blind": "gust",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9d",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "4c",
+            "10d"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "ShowStacky",
+                "Pimpika",
+                "hodisuda",
+                "gust",
+                "IlxxxlI",
+                "ShowStacky"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                null,
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ShowStacky",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ShowStacky",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ShowStacky",
+                "hodisuda"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "5c 2c",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        78.17,
+        47.18,
+        47.0,
+        43.6,
+        62.08,
+        19.0
+    ]
+}

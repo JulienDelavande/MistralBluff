@@ -1,0 +1,160 @@
+{
+    "date": "2016/12/24 21:52:4",
+    "game_id": "805236571",
+    "variant": "PRR",
+    "table_name": "Ettin-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "tartlain",
+        "TheKingBigD",
+        "AcesHigh14",
+        "mugiwara_boy",
+        "IlxxxlI",
+        "DrCash1977",
+        "Aacedugan",
+        "Falcons99"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        33.29,
+        61.62,
+        12.03,
+        26.42,
+        25.0,
+        13.7,
+        10.0,
+        7.05
+    ],
+    "player_small_blind": "TheKingBigD",
+    "small_blind": 0.1,
+    "player_big_blind": "AcesHigh14",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9s",
+            "4s",
+            "7h"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mugiwara_boy",
+                "IlxxxlI",
+                "DrCash1977",
+                "Aacedugan",
+                "Falcons99",
+                "tartlain",
+                "TheKingBigD",
+                "AcesHigh14"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                null,
+                null,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "mugiwara_boy",
+                "DrCash1977",
+                "tartlain",
+                "mugiwara_boy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.64,
+                1.64,
+                1.64
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mugiwara_boy",
+                "DrCash1977",
+                "tartlain",
+                "mugiwara_boy",
+                "DrCash1977"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                4.76,
+                null,
+                23.8,
+                6.55
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Ah Ac",
+        null,
+        "5s 8s",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        30.9,
+        61.519999999999996,
+        11.78,
+        41.36,
+        25.0,
+        0.0,
+        10.0,
+        7.05
+    ]
+}

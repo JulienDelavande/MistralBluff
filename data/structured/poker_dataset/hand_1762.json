@@ -1,73 +1,176 @@
 {
-    "date": "2016/11/28 20:3:11",
-    "game_id": "786368543",
+    "date": "2016/9/18 8:6:45",
+    "game_id": "730209686",
     "variant": "PRR",
-    "table_name": "Gorgons-3",
+    "table_name": "Karkadann-4",
     "type_game": "Hold'em",
     "button_seat": 6,
     "players": [
-        "Cinch23",
-        "IlxxxlI"
+        "VegetablesArentYummy",
+        "Pimpika",
+        "IlxxxlI",
+        "Spew Diamond Phillips",
+        "gosu36484",
+        "Antimonysayz",
+        "FirstClan",
+        "brainvape",
+        "BlitzWaut"
     ],
     "players_seats": [
+        1,
         2,
-        6
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        52.88,
-        25.53
+        104.23,
+        81.85,
+        40.0,
+        134.34,
+        53.4,
+        92.0,
+        100.0,
+        31.55,
+        239.58
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "Cinch23",
-    "big_blind": 0.5,
+    "player_small_blind": "FirstClan",
+    "small_blind": 0.5,
+    "player_big_blind": "brainvape",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8d",
-        "Qd"
+        "4s",
+        "3d"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "7c",
+            "Qc",
+            "4c"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "2h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "Pimpika",
                 "IlxxxlI",
-                "Cinch23"
+                "Spew Diamond Phillips",
+                "gosu36484",
+                "Antimonysayz",
+                "FirstClan",
+                "brainvape"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "RAISE",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CALL"
             ],
             "values": [
-                1.0,
-                null
+                null,
+                null,
+                2.0,
+                null,
+                null,
+                null,
+                2.0,
+                1.5,
+                1.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FirstClan",
+                "brainvape",
+                "Pimpika",
+                "Antimonysayz"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                5.06,
+                null,
+                5.06,
+                5.06
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FirstClan",
+                "Pimpika",
+                "Antimonysayz"
+            ],
+            "actions": [
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                17.0,
+                17.0,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "FirstClan",
+                "Pimpika",
+                "FirstClan"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                18.11,
+                57.79,
+                39.68
+            ]
         }
     },
     "card_shown_by_players": [
         null,
+        "Kc Ac",
+        null,
+        null,
+        null,
+        null,
+        "7d 7h",
+        null,
         null
     ],
     "finishing_stack": [
-        52.38,
-        26.03
+        104.23,
+        169.76,
+        40.0,
+        134.34,
+        53.4,
+        84.94,
+        18.150000000000006,
+        29.55,
+        239.58
     ]
 }

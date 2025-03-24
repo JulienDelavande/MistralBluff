@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/9 23:31:19",
+    "game_id": "794211425",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 5,
+    "players": [
+        "caballeroXXX",
+        "odel_nadel",
+        "IlxxxlI",
+        "so_it_goes",
+        "WomboComboAA",
+        "omgnewphone"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.13,
+        31.15,
+        16.55,
+        29.5,
+        70.49,
+        11.26
+    ],
+    "player_small_blind": "omgnewphone",
+    "small_blind": 0.25,
+    "player_big_blind": "caballeroXXX",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "3h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "4c",
+            "Kc"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "odel_nadel",
+                "IlxxxlI",
+                "so_it_goes",
+                "WomboComboAA",
+                "omgnewphone",
+                "caballeroXXX"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                0.75,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "omgnewphone",
+                "caballeroXXX",
+                "WomboComboAA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "omgnewphone",
+                "caballeroXXX",
+                "WomboComboAA",
+                "omgnewphone",
+                "caballeroXXX",
+                "omgnewphone"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                2.5,
+                null,
+                6.0,
+                14.0,
+                4.26
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "7h Kh",
+        null,
+        null,
+        null,
+        null,
+        "3c 2c"
+    ],
+    "finishing_stack": [
+        38.22,
+        31.15,
+        16.55,
+        29.5,
+        69.49,
+        0.0
+    ]
+}

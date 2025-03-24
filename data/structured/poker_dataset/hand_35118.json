@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/5 9:39:40",
+    "game_id": "791285083",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "WeakAndWeary",
+        "Nootstein",
+        "38979",
+        "IlxxxlI",
+        "crafty55"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        58.34,
+        90.41,
+        50.64,
+        20.0,
+        34.07
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "crafty55",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "Ks"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3c",
+            "3s",
+            "Jd"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "10h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Nootstein",
+                "38979",
+                "IlxxxlI",
+                "crafty55"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.75,
+                null,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "crafty55",
+                "Nootstein"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "crafty55",
+                "Nootstein",
+                "crafty55",
+                "Nootstein"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.68,
+                8.04,
+                5.36
+            ]
+        },
+        "post-river": {
+            "players": [
+                "crafty55",
+                "Nootstein"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                12.56,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        58.34,
+        80.62,
+        50.64,
+        19.75,
+        43.120000000000005
+    ]
+}

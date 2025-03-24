@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/25 14:44:35",
+    "game_id": "805723658",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Neebow",
+        "Casinator",
+        "BeAboutIt",
+        "unicellular",
+        "IlxxxlI",
+        "GetPaidGetLaid"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        63.8,
+        19.79,
+        60.22,
+        54.72,
+        50.0
+    ],
+    "player_small_blind": "GetPaidGetLaid",
+    "small_blind": 0.25,
+    "player_big_blind": "Neebow",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9c",
+        "2h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "6c",
+            "9d"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Casinator",
+                "BeAboutIt",
+                "unicellular",
+                "IlxxxlI",
+                "GetPaidGetLaid",
+                "Neebow"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Neebow",
+                "unicellular"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Neebow",
+                "unicellular"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Neebow",
+                "unicellular"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                4.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.94,
+        63.8,
+        19.79,
+        57.22,
+        54.72,
+        49.75
+    ]
+}

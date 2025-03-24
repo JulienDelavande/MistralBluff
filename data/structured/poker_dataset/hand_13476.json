@@ -1,0 +1,133 @@
+{
+    "date": "2016/12/24 9:57:7",
+    "game_id": "804961817",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "420_am",
+        "tachok77",
+        "BeatsHappen",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        34.61,
+        17.39,
+        15.38,
+        19.25
+    ],
+    "player_small_blind": "BeatsHappen",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "2s",
+            "4d"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "420_am",
+                "tachok77",
+                "BeatsHappen",
+                "IlxxxlI",
+                "tachok77",
+                "BeatsHappen"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.4,
+                2.0,
+                1.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "tachok77"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.58,
+                1.58
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "tachok77"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "tachok77",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.88,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        34.61,
+        21.32,
+        14.88,
+        15.42
+    ]
+}

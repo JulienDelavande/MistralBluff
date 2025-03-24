@@ -1,0 +1,170 @@
+{
+    "date": "2016/12/9 20:46:35",
+    "game_id": "794169203",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "IgLa",
+        "GranatoBetano",
+        "IlxxxlI",
+        "sour159",
+        "PANDAisEVIL",
+        "Sabatni",
+        "gust",
+        "Nexus_Polaris",
+        "so_it_goes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        113.31,
+        45.0,
+        75.66,
+        86.05,
+        187.61,
+        27.66,
+        51.61,
+        100.5,
+        117.21
+    ],
+    "player_small_blind": "so_it_goes",
+    "small_blind": 0.5,
+    "player_big_blind": "IgLa",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "10h",
+            "7h"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "5d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "GranatoBetano",
+                "IlxxxlI",
+                "sour159",
+                "PANDAisEVIL",
+                "Sabatni",
+                "gust",
+                "Nexus_Polaris",
+                "so_it_goes",
+                "IgLa"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                null,
+                0.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "so_it_goes",
+                "IgLa",
+                "Sabatni"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "so_it_goes",
+                "IgLa",
+                "Sabatni"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                2.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "so_it_goes",
+                "Sabatni"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "9c As"
+    ],
+    "finishing_stack": [
+        112.31,
+        45.0,
+        75.66,
+        86.05,
+        187.61,
+        24.66,
+        51.61,
+        100.5,
+        120.86
+    ]
+}

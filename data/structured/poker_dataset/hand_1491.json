@@ -1,94 +1,121 @@
 {
-    "date": "2016/11/29 7:51:54",
-    "game_id": "786717923",
+    "date": "2016/9/18 7:25:18",
+    "game_id": "730182925",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Cap",
-    "button_seat": 3,
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 9,
     "players": [
-        "wethco",
-        "plin777",
-        "BigBlat",
-        "coldkilla",
-        "IlxxxlI"
+        "LuckyBoy1980",
+        "BadBeat79",
+        "Augusta_72",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "gosu36484"
     ],
     "players_seats": [
         1,
         2,
         3,
+        4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        166.73,
-        99.9,
-        121.79,
-        80.16,
-        83.0
+        221.35,
+        210.41,
+        152.82,
+        279.4,
+        153.33,
+        126.64,
+        200.0,
+        100.85,
+        82.5
     ],
-    "player_small_blind": "coldkilla",
+    "player_small_blind": "LuckyBoy1980",
     "small_blind": 1.0,
-    "player_big_blind": "IlxxxlI",
+    "player_big_blind": "BadBeat79",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "10s",
-        "2d"
+        "6h",
+        "8s"
     ],
     "dealed_cards": {
         "flop": [
-            "Ac",
-            "4d",
-            "Qh"
+            "9d",
+            "5s",
+            "Jc"
         ],
         "turn": [
-            "8h"
+            "Ac"
         ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "wethco",
-                "plin777",
-                "BigBlat",
-                "coldkilla",
-                "IlxxxlI"
+                "Augusta_72",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "gosu36484",
+                "LuckyBoy1980",
+                "BadBeat79"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "CALL",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
-                4.0,
                 null,
-                3.0,
-                null
+                5.0,
+                null,
+                null,
+                null,
+                null,
+                null,
+                3.0
             ]
         },
         "post-flop": {
             "players": [
-                "coldkilla",
-                "plin777"
+                "BadBeat79",
+                "Pimpika",
+                "BadBeat79"
             ],
             "actions": [
+                "CHECK",
                 "BET",
                 "CALL"
             ],
             "values": [
-                6.33,
-                6.33
+                null,
+                6.96,
+                6.96
             ]
         },
         "post-turn": {
             "players": [
-                "coldkilla",
-                "plin777",
-                "coldkilla"
+                "BadBeat79",
+                "Pimpika",
+                "BadBeat79"
             ],
             "actions": [
                 "CHECK",
@@ -97,7 +124,7 @@
             ],
             "values": [
                 null,
-                14.35,
+                15.78,
                 null
             ]
         },
@@ -112,13 +139,21 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        166.73,
-        111.10000000000001,
-        121.79,
-        69.83,
-        81.0
+        220.35,
+        198.45,
+        152.82,
+        279.4,
+        165.05,
+        126.64,
+        200.0,
+        100.85,
+        82.5
     ]
 }

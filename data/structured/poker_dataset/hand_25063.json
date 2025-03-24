@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/8 10:18:27",
+    "game_id": "793246044",
+    "variant": "PRR",
+    "table_name": "Gorgons-9",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "flyshark01",
+        "derynimind",
+        "Tobious8",
+        "Polar1z1ng",
+        "Ice Bank Mice Elf",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        83.09,
+        10.8,
+        68.56,
+        58.0,
+        60.3,
+        24.72
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "flyshark01",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "4d",
+            "8d"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "derynimind",
+                "Tobious8",
+                "Polar1z1ng",
+                "Ice Bank Mice Elf",
+                "IlxxxlI",
+                "flyshark01"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "flyshark01",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.43,
+                1.43
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "flyshark01",
+                "Ice Bank Mice Elf"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                2.43,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        85.52,
+        10.8,
+        68.56,
+        58.0,
+        57.87,
+        24.47
+    ]
+}

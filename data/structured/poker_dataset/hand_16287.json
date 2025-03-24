@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/22 21:37:54",
+    "game_id": "803787138",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Cap",
+    "button_seat": 4,
+    "players": [
+        "Niko Rox",
+        "tywhoyou",
+        "Slim2Nun",
+        "buttons3840",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        9.82,
+        18.67,
+        10.18,
+        14.23,
+        25.0
+    ],
+    "player_small_blind": "buttons3840",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "2s",
+            "3d"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Niko Rox",
+                "tywhoyou",
+                "Slim2Nun",
+                "buttons3840",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "buttons3840",
+                "IlxxxlI",
+                "Slim2Nun"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.36,
+                null,
+                0.36
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "buttons3840",
+                "Slim2Nun"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.7,
+                0.7
+            ]
+        },
+        "post-river": {
+            "players": [
+                "buttons3840",
+                "Slim2Nun"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                1.82,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        9.82,
+        18.67,
+        8.87,
+        15.65,
+        24.75
+    ]
+}

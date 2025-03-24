@@ -1,0 +1,141 @@
+{
+    "date": "2016/12/24 23:3:24",
+    "game_id": "805258780",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 4,
+    "players": [
+        "billythekid357",
+        "PokerLver420",
+        "SkaHot",
+        "PersonaGrata2016",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        12.6,
+        12.75,
+        34.22,
+        12.5,
+        12.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "billythekid357",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3d",
+            "10s",
+            "6d"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "2h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "PokerLver420",
+                "SkaHot",
+                "PersonaGrata2016",
+                "IlxxxlI",
+                "billythekid357",
+                "PokerLver420"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PokerLver420",
+                "PersonaGrata2016",
+                "PokerLver420"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                0.75
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PokerLver420",
+                "PersonaGrata2016",
+                "PokerLver420"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.12,
+                2.12
+            ]
+        },
+        "post-river": {
+            "players": [
+                "PokerLver420",
+                "PersonaGrata2016"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.61,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.35,
+        16.349999999999998,
+        34.22,
+        8.879999999999999,
+        12.4
+    ]
+}

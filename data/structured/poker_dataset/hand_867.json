@@ -1,111 +1,72 @@
 {
-    "date": "2016/11/29 12:48:36",
-    "game_id": "786957263",
+    "date": "2016/9/6 0:47:13",
+    "game_id": "720648979",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
-    "button_seat": 2,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 1,
     "players": [
-        "BHawk12",
-        "IlxxxlI",
-        "flyshark01",
-        "Jui Kuen",
-        "constant revelation",
-        "foreseen"
+        "Ksowas",
+        "VegetablesArentYummy",
+        "Im Don King",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
         2,
         3,
-        4,
-        5,
         6
     ],
     "starting_stacks": [
-        62.17,
-        20.0,
-        87.79,
-        50.0,
-        24.58,
-        53.09
+        163.07,
+        101.0,
+        100.0,
+        121.44
     ],
-    "player_small_blind": "flyshark01",
-    "small_blind": 0.25,
-    "player_big_blind": "Jui Kuen",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
+    "player_big_blind": "Im Don King",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "Ks"
+        "Qd",
+        "5c"
     ],
     "dealed_cards": {
-        "flop": [
-            "6c",
-            "Qc",
-            "8s"
-        ],
-        "turn": [
-            "Qh"
-        ],
+        "flop": [],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "constant revelation",
-                "foreseen",
-                "BHawk12",
                 "IlxxxlI",
-                "flyshark01",
-                "Jui Kuen"
+                "Ksowas",
+                "VegetablesArentYummy",
+                "Im Don King"
             ],
             "actions": [
-                "CALL",
                 "FOLD",
+                "RAISE",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "CHECK"
+                "FOLD"
             ],
             "values": [
-                0.5,
                 null,
-                null,
-                null,
+                4.0,
                 null,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "Jui Kuen",
-                "constant revelation"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                0.79,
-                0.79
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "Jui Kuen",
-                "constant revelation",
-                "Jui Kuen"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                null,
-                1.34,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -117,16 +78,12 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        62.17,
-        20.0,
-        87.54,
-        48.71,
-        25.98,
-        53.09
+        166.07,
+        100.0,
+        98.0,
+        121.44
     ]
 }

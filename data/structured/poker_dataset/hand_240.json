@@ -1,145 +1,116 @@
 {
-    "date": "2016/11/29 14:44:11",
-    "game_id": "787013075",
+    "date": "2016/9/4 10:13:24",
+    "game_id": "719289457",
     "variant": "PRR",
-    "table_name": "Longana",
+    "table_name": "Medusa",
     "type_game": "Short",
-    "button_seat": 8,
+    "button_seat": 1,
     "players": [
-        "aleks0v",
-        "PANDAisEVIL",
-        "VegetablesArentYummy",
-        "gust",
-        "thimk",
         "IlxxxlI",
-        "pineapplesand",
-        "StephCurry",
-        "hotshothotgg"
+        "bet2000",
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
-        2,
-        3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9
+        6
     ],
     "starting_stacks": [
-        100.0,
-        103.0,
-        138.13,
-        87.4,
-        66.12,
-        43.0,
-        50.35,
-        116.5,
-        96.04
+        136.41,
+        544.61,
+        215.38
     ],
-    "player_small_blind": "hotshothotgg",
-    "small_blind": 1.0,
-    "player_big_blind": "aleks0v",
-    "big_blind": 2.0,
+    "player_small_blind": "bet2000",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "2h",
-        "10d"
+        "5s",
+        "3d"
     ],
     "dealed_cards": {
         "flop": [
-            "10s",
-            "9d",
-            "Qs"
+            "3c",
+            "Kh",
+            "Jc"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "4h"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "PANDAisEVIL",
-                "VegetablesArentYummy",
-                "gust",
-                "thimk",
-                "IlxxxlI",
-                "pineapplesand",
-                "StephCurry",
-                "hotshothotgg",
-                "aleks0v"
+                "bet2000",
+                "IlxxxlI"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "CALL",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
                 "CHECK"
             ],
             "values": [
-                null,
-                null,
-                null,
                 2.0,
-                null,
-                null,
-                null,
-                null,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "aleks0v",
-                "thimk",
-                "aleks0v"
+                "bet2000",
+                "IlxxxlI",
+                "bet2000"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
                 4.0,
-                null
+                4.0
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "bet2000",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "bet2000",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                13.47,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        98.0,
-        103.0,
-        138.13,
-        87.4,
-        68.87,
-        43.0,
-        50.35,
-        116.5,
-        95.04
+        128.41,
+        552.46,
+        215.38
     ]
 }

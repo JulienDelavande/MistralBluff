@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 7:45:2",
+    "game_id": "793110635",
+    "variant": "PRR",
+    "table_name": "Ekek-7",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "sharon173",
+        "Ksander",
+        "IlxxxlI",
+        "sir.caffeine",
+        "KOSHERVEGAN"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        32.86,
+        25.0,
+        10.0,
+        31.95,
+        32.51
+    ],
+    "player_small_blind": "sir.caffeine",
+    "small_blind": 0.1,
+    "player_big_blind": "KOSHERVEGAN",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2c",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5s",
+            "5d",
+            "8h"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "sharon173",
+                "Ksander",
+                "IlxxxlI",
+                "sir.caffeine",
+                "KOSHERVEGAN"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "KOSHERVEGAN",
+                "Ksander",
+                "KOSHERVEGAN"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "KOSHERVEGAN",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "KOSHERVEGAN",
+                "Ksander"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "Ac Jd"
+    ],
+    "finishing_stack": [
+        32.86,
+        23.75,
+        10.0,
+        31.849999999999998,
+        33.73
+    ]
+}

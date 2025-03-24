@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/5 10:29:42",
+    "game_id": "791326057",
+    "variant": "PRR",
+    "table_name": "Gorgons-20",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "flyshark01",
+        "Evilclown",
+        "Jui Kuen",
+        "IlxxxlI",
+        "Beep_Beep"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        120.55,
+        24.91,
+        128.25,
+        22.5,
+        50.0
+    ],
+    "player_small_blind": "Jui Kuen",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7h",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "7d",
+            "Jh"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Beep_Beep",
+                "flyshark01",
+                "Evilclown",
+                "Jui Kuen",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Jui Kuen",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.9,
+                1.9
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Jui Kuen",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.5,
+                3.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Jui Kuen",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "6c 8c",
+        "7h Ad",
+        null
+    ],
+    "finishing_stack": [
+        120.55,
+        24.91,
+        134.45999999999998,
+        15.6,
+        50.0
+    ]
+}

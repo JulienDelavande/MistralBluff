@@ -1,17 +1,17 @@
 {
-    "date": "2016/11/29 12:59:55",
-    "game_id": "786963099",
+    "date": "2016/9/6 0:34:6",
+    "game_id": "720637849",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
+    "table_name": "Lakhey",
+    "type_game": "Short",
     "button_seat": 6,
     "players": [
-        "BHawk12",
+        "dengsi",
+        "TJoseph1",
         "IlxxxlI",
-        "flyshark01",
-        "Jui Kuen",
-        "constant revelation",
-        "foreseen"
+        "Ksowas",
+        "Oldhandsir",
+        "Im Don King"
     ],
     "players_seats": [
         1,
@@ -22,125 +22,96 @@
         6
     ],
     "starting_stacks": [
-        50.92,
-        25.98,
-        96.95,
-        50.0,
-        27.6,
-        50.34
+        45.2,
+        40.0,
+        73.0,
+        206.79,
+        100.0,
+        100.0
     ],
-    "player_small_blind": "BHawk12",
-    "small_blind": 0.25,
-    "player_big_blind": "IlxxxlI",
-    "big_blind": 0.5,
+    "player_small_blind": "dengsi",
+    "small_blind": 1.0,
+    "player_big_blind": "TJoseph1",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9h",
-        "Js"
+        "8c",
+        "10c"
     ],
     "dealed_cards": {
-        "flop": [
-            "7d",
-            "3s",
-            "Ks"
-        ],
-        "turn": [
-            "7h"
-        ],
-        "river": [
-            "Qd"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "flyshark01",
-                "Jui Kuen",
-                "constant revelation",
-                "foreseen",
-                "BHawk12",
                 "IlxxxlI",
-                "foreseen"
+                "Ksowas",
+                "Oldhandsir",
+                "Im Don King",
+                "dengsi",
+                "TJoseph1",
+                "Ksowas",
+                "Oldhandsir",
+                "dengsi",
+                "TJoseph1"
             ],
             "actions": [
                 "FOLD",
-                "FOLD",
-                "FOLD",
                 "RAISE",
                 "RAISE",
                 "FOLD",
-                "CALL"
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "ALLIN",
+                "ALLIN",
+                "ALLIN"
             ],
             "values": [
                 null,
+                4.0,
+                8.0,
                 null,
+                27.0,
+                26.0,
                 null,
-                1.12,
-                3.75,
-                null,
-                2.88
+                92.0,
+                17.2,
+                12.0
             ]
         },
         "post-flop": {
-            "players": [
-                "BHawk12",
-                "foreseen",
-                "BHawk12"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                4.54,
-                4.54
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "BHawk12",
-                "foreseen"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "BHawk12",
-                "foreseen"
-            ],
-            "actions": [
-                "BET",
-                "FOLD"
-            ],
-            "values": [
-                8.35,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
+        "Qc Kh",
+        "Ah As",
         null,
         null,
-        null,
-        null,
-        null,
+        "3h 3d",
         null
     ],
     "finishing_stack": [
-        59.09,
-        25.48,
-        96.95,
-        50.0,
-        27.6,
-        41.800000000000004
+        0.0,
+        121.0,
+        73.0,
+        202.79,
+        65.2,
+        100.0
     ]
 }

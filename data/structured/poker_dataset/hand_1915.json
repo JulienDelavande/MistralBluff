@@ -1,147 +1,143 @@
 {
-    "date": "2016/11/28 19:44:23",
-    "game_id": "786365041",
+    "date": "2016/9/18 8:27:18",
+    "game_id": "730222720",
     "variant": "PRR",
-    "table_name": "Garuda-3",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
-        "6betThreat",
-        "shureg22",
-        "legenda99",
-        "allaebalaamballa",
-        "IlxxxlI"
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "flyzlcomb07",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
+        "IlxxxlI",
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
+        2,
         3,
+        4,
         5,
+        6,
+        7,
         8,
         9
     ],
     "starting_stacks": [
-        34.95,
-        64.52,
-        99.82,
-        38.8,
-        32.3
+        196.22,
+        195.28,
+        263.1,
+        550.98,
+        401.97,
+        246.05,
+        343.52,
+        80.0,
+        180.94
     ],
-    "player_small_blind": "shureg22",
-    "small_blind": 0.25,
-    "player_big_blind": "legenda99",
-    "big_blind": 0.5,
+    "player_small_blind": "LuckyBoy1980",
+    "small_blind": 2.0,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "5d",
-        "Kd"
+        "Ac",
+        "Kh"
     ],
     "dealed_cards": {
         "flop": [
-            "2c",
-            "8d",
-            "Qh"
+            "10d",
+            "2s",
+            "7h"
         ],
         "turn": [
-            "5h"
+            "4d"
         ],
         "river": [
-            "2d"
+            "7s"
         ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "allaebalaamballa",
+                "wishyouhadnot",
+                "ABCD123",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt",
+                "flyzlcomb07",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "6betThreat",
-                "shureg22",
-                "legenda99"
+                "ABCD123",
+                "liniang"
             ],
             "actions": [
                 "FOLD",
                 "RAISE",
                 "CALL",
                 "FOLD",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.2,
-                1.2,
-                null,
-                0.7
-            ]
-        },
-        "post-flop": {
-            "players": [
-                "legenda99",
-                "IlxxxlI",
-                "6betThreat"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "legenda99",
-                "IlxxxlI",
-                "6betThreat"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null,
-                null
-            ]
-        },
-        "post-river": {
-            "players": [
-                "legenda99",
-                "IlxxxlI",
-                "6betThreat",
-                "legenda99",
-                "IlxxxlI"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "BET",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "ALLIN",
                 "CALL",
                 "FOLD"
             ],
             "values": [
                 null,
+                8.0,
+                8.0,
                 null,
-                2.44,
-                2.44,
+                null,
+                null,
+                null,
+                null,
+                76.0,
+                72.0,
                 null
             ]
+        },
+        "post-flop": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "9d 7d",
+        "Js Ks",
         null,
-        "4h 4d",
         null,
+        null,
+        null,
+        null,
+        null,
+        "Ac Kh",
         null
     ],
     "finishing_stack": [
-        31.310000000000002,
-        64.27,
-        104.47999999999999,
-        38.8,
-        31.099999999999998
+        116.22,
+        187.28,
+        263.1,
+        550.98,
+        401.97,
+        246.05,
+        341.52,
+        168.3,
+        180.94
     ]
 }

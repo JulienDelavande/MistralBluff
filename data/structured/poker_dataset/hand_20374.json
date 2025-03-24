@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/9 11:24:41",
+    "game_id": "794002440",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "welld0ne",
+        "Heksebrygg",
+        "yumcumgetsum",
+        "machetemex",
+        "IlxxxlI",
+        "Hawkbacker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        61.5,
+        50.0,
+        41.5,
+        20.75,
+        51.34
+    ],
+    "player_small_blind": "Heksebrygg",
+    "small_blind": 0.25,
+    "player_big_blind": "yumcumgetsum",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "8d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8s",
+            "Jh",
+            "2s"
+        ],
+        "turn": [
+            "10s"
+        ],
+        "river": [
+            "6s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "machetemex",
+                "IlxxxlI",
+                "Hawkbacker",
+                "welld0ne",
+                "Heksebrygg",
+                "yumcumgetsum"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "yumcumgetsum",
+                "Hawkbacker",
+                "yumcumgetsum"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.0,
+                2.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "yumcumgetsum",
+                "Hawkbacker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "yumcumgetsum",
+                "Hawkbacker"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.44,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        61.25,
+        53.39,
+        41.5,
+        20.75,
+        47.84
+    ]
+}

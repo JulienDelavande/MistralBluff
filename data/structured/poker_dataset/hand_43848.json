@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/1 14:35:15",
+    "game_id": "788642952",
+    "variant": "PRR",
+    "table_name": "Kraken-8",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Goomashroom",
+        "WeakAndWeary",
+        "takitdwn",
+        "imperceptible",
+        "MadLifeGrinder",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        100.0,
+        47.86,
+        37.0,
+        195.01,
+        40.84
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4c",
+        "6s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10c",
+            "3d",
+            "Qd"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Goomashroom",
+                "WeakAndWeary",
+                "takitdwn",
+                "imperceptible",
+                "MadLifeGrinder",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                3.0,
+                null,
+                2.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "WeakAndWeary",
+                "takitdwn",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                7.13,
+                7.13,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WeakAndWeary",
+                "takitdwn"
+            ],
+            "actions": [
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                89.87,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        112.92,
+        37.73,
+        37.0,
+        192.01,
+        39.84
+    ]
+}

@@ -1,96 +1,118 @@
 {
-    "date": "2016/11/28 19:56:45",
-    "game_id": "786367237",
+    "date": "2016/9/18 8:12:58",
+    "game_id": "730213683",
     "variant": "PRR",
-    "table_name": "Gorgons-8",
+    "table_name": "Karkadann-3",
     "type_game": "Hold'em",
-    "button_seat": 4,
+    "button_seat": 6,
     "players": [
-        "Goomashroom",
-        "lovecola",
-        "IlxxxlI",
-        "caballeroXXX"
+        "BlitzWaut",
+        "VegetablesArentYummy",
+        "BiggestFan07",
+        "BullsNationBitch",
+        "Pimpika",
+        "gosu36484",
+        "Frisconar",
+        "FirstClan",
+        "IlxxxlI"
     ],
     "players_seats": [
+        1,
+        2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        52.37,
-        53.98,
-        20.25,
-        125.96
+        100.0,
+        103.06,
+        74.59,
+        49.64,
+        78.51,
+        35.0,
+        39.0,
+        146.32,
+        42.8
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.25,
-    "player_big_blind": "caballeroXXX",
-    "big_blind": 0.5,
+    "player_small_blind": "Frisconar",
+    "small_blind": 0.5,
+    "player_big_blind": "FirstClan",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Qc",
-        "10s"
+        "2s",
+        "Qh"
     ],
     "dealed_cards": {
         "flop": [
-            "9c",
-            "7d",
-            "8c"
+            "10c",
+            "Ac",
+            "4h"
         ],
-        "turn": [
-            "As"
-        ],
+        "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Goomashroom",
-                "lovecola",
                 "IlxxxlI",
-                "caballeroXXX"
+                "BlitzWaut",
+                "VegetablesArentYummy",
+                "BiggestFan07",
+                "BullsNationBitch",
+                "Pimpika",
+                "gosu36484",
+                "Frisconar",
+                "FirstClan"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "CALL",
-                "CHECK"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
                 null,
-                0.25,
-                null
+                null,
+                null,
+                null,
+                2.0,
+                null,
+                null,
+                1.0
             ]
         },
         "post-flop": {
             "players": [
-                "IlxxxlI",
-                "caballeroXXX"
+                "FirstClan",
+                "Pimpika",
+                "FirstClan"
             ],
             "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                0.5,
-                0.5
-            ]
-        },
-        "post-turn": {
-            "players": [
-                "IlxxxlI",
-                "caballeroXXX"
-            ],
-            "actions": [
+                "CHECK",
                 "BET",
                 "FOLD"
             ],
             "values": [
-                1.04,
+                null,
+                2.85,
                 null
             ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
             "players": [],
@@ -102,12 +124,22 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        52.37,
-        53.98,
-        21.15,
-        124.96
+        100.0,
+        103.06,
+        74.59,
+        49.64,
+        80.79,
+        35.0,
+        38.5,
+        144.32,
+        42.8
     ]
 }

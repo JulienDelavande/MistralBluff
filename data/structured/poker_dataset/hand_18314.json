@@ -1,0 +1,105 @@
+{
+    "date": "2016/12/9 23:45:22",
+    "game_id": "794215796",
+    "variant": "PRR",
+    "table_name": "Kajsa",
+    "type_game": "short",
+    "button_seat": 6,
+    "players": [
+        "IgLa",
+        "AironVega",
+        "IlxxxlI",
+        "FLDnLIVE2FLDagn"
+    ],
+    "players_seats": [
+        1,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.5,
+        109.29,
+        20.0,
+        69.53
+    ],
+    "player_small_blind": "IgLa",
+    "small_blind": 0.5,
+    "player_big_blind": "AironVega",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Js",
+            "4s",
+            "9h"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "FLDnLIVE2FLDagn",
+                "IgLa",
+                "AironVega"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.0,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "AironVega",
+                "IlxxxlI",
+                "AironVega"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.38,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        107.29,
+        22.28,
+        69.53
+    ]
+}

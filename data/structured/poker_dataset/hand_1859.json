@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/28 19:52:28",
-    "game_id": "786366496",
+    "date": "2016/9/18 8:19:4",
+    "game_id": "730217589",
     "variant": "PRR",
-    "table_name": "Gorgons-5",
+    "table_name": "Karkadann-2",
     "type_game": "Hold'em",
-    "button_seat": 6,
+    "button_seat": 5,
     "players": [
-        "caballeroXXX",
-        "38979",
-        "meandkids",
-        "Goomashroom",
-        "legenda99",
-        "IlxxxlI"
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "Pimpika",
+        "BlitzWaut",
+        "FirstClan",
+        "Torinsurance",
+        "Chicubs2016",
+        "gosu36484",
+        "Frisconar"
     ],
     "players_seats": [
         1,
@@ -19,68 +22,121 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        56.35,
-        50.0,
-        80.35,
-        111.17,
-        112.1,
-        20.0
+        93.79,
+        100.0,
+        64.1,
+        228.64,
+        167.57,
+        117.81,
+        97.18,
+        44.55,
+        38.5
     ],
-    "player_small_blind": "caballeroXXX",
-    "small_blind": 0.25,
-    "player_big_blind": "38979",
-    "big_blind": 0.5,
+    "player_small_blind": "Torinsurance",
+    "small_blind": 0.5,
+    "player_big_blind": "Chicubs2016",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4s",
-        "6d"
+        "Qc",
+        "4h"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "Jd",
+            "4s",
+            "8s"
+        ],
+        "turn": [
+            "3s"
+        ],
+        "river": [
+            "4c"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "meandkids",
-                "Goomashroom",
-                "legenda99",
+                "gosu36484",
+                "Frisconar",
                 "IlxxxlI",
-                "caballeroXXX"
+                "VegetablesArentYummy",
+                "Pimpika",
+                "BlitzWaut",
+                "FirstClan",
+                "Torinsurance",
+                "Chicubs2016"
             ],
             "actions": [
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
+                2.0,
                 null,
                 null,
                 null,
+                null,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Chicubs2016",
+                "gosu36484"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
                 null,
                 null
             ]
         },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
-        },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Chicubs2016",
+                "gosu36484"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.85,
+                2.85
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Chicubs2016",
+                "gosu36484"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
@@ -89,14 +145,20 @@
         null,
         null,
         null,
+        null,
+        "Ad 10d",
+        "7s 7c",
         null
     ],
     "finishing_stack": [
-        56.1,
-        50.25,
-        80.35,
-        111.17,
-        112.1,
-        20.0
+        93.79,
+        100.0,
+        64.1,
+        228.64,
+        167.57,
+        117.31,
+        92.33000000000001,
+        49.38999999999999,
+        38.5
     ]
 }

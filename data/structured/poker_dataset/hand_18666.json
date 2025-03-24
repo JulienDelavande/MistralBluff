@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/9 21:41:10",
+    "game_id": "794180770",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "EWillieB",
+        "Ozak",
+        "busi",
+        "IgLa",
+        "rsnation10"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        56.82,
+        23.94,
+        23.82,
+        93.1,
+        84.78
+    ],
+    "player_small_blind": "busi",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "Js"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "Kc",
+            "6s"
+        ],
+        "turn": [
+            "7s"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "rsnation10",
+                "IlxxxlI",
+                "EWillieB",
+                "Ozak",
+                "busi",
+                "IgLa"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0,
+                null,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "busi",
+                "IlxxxlI",
+                "EWillieB",
+                "busi",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                null,
+                2.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "EWillieB"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "EWillieB",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                7.5,
+                7.5
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Kd Js",
+        "9s Ks",
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        31.33,
+        45.82,
+        23.94,
+        22.82,
+        92.6,
+        84.78
+    ]
+}

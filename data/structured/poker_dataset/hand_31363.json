@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/6 13:12:27",
+    "game_id": "792083945",
+    "variant": "PRR",
+    "table_name": "Kraken-7",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "MrWaffles44",
+        "ElvenEyes",
+        "LazyFish",
+        "GautamaBuddha",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        114.65,
+        100.0,
+        109.85,
+        100.0,
+        44.0
+    ],
+    "player_small_blind": "GautamaBuddha",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4h",
+        "4c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "5h",
+            "5s"
+        ],
+        "turn": [
+            "4s"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "MrWaffles44",
+                "ElvenEyes",
+                "LazyFish",
+                "GautamaBuddha",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.58,
+                null,
+                null,
+                1.58
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "ElvenEyes",
+                "IlxxxlI",
+                "ElvenEyes"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.69,
+                5.38,
+                2.69
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "ElvenEyes",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                10.4,
+                10.4
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "ElvenEyes",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                81.64,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        114.65,
+        117.0,
+        109.85,
+        99.5,
+        25.64
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "date": "2016/12/23 12:10:41",
+    "game_id": "804373048",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "Polar1z1ng",
+        "Boeing-747",
+        "threekingsriver",
+        "roastbeans",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        57.34,
+        61.01,
+        44.58,
+        48.75,
+        62.35
+    ],
+    "player_small_blind": "roastbeans",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ah",
+        "Ad"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "6s",
+            "10s"
+        ],
+        "turn": [
+            "Jh"
+        ],
+        "river": [
+            "3h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Polar1z1ng",
+                "Boeing-747",
+                "threekingsriver",
+                "roastbeans",
+                "IlxxxlI",
+                "threekingsriver",
+                "roastbeans"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                1.25,
+                5.0,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "roastbeans",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                7.92,
+                7.92
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "roastbeans",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                35.33,
+                35.33
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "9h 9d",
+        "Ah Ad"
+    ],
+    "finishing_stack": [
+        57.34,
+        61.01,
+        43.08,
+        0.0,
+        109.6
+    ]
+}

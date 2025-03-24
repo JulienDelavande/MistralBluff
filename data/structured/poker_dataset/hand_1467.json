@@ -1,20 +1,18 @@
 {
-    "date": "2016/11/29 7:57:11",
-    "game_id": "786721695",
+    "date": "2016/9/18 7:21:6",
+    "game_id": "730179926",
     "variant": "PRR",
-    "table_name": "Longana-2",
+    "table_name": "Longana-3",
     "type_game": "Hold'em",
     "button_seat": 4,
     "players": [
-        "IlxxxlI",
-        "loolu",
-        "IamPhamous",
-        "TonnaMunz",
-        "Iia007",
-        "Gronkowski69",
-        "MadLifeGrinder",
-        "aleaga",
-        "shokerAAss"
+        "LuckyBoy1980",
+        "BadBeat79",
+        "Augusta_72",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "IlxxxlI"
     ],
     "players_seats": [
         1,
@@ -23,72 +21,81 @@
         4,
         5,
         6,
-        7,
-        8,
-        9
+        8
     ],
     "starting_stacks": [
-        85.04,
-        213.0,
-        133.55,
-        268.35,
-        203.25,
-        301.25,
-        205.4,
-        347.51,
-        296.98
+        220.0,
+        210.41,
+        167.82,
+        279.4,
+        148.51,
+        118.88,
+        103.85
     ],
-    "player_small_blind": "Iia007",
+    "player_small_blind": "Pimpika",
     "small_blind": 1.0,
-    "player_big_blind": "Gronkowski69",
+    "player_big_blind": "ABCD123",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Ac",
-        "9h"
+        "6d",
+        "Kh"
     ],
     "dealed_cards": {
-        "flop": [],
+        "flop": [
+            "8d",
+            "9d",
+            "2h"
+        ],
         "turn": [],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "MadLifeGrinder",
-                "aleaga",
-                "shokerAAss",
                 "IlxxxlI",
-                "loolu",
-                "IamPhamous",
-                "TonnaMunz",
-                "Iia007"
+                "LuckyBoy1980",
+                "BadBeat79",
+                "Augusta_72",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                6.0,
+                null,
+                null,
+                null,
+                null,
+                4.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ABCD123",
+                "LuckyBoy1980",
+                "ABCD123"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
                 "FOLD"
             ],
             "values": [
                 null,
-                null,
-                null,
-                null,
-                null,
-                null,
-                null,
+                12.0,
                 null
             ]
-        },
-        "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
         },
         "post-turn": {
             "players": [],
@@ -108,19 +115,15 @@
         null,
         null,
         null,
-        null,
-        null,
         null
     ],
     "finishing_stack": [
-        85.04,
-        213.0,
-        133.55,
-        268.35,
-        202.25,
-        302.25,
-        205.4,
-        347.51,
-        296.98
+        226.35,
+        210.41,
+        167.82,
+        279.4,
+        147.51,
+        112.88,
+        103.85
     ]
 }

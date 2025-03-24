@@ -1,17 +1,19 @@
 {
-    "date": "2016/11/28 19:41:11",
-    "game_id": "786364462",
+    "date": "2016/9/18 8:29:56",
+    "game_id": "730224330",
     "variant": "PRR",
-    "table_name": "Gorgons-3",
+    "table_name": "Karkadann-2",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 4,
     "players": [
-        "tintinhsl",
-        "allaebalaamballa",
-        "RetardedGenius",
-        "38979",
-        "in_ur_i",
-        "IlxxxlI"
+        "IlxxxlI",
+        "VegetablesArentYummy",
+        "Pimpika",
+        "BlitzWaut",
+        "FirstClan",
+        "Chicubs2016",
+        "gosu36484",
+        "Frisconar"
     ],
     "players_seats": [
         1,
@@ -19,69 +21,103 @@
         3,
         4,
         5,
-        6
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        57.72,
-        29.0,
-        45.52,
-        50.0,
-        52.44,
-        23.99
+        105.57,
+        100.0,
+        60.6,
+        225.14,
+        178.88,
+        82.33,
+        47.89,
+        37.0
     ],
-    "player_small_blind": "RetardedGenius",
-    "small_blind": 0.25,
-    "player_big_blind": "38979",
-    "big_blind": 0.5,
+    "player_small_blind": "FirstClan",
+    "small_blind": 0.5,
+    "player_big_blind": "Chicubs2016",
+    "big_blind": 1.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "8d",
+        "8c",
         "Ac"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
+        "flop": [
+            "5s",
+            "6h",
+            "4c"
+        ],
+        "turn": [
+            "4s"
+        ],
         "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "in_ur_i",
+                "gosu36484",
+                "Frisconar",
                 "IlxxxlI",
-                "tintinhsl",
-                "allaebalaamballa",
-                "RetardedGenius",
-                "38979",
-                "in_ur_i"
+                "VegetablesArentYummy",
+                "Pimpika",
+                "BlitzWaut",
+                "FirstClan",
+                "Chicubs2016"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
-                "ALLIN",
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "ALLIN"
+                "CALL"
             ],
             "values": [
-                1.5,
-                null,
-                57.72,
                 null,
                 null,
+                2.0,
                 null,
-                50.94
+                null,
+                null,
+                null,
+                1.0
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Chicubs2016",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "Chicubs2016",
+                "IlxxxlI",
+                "Chicubs2016"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.0,
+                null
+            ]
         },
         "post-river": {
             "players": [],
@@ -90,19 +126,23 @@
         }
     },
     "card_shown_by_players": [
-        "As Jd",
         null,
         null,
         null,
-        "Qd Qc",
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        5.280000000000001,
-        29.0,
-        45.27,
-        49.5,
-        102.63,
-        23.99
+        107.85,
+        100.0,
+        60.6,
+        225.14,
+        178.38,
+        80.33,
+        47.89,
+        37.0
     ]
 }

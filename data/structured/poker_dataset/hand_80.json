@@ -1,158 +1,94 @@
 {
-    "date": "2016/11/29 15:11:25",
-    "game_id": "787022860",
+    "date": "2016/9/4 9:42:39",
+    "game_id": "719275264",
     "variant": "PRR",
-    "table_name": "Gorgons-2",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 6,
     "players": [
+        "St3p04ka",
+        "VegetablesArentYummy",
+        "VanishingFlames",
         "IlxxxlI",
-        "Maria_Pia",
-        "foreseen",
-        "aleks0v",
-        "Beep_Beep",
-        "LawMaker20"
+        "ConstanceHarm"
     ],
     "players_seats": [
         1,
         2,
-        3,
         4,
         5,
         6
     ],
     "starting_stacks": [
-        20.0,
-        20.0,
-        56.98,
-        50.0,
-        71.0,
-        23.33
+        40.0,
+        100.0,
+        151.13,
+        51.35,
+        101.0
     ],
-    "player_small_blind": "Maria_Pia",
-    "small_blind": 0.25,
-    "player_big_blind": "foreseen",
-    "big_blind": 0.5,
+    "player_small_blind": "St3p04ka",
+    "small_blind": 1.0,
+    "player_big_blind": "VegetablesArentYummy",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7d",
-        "Qc"
+        "5d",
+        "Qs"
     ],
     "dealed_cards": {
-        "flop": [
-            "5c",
-            "4s",
-            "8c"
-        ],
-        "turn": [
-            "Ad"
-        ],
-        "river": [
-            "3c"
-        ]
+        "flop": [],
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "aleks0v",
-                "Beep_Beep",
-                "LawMaker20",
+                "VanishingFlames",
                 "IlxxxlI",
-                "Maria_Pia",
-                "foreseen"
+                "ConstanceHarm",
+                "St3p04ka"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
-                "CALL",
                 "FOLD",
-                "CALL",
-                "CHECK"
+                "FOLD"
             ],
             "values": [
                 null,
                 null,
-                0.5,
                 null,
-                0.25,
                 null
             ]
         },
         "post-flop": {
-            "players": [
-                "Maria_Pia",
-                "foreseen",
-                "LawMaker20",
-                "Maria_Pia"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL",
-                "CALL"
-            ],
-            "values": [
-                null,
-                1.0,
-                1.0,
-                1.0
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-turn": {
-            "players": [
-                "Maria_Pia",
-                "foreseen",
-                "LawMaker20",
-                "Maria_Pia",
-                "foreseen",
-                "LawMaker20"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK",
-                "BET",
-                "FOLD",
-                "RAISE",
-                "CALL"
-            ],
-            "values": [
-                null,
-                null,
-                2.14,
-                null,
-                7.85,
-                5.71
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "foreseen",
-                "LawMaker20"
-            ],
-            "actions": [
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                9.59,
-                9.59
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "2h 3s",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        20.0,
-        18.5,
-        75.46,
-        50.0,
-        71.0,
-        4.389999999999997
+        39.0,
+        101.0,
+        151.13,
+        51.35,
+        101.0
     ]
 }

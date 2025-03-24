@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/1 14:11:35",
+    "game_id": "788632638",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "ElvenEyes",
+        "MadLifeGrinder",
+        "CattleCorner",
+        "BingBingBopBop",
+        "IlxxxlI",
+        "Goomashroom"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        102.0,
+        100.0,
+        156.3,
+        228.06,
+        83.0,
+        149.96
+    ],
+    "player_small_blind": "ElvenEyes",
+    "small_blind": 0.5,
+    "player_big_blind": "MadLifeGrinder",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6h",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "3h",
+            "Js"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "8d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "CattleCorner",
+                "BingBingBopBop",
+                "IlxxxlI",
+                "Goomashroom",
+                "ElvenEyes",
+                "MadLifeGrinder"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.0,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "BingBingBopBop"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "BingBingBopBop"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.0,
+                5.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MadLifeGrinder",
+                "BingBingBopBop"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                9.0,
+                9.0
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Qs 10s",
+        null,
+        "7d 7h",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        101.5,
+        83.0,
+        156.3,
+        243.84,
+        83.0,
+        149.96
+    ]
+}

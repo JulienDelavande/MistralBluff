@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/6 0:42:21",
+    "game_id": "791609640",
+    "variant": "PRR",
+    "table_name": "Ekek-15",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Sonic3Dblast",
+        "shodan33",
+        "elf100",
+        "RealdogXL",
+        "9HLAB",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        27.88,
+        28.89,
+        10.59,
+        25.0,
+        27.5,
+        10.0
+    ],
+    "player_small_blind": "9HLAB",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2s",
+            "6d",
+            "5c"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Sonic3Dblast",
+                "shodan33",
+                "elf100",
+                "RealdogXL",
+                "9HLAB",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "elf100",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "elf100"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "elf100"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2h Kh"
+    ],
+    "finishing_stack": [
+        27.88,
+        28.89,
+        10.09,
+        25.0,
+        27.4,
+        10.55
+    ]
+}

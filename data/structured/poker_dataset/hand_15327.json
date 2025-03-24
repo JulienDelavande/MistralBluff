@@ -1,0 +1,160 @@
+{
+    "date": "2016/12/23 7:58:44",
+    "game_id": "804183242",
+    "variant": "PRR",
+    "table_name": "Ettin-3",
+    "type_game": "Hold'em",
+    "button_seat": 8,
+    "players": [
+        "booya25",
+        "viva el ocho",
+        "IlxxxlI",
+        "Bandman1",
+        "otz85",
+        "Arbys",
+        "Ksander"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        10.0,
+        25.22,
+        26.39,
+        12.15,
+        32.67,
+        12.94,
+        26.89
+    ],
+    "player_small_blind": "Ksander",
+    "small_blind": 0.1,
+    "player_big_blind": "booya25",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "9s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "Jh",
+            "2c"
+        ],
+        "turn": [
+            "2d"
+        ],
+        "river": [
+            "3d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "viva el ocho",
+                "IlxxxlI",
+                "Bandman1",
+                "otz85",
+                "Arbys",
+                "Ksander",
+                "booya25"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CALL",
+                "CALL",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                0.25,
+                0.25,
+                0.25,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "booya25",
+                "Bandman1",
+                "otz85",
+                "Arbys"
+            ],
+            "actions": [
+                "BET",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.5,
+                null,
+                0.5,
+                0.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "booya25",
+                "otz85",
+                "Arbys"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "booya25",
+                "otz85",
+                "Arbys"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Kh Js",
+        null
+    ],
+    "finishing_stack": [
+        9.25,
+        25.22,
+        26.39,
+        11.9,
+        31.92,
+        14.66,
+        26.79
+    ]
+}

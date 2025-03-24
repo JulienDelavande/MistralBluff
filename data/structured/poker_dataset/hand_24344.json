@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 14:33:56",
+    "game_id": "793401706",
+    "variant": "PRR",
+    "table_name": "Ekek-13",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "PhillipHellmuth",
+        "IlxxxlI",
+        "HapKoTuk",
+        "kkennybz",
+        "lablador1010",
+        "anokato"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        61.84,
+        10.05,
+        25.0,
+        4.73,
+        25.0,
+        54.27
+    ],
+    "player_small_blind": "kkennybz",
+    "small_blind": 0.1,
+    "player_big_blind": "lablador1010",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6s",
+            "6d",
+            "7c"
+        ],
+        "turn": [
+            "9s"
+        ],
+        "river": [
+            "4s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "anokato",
+                "PhillipHellmuth",
+                "IlxxxlI",
+                "HapKoTuk",
+                "kkennybz",
+                "lablador1010",
+                "kkennybz"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.15,
+                0.55,
+                0.55
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "kkennybz",
+                "lablador1010"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "kkennybz",
+                "lablador1010"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.76,
+                0.76
+            ]
+        },
+        "post-river": {
+            "players": [
+                "kkennybz",
+                "lablador1010"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.49,
+                1.49
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "2s 5s",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        61.84,
+        10.05,
+        25.0,
+        7.48,
+        21.95,
+        54.27
+    ]
+}

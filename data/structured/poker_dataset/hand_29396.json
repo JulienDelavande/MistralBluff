@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/7 8:58:6",
+    "game_id": "792474099",
+    "variant": "PRR",
+    "table_name": "Gorgons-9",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "IgLa",
+        "flyshark01",
+        "GetPaidGetLaid",
+        "REX01",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        58.02,
+        50.0,
+        69.68,
+        95.79,
+        21.37
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kc",
+        "Qh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "Jh",
+            "Kh"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "9d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "flyshark01",
+                "GetPaidGetLaid",
+                "REX01",
+                "IlxxxlI",
+                "IgLa",
+                "REX01"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.5,
+                3.39,
+                null,
+                2.14
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "REX01"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.46,
+                2.46
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "REX01",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.5,
+                4.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "REX01"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Qd 10d",
+        "Kc Qh"
+    ],
+    "finishing_stack": [
+        57.52,
+        50.0,
+        69.68,
+        85.19000000000001,
+        31.39
+    ]
+}

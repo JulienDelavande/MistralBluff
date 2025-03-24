@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/26 12:30:20",
+    "game_id": "806321610",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "Artemone",
+        "catash2",
+        "shinebox809",
+        "heraklinos89",
+        "IlxxxlI",
+        "heybingohey"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        20.69,
+        50.0,
+        51.5,
+        50.0,
+        35.45
+    ],
+    "player_small_blind": "heraklinos89",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kh",
+        "4h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "7h",
+            "9h"
+        ],
+        "turn": [
+            "3c"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "heybingohey",
+                "Artemone",
+                "catash2",
+                "shinebox809",
+                "heraklinos89",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI",
+                "heraklinos89"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.63,
+                0.63
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "heraklinos89",
+                "IlxxxlI",
+                "heraklinos89"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD"
+            ],
+            "values": [
+                1.0,
+                7.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.0,
+        20.69,
+        50.0,
+        49.37,
+        51.919999999999995,
+        35.45
+    ]
+}

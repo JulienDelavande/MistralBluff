@@ -1,0 +1,127 @@
+{
+    "date": "2016/10/11 1:5:31",
+    "game_id": "747754136",
+    "variant": "PRR",
+    "table_name": "Kraken-10",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "v0landito",
+        "BigBlat",
+        "doblezero",
+        "Maywood110",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        113.0,
+        101.5,
+        103.83,
+        114.93,
+        107.71
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "v0landito",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3d",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "8d",
+            "6d"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BigBlat",
+                "doblezero",
+                "Maywood110",
+                "IlxxxlI",
+                "v0landito"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.88,
+                null,
+                1.88
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "v0landito",
+                "Maywood110",
+                "v0landito"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.46,
+                4.46
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "v0landito",
+                "Maywood110",
+                "v0landito"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.82,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        105.66,
+        101.5,
+        103.83,
+        122.02000000000001,
+        107.21
+    ]
+}

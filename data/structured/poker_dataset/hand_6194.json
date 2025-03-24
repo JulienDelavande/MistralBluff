@@ -1,0 +1,124 @@
+{
+    "date": "2016/10/12 23:28:1",
+    "game_id": "749124899",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Orondi",
+        "baktam",
+        "nirpoker",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        112.42,
+        100.0,
+        105.1,
+        141.78
+    ],
+    "player_small_blind": "baktam",
+    "small_blind": 0.5,
+    "player_big_blind": "nirpoker",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "9s",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "4c",
+            "Ac"
+        ],
+        "turn": [
+            "8c"
+        ],
+        "river": [
+            "Qc"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Orondi",
+                "baktam",
+                "nirpoker"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "baktam",
+                "nirpoker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "baktam",
+                "nirpoker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "baktam",
+                "nirpoker"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "5c 5s",
+        null
+    ],
+    "finishing_stack": [
+        112.42,
+        97.0,
+        107.8,
+        141.78
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/3 9:19:28",
+    "game_id": "789784843",
+    "variant": "PRR",
+    "table_name": "Kraken-9",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "aleks0v",
+        "IlxxxlI",
+        "binkblankboo",
+        "shokerAAss",
+        "mr.fargo",
+        "Bokmal"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        50.4,
+        63.78,
+        113.61,
+        46.96,
+        102.2
+    ],
+    "player_small_blind": "Bokmal",
+    "small_blind": 0.5,
+    "player_big_blind": "aleks0v",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "6d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jh",
+            "8c",
+            "2h"
+        ],
+        "turn": [
+            "3d"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "binkblankboo",
+                "shokerAAss",
+                "mr.fargo",
+                "Bokmal",
+                "aleks0v"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "aleks0v",
+                "shokerAAss",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.5,
+                4.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "aleks0v",
+                "shokerAAss"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "aleks0v",
+                "shokerAAss",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                11.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        92.5,
+        50.4,
+        63.78,
+        120.84,
+        46.96,
+        101.7
+    ]
+}

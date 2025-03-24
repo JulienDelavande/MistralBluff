@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/25 14:44:42",
+    "game_id": "805723700",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "Casinator",
+        "3bet5bet",
+        "hotbabe1986",
+        "ESP_Poker",
+        "konghong",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        96.75,
+        55.57,
+        53.25,
+        50.0,
+        50.0,
+        50.25
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "Casinator",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "10h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6d",
+            "2s",
+            "Kh"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "3bet5bet",
+                "hotbabe1986",
+                "ESP_Poker",
+                "konghong",
+                "IlxxxlI",
+                "Casinator"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.4,
+                1.15
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "Casinator"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "Casinator",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        98.24,
+        55.57,
+        53.25,
+        50.0,
+        50.0,
+        48.6
+    ]
+}

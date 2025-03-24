@@ -1,0 +1,140 @@
+{
+    "date": "2016/10/14 22:41:12",
+    "game_id": "750648828",
+    "variant": "PRR",
+    "table_name": "Gorgons-2",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "EQUITYisnotEV",
+        "Karas321",
+        "IlxxxlI",
+        "MarcusD5",
+        "Anthropocene",
+        "Orondi"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.75,
+        37.12,
+        58.96,
+        65.57,
+        55.16,
+        200.3
+    ],
+    "player_small_blind": "MarcusD5",
+    "small_blind": 0.25,
+    "player_big_blind": "Anthropocene",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ac",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qh",
+            "Js",
+            "3s"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "7h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Orondi",
+                "EQUITYisnotEV",
+                "Karas321",
+                "IlxxxlI",
+                "MarcusD5",
+                "Anthropocene"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.5,
+                1.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MarcusD5",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MarcusD5",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.66,
+                1.66
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MarcusD5",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ac Kd",
+        "Jh Kh",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        50.75,
+        37.12,
+        55.8,
+        68.89,
+        54.66,
+        200.3
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "date": "2016/12/2 16:45:11",
+    "game_id": "789352961",
+    "variant": "PRR",
+    "table_name": "Kraken-15",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Ksowas",
+        "IlxxxlI",
+        "HomoPokerus",
+        "VegetablesArentYummy",
+        "plzTRYharder",
+        "PNutButterAndEggs"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        101.78,
+        64.53,
+        137.85,
+        237.03,
+        103.18,
+        100.0
+    ],
+    "player_small_blind": "plzTRYharder",
+    "small_blind": 0.5,
+    "player_big_blind": "PNutButterAndEggs",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Jc",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10h",
+            "7c",
+            "9h"
+        ],
+        "turn": [
+            "5c"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Ksowas",
+                "IlxxxlI",
+                "HomoPokerus",
+                "VegetablesArentYummy",
+                "plzTRYharder",
+                "PNutButterAndEggs"
+            ],
+            "actions": [
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0,
+                null,
+                null,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PNutButterAndEggs",
+                "Ksowas",
+                "IlxxxlI",
+                "PNutButterAndEggs"
+            ],
+            "actions": [
+                "BET",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                7.0,
+                22.0,
+                null,
+                15.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PNutButterAndEggs",
+                "Ksowas"
+            ],
+            "actions": [
+                "ALLIN",
+                "CALL"
+            ],
+            "values": [
+                75.0,
+                75.0
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        "8c 6c",
+        null,
+        null,
+        null,
+        null,
+        "9s Qd"
+    ],
+    "finishing_stack": [
+        202.28,
+        61.53,
+        137.85,
+        237.03,
+        102.68,
+        0.0
+    ]
+}

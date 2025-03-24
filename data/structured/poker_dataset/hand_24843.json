@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/8 11:24:13",
+    "game_id": "793299791",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "Bryndad",
+        "chanero",
+        "IlxxxlI",
+        "uberfail",
+        "waterboy73",
+        "TheGrimRaker"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        10.62,
+        12.25,
+        10.0,
+        20.23,
+        17.34,
+        24.64
+    ],
+    "player_small_blind": "chanero",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qh",
+        "Jd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2c",
+            "Js",
+            "5d"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "uberfail",
+                "waterboy73",
+                "TheGrimRaker",
+                "Bryndad",
+                "chanero",
+                "IlxxxlI",
+                "chanero"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.15,
+                0.87,
+                0.87
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "chanero",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "chanero",
+                "IlxxxlI",
+                "chanero"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.42,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        10.62,
+        11.129999999999999,
+        11.009999999999998,
+        20.23,
+        17.34,
+        24.64
+    ]
+}

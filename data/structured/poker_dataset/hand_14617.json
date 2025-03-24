@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/23 12:48:26",
+    "game_id": "804397848",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "CroMagnons",
+        "IlxxxlI",
+        "GrnManalishi",
+        "ImYourFriend1996",
+        "quinnri",
+        "BoardGame08"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        25.0,
+        25.23,
+        46.22,
+        24.4,
+        30.56
+    ],
+    "player_small_blind": "BoardGame08",
+    "small_blind": 0.1,
+    "player_big_blind": "CroMagnons",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7c",
+            "5d",
+            "2d"
+        ],
+        "turn": [
+            "10c"
+        ],
+        "river": [
+            "Jd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "GrnManalishi",
+                "ImYourFriend1996",
+                "quinnri",
+                "BoardGame08",
+                "CroMagnons"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                0.75,
+                null,
+                null,
+                0.75,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "quinnri"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.58,
+                0.58
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "quinnri",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.43,
+                1.43
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "quinnri",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.72,
+                3.72
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Ks Kh",
+        null,
+        null,
+        "9h Kc",
+        null
+    ],
+    "finishing_stack": [
+        24.75,
+        31.17,
+        25.23,
+        46.22,
+        17.919999999999998,
+        30.459999999999997
+    ]
+}

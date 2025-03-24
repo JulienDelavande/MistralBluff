@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/9 9:56:45",
+    "game_id": "793930679",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "braaaap",
+        "Jui Kuen",
+        "BostonPokerKid",
+        "IgLa",
+        "so_it_goes",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        25.5,
+        26.45,
+        54.93,
+        32.59,
+        10.0
+    ],
+    "player_small_blind": "BostonPokerKid",
+    "small_blind": 0.25,
+    "player_big_blind": "IgLa",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "Jh",
+            "Js"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "6d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "so_it_goes",
+                "IlxxxlI",
+                "braaaap",
+                "Jui Kuen",
+                "BostonPokerKid",
+                "IgLa",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                1.75,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "BostonPokerKid",
+                "Jui Kuen",
+                "BostonPokerKid"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.5,
+                2.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "BostonPokerKid",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.51,
+                4.51
+            ]
+        },
+        "post-river": {
+            "players": [
+                "BostonPokerKid",
+                "Jui Kuen"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                5.86,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.0,
+        16.490000000000002,
+        35.04,
+        54.43,
+        32.59,
+        10.0
+    ]
+}

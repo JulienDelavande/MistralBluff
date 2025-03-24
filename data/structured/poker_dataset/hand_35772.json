@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/4 22:59:54",
+    "game_id": "790792955",
+    "variant": "PRR",
+    "table_name": "Kraken-6",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Orondi",
+        "ElvenEyes",
+        "GagaPoker",
+        "CrimZnole",
+        "322xxx",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        100.0,
+        185.13,
+        100.25,
+        202.34,
+        100.56,
+        45.71
+    ],
+    "player_small_blind": "322xxx",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "As"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10d",
+            "9s",
+            "5d"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "6c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Orondi",
+                "ElvenEyes",
+                "GagaPoker",
+                "CrimZnole",
+                "322xxx",
+                "IlxxxlI",
+                "CrimZnole"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.4,
+                8.5,
+                8.0,
+                6.6
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "322xxx",
+                "IlxxxlI",
+                "CrimZnole"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "322xxx",
+                "IlxxxlI",
+                "CrimZnole",
+                "322xxx"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                21.0,
+                36.71,
+                null,
+                15.71
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "7h 6h",
+        "Ad As"
+    ],
+    "finishing_stack": [
+        100.0,
+        185.13,
+        100.25,
+        193.34,
+        152.27,
+        0.0
+    ]
+}

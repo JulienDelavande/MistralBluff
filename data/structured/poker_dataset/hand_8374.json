@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/26 12:48:3",
+    "game_id": "806331951",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "uberlin",
+        "WinL2328",
+        "CardShark98",
+        "IlxxxlI",
+        "HapKoTuk",
+        "Syanala"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.87,
+        14.34,
+        10.36,
+        12.52,
+        12.5,
+        14.07
+    ],
+    "player_small_blind": "WinL2328",
+    "small_blind": 0.1,
+    "player_big_blind": "CardShark98",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "Ah",
+            "6h"
+        ],
+        "turn": [
+            "8h"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "HapKoTuk",
+                "Syanala",
+                "uberlin",
+                "WinL2328",
+                "CardShark98"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "WinL2328",
+                "CardShark98",
+                "WinL2328"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "WinL2328",
+                "CardShark98"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.63,
+                0.63
+            ]
+        },
+        "post-river": {
+            "players": [
+                "WinL2328",
+                "CardShark98"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "7h 5d",
+        "6s 3h",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        11.87,
+        13.21,
+        11.38,
+        12.52,
+        12.5,
+        14.07
+    ]
+}

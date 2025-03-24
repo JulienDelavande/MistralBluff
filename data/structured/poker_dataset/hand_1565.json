@@ -1,36 +1,48 @@
 {
-    "date": "2016/11/28 20:49:1",
-    "game_id": "786378501",
+    "date": "2016/9/18 7:38:13",
+    "game_id": "730192074",
     "variant": "PRR",
-    "table_name": "Lakhey",
-    "type_game": "Short",
-    "button_seat": 5,
+    "table_name": "Longana-3",
+    "type_game": "Hold'em",
+    "button_seat": 6,
     "players": [
+        "LuckyBoy1980",
+        "BadBeat79",
+        "FatSkinnyGuy",
+        "Pimpika",
+        "ABCD123",
+        "VegetablesArentYummy",
         "IlxxxlI",
-        "gfclbv",
-        "dscshift",
-        "meandkids"
+        "gosu36484"
     ],
     "players_seats": [
         1,
         2,
-        3,
-        5
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        41.7,
-        104.9,
-        12.01,
-        71.44
+        217.35,
+        194.45,
+        291.6,
+        153.05,
+        151.51,
+        225.3,
+        105.45,
+        74.5
     ],
-    "player_small_blind": "IlxxxlI",
+    "player_small_blind": "VegetablesArentYummy",
     "small_blind": 1.0,
-    "player_big_blind": "gfclbv",
+    "player_big_blind": "IlxxxlI",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "Kd",
-        "4h"
+        "Jd",
+        "3c"
     ],
     "dealed_cards": {
         "flop": [],
@@ -40,22 +52,46 @@
     "actions": {
         "pre-flop": {
             "players": [
-                "dscshift",
-                "meandkids",
+                "gosu36484",
+                "LuckyBoy1980",
+                "BadBeat79",
+                "FatSkinnyGuy",
+                "Pimpika",
+                "ABCD123",
+                "VegetablesArentYummy",
                 "IlxxxlI",
-                "gfclbv"
+                "BadBeat79",
+                "ABCD123",
+                "VegetablesArentYummy",
+                "ABCD123"
             ],
             "actions": [
                 "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "RAISE",
                 "RAISE",
                 "FOLD",
-                "FOLD"
+                "FOLD",
+                "RAISE",
+                "ALLIN",
+                "ALLIN"
             ],
             "values": [
                 null,
-                12.0,
                 null,
-                null
+                2.0,
+                null,
+                null,
+                8.0,
+                21.0,
+                null,
+                null,
+                42.0,
+                203.3,
+                101.51
             ]
         },
         "post-flop": {
@@ -78,12 +114,20 @@
         null,
         null,
         null,
+        null,
+        "Ah Ad",
+        "Kc As",
+        null,
         null
     ],
     "finishing_stack": [
-        40.7,
-        102.9,
-        12.01,
-        74.44
+        217.35,
+        192.45,
+        291.6,
+        153.05,
+        304.02,
+        73.79000000000002,
+        103.45,
+        74.5
     ]
 }

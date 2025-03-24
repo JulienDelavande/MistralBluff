@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/7 8:27:11",
+    "game_id": "792445860",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "ABMTLQC",
+        "GiveMeYourMoney9",
+        "Irene13",
+        "t0x1cAce",
+        "IlxxxlI",
+        "FTHater"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        20.72,
+        56.84,
+        32.03,
+        10.66,
+        76.14
+    ],
+    "player_small_blind": "t0x1cAce",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ks",
+        "Jh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3s",
+            "Kc",
+            "4d"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "Qh"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FTHater",
+                "ABMTLQC",
+                "GiveMeYourMoney9",
+                "Irene13",
+                "t0x1cAce",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "FTHater",
+                "GiveMeYourMoney9",
+                "IlxxxlI",
+                "FTHater"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.49,
+                1.49,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "GiveMeYourMoney9",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.38,
+                3.38
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "GiveMeYourMoney9"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "6s 5c",
+        null,
+        null,
+        "Ks Jh",
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        15.099999999999998,
+        56.84,
+        31.93,
+        16.53,
+        75.39
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "date": "2016/12/7 15:48:51",
+    "game_id": "792729329",
+    "variant": "PRR",
+    "table_name": "Ettin-8",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "pokesNtokes",
+        "kidsquid",
+        "dankmann",
+        "anokato",
+        "Br4dy12",
+        "IlxxxlI",
+        "Hakuna_Matata777"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        14.28,
+        53.24,
+        25.0,
+        35.73,
+        25.0,
+        11.4,
+        70.46
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Hakuna_Matata777",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2h",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "9s",
+            "2c"
+        ],
+        "turn": [
+            "4d"
+        ],
+        "river": [
+            "Ad"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "pokesNtokes",
+                "kidsquid",
+                "dankmann",
+                "anokato",
+                "Br4dy12",
+                "IlxxxlI",
+                "Hakuna_Matata777"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.5,
+                null,
+                0.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Hakuna_Matata777",
+                "Br4dy12"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Hakuna_Matata777",
+                "Br4dy12"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.0,
+                1.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Hakuna_Matata777",
+                "Br4dy12",
+                "Hakuna_Matata777"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.75,
+                1.75
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "4c Ac",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        14.28,
+        53.24,
+        25.0,
+        35.73,
+        28.02,
+        11.3,
+        67.21
+    ]
+}

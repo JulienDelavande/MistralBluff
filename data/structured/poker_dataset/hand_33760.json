@@ -1,0 +1,158 @@
+{
+    "date": "2016/12/5 15:52:42",
+    "game_id": "791486052",
+    "variant": "PRR",
+    "table_name": "Gorgons-2",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "WeakAndWeary",
+        "cbags95",
+        "welld0ne",
+        "IlxxxlI",
+        "Xobkcul",
+        "brycecrispy"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        72.24,
+        33.46,
+        50.0,
+        21.88,
+        50.0,
+        51.14
+    ],
+    "player_small_blind": "cbags95",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "9d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "9s",
+            "Ad"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "9h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Xobkcul",
+                "brycecrispy",
+                "WeakAndWeary",
+                "cbags95",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.5,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "cbags95",
+                "IlxxxlI",
+                "brycecrispy"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "cbags95",
+                "IlxxxlI",
+                "brycecrispy",
+                "cbags95",
+                "IlxxxlI",
+                "brycecrispy",
+                "cbags95"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                3.0,
+                3.0,
+                6.5,
+                null,
+                3.5
+            ]
+        },
+        "post-river": {
+            "players": [
+                "cbags95",
+                "IlxxxlI",
+                "cbags95"
+            ],
+            "actions": [
+                "CHECK",
+                "ALLIN",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                13.88,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        72.24,
+        25.46,
+        50.0,
+        33.36,
+        50.0,
+        46.64
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/22 16:44:44",
+    "game_id": "803705146",
+    "variant": "PRR",
+    "table_name": "Gorgons-4",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "IlxxxlI",
+        "hotbabe1986",
+        "aleks0v",
+        "St3p04ka",
+        "DirtyDog98"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        52.98,
+        68.09,
+        64.31,
+        79.63,
+        50.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "hotbabe1986",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qc",
+            "2d",
+            "6h"
+        ],
+        "turn": [
+            "9d"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aleks0v",
+                "St3p04ka",
+                "DirtyDog98",
+                "IlxxxlI",
+                "hotbabe1986",
+                "DirtyDog98"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                1.0,
+                3.2,
+                2.95,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "IlxxxlI",
+                "hotbabe1986"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "IlxxxlI",
+                "hotbabe1986",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.75,
+                3.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "IlxxxlI",
+                "hotbabe1986"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "10h 10d",
+        "7h 7s",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        60.41,
+        60.89,
+        64.31,
+        79.63,
+        49.0
+    ]
+}

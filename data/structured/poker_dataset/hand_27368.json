@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/7 19:25:52",
+    "game_id": "792775890",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "eu4ria",
+        "darKK228",
+        "legenda99",
+        "Bokmal",
+        "IlxxxlI",
+        "IgLa"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        52.12,
+        72.57,
+        74.08,
+        50.42,
+        20.75,
+        61.45
+    ],
+    "player_small_blind": "Bokmal",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2d",
+        "9c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9d",
+            "10c",
+            "4s"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "4c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "eu4ria",
+                "darKK228",
+                "legenda99",
+                "Bokmal",
+                "IlxxxlI",
+                "legenda99"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                3.75,
+                null,
+                3.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Bokmal",
+                "legenda99"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.04,
+                4.04
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Bokmal",
+                "legenda99"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Bokmal",
+                "legenda99",
+                "Bokmal"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        52.12,
+        72.57,
+        81.8,
+        42.38,
+        20.25,
+        61.45
+    ]
+}

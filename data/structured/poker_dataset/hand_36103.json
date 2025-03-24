@@ -1,0 +1,146 @@
+{
+    "date": "2016/12/4 13:13:59",
+    "game_id": "790633538",
+    "variant": "PRR",
+    "table_name": "Garuda-3",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "RedeemMe",
+        "MortalLock",
+        "Antimonysayz",
+        "Spagetti1",
+        "houdini3"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+    ],
+    "starting_stacks": [
+        20.0,
+        14.53,
+        63.0,
+        38.84,
+        15.05,
+        147.25
+    ],
+    "player_small_blind": "Antimonysayz",
+    "small_blind": 0.25,
+    "player_big_blind": "Spagetti1",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6c",
+        "7d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "Qc",
+            "6h"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "Qd"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "houdini3",
+                "IlxxxlI",
+                "RedeemMe",
+                "MortalLock",
+                "Antimonysayz",
+                "Spagetti1",
+                "Antimonysayz"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.25,
+                1.5,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Antimonysayz",
+                "Spagetti1",
+                "Antimonysayz"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.53,
+                2.53
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Antimonysayz",
+                "Spagetti1"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Antimonysayz",
+                "Spagetti1"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                5.74,
+                5.74
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "4c 4s",
+        "As Js",
+        null
+    ],
+    "finishing_stack": [
+        20.0,
+        14.53,
+        63.0,
+        28.570000000000004,
+        24.3,
+        147.25
+    ]
+}

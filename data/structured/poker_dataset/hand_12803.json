@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/24 11:9:40",
+    "game_id": "805014798",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 1,
+    "players": [
+        "420_am",
+        "njiegw",
+        "Da Infamous",
+        "kasturi",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        17.55,
+        12.25,
+        9.27,
+        10.3,
+        14.5
+    ],
+    "player_small_blind": "njiegw",
+    "small_blind": 0.1,
+    "player_big_blind": "Da Infamous",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "8c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ks",
+            "2c",
+            "5h"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "kasturi",
+                "IlxxxlI",
+                "420_am",
+                "njiegw",
+                "Da Infamous"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.15,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "njiegw",
+                "Da Infamous"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "njiegw",
+                "Da Infamous",
+                "njiegw"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.32,
+                0.32
+            ]
+        },
+        "post-river": {
+            "players": [
+                "njiegw",
+                "Da Infamous"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "Ac Kh",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        17.55,
+        11.68,
+        9.79,
+        10.3,
+        14.5
+    ]
+}

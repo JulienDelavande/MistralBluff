@@ -1,0 +1,105 @@
+{
+    "date": "2016/12/2 22:22:2",
+    "game_id": "789422757",
+    "variant": "PRR",
+    "table_name": "Gorgons",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "odel_nadel",
+        "caballeroXXX",
+        "1000_na_nl25_aga",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        50.0,
+        50.0,
+        60.45,
+        24.43
+    ],
+    "player_small_blind": "caballeroXXX",
+    "small_blind": 0.25,
+    "player_big_blind": "1000_na_nl25_aga",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "8h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7d",
+            "9s",
+            "4d"
+        ],
+        "turn": [],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "odel_nadel",
+                "caballeroXXX",
+                "1000_na_nl25_aga"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                0.75,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "caballeroXXX",
+                "odel_nadel",
+                "caballeroXXX"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.5,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [],
+            "actions": [],
+            "values": []
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        51.38,
+        49.0,
+        59.95,
+        24.43
+    ]
+}

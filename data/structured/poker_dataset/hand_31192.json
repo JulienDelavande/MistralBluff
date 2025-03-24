@@ -1,0 +1,152 @@
+{
+    "date": "2016/12/6 13:40:53",
+    "game_id": "792098859",
+    "variant": "PRR",
+    "table_name": "Ekek-14",
+    "type_game": "Hold'em",
+    "button_seat": 3,
+    "players": [
+        "uziDDDD",
+        "HapKoTuk",
+        "Bluffing Every Hand",
+        "SnostnLost",
+        "IlxxxlI",
+        "xxHandSoloxx"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        22.34,
+        25.0,
+        48.61,
+        90.59,
+        10.0,
+        10.0
+    ],
+    "player_small_blind": "SnostnLost",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "As",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "3s",
+            "Ac"
+        ],
+        "turn": [
+            "Jc"
+        ],
+        "river": [
+            "10s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "xxHandSoloxx",
+                "uziDDDD",
+                "HapKoTuk",
+                "Bluffing Every Hand",
+                "SnostnLost",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.75,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "SnostnLost",
+                "IlxxxlI",
+                "HapKoTuk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "SnostnLost",
+                "IlxxxlI",
+                "HapKoTuk",
+                "SnostnLost"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.0,
+                null,
+                1.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "SnostnLost",
+                "IlxxxlI",
+                "SnostnLost"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.48,
+                0.48
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "As 7s",
+        null
+    ],
+    "finishing_stack": [
+        22.34,
+        24.25,
+        48.61,
+        88.36,
+        12.719999999999999,
+        10.0
+    ]
+}

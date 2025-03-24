@@ -1,0 +1,127 @@
+{
+    "date": "2016/10/12 23:30:51",
+    "game_id": "749126818",
+    "variant": "PRR",
+    "table_name": "Kraken-13",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "Orondi",
+        "Gargantuatua",
+        "Cleveland23",
+        "IlxxxlI",
+        "FishFold"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        191.44,
+        114.75,
+        167.25,
+        101.5,
+        100.98
+    ],
+    "player_small_blind": "Cleveland23",
+    "small_blind": 0.5,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3c",
+        "10s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jc",
+            "10c",
+            "Jh"
+        ],
+        "turn": [
+            "10d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "FishFold",
+                "Orondi",
+                "Gargantuatua",
+                "Cleveland23",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                2.0,
+                1.5,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Cleveland23",
+                "Gargantuatua",
+                "Cleveland23"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                2.37,
+                2.37
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Cleveland23",
+                "Gargantuatua",
+                "Cleveland23"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                3.08,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        191.44,
+        119.64,
+        162.88,
+        100.5,
+        100.98
+    ]
+}

@@ -1,129 +1,116 @@
 {
-    "date": "2016/11/29 14:39:24",
-    "game_id": "787011071",
+    "date": "2016/9/4 22:51:2",
+    "game_id": "719619820",
     "variant": "PRR",
-    "table_name": "Longana",
+    "table_name": "Lakhey",
     "type_game": "Short",
-    "button_seat": 3,
+    "button_seat": 5,
     "players": [
-        "aleks0v",
-        "PANDAisEVIL",
-        "VegetablesArentYummy",
-        "gust",
-        "thimk",
+        "38979",
         "IlxxxlI",
-        "pineapplesand",
-        "StephCurry",
-        "hotshothotgg"
+        "Leatherass9"
     ],
     "players_seats": [
-        1,
         2,
-        3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9
+        5
     ],
     "starting_stacks": [
         100.0,
-        103.0,
-        138.13,
-        80.0,
-        76.12,
         40.0,
-        40.0,
-        116.5,
-        102.04
+        181.26
     ],
-    "player_small_blind": "gust",
+    "player_small_blind": "38979",
     "small_blind": 1.0,
-    "player_big_blind": "thimk",
+    "player_big_blind": "IlxxxlI",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "4d",
-        "5h"
+        "2d",
+        "Qs"
     ],
     "dealed_cards": {
-        "flop": [],
-        "turn": [],
-        "river": []
+        "flop": [
+            "10c",
+            "5s",
+            "5c"
+        ],
+        "turn": [
+            "10h"
+        ],
+        "river": [
+            "Ac"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "IlxxxlI",
-                "pineapplesand",
-                "StephCurry",
-                "hotshothotgg",
-                "aleks0v",
-                "PANDAisEVIL",
-                "VegetablesArentYummy",
-                "gust",
-                "thimk"
+                "Leatherass9",
+                "38979",
+                "IlxxxlI"
             ],
             "actions": [
-                "FOLD",
-                "FOLD",
                 "RAISE",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
-                "FOLD",
+                "CALL",
                 "FOLD"
             ],
             "values": [
-                null,
-                null,
-                6.0,
-                null,
-                null,
-                null,
-                null,
-                null,
+                4.0,
+                3.0,
                 null
             ]
         },
         "post-flop": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "38979",
+                "Leatherass9"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "38979",
+                "Leatherass9"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                4.75,
+                4.75
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "38979",
+                "Leatherass9"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
+        "Js Qh",
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "10d 9h"
     ],
     "finishing_stack": [
-        100.0,
-        103.0,
-        138.13,
-        79.0,
-        74.12,
-        40.0,
-        40.0,
-        119.5,
-        102.04
+        91.25,
+        38.0,
+        191.04
     ]
 }

@@ -1,0 +1,121 @@
+{
+    "date": "2016/12/8 20:24:34",
+    "game_id": "793480355",
+    "variant": "PRR",
+    "table_name": "Gorgons-18",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "WeakAndWeary",
+        "IgLa",
+        "lovecola",
+        "IlxxxlI",
+        "Bokmal"
+    ],
+    "players_seats": [
+        1,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        98.28,
+        46.41,
+        54.73,
+        21.77,
+        86.17
+    ],
+    "player_small_blind": "Bokmal",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "7c",
+        "10d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "10s",
+            "Qh",
+            "2c"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IgLa",
+                "lovecola",
+                "IlxxxlI",
+                "Bokmal",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Bokmal",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Bokmal",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.7,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        95.36,
+        46.41,
+        54.73,
+        21.77,
+        88.8
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2016/10/13 10:5:29",
+    "game_id": "749606942",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 5,
+    "players": [
+        "sobrr",
+        "deddycool",
+        "Bluffing Every Hand",
+        "EQUITYisnotEV",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        11.9,
+        54.15,
+        55.75,
+        66.7,
+        50.0
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.25,
+    "player_big_blind": "sobrr",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "3d"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "3h",
+            "Qh",
+            "Ad"
+        ],
+        "turn": [
+            "Qs"
+        ],
+        "river": [
+            "6h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "deddycool",
+                "Bluffing Every Hand",
+                "EQUITYisnotEV",
+                "IlxxxlI",
+                "sobrr"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "FOLD"
+            ],
+            "values": [
+                1.5,
+                null,
+                1.5,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "deddycool",
+                "EQUITYisnotEV"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "deddycool",
+                "EQUITYisnotEV"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "deddycool",
+                "EQUITYisnotEV",
+                "deddycool"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.19,
+                1.19
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "7h 7s",
+        null,
+        "10s 9s",
+        null
+    ],
+    "finishing_stack": [
+        11.4,
+        57.29,
+        55.75,
+        64.01,
+        49.75
+    ]
+}

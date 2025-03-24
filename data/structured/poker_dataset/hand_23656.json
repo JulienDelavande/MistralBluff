@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/8 17:29:30",
+    "game_id": "793446155",
+    "variant": "PRR",
+    "table_name": "Gorgons-16",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Beep_Beep",
+        "BillyBob234",
+        "WeakAndWeary",
+        "Azaladog",
+        "terminally chill",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        65.99,
+        18.14,
+        154.37,
+        50.0,
+        71.65,
+        20.0
+    ],
+    "player_small_blind": "terminally chill",
+    "small_blind": 0.25,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "10c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qs",
+            "10d",
+            "Ac"
+        ],
+        "turn": [
+            "3h"
+        ],
+        "river": [
+            "8h"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Beep_Beep",
+                "BillyBob234",
+                "WeakAndWeary",
+                "Azaladog",
+                "terminally chill",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "terminally chill",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "terminally chill",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                2.14,
+                2.14
+            ]
+        },
+        "post-river": {
+            "players": [
+                "terminally chill",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.46,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        65.99,
+        18.14,
+        154.37,
+        50.0,
+        74.93,
+        16.36
+    ]
+}

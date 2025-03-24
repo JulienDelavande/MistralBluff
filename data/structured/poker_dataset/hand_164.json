@@ -1,45 +1,54 @@
 {
-    "date": "2016/11/29 14:56:25",
-    "game_id": "787017732",
+    "date": "2016/9/4 9:58:10",
+    "game_id": "719282684",
     "variant": "PRR",
-    "table_name": "Gorgons",
-    "type_game": "Cap",
-    "button_seat": 4,
+    "table_name": "Monopod",
+    "type_game": "Short",
+    "button_seat": 3,
     "players": [
+        "GoodnightMoon",
+        "SheppyPOO!!",
+        "Silverchicken",
+        "BiGFck",
+        "Einstein727",
         "IlxxxlI",
-        "jjeannin1",
-        "trader063",
-        "Parcker",
-        "Jui Kuen"
+        "VegetablesArentYummy",
+        "bet2000"
     ],
     "players_seats": [
-        2,
+        1,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        20.0,
-        32.91,
-        40.19,
-        87.71,
-        75.5
+        581.04,
+        200.0,
+        100.17,
+        92.65,
+        149.39,
+        99.15,
+        200.0,
+        492.87
     ],
-    "player_small_blind": "Parcker",
-    "small_blind": 0.25,
-    "player_big_blind": "Jui Kuen",
-    "big_blind": 0.5,
+    "player_small_blind": "Silverchicken",
+    "small_blind": 2.0,
+    "player_big_blind": "BiGFck",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "3s",
-        "8h"
+        "10d",
+        "Ad"
     ],
     "dealed_cards": {
         "flop": [
-            "4d",
-            "4c",
-            "Kc"
+            "5s",
+            "Jh",
+            "7c"
         ],
         "turn": [],
         "river": []
@@ -47,38 +56,56 @@
     "actions": {
         "pre-flop": {
             "players": [
+                "Einstein727",
                 "IlxxxlI",
-                "jjeannin1",
-                "trader063",
-                "Parcker",
-                "Jui Kuen"
+                "VegetablesArentYummy",
+                "bet2000",
+                "GoodnightMoon",
+                "SheppyPOO!!",
+                "Silverchicken",
+                "BiGFck"
             ],
             "actions": [
                 "FOLD",
+                "RAISE",
                 "CALL",
                 "FOLD",
                 "FOLD",
-                "CHECK"
+                "FOLD",
+                "FOLD",
+                "CALL"
             ],
             "values": [
                 null,
-                0.5,
+                8.0,
+                8.0,
                 null,
                 null,
-                null
+                null,
+                null,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "Jui Kuen",
-                "jjeannin1"
+                "BiGFck",
+                "IlxxxlI",
+                "VegetablesArentYummy",
+                "BiGFck",
+                "IlxxxlI"
             ],
             "actions": [
+                "CHECK",
+                "CHECK",
                 "BET",
+                "FOLD",
                 "FOLD"
             ],
             "values": [
-                0.79,
+                null,
+                null,
+                12.87,
+                null,
                 null
             ]
         },
@@ -98,13 +125,19 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        20.0,
-        32.41,
-        40.19,
-        87.46,
-        76.19
+        581.04,
+        200.0,
+        98.17,
+        84.65,
+        149.39,
+        91.15,
+        217.75,
+        492.87
     ]
 }

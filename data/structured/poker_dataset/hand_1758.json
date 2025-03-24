@@ -1,146 +1,145 @@
 {
-    "date": "2016/11/28 20:3:38",
-    "game_id": "786368649",
+    "date": "2016/9/18 8:6:25",
+    "game_id": "730209471",
     "variant": "PRR",
-    "table_name": "Lakhey",
+    "table_name": "Monopod",
     "type_game": "Short",
-    "button_seat": 2,
+    "button_seat": 7,
     "players": [
+        "ABCD123",
+        "liniang",
+        "Cellar door",
+        "TryNotToTilt",
+        "VegetablesArentYummy",
+        "LuckyBoy1980",
         "IlxxxlI",
-        "38979",
-        "sheenius81",
-        "Are you with me",
-        "Wollverin",
-        "dscshift"
+        "wishyouhadnot"
     ],
     "players_seats": [
         1,
         2,
         3,
         4,
-        5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        40.0,
-        175.14,
-        118.39,
-        70.0,
-        100.0,
-        112.8
+        207.44,
+        249.0,
+        318.3,
+        588.98,
+        200.0,
+        293.65,
+        130.9,
+        187.14
     ],
-    "player_small_blind": "sheenius81",
-    "small_blind": 1.0,
-    "player_big_blind": "Are you with me",
-    "big_blind": 2.0,
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 2.0,
+    "player_big_blind": "wishyouhadnot",
+    "big_blind": 4.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "6c",
-        "10d"
+        "Kc",
+        "8c"
     ],
     "dealed_cards": {
         "flop": [
-            "3c",
-            "6d",
+            "Ad",
+            "3d",
             "8d"
         ],
         "turn": [
-            "8h"
+            "5h"
         ],
-        "river": [
-            "Jc"
-        ]
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Wollverin",
-                "dscshift",
+                "ABCD123",
+                "liniang",
+                "Cellar door",
+                "TryNotToTilt",
+                "VegetablesArentYummy",
+                "LuckyBoy1980",
                 "IlxxxlI",
-                "38979",
-                "sheenius81",
-                "Are you with me"
+                "wishyouhadnot"
             ],
             "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "CALL",
                 "CALL"
             ],
             "values": [
-                4.0,
                 null,
                 null,
                 null,
-                3.0,
-                2.0
+                null,
+                10.0,
+                null,
+                null,
+                6.0
             ]
         },
         "post-flop": {
             "players": [
-                "sheenius81",
-                "Are you with me",
-                "Wollverin"
+                "wishyouhadnot",
+                "VegetablesArentYummy"
             ],
             "actions": [
-                "CHECK",
                 "CHECK",
                 "CHECK"
             ],
             "values": [
-                null,
                 null,
                 null
             ]
         },
         "post-turn": {
             "players": [
-                "sheenius81",
-                "Are you with me",
-                "Wollverin"
+                "wishyouhadnot",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "BET",
-                "FOLD",
-                "CALL"
+                "FOLD"
             ],
             "values": [
-                7.6,
-                null,
-                7.6
+                16.0,
+                null
             ]
         },
         "post-river": {
-            "players": [
-                "sheenius81",
-                "Wollverin"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        "7d 9s",
         null,
-        "As Kc",
+        null,
+        null,
+        null,
+        null,
         null
     ],
     "finishing_stack": [
-        40.0,
-        175.14,
-        106.79,
-        66.0,
-        114.24000000000001,
-        112.8
+        207.44,
+        249.0,
+        318.3,
+        588.98,
+        190.0,
+        293.65,
+        128.9,
+        198.94
     ]
 }

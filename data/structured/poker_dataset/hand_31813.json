@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 8:37:29",
+    "game_id": "791888147",
+    "variant": "PRR",
+    "table_name": "Ekek-6",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "ABMTLQC",
+        "Almost Pat",
+        "IlxxxlI",
+        "virtualbox",
+        "Ynaito"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        35.61,
+        56.62,
+        11.43,
+        26.01,
+        25.0
+    ],
+    "player_small_blind": "Almost Pat",
+    "small_blind": 0.1,
+    "player_big_blind": "IlxxxlI",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "7s",
+            "5s",
+            "6h"
+        ],
+        "turn": [
+            "2h"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "virtualbox",
+                "Ynaito",
+                "ABMTLQC",
+                "Almost Pat",
+                "IlxxxlI",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                0.5,
+                0.9,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Almost Pat",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.5,
+                1.5
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Almost Pat",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.75,
+                3.75
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Almost Pat",
+                "ABMTLQC"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.25,
+                8.25
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "6c 6d",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.11,
+        69.91,
+        11.18,
+        26.01,
+        25.0
+    ]
+}

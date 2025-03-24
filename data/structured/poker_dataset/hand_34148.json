@@ -1,0 +1,138 @@
+{
+    "date": "2016/12/5 11:45:22",
+    "game_id": "791378799",
+    "variant": "PRR",
+    "table_name": "Gorgons-3",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "QDevilQ",
+        "WeakAndWeary",
+        "welld0ne",
+        "38979"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.75,
+        62.92,
+        67.44,
+        67.65,
+        50.0
+    ],
+    "player_small_blind": "QDevilQ",
+    "small_blind": 0.25,
+    "player_big_blind": "WeakAndWeary",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8d",
+        "5s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "6c",
+            "8h",
+            "7d"
+        ],
+        "turn": [
+            "5h"
+        ],
+        "river": [
+            "2d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "welld0ne",
+                "38979",
+                "IlxxxlI",
+                "QDevilQ",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.25,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "QDevilQ",
+                "WeakAndWeary"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "QDevilQ",
+                "WeakAndWeary",
+                "QDevilQ"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.9,
+                1.9
+            ]
+        },
+        "post-river": {
+            "players": [
+                "QDevilQ",
+                "WeakAndWeary",
+                "QDevilQ"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.31,
+                4.31
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "4h Kh",
+        "4c Qs",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.75,
+        62.53,
+        67.06,
+        67.65,
+        50.0
+    ]
+}

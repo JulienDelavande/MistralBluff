@@ -1,0 +1,149 @@
+{
+    "date": "2016/12/1 13:47:15",
+    "game_id": "788621795",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "short",
+    "button_seat": 1,
+    "players": [
+        "itizbo",
+        "imperceptible",
+        "PayTheSnuka",
+        "aquamarin",
+        "IlxxxlI",
+        "ElvenEyes"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        31.63,
+        54.21,
+        84.67,
+        87.57,
+        26.98,
+        65.04
+    ],
+    "player_small_blind": "imperceptible",
+    "small_blind": 0.5,
+    "player_big_blind": "PayTheSnuka",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "4d",
+            "8c"
+        ],
+        "turn": [
+            "Qh"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "aquamarin",
+                "IlxxxlI",
+                "ElvenEyes",
+                "itizbo",
+                "imperceptible",
+                "PayTheSnuka"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                null,
+                null,
+                3.0,
+                null,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PayTheSnuka",
+                "aquamarin",
+                "itizbo"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PayTheSnuka",
+                "aquamarin",
+                "itizbo",
+                "PayTheSnuka"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                9.0,
+                null,
+                9.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "PayTheSnuka",
+                "aquamarin"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "Qs Ah",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        28.63,
+        53.71,
+        72.67,
+        101.69999999999999,
+        26.98,
+        65.04
+    ]
+}

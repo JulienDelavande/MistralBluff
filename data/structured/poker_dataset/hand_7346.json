@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/27 17:7:8",
+    "game_id": "807113982",
+    "variant": "PRR",
+    "table_name": "Gorgons-6",
+    "type_game": "Hold'em",
+    "button_seat": 1,
+    "players": [
+        "Indigol",
+        "Xamroll",
+        "DHD",
+        "Beep_Beep",
+        "QDevilQ",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        67.88,
+        52.59,
+        98.61,
+        50.0,
+        87.75,
+        51.15
+    ],
+    "player_small_blind": "Xamroll",
+    "small_blind": 0.25,
+    "player_big_blind": "DHD",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Js",
+        "2c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "10d",
+            "9h"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "10c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Beep_Beep",
+                "QDevilQ",
+                "IlxxxlI",
+                "Indigol",
+                "Xamroll",
+                "DHD"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.0,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "DHD",
+                "Indigol",
+                "DHD"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                1.42,
+                1.42
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "DHD",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "DHD",
+                "Indigol"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "2d Kd",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        65.46,
+        52.34,
+        101.03,
+        50.0,
+        87.75,
+        51.15
+    ]
+}

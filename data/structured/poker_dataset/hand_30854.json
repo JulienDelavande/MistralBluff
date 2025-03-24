@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/6 16:13:27",
+    "game_id": "792155251",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "Maria_Pia",
+        "anokato",
+        "FullTiltTutor",
+        "Tomorrow...",
+        "liusanity"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        12.46,
+        10.0,
+        53.26,
+        8.6,
+        20.1,
+        25.5
+    ],
+    "player_small_blind": "Tomorrow...",
+    "small_blind": 0.1,
+    "player_big_blind": "liusanity",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5c",
+        "Jc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "9c",
+            "6c",
+            "8d"
+        ],
+        "turn": [
+            "Jd"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "Maria_Pia",
+                "anokato",
+                "FullTiltTutor",
+                "Tomorrow...",
+                "liusanity"
+            ],
+            "actions": [
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.55,
+                null,
+                0.55,
+                null,
+                0.3
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "liusanity",
+                "Maria_Pia",
+                "FullTiltTutor",
+                "liusanity",
+                "Maria_Pia"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.11,
+                null,
+                1.11
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Maria_Pia",
+                "FullTiltTutor",
+                "Maria_Pia",
+                "FullTiltTutor"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "ALLIN",
+                "ALLIN"
+            ],
+            "values": [
+                null,
+                3.25,
+                8.34,
+                3.69
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        "Js 10s",
+        null,
+        "8c 7c",
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.46,
+        18.36,
+        53.26,
+        0.0,
+        20.0,
+        24.95
+    ]
+}

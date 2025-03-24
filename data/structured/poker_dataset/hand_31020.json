@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/6 15:59:14",
+    "game_id": "792150802",
+    "variant": "PRR",
+    "table_name": "Gorgons-7",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "IlxxxlI",
+        "CRUSHINUSHIP",
+        "Schmoops",
+        "Vitiator",
+        "CASHMONEYKILLA"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        20.0,
+        57.17,
+        60.62,
+        19.5,
+        50.0
+    ],
+    "player_small_blind": "Vitiator",
+    "small_blind": 0.25,
+    "player_big_blind": "CASHMONEYKILLA",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Qd",
+            "4d",
+            "7c"
+        ],
+        "turn": [
+            "Qc"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "IlxxxlI",
+                "CRUSHINUSHIP",
+                "Schmoops",
+                "Vitiator",
+                "CASHMONEYKILLA"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.25,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Vitiator",
+                "CASHMONEYKILLA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Vitiator",
+                "CASHMONEYKILLA"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Vitiator",
+                "CASHMONEYKILLA",
+                "Vitiator"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                0.5,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        20.0,
+        57.17,
+        60.62,
+        19.0,
+        50.45
+    ]
+}

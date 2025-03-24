@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/25 14:3:20",
+    "game_id": "805707542",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 2,
+    "players": [
+        "dtnfk",
+        "IlxxxlI",
+        "Jui Kuen",
+        "paulk1234",
+        "Parcker"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        33.58,
+        12.6,
+        15.55,
+        37.71,
+        12.67
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Jui Kuen",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "7c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "4c",
+            "Js"
+        ],
+        "turn": [
+            "5d"
+        ],
+        "river": [
+            "3c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "paulk1234",
+                "Parcker",
+                "dtnfk",
+                "IlxxxlI",
+                "Jui Kuen",
+                "paulk1234"
+            ],
+            "actions": [
+                "CALL",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                null,
+                0.75,
+                null,
+                null,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "paulk1234",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "paulk1234",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "paulk1234",
+                "dtnfk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.88,
+                0.88
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        "Ac 2c",
+        null,
+        null,
+        "7s 7d",
+        null
+    ],
+    "finishing_stack": [
+        35.38,
+        12.5,
+        15.3,
+        36.08,
+        12.67
+    ]
+}

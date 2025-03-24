@@ -1,0 +1,135 @@
+{
+    "date": "2016/12/3 10:9:2",
+    "game_id": "789822848",
+    "variant": "PRR",
+    "table_name": "Kraken-5",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "mr.fargo",
+        "Ksowas",
+        "Gargantuatua",
+        "IlxxxlI",
+        "aleks0v"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        57.7,
+        191.41,
+        101.5,
+        40.0,
+        101.0
+    ],
+    "player_small_blind": "mr.fargo",
+    "small_blind": 0.5,
+    "player_big_blind": "Ksowas",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "3h",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5h",
+            "7h",
+            "3d"
+        ],
+        "turn": [
+            "6d"
+        ],
+        "river": [
+            "7d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Gargantuatua",
+                "IlxxxlI",
+                "aleks0v",
+                "mr.fargo",
+                "Ksowas",
+                "aleks0v"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                2.5,
+                7.25,
+                null,
+                5.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "mr.fargo",
+                "aleks0v"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                8.0,
+                8.0
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mr.fargo",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "mr.fargo",
+                "aleks0v"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "10c 10d"
+    ],
+    "finishing_stack": [
+        41.95,
+        190.41,
+        101.5,
+        40.0,
+        116.13
+    ]
+}

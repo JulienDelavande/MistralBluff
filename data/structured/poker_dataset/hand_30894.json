@@ -1,0 +1,144 @@
+{
+    "date": "2016/12/6 16:9:32",
+    "game_id": "792154063",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "Maria_Pia",
+        "anokato",
+        "FullTiltTutor",
+        "Poteplie"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "starting_stacks": [
+        10.0,
+        10.0,
+        53.51,
+        9.3,
+        25.77
+    ],
+    "player_small_blind": "anokato",
+    "small_blind": 0.1,
+    "player_big_blind": "FullTiltTutor",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Kd",
+        "Ac"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ad",
+            "As",
+            "2h"
+        ],
+        "turn": [
+            "Ah"
+        ],
+        "river": [
+            "4d"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Poteplie",
+                "IlxxxlI",
+                "Maria_Pia",
+                "anokato",
+                "FullTiltTutor",
+                "Poteplie"
+            ],
+            "actions": [
+                "RAISE",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                0.75,
+                1.75,
+                null,
+                null,
+                null,
+                1.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Poteplie",
+                "IlxxxlI",
+                "Poteplie"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Poteplie",
+                "IlxxxlI",
+                "Poteplie"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                0.25,
+                0.25
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Poteplie",
+                "IlxxxlI",
+                "Poteplie"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                6.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        12.36,
+        10.0,
+        53.41,
+        9.05,
+        23.52
+    ]
+}

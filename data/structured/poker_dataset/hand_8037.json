@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/26 13:29:5",
+    "game_id": "806352988",
+    "variant": "PRR",
+    "table_name": "Ekek",
+    "type_game": "Short",
+    "button_seat": 3,
+    "players": [
+        "IlxxxlI",
+        "uberlin",
+        "dtnfk",
+        "Ottermode",
+        "Syanala",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        26.0,
+        10.62,
+        15.6,
+        31.52,
+        23.96,
+        12.5
+    ],
+    "player_small_blind": "Ottermode",
+    "small_blind": 0.1,
+    "player_big_blind": "Syanala",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "5h",
+        "7s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2h",
+            "2d",
+            "3s"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "5s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "HapKoTuk",
+                "IlxxxlI",
+                "uberlin",
+                "dtnfk",
+                "Ottermode",
+                "Syanala"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.5,
+                0.4,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Ottermode",
+                "dtnfk"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.25
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Ottermode",
+                "dtnfk"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Ottermode",
+                "dtnfk"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                0.25,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        26.0,
+        10.62,
+        14.85,
+        32.44,
+        23.71,
+        12.5
+    ]
+}

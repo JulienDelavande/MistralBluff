@@ -1,0 +1,125 @@
+{
+    "date": "2016/12/29 16:35:40",
+    "game_id": "808311634",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Cap",
+    "button_seat": 3,
+    "players": [
+        "Blakepc91",
+        "IlxxxlI",
+        "Venable50",
+        "mueef"
+    ],
+    "players_seats": [
+        3,
+        6,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        19.21,
+        25.1,
+        7.55,
+        11.5
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "Venable50",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8c",
+        "Kd"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8d",
+            "Qd",
+            "Jc"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "mueef",
+                "Blakepc91",
+                "IlxxxlI",
+                "Venable50",
+                "mueef"
+            ],
+            "actions": [
+                "CALL",
+                "RAISE",
+                "FOLD",
+                "CALL",
+                "CALL"
+            ],
+            "values": [
+                0.25,
+                0.65,
+                null,
+                0.4,
+                0.4
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Venable50",
+                "mueef",
+                "Blakepc91",
+                "Venable50"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                1.0,
+                1.0,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "mueef",
+                "Blakepc91",
+                "mueef"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                2.75,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        21.410000000000004,
+        25.0,
+        6.8999999999999995,
+        9.85
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "date": "2016/12/4 10:55:53",
+    "game_id": "790549659",
+    "variant": "PRR",
+    "table_name": "Kraken",
+    "type_game": "Cap",
+    "button_seat": 1,
+    "players": [
+        "Im Don King",
+        "IlxxxlI",
+        "ELCAPITAWN10"
+    ],
+    "players_seats": [
+        1,
+        4,
+        6
+    ],
+    "starting_stacks": [
+        106.3,
+        45.92,
+        134.81
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.5,
+    "player_big_blind": "ELCAPITAWN10",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Qc",
+        "7h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "10h",
+            "2s"
+        ],
+        "turn": [
+            "4h"
+        ],
+        "river": [
+            "2c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Im Don King",
+                "IlxxxlI",
+                "ELCAPITAWN10"
+            ],
+            "actions": [
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                2.11,
+                null,
+                1.11
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "ELCAPITAWN10",
+                "Im Don King"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "ELCAPITAWN10",
+                "Im Don King"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.0,
+                3.0
+            ]
+        },
+        "post-river": {
+            "players": [
+                "ELCAPITAWN10",
+                "Im Don King"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "8d Jd"
+    ],
+    "finishing_stack": [
+        101.19,
+        45.42,
+        139.89
+    ]
+}

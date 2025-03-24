@@ -1,0 +1,132 @@
+{
+    "date": "2016/12/9 9:24:0",
+    "game_id": "793902168",
+    "variant": "PRR",
+    "table_name": "Kraken-7",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "meandkids",
+        "rivergods",
+        "IlxxxlI",
+        "MadLifeGrinder",
+        "g-vine"
+    ],
+    "players_seats": [
+        1,
+        2,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        96.5,
+        100.0,
+        43.5,
+        149.5,
+        149.89
+    ],
+    "player_small_blind": "MadLifeGrinder",
+    "small_blind": 0.5,
+    "player_big_blind": "g-vine",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "2s",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "8h",
+            "Kc",
+            "Qd"
+        ],
+        "turn": [
+            "7c"
+        ],
+        "river": [
+            "5c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "meandkids",
+                "rivergods",
+                "IlxxxlI",
+                "MadLifeGrinder",
+                "g-vine"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                2.5,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "MadLifeGrinder",
+                "g-vine"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "MadLifeGrinder",
+                "g-vine"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "MadLifeGrinder",
+                "g-vine"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                3.8,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        96.5,
+        100.0,
+        43.5,
+        152.2,
+        146.89
+    ]
+}

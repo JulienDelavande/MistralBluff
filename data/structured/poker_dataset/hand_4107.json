@@ -1,0 +1,121 @@
+{
+    "date": "2016/9/23 11:34:11",
+    "game_id": "734157867",
+    "variant": "PRR",
+    "table_name": "Longana",
+    "type_game": "Short",
+    "button_seat": 6,
+    "players": [
+        "UrSoDumb",
+        "VegetablesArentYummy",
+        "IlxxxlI",
+        "PitBullKermy",
+        "AironVega"
+    ],
+    "players_seats": [
+        1,
+        3,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        100.0,
+        117.12,
+        40.0,
+        134.45,
+        623.26
+    ],
+    "player_small_blind": "PitBullKermy",
+    "small_blind": 1.0,
+    "player_big_blind": "AironVega",
+    "big_blind": 2.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "4d",
+        "Qc"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Kh",
+            "6c",
+            "8s"
+        ],
+        "turn": [
+            "6h"
+        ],
+        "river": []
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "UrSoDumb",
+                "VegetablesArentYummy",
+                "IlxxxlI",
+                "PitBullKermy",
+                "AironVega"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                3.0,
+                2.0
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "PitBullKermy",
+                "AironVega"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                3.8,
+                3.8
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "PitBullKermy",
+                "AironVega"
+            ],
+            "actions": [
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                8.0,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [],
+            "actions": [],
+            "values": []
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        100.0,
+        117.12,
+        40.0,
+        141.47,
+        615.46
+    ]
+}

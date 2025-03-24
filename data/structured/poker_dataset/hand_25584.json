@@ -1,0 +1,157 @@
+{
+    "date": "2016/12/8 9:24:24",
+    "game_id": "793198803",
+    "variant": "PRR",
+    "table_name": "Ettin",
+    "type_game": "Hold'em",
+    "button_seat": 4,
+    "players": [
+        "Neketa999",
+        "drewwid",
+        "IlxxxlI",
+        "ttownabe",
+        "Led177",
+        "CacheGame",
+        "lovemiscou"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9
+    ],
+    "starting_stacks": [
+        27.31,
+        31.6,
+        21.13,
+        25.0,
+        49.22,
+        25.0,
+        19.44
+    ],
+    "player_small_blind": "Led177",
+    "small_blind": 0.1,
+    "player_big_blind": "CacheGame",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "Ad",
+        "Kh"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Jd",
+            "7c",
+            "6h"
+        ],
+        "turn": [
+            "6c"
+        ],
+        "river": [
+            "9c"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "lovemiscou",
+                "Neketa999",
+                "drewwid",
+                "IlxxxlI",
+                "ttownabe",
+                "Led177",
+                "CacheGame"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                0.62,
+                0.62,
+                null,
+                0.37
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "CacheGame",
+                "IlxxxlI",
+                "ttownabe",
+                "CacheGame",
+                "IlxxxlI"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK",
+                "BET",
+                "CALL",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                null,
+                0.93,
+                0.93,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "CacheGame",
+                "ttownabe"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "CacheGame",
+                "ttownabe"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.81,
+                1.81
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Js Ah",
+        null
+    ],
+    "finishing_stack": [
+        27.31,
+        31.6,
+        20.509999999999998,
+        21.64,
+        49.12,
+        28.71,
+        19.44
+    ]
+}

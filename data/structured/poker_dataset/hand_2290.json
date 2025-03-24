@@ -1,74 +1,68 @@
 {
-    "date": "2016/11/21 14:41:30",
-    "game_id": "781101001",
+    "date": "2016/9/18 9:18:33",
+    "game_id": "730251285",
     "variant": "PRR",
-    "table_name": "Garuda",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 2,
+    "button_seat": 3,
     "players": [
-        "GagaPoker",
-        "imperceptible",
-        "texaswarthog",
-        "Chipburnner",
-        "Parcker",
-        "ACESOVAKINGZ",
-        "Spagetti1",
-        "IlxxxlI"
+        "IlxxxlI",
+        "Pimpika",
+        "VegetablesArentYummy",
+        "GARY888",
+        "hangiie",
+        "aquamarin"
     ],
     "players_seats": [
-        1,
         2,
+        3,
         4,
         5,
-        6,
-        7,
         8,
         9
     ],
     "starting_stacks": [
-        68.19,
-        16.42,
-        41.9,
-        15.94,
-        50.0,
-        56.47,
-        95.14,
-        20.0
+        80.0,
+        448.35,
+        233.91,
+        100.36,
+        85.97,
+        149.3
     ],
-    "player_small_blind": "texaswarthog",
-    "small_blind": 0.25,
-    "player_big_blind": "Chipburnner",
-    "big_blind": 0.5,
+    "player_small_blind": "VegetablesArentYummy",
+    "small_blind": 1.0,
+    "player_big_blind": "GARY888",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
         "Qc",
-        "7c"
+        "9d"
     ],
     "dealed_cards": {
         "flop": [
-            "Jd",
-            "Ah",
-            "6h"
+            "5c",
+            "7d",
+            "7s"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "Kd"
+        ],
+        "river": [
+            "Ah"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "Parcker",
-                "ACESOVAKINGZ",
-                "Spagetti1",
+                "hangiie",
+                "aquamarin",
                 "IlxxxlI",
-                "GagaPoker",
-                "imperceptible",
-                "texaswarthog",
-                "Chipburnner"
+                "Pimpika",
+                "VegetablesArentYummy",
+                "GARY888"
             ],
             "actions": [
-                "FOLD",
                 "CALL",
-                "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
@@ -76,68 +70,80 @@
                 "CHECK"
             ],
             "values": [
-                null,
-                0.5,
-                null,
+                2.0,
                 null,
                 null,
                 null,
-                0.25,
+                1.0,
                 null
             ]
         },
         "post-flop": {
             "players": [
-                "texaswarthog",
-                "Chipburnner",
-                "ACESOVAKINGZ",
-                "texaswarthog",
-                "Chipburnner"
+                "VegetablesArentYummy",
+                "GARY888",
+                "hangiie",
+                "VegetablesArentYummy"
             ],
             "actions": [
                 "CHECK",
-                "CHECK",
                 "BET",
                 "FOLD",
-                "FOLD"
+                "CALL"
             ],
             "values": [
                 null,
+                2.0,
                 null,
-                0.95,
-                null,
-                null
+                2.0
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "VegetablesArentYummy",
+                "GARY888",
+                "VegetablesArentYummy"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                null,
+                4.75,
+                4.75
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "VegetablesArentYummy",
+                "GARY888"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
         null,
-        null,
-        null,
-        null,
-        null,
+        "6d 6h",
+        "5d 8d",
         null,
         null
     ],
     "finishing_stack": [
-        68.19,
-        16.42,
-        41.4,
-        15.44,
-        50.0,
-        57.4,
-        95.14,
-        20.0
+        80.0,
+        448.35,
+        243.69,
+        91.61,
+        83.97,
+        149.3
     ]
 }

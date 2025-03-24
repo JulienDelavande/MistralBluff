@@ -1,0 +1,143 @@
+{
+    "date": "2016/12/8 18:0:53",
+    "game_id": "793452247",
+    "variant": "PRR",
+    "table_name": "Gorgons-16",
+    "type_game": "Hold'em",
+    "button_seat": 6,
+    "players": [
+        "Bokmal",
+        "Jui Kuen",
+        "WeakAndWeary",
+        "Azaladog",
+        "terminally chill",
+        "IlxxxlI"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        50.0,
+        50.75,
+        159.13,
+        51.18,
+        99.32,
+        20.0
+    ],
+    "player_small_blind": "Bokmal",
+    "small_blind": 0.25,
+    "player_big_blind": "Jui Kuen",
+    "big_blind": 0.5,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "6s",
+        "9h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "2d",
+            "9d",
+            "5d"
+        ],
+        "turn": [
+            "2s"
+        ],
+        "river": [
+            "Js"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "WeakAndWeary",
+                "Azaladog",
+                "terminally chill",
+                "IlxxxlI",
+                "Bokmal",
+                "Jui Kuen",
+                "terminally chill"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                1.25,
+                null,
+                2.5,
+                null,
+                1.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Bokmal",
+                "terminally chill"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Bokmal",
+                "terminally chill"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Bokmal",
+                "terminally chill"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        "4d 4s",
+        null
+    ],
+    "finishing_stack": [
+        47.25,
+        50.25,
+        159.13,
+        51.18,
+        102.27,
+        20.0
+    ]
+}

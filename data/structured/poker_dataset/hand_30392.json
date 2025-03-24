@@ -1,0 +1,148 @@
+{
+    "date": "2016/12/6 16:59:12",
+    "game_id": "792166219",
+    "variant": "PRR",
+    "table_name": "Ettin-5",
+    "type_game": "Hold'em",
+    "button_seat": 7,
+    "players": [
+        "Daigoro",
+        "EZTILT67",
+        "jObOkO",
+        "ftwjester",
+        "Poteplie",
+        "IlxxxlI",
+        "anokato"
+    ],
+    "players_seats": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        25.0,
+        26.65,
+        30.96,
+        12.66,
+        29.39,
+        10.0,
+        51.14
+    ],
+    "player_small_blind": "IlxxxlI",
+    "small_blind": 0.1,
+    "player_big_blind": "anokato",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10s",
+        "5h"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5c",
+            "7s",
+            "Qh"
+        ],
+        "turn": [
+            "7d"
+        ],
+        "river": [
+            "9s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "Daigoro",
+                "EZTILT67",
+                "jObOkO",
+                "ftwjester",
+                "Poteplie",
+                "IlxxxlI",
+                "anokato"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "FOLD",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                1.5,
+                null,
+                null,
+                1.25
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "anokato",
+                "ftwjester"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "anokato",
+                "ftwjester"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                1.96,
+                1.96
+            ]
+        },
+        "post-river": {
+            "players": [
+                "anokato",
+                "ftwjester"
+            ],
+            "actions": [
+                "BET",
+                "ALLIN"
+            ],
+            "values": [
+                10.0,
+                9.2
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        "8s 9d",
+        null,
+        null,
+        "Ac Qc"
+    ],
+    "finishing_stack": [
+        25.0,
+        26.65,
+        30.96,
+        0.0,
+        29.39,
+        9.9,
+        62.63
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "date": "2016/12/26 12:54:51",
+    "game_id": "806335931",
+    "variant": "PRR",
+    "table_name": "Ekek-9",
+    "type_game": "Hold'em",
+    "button_seat": 2,
+    "players": [
+        "IlxxxlI",
+        "dtnfk",
+        "Artemone",
+        "misky10",
+        "liusanity",
+        "HapKoTuk"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "starting_stacks": [
+        25.0,
+        10.0,
+        27.85,
+        31.71,
+        26.34,
+        32.02
+    ],
+    "player_small_blind": "Artemone",
+    "small_blind": 0.1,
+    "player_big_blind": "misky10",
+    "big_blind": 0.25,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "10h",
+        "2s"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "Ah",
+            "Kc",
+            "2h"
+        ],
+        "turn": [
+            "Ad"
+        ],
+        "river": [
+            "8s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "liusanity",
+                "HapKoTuk",
+                "IlxxxlI",
+                "dtnfk",
+                "Artemone",
+                "misky10"
+            ],
+            "actions": [
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "RAISE",
+                "CALL"
+            ],
+            "values": [
+                null,
+                null,
+                null,
+                null,
+                0.65,
+                0.5
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "Artemone",
+                "misky10"
+            ],
+            "actions": [
+                "BET",
+                "CALL"
+            ],
+            "values": [
+                0.95,
+                0.95
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "Artemone",
+                "misky10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "Artemone",
+                "misky10"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        "5h 5s",
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        25.0,
+        10.0,
+        29.380000000000003,
+        30.01,
+        26.34,
+        32.02
+    ]
+}

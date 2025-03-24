@@ -1,129 +1,132 @@
 {
-    "date": "2016/11/29 8:16:58",
-    "game_id": "786738141",
+    "date": "2016/9/17 15:39:38",
+    "game_id": "729617955",
     "variant": "PRR",
-    "table_name": "Longana-2",
-    "type_game": "Hold'em",
-    "button_seat": 1,
+    "table_name": "Lakhey",
+    "type_game": "Short",
+    "button_seat": 2,
     "players": [
+        "38979",
         "IlxxxlI",
-        "loolu",
-        "IamPhamous",
-        "PANDAisEVIL",
-        "Iia007",
-        "MadLifeGrinder",
-        "shokerAAss"
+        "Fuck-P-Stars",
+        "elpasoafera",
+        "gust"
     ],
     "players_seats": [
-        1,
         2,
         3,
         4,
         5,
-        7,
-        9
+        6
     ],
     "starting_stacks": [
-        80.0,
-        223.2,
-        158.57,
-        200.0,
-        264.81,
-        205.45,
-        217.5
+        100.0,
+        83.12,
+        168.77,
+        40.0,
+        106.86
     ],
-    "player_small_blind": "loolu",
+    "player_small_blind": "IlxxxlI",
     "small_blind": 1.0,
-    "player_big_blind": "IamPhamous",
+    "player_big_blind": "Fuck-P-Stars",
     "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "7c",
-        "Jh"
+        "8c",
+        "6d"
     ],
     "dealed_cards": {
         "flop": [
-            "2s",
-            "Jc",
-            "Ad"
+            "10s",
+            "9c",
+            "8h"
         ],
-        "turn": [],
-        "river": []
+        "turn": [
+            "Jd"
+        ],
+        "river": [
+            "Js"
+        ]
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "PANDAisEVIL",
-                "Iia007",
-                "MadLifeGrinder",
-                "shokerAAss",
+                "elpasoafera",
+                "gust",
+                "38979",
                 "IlxxxlI",
-                "loolu",
-                "IamPhamous"
+                "Fuck-P-Stars"
             ],
             "actions": [
                 "FOLD",
                 "FOLD",
                 "FOLD",
-                "FOLD",
-                "FOLD",
-                "RAISE",
-                "CALL"
+                "CALL",
+                "CHECK"
             ],
             "values": [
                 null,
                 null,
                 null,
-                null,
-                null,
-                5.0,
-                4.0
+                1.0,
+                null
             ]
         },
         "post-flop": {
             "players": [
-                "loolu",
-                "IamPhamous",
-                "loolu"
+                "IlxxxlI",
+                "Fuck-P-Stars"
             ],
             "actions": [
                 "CHECK",
-                "BET",
-                "FOLD"
+                "CHECK"
             ],
             "values": [
                 null,
-                5.7,
                 null
             ]
         },
         "post-turn": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Fuck-P-Stars"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         },
         "post-river": {
-            "players": [],
-            "actions": [],
-            "values": []
+            "players": [
+                "IlxxxlI",
+                "Fuck-P-Stars"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
         }
     },
     "card_shown_by_players": [
         null,
-        null,
-        null,
-        null,
+        "8c 6d",
         null,
         null,
         null
     ],
     "finishing_stack": [
-        80.0,
-        217.2,
-        163.97,
-        200.0,
-        264.81,
-        205.45,
-        217.5
+        100.0,
+        84.92,
+        166.77,
+        40.0,
+        106.86
     ]
 }

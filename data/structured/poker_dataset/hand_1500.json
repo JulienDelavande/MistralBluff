@@ -1,17 +1,20 @@
 {
-    "date": "2016/11/29 7:49:48",
-    "game_id": "786716222",
+    "date": "2016/9/18 7:26:49",
+    "game_id": "730184041",
     "variant": "PRR",
-    "table_name": "Kraken-2",
+    "table_name": "Longana",
     "type_game": "Hold'em",
-    "button_seat": 5,
+    "button_seat": 4,
     "players": [
-        "MrCRABS333",
-        "AironVega",
-        "St3p04ka",
-        "Qrenor",
-        "MadLifeGrinder",
-        "IlxxxlI"
+        "A",
+        "IlxxxlI",
+        "Pimpika",
+        "drdboy",
+        "utormico",
+        "wishyouhadnot",
+        "BadBeat79",
+        "UrSoDumb",
+        "KeepKalm"
     ],
     "players_seats": [
         1,
@@ -19,128 +22,127 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
     ],
     "starting_stacks": [
-        165.07,
-        118.32,
-        100.0,
-        427.11,
-        106.55,
-        52.18
+        294.21,
+        83.6,
+        83.45,
+        89.73,
+        173.51,
+        191.05,
+        302.23,
+        315.26,
+        203.0
     ],
-    "player_small_blind": "IlxxxlI",
-    "small_blind": 0.5,
-    "player_big_blind": "MrCRABS333",
-    "big_blind": 1.0,
+    "player_small_blind": "utormico",
+    "small_blind": 1.0,
+    "player_big_blind": "wishyouhadnot",
+    "big_blind": 2.0,
     "player": "IlxxxlI",
     "cards_player": [
-        "9h",
-        "10d"
+        "Jh",
+        "10h"
     ],
     "dealed_cards": {
         "flop": [
-            "5h",
-            "8c",
-            "5d"
+            "10s",
+            "9c",
+            "3d"
         ],
-        "turn": [
-            "3c"
-        ],
-        "river": [
-            "Js"
-        ]
+        "turn": [],
+        "river": []
     },
     "actions": {
         "pre-flop": {
             "players": [
-                "AironVega",
-                "St3p04ka",
-                "Qrenor",
-                "MadLifeGrinder",
+                "BadBeat79",
+                "UrSoDumb",
+                "KeepKalm",
+                "A",
                 "IlxxxlI",
-                "MrCRABS333"
+                "Pimpika",
+                "drdboy",
+                "utormico",
+                "wishyouhadnot",
+                "BadBeat79"
             ],
             "actions": [
+                "CALL",
+                "FOLD",
+                "FOLD",
                 "RAISE",
                 "FOLD",
                 "FOLD",
                 "FOLD",
                 "FOLD",
+                "FOLD",
                 "CALL"
             ],
             "values": [
-                3.0,
+                2.0,
+                null,
+                null,
+                6.0,
                 null,
                 null,
                 null,
                 null,
-                2.0
+                null,
+                4.0
             ]
         },
         "post-flop": {
             "players": [
-                "MrCRABS333",
-                "AironVega",
-                "MrCRABS333"
+                "BadBeat79",
+                "A",
+                "BadBeat79"
             ],
             "actions": [
                 "CHECK",
                 "BET",
-                "CALL"
+                "FOLD"
             ],
             "values": [
                 null,
-                2.04,
-                2.04
+                9.5,
+                null
             ]
         },
         "post-turn": {
-            "players": [
-                "MrCRABS333",
-                "AironVega",
-                "MrCRABS333"
-            ],
-            "actions": [
-                "CHECK",
-                "BET",
-                "CALL"
-            ],
-            "values": [
-                null,
-                6.63,
-                6.63
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         },
         "post-river": {
-            "players": [
-                "MrCRABS333",
-                "AironVega"
-            ],
-            "actions": [
-                "CHECK",
-                "CHECK"
-            ],
-            "values": [
-                null,
-                null
-            ]
+            "players": [],
+            "actions": [],
+            "values": []
         }
     },
     "card_shown_by_players": [
-        "2c 2d",
-        "Ac 10c",
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null,
         null
     ],
     "finishing_stack": [
-        176.05,
-        106.64999999999999,
-        100.0,
-        427.11,
-        106.55,
-        51.68
+        302.46,
+        83.6,
+        83.45,
+        89.73,
+        172.51,
+        189.05,
+        296.23,
+        315.26,
+        203.0
     ]
 }

@@ -1,0 +1,149 @@
+{
+    "date": "2016/10/11 1:4:17",
+    "game_id": "747753224",
+    "variant": "PRR",
+    "table_name": "Karkadann",
+    "type_game": "Short",
+    "button_seat": 8,
+    "players": [
+        "woody2016",
+        "BlitzNChitz",
+        "up-n-coming-pro",
+        "IlxxxlI",
+        "St3p04ka",
+        "BigBlat"
+    ],
+    "players_seats": [
+        1,
+        2,
+        3,
+        6,
+        8,
+        9
+    ],
+    "starting_stacks": [
+        49.36,
+        81.28,
+        142.96,
+        53.1,
+        50.0,
+        82.63
+    ],
+    "player_small_blind": "BigBlat",
+    "small_blind": 0.5,
+    "player_big_blind": "woody2016",
+    "big_blind": 1.0,
+    "player": "IlxxxlI",
+    "cards_player": [
+        "8s",
+        "5c"
+    ],
+    "dealed_cards": {
+        "flop": [
+            "5d",
+            "7d",
+            "6s"
+        ],
+        "turn": [
+            "4c"
+        ],
+        "river": [
+            "3s"
+        ]
+    },
+    "actions": {
+        "pre-flop": {
+            "players": [
+                "BlitzNChitz",
+                "up-n-coming-pro",
+                "IlxxxlI",
+                "St3p04ka",
+                "BigBlat",
+                "woody2016"
+            ],
+            "actions": [
+                "CALL",
+                "CALL",
+                "FOLD",
+                "FOLD",
+                "FOLD",
+                "CHECK"
+            ],
+            "values": [
+                1.0,
+                1.0,
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "post-flop": {
+            "players": [
+                "woody2016",
+                "BlitzNChitz",
+                "up-n-coming-pro",
+                "woody2016"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD",
+                "CALL"
+            ],
+            "values": [
+                null,
+                3.33,
+                null,
+                3.33
+            ]
+        },
+        "post-turn": {
+            "players": [
+                "woody2016",
+                "BlitzNChitz"
+            ],
+            "actions": [
+                "CHECK",
+                "CHECK"
+            ],
+            "values": [
+                null,
+                null
+            ]
+        },
+        "post-river": {
+            "players": [
+                "woody2016",
+                "BlitzNChitz",
+                "woody2016"
+            ],
+            "actions": [
+                "CHECK",
+                "BET",
+                "FOLD"
+            ],
+            "values": [
+                null,
+                10.0,
+                null
+            ]
+        }
+    },
+    "card_shown_by_players": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "finishing_stack": [
+        45.03,
+        86.61,
+        141.96,
+        53.1,
+        50.0,
+        82.13
+    ]
+}
