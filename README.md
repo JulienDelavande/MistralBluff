@@ -1,6 +1,6 @@
 # MistralBluff: A Poker Bot using Mistral LLM
 
-![alt text](data/statics/Can%20Mistral%20LLM%20win%20at%20Poker_.png)
+**Warning:** This project is no longer maintained, check out our more recent work here: [poker transformers](https://github.com/SoelMgd/Poker_Transformers)
 
 Welcome to the MistralBluff project! This project was developed as part of the Mistral AI Fine Tune Hackathon, where we fine-tuned a Mistral non-instruct 7B model to create an intelligent poker bot. This README provides an overview of the project's structure, data, backend, frontend, notebooks, and pipelines, along with installation and usage instructions.
 
